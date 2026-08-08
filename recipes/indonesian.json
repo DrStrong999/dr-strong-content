@@ -1,0 +1,1972 @@
+{
+  "breakfast": [
+    {
+      "id": "id_bf_bubur_ayam",
+      "cuisine": "indonesian",
+      "kcal": 320,
+      "protein": 18,
+      "carbs": 46,
+      "fat": 7,
+      "serving": {
+        "ar": "طبق (٥٠ جم أرز جاف)",
+        "en": "One bowl (50 g dry rice)",
+        "ru": "Одна миска (50 г сухого риса)",
+        "ur": "ایک پیالہ (50 گرام خشک چاول)",
+        "fr": "Un bol (50 g de riz sec)",
+        "es": "Un tazón (50 g de arroz seco)",
+        "pt": "Uma tigela (50 g de arroz seco)",
+        "de": "Eine Schale (50 g Rohreis)",
+        "id": "Satu mangkuk (50 g beras)",
+        "hi": "एक कटोरी (50 ग्राम सूखा चावल)",
+        "ja": "1杯（米50g）",
+        "zh": "一碗（生米50克）"
+      },
+      "name": {
+        "ar": "بوبور أيام (عصيدة أرز بالدجاج)",
+        "en": "Bubur ayam",
+        "ru": "Бубур аям (рисовая каша с курицей)",
+        "ur": "بوبور آیام",
+        "fr": "Bubur ayam (bouillie de riz au poulet)",
+        "es": "Bubur ayam (gachas de arroz con pollo)",
+        "pt": "Bubur ayam (canja de arroz com frango)",
+        "de": "Bubur Ayam (Reisbrei mit Huhn)",
+        "id": "Bubur ayam",
+        "hi": "बुबुर आयम",
+        "ja": "ブブール・アヤム（鶏がゆ）",
+        "zh": "印尼鸡肉粥"
+      },
+      "ingredients": {
+        "ar": [
+          "٥٠ جم أرز",
+          "٧٠ جم صدر دجاج مفتّت",
+          "٤ أكواب مرق دجاج",
+          "ورق ليمون وزنجبيل وكركم",
+          "بصل مقلي وبصل أخضر وصويا صوص"
+        ],
+        "en": [
+          "50 g rice",
+          "70 g shredded chicken breast",
+          "4 cups chicken stock",
+          "Lime leaf, ginger, turmeric",
+          "Fried shallots, spring onion, soy sauce"
+        ],
+        "ru": [
+          "50 г риса",
+          "70 г куриной грудки, разобранной",
+          "4 стакана куриного бульона",
+          "Лист лайма, имбирь, куркума",
+          "Жареный лук-шалот, зелёный лук, соевый соус"
+        ],
+        "ur": [
+          "50 گرام چاول",
+          "70 گرام چکن بریسٹ، ریشے",
+          "4 کپ چکن شوربہ",
+          "لیموں کا پتہ، ادرک، ہلدی",
+          "تلی پیاز، ہرا پیاز، سویا ساس"
+        ],
+        "fr": [
+          "50 g de riz",
+          "70 g de blanc de poulet effiloché",
+          "4 tasses de bouillon de volaille",
+          "Feuille de combava, gingembre, curcuma",
+          "Échalotes frites, oignon vert, sauce soja"
+        ],
+        "es": [
+          "50 g de arroz",
+          "70 g de pechuga de pollo desmenuzada",
+          "4 tazas de caldo de pollo",
+          "Hoja de lima, jengibre, cúrcuma",
+          "Chalota frita, cebolleta, salsa de soja"
+        ],
+        "pt": [
+          "50 g de arroz",
+          "70 g de peito de frango desfiado",
+          "4 xícaras de caldo de galinha",
+          "Folha de lima, gengibre, açafrão-da-terra",
+          "Chalota frita, cebolinha, molho de soja"
+        ],
+        "de": [
+          "50 g Reis",
+          "70 g Hähnchenbrust, zerpflückt",
+          "4 Tassen Hühnerbrühe",
+          "Limettenblatt, Ingwer, Kurkuma",
+          "Röstzwiebeln, Frühlingszwiebel, Sojasauce"
+        ],
+        "id": [
+          "50 g beras",
+          "70 g dada ayam suwir",
+          "4 cangkir kaldu ayam",
+          "Daun jeruk, jahe, kunyit",
+          "Bawang goreng, daun bawang, kecap asin"
+        ],
+        "hi": [
+          "50 ग्राम चावल",
+          "70 ग्राम चिकन ब्रेस्ट, रेशों में",
+          "4 कप चिकन शोरबा",
+          "नींबू पत्ता, अदरक, हल्दी",
+          "तली प्याज़, हरा प्याज़, सोया सॉस"
+        ],
+        "ja": [
+          "米50g",
+          "鶏むね肉70g（ほぐす）",
+          "鶏スープ4カップ",
+          "こぶみかんの葉、しょうが、ターメリック",
+          "フライドオニオン、ねぎ、しょうゆ"
+        ],
+        "zh": [
+          "米50克",
+          "鸡胸肉70克，撕丝",
+          "鸡高汤4杯",
+          "青柠叶、姜、姜黄",
+          "炸葱酥、葱花、生抽"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اطبخ الأرز في المرق مع الزنجبيل والكركم ٤٥ دقيقة",
+          "قلّبه كثيرًا حتى يصير كريميًا",
+          "أضف الدجاج المفتّت وسخّنه ٥ دقائق",
+          "قدّمه بالبصل المقلي والبصل الأخضر والصويا"
+        ],
+        "en": [
+          "Cook the rice in the stock with ginger and turmeric 45 minutes",
+          "Stir often until it turns creamy",
+          "Add the shredded chicken and warm 5 minutes",
+          "Serve topped with fried shallots, spring onion and soy sauce"
+        ],
+        "ru": [
+          "Варите рис в бульоне с имбирём и куркумой 45 минут",
+          "Часто помешивайте, пока не станет кремовым",
+          "Добавьте курицу и прогрейте 5 минут",
+          "Подавайте с жареным шалотом, луком и соевым соусом"
+        ],
+        "ur": [
+          "چاول کو شوربے میں ادرک اور ہلدی کے ساتھ 45 منٹ پکائیں",
+          "بار بار ہلائیں تاکہ کریمی ہو جائے",
+          "ریشے چکن ڈال کر 5 منٹ گرم کریں",
+          "تلی پیاز، ہرا پیاز اور سویا ساس کے ساتھ پیش کریں"
+        ],
+        "fr": [
+          "Cuisez le riz dans le bouillon avec gingembre et curcuma 45 minutes",
+          "Remuez souvent jusqu'à consistance crémeuse",
+          "Ajoutez le poulet effiloché et réchauffez 5 minutes",
+          "Servez avec échalotes frites, oignon vert et sauce soja"
+        ],
+        "es": [
+          "Cuece el arroz en el caldo con jengibre y cúrcuma 45 minutos",
+          "Remueve a menudo hasta que quede cremoso",
+          "Añade el pollo desmenuzado y calienta 5 minutos",
+          "Sirve con chalota frita, cebolleta y salsa de soja"
+        ],
+        "pt": [
+          "Coza o arroz no caldo com gengibre e açafrão 45 minutos",
+          "Mexa muitas vezes até ficar cremoso",
+          "Junte o frango desfiado e aqueça 5 minutos",
+          "Sirva com chalota frita, cebolinha e molho de soja"
+        ],
+        "de": [
+          "Reis in der Brühe mit Ingwer und Kurkuma 45 Minuten kochen",
+          "Häufig rühren, bis er cremig wird",
+          "Zerpflücktes Hähnchen zugeben und 5 Minuten erwärmen",
+          "Mit Röstzwiebeln, Frühlingszwiebel und Sojasauce servieren"
+        ],
+        "id": [
+          "Masak beras dalam kaldu dengan jahe dan kunyit 45 menit",
+          "Sering diaduk sampai teksturnya lembut",
+          "Masukkan ayam suwir, hangatkan 5 menit",
+          "Sajikan dengan bawang goreng, daun bawang, dan kecap asin"
+        ],
+        "hi": [
+          "चावल को शोरबे में अदरक और हल्दी के साथ 45 मिनट पकाएँ",
+          "बार-बार चलाएँ जब तक क्रीमी न हो",
+          "रेशेदार चिकन डालकर 5 मिनट गरम करें",
+          "तली प्याज़, हरा प्याज़ और सोया सॉस के साथ परोसें"
+        ],
+        "ja": [
+          "米をスープにしょうがとターメリックとともに45分煮る",
+          "よくかき混ぜてとろみを出す",
+          "ほぐした鶏肉を加え5分温める",
+          "フライドオニオン、ねぎ、しょうゆをかけて供する"
+        ],
+        "zh": [
+          "米加高汤、姜和姜黄熬45分钟",
+          "不断搅动至粥体浓稠",
+          "加入鸡丝，再加热5分钟",
+          "撒炸葱酥、葱花，淋生抽上桌"
+        ]
+      }
+    },
+    {
+      "id": "id_bf_tempeh_scramble",
+      "cuisine": "indonesian",
+      "kcal": 300,
+      "protein": 22,
+      "carbs": 16,
+      "fat": 17,
+      "serving": {
+        "ar": "طبق (١٠٠ جم تمبيه + بيضة)",
+        "en": "One plate (100 g tempeh + 1 egg)",
+        "ru": "Одна тарелка (100 г темпе + 1 яйцо)",
+        "ur": "ایک پلیٹ (100 گرام تیمپے + 1 انڈا)",
+        "fr": "Une assiette (100 g de tempeh + 1 œuf)",
+        "es": "Un plato (100 g de tempeh + 1 huevo)",
+        "pt": "Um prato (100 g de tempeh + 1 ovo)",
+        "de": "Ein Teller (100 g Tempeh + 1 Ei)",
+        "id": "Satu piring (100 g tempe + 1 telur)",
+        "hi": "एक प्लेट (100 ग्राम टेम्पे + 1 अंडा)",
+        "ja": "1皿（テンペ100g＋卵1個）",
+        "zh": "一份（天贝100克＋鸡蛋1个）"
+      },
+      "name": {
+        "ar": "تمبيه مقلي بالبيض والخضار",
+        "en": "Tempeh and egg scramble",
+        "ru": "Темпе с яйцом и овощами",
+        "ur": "تیمپے اور انڈے کا اسکرمبل",
+        "fr": "Tempeh brouillé aux œufs",
+        "es": "Tempeh revuelto con huevo",
+        "pt": "Tempeh mexido com ovo",
+        "de": "Tempeh-Rührei",
+        "id": "Orak-arik tempe telur",
+        "hi": "टेम्पे एग स्क्रैम्बल",
+        "ja": "テンペと卵のスクランブル",
+        "zh": "天贝炒蛋"
+      },
+      "ingredients": {
+        "ar": [
+          "١٠٠ جم تمبيه مفتّت",
+          "بيضة واحدة",
+          "فص ثوم وبصلة صغيرة",
+          "فلفل أحمر حار وورقة كرفس",
+          "ملعقة صغيرة زيت وصويا صوص حلو"
+        ],
+        "en": [
+          "100 g tempeh, crumbled",
+          "1 egg",
+          "1 garlic clove, 1 small onion",
+          "Red chilli, celery leaf",
+          "1 tsp oil, sweet soy sauce"
+        ],
+        "ru": [
+          "100 г темпе, раскрошенного",
+          "1 яйцо",
+          "1 зубчик чеснока, 1 небольшая луковица",
+          "Красный чили, лист сельдерея",
+          "1 ч. л. масла, сладкий соевый соус"
+        ],
+        "ur": [
+          "100 گرام تیمپے، ریزہ",
+          "1 انڈا",
+          "1 لہسن کا جوا، 1 چھوٹی پیاز",
+          "لال مرچ، اجوائن کا پتہ",
+          "1 چائے کا چمچ تیل، میٹھی سویا ساس"
+        ],
+        "fr": [
+          "100 g de tempeh émietté",
+          "1 œuf",
+          "1 gousse d'ail, 1 petit oignon",
+          "Piment rouge, feuille de céleri",
+          "1 c. à c. d'huile, sauce soja sucrée"
+        ],
+        "es": [
+          "100 g de tempeh desmenuzado",
+          "1 huevo",
+          "1 diente de ajo, 1 cebolla pequeña",
+          "Chile rojo, hoja de apio",
+          "1 cdta de aceite, salsa de soja dulce"
+        ],
+        "pt": [
+          "100 g de tempeh esfarelado",
+          "1 ovo",
+          "1 dente de alho, 1 cebola pequena",
+          "Pimenta vermelha, folha de aipo",
+          "1 c. de chá de óleo, molho de soja doce"
+        ],
+        "de": [
+          "100 g Tempeh, zerbröselt",
+          "1 Ei",
+          "1 Knoblauchzehe, 1 kleine Zwiebel",
+          "Rote Chili, Sellerieblatt",
+          "1 TL Öl, süße Sojasauce"
+        ],
+        "id": [
+          "100 g tempe, dihancurkan",
+          "1 telur",
+          "1 siung bawang putih, 1 bawang merah",
+          "Cabai merah, daun seledri",
+          "1 sdt minyak, kecap manis"
+        ],
+        "hi": [
+          "100 ग्राम टेम्पे, टुकड़ों में",
+          "1 अंडा",
+          "1 लहसुन कली, 1 छोटा प्याज़",
+          "लाल मिर्च, अजवाइन पत्ता",
+          "1 छोटा चम्मच तेल, मीठी सोया सॉस"
+        ],
+        "ja": [
+          "テンペ100g（崩す）",
+          "卵1個",
+          "にんにく1片、小玉ねぎ1個",
+          "赤唐辛子、セロリの葉",
+          "油小さじ1、甘口しょうゆ"
+        ],
+        "zh": [
+          "天贝100克，捏碎",
+          "鸡蛋1个",
+          "蒜1瓣、小洋葱1个",
+          "红辣椒、芹菜叶",
+          "油1小匙、甜酱油"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "شوّح الثوم والبصل والفلفل في الزيت",
+          "أضف التمبيه المفتّت وقلّبه ٤ دقائق",
+          "اكسر البيضة وقلّبها مع الخليط حتى تنضج",
+          "أضف الصويا الحلو وورق الكرفس"
+        ],
+        "en": [
+          "Sauté the garlic, onion and chilli in the oil",
+          "Add the crumbled tempeh and stir 4 minutes",
+          "Crack in the egg and scramble it through the mixture",
+          "Finish with the sweet soy sauce and celery leaf"
+        ],
+        "ru": [
+          "Обжарьте чеснок, лук и чили в масле",
+          "Добавьте раскрошенный темпе и жарьте 4 минуты",
+          "Вбейте яйцо и вмешайте до готовности",
+          "Завершите сладким соевым соусом и листом сельдерея"
+        ],
+        "ur": [
+          "لہسن، پیاز اور مرچ کو تیل میں بھونیں",
+          "ریزہ تیمپے ڈال کر 4 منٹ چلائیں",
+          "انڈا توڑ کر آمیزے کے ساتھ پکائیں",
+          "میٹھی سویا ساس اور اجوائن کا پتہ ڈالیں"
+        ],
+        "fr": [
+          "Faites revenir ail, oignon et piment dans l'huile",
+          "Ajoutez le tempeh émietté et remuez 4 minutes",
+          "Cassez l'œuf et brouillez-le dans le mélange",
+          "Terminez par la sauce soja sucrée et le céleri"
+        ],
+        "es": [
+          "Sofríe el ajo, la cebolla y el chile en el aceite",
+          "Añade el tempeh desmenuzado y remueve 4 minutos",
+          "Casca el huevo y revuélvelo con la mezcla",
+          "Termina con la salsa de soja dulce y el apio"
+        ],
+        "pt": [
+          "Refogue o alho, a cebola e a pimenta no óleo",
+          "Junte o tempeh esfarelado e mexa 4 minutos",
+          "Parta o ovo e mexa-o com a mistura",
+          "Finalize com o molho de soja doce e o aipo"
+        ],
+        "de": [
+          "Knoblauch, Zwiebel und Chili im Öl anbraten",
+          "Zerbröselten Tempeh zugeben und 4 Minuten rühren",
+          "Ei aufschlagen und unter die Masse rühren",
+          "Mit süßer Sojasauce und Sellerieblatt abschließen"
+        ],
+        "id": [
+          "Tumis bawang putih, bawang merah, dan cabai",
+          "Masukkan tempe hancur, aduk 4 menit",
+          "Pecahkan telur dan orak-arik bersama tempe",
+          "Selesaikan dengan kecap manis dan daun seledri"
+        ],
+        "hi": [
+          "लहसुन, प्याज़ और मिर्च को तेल में भूनें",
+          "टेम्पे डालकर 4 मिनट चलाएँ",
+          "अंडा तोड़कर मिश्रण में फेंटते हुए पकाएँ",
+          "मीठी सोया सॉस और अजवाइन पत्ता डालें"
+        ],
+        "ja": [
+          "にんにく、玉ねぎ、唐辛子を油で炒める",
+          "崩したテンペを加え4分炒める",
+          "卵を割り入れ、全体に絡めて火を通す",
+          "甘口しょうゆとセロリの葉で仕上げる"
+        ],
+        "zh": [
+          "蒜、洋葱和辣椒下油锅炒香",
+          "加入捏碎的天贝翻炒4分钟",
+          "打入鸡蛋，与天贝一起炒散炒熟",
+          "淋甜酱油，撒芹菜叶"
+        ]
+      }
+    }
+  ],
+  "lunch": [
+    {
+      "id": "id_ln_nasi_goreng",
+      "cuisine": "indonesian",
+      "kcal": 430,
+      "protein": 26,
+      "carbs": 54,
+      "fat": 13,
+      "serving": {
+        "ar": "طبق (١٥٠ جم أرز مطبوخ)",
+        "en": "One plate (150 g cooked rice)",
+        "ru": "Одна тарелка (150 г варёного риса)",
+        "ur": "ایک پلیٹ (150 گرام پکے چاول)",
+        "fr": "Une assiette (150 g de riz cuit)",
+        "es": "Un plato (150 g de arroz cocido)",
+        "pt": "Um prato (150 g de arroz cozido)",
+        "de": "Ein Teller (150 g gekochter Reis)",
+        "id": "Satu piring (150 g nasi)",
+        "hi": "एक प्लेट (150 ग्राम पका चावल)",
+        "ja": "1皿（ご飯150g）",
+        "zh": "一份（米饭150克）"
+      },
+      "name": {
+        "ar": "ناسي غورينغ (أرز مقلي)",
+        "en": "Nasi goreng",
+        "ru": "Наси горенг (жареный рис)",
+        "ur": "ناسی گورینگ",
+        "fr": "Nasi goreng (riz sauté)",
+        "es": "Nasi goreng (arroz frito)",
+        "pt": "Nasi goreng (arroz frito)",
+        "de": "Nasi Goreng (gebratener Reis)",
+        "id": "Nasi goreng",
+        "hi": "नासी गोरेंग",
+        "ja": "ナシゴレン",
+        "zh": "印尼炒饭"
+      },
+      "ingredients": {
+        "ar": [
+          "١٥٠ جم أرز مطبوخ بارد",
+          "١٠٠ جم صدر دجاج مكعبات",
+          "بيضة واحدة",
+          "فصان ثوم وبصلة وفلفل حار",
+          "ملعقة صغيرة زيت وصويا حلو وخضار"
+        ],
+        "en": [
+          "150 g cold cooked rice",
+          "100 g chicken breast, cubed",
+          "1 egg",
+          "2 garlic cloves, 1 shallot, chilli",
+          "1 tsp oil, sweet soy sauce, vegetables"
+        ],
+        "ru": [
+          "150 г холодного варёного риса",
+          "100 г куриной грудки кубиками",
+          "1 яйцо",
+          "2 зубчика чеснока, 1 шалот, чили",
+          "1 ч. л. масла, сладкий соевый соус, овощи"
+        ],
+        "ur": [
+          "150 گرام ٹھنڈے پکے چاول",
+          "100 گرام چکن بریسٹ، کیوبز",
+          "1 انڈا",
+          "2 لہسن کے جوے، 1 پیاز، مرچ",
+          "1 چائے کا چمچ تیل، میٹھی سویا ساس، سبزیاں"
+        ],
+        "fr": [
+          "150 g de riz cuit froid",
+          "100 g de blanc de poulet en cubes",
+          "1 œuf",
+          "2 gousses d'ail, 1 échalote, piment",
+          "1 c. à c. d'huile, sauce soja sucrée, légumes"
+        ],
+        "es": [
+          "150 g de arroz cocido frío",
+          "100 g de pechuga de pollo en cubos",
+          "1 huevo",
+          "2 dientes de ajo, 1 chalota, chile",
+          "1 cdta de aceite, salsa de soja dulce, verduras"
+        ],
+        "pt": [
+          "150 g de arroz cozido frio",
+          "100 g de peito de frango em cubos",
+          "1 ovo",
+          "2 dentes de alho, 1 chalota, pimenta",
+          "1 c. de chá de óleo, molho de soja doce, legumes"
+        ],
+        "de": [
+          "150 g kalter gekochter Reis",
+          "100 g Hähnchenbrust, gewürfelt",
+          "1 Ei",
+          "2 Knoblauchzehen, 1 Schalotte, Chili",
+          "1 TL Öl, süße Sojasauce, Gemüse"
+        ],
+        "id": [
+          "150 g nasi dingin",
+          "100 g dada ayam, potong dadu",
+          "1 telur",
+          "2 siung bawang putih, 1 bawang merah, cabai",
+          "1 sdt minyak, kecap manis, sayuran"
+        ],
+        "hi": [
+          "150 ग्राम ठंडा पका चावल",
+          "100 ग्राम चिकन ब्रेस्ट, टुकड़ों में",
+          "1 अंडा",
+          "2 लहसुन कलियाँ, 1 प्याज़, मिर्च",
+          "1 छोटा चम्मच तेल, मीठी सोया सॉस, सब्ज़ियाँ"
+        ],
+        "ja": [
+          "冷やご飯150g",
+          "鶏むね肉100g（角切り）",
+          "卵1個",
+          "にんにく2片、エシャロット1個、唐辛子",
+          "油小さじ1、甘口しょうゆ、野菜"
+        ],
+        "zh": [
+          "冷米饭150克",
+          "鸡胸肉100克，切丁",
+          "鸡蛋1个",
+          "蒜2瓣、小洋葱1个、辣椒",
+          "油1小匙、甜酱油、时蔬"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اهرس الثوم والبصل والفلفل معًا",
+          "سخّن الزيت وحمّر المعجون ثم أضف الدجاج",
+          "أضف البيضة وقلّبها ثم أضف الأرز والخضار",
+          "أضف الصويا الحلو وقلّب على نار عالية ٣ دقائق"
+        ],
+        "en": [
+          "Pound the garlic, shallot and chilli into a paste",
+          "Heat the oil, fry the paste, then add the chicken",
+          "Add the egg and scramble it, then the rice and vegetables",
+          "Add the sweet soy sauce and toss on high heat 3 minutes"
+        ],
+        "ru": [
+          "Разотрите чеснок, шалот и чили в пасту",
+          "Разогрейте масло, обжарьте пасту, добавьте курицу",
+          "Вбейте яйцо и размешайте, затем рис и овощи",
+          "Добавьте сладкий соус и жарьте на сильном огне 3 минуты"
+        ],
+        "ur": [
+          "لہسن، پیاز اور مرچ کو پیس کر پیسٹ بنائیں",
+          "تیل گرم کر کے پیسٹ بھونیں پھر چکن ڈالیں",
+          "انڈا ڈال کر پھینٹیں پھر چاول اور سبزیاں شامل کریں",
+          "میٹھی سویا ساس ڈال کر تیز آنچ پر 3 منٹ چلائیں"
+        ],
+        "fr": [
+          "Pilez l'ail, l'échalote et le piment en pâte",
+          "Chauffez l'huile, faites revenir la pâte puis ajoutez le poulet",
+          "Ajoutez l'œuf et brouillez, puis le riz et les légumes",
+          "Ajoutez la sauce soja sucrée et sautez 3 minutes à feu vif"
+        ],
+        "es": [
+          "Machaca el ajo, la chalota y el chile hasta formar una pasta",
+          "Calienta el aceite, fríe la pasta y añade el pollo",
+          "Añade el huevo y revuélvelo, luego el arroz y las verduras",
+          "Agrega la salsa de soja dulce y saltea a fuego fuerte 3 minutos"
+        ],
+        "pt": [
+          "Pise o alho, a chalota e a pimenta até virar pasta",
+          "Aqueça o óleo, frite a pasta e junte o frango",
+          "Junte o ovo e mexa, depois o arroz e os legumes",
+          "Junte o molho de soja doce e salteie em lume forte 3 minutos"
+        ],
+        "de": [
+          "Knoblauch, Schalotte und Chili zu einer Paste zerstoßen",
+          "Öl erhitzen, Paste anbraten, dann Hähnchen zugeben",
+          "Ei zugeben und verrühren, dann Reis und Gemüse",
+          "Süße Sojasauce zugeben und bei starker Hitze 3 Minuten schwenken"
+        ],
+        "id": [
+          "Ulek bawang putih, bawang merah, dan cabai jadi bumbu halus",
+          "Panaskan minyak, tumis bumbu lalu masukkan ayam",
+          "Masukkan telur, orak-arik, lalu nasi dan sayuran",
+          "Tambahkan kecap manis, aduk api besar 3 menit"
+        ],
+        "hi": [
+          "लहसुन, प्याज़ और मिर्च को पीसकर पेस्ट बनाएँ",
+          "तेल गरम कर पेस्ट भूनें, फिर चिकन डालें",
+          "अंडा डालकर फेंटें, फिर चावल और सब्ज़ियाँ डालें",
+          "मीठी सोया सॉस डालकर तेज़ आँच पर 3 मिनट चलाएँ"
+        ],
+        "ja": [
+          "にんにく、エシャロット、唐辛子をすりつぶしペーストにする",
+          "油を熱しペーストを炒め、鶏肉を加える",
+          "卵を加えて炒め、続いてご飯と野菜を入れる",
+          "甘口しょうゆを加え、強火で3分あおる"
+        ],
+        "zh": [
+          "蒜、小洋葱和辣椒舂成酱",
+          "热油炒香酱料，下鸡丁",
+          "打入鸡蛋炒散，再下米饭和蔬菜",
+          "淋甜酱油，大火翻炒3分钟"
+        ]
+      }
+    },
+    {
+      "id": "id_ln_soto_ayam",
+      "cuisine": "indonesian",
+      "kcal": 290,
+      "protein": 26,
+      "carbs": 24,
+      "fat": 10,
+      "serving": {
+        "ar": "طبق كبير",
+        "en": "One large bowl",
+        "ru": "Большая тарелка",
+        "ur": "ایک بڑا پیالہ",
+        "fr": "Un grand bol",
+        "es": "Un tazón grande",
+        "pt": "Uma tigela grande",
+        "de": "Eine große Schale",
+        "id": "Satu mangkuk besar",
+        "hi": "एक बड़ा कटोरा",
+        "ja": "大きめ1杯",
+        "zh": "一大碗"
+      },
+      "name": {
+        "ar": "سوتو أيام (شوربة الدجاج بالكركم)",
+        "en": "Soto ayam",
+        "ru": "Сото аям (куриный суп с куркумой)",
+        "ur": "سوتو آیام",
+        "fr": "Soto ayam (soupe de poulet au curcuma)",
+        "es": "Soto ayam (sopa de pollo con cúrcuma)",
+        "pt": "Soto ayam (sopa de frango com açafrão)",
+        "de": "Soto Ayam (Hühnersuppe mit Kurkuma)",
+        "id": "Soto ayam",
+        "hi": "सोतो आयम",
+        "ja": "ソト・アヤム（ターメリック鶏スープ）",
+        "zh": "姜黄鸡汤（索多）"
+      },
+      "ingredients": {
+        "ar": [
+          "١٢٠ جم صدر دجاج",
+          "٣ أكواب ماء",
+          "كركم وزنجبيل وثوم وليمون حامض",
+          "٥٠ جم شعيرية أرز مسلوقة",
+          "براعم فاصولياء وبيضة مسلوقة وكرفس"
+        ],
+        "en": [
+          "120 g chicken breast",
+          "3 cups water",
+          "Turmeric, ginger, garlic, lemongrass",
+          "50 g cooked rice vermicelli",
+          "Bean sprouts, 1 boiled egg, celery"
+        ],
+        "ru": [
+          "120 г куриной грудки",
+          "3 стакана воды",
+          "Куркума, имбирь, чеснок, лемонграсс",
+          "50 г отварной рисовой вермишели",
+          "Ростки фасоли, 1 варёное яйцо, сельдерей"
+        ],
+        "ur": [
+          "120 گرام چکن بریسٹ",
+          "3 کپ پانی",
+          "ہلدی، ادرک، لہسن، لیمن گراس",
+          "50 گرام اُبلی چاول کی سویاں",
+          "پھلیوں کے انکرت، 1 اُبلا انڈا، اجوائن"
+        ],
+        "fr": [
+          "120 g de blanc de poulet",
+          "3 tasses d'eau",
+          "Curcuma, gingembre, ail, citronnelle",
+          "50 g de vermicelles de riz cuits",
+          "Pousses de soja, 1 œuf dur, céleri"
+        ],
+        "es": [
+          "120 g de pechuga de pollo",
+          "3 tazas de agua",
+          "Cúrcuma, jengibre, ajo, hierba limón",
+          "50 g de fideos de arroz cocidos",
+          "Brotes de soja, 1 huevo cocido, apio"
+        ],
+        "pt": [
+          "120 g de peito de frango",
+          "3 xícaras de água",
+          "Açafrão-da-terra, gengibre, alho, capim-limão",
+          "50 g de aletria de arroz cozida",
+          "Rebentos de feijão, 1 ovo cozido, aipo"
+        ],
+        "de": [
+          "120 g Hähnchenbrust",
+          "3 Tassen Wasser",
+          "Kurkuma, Ingwer, Knoblauch, Zitronengras",
+          "50 g gekochte Reisnudeln",
+          "Sojasprossen, 1 gekochtes Ei, Sellerie"
+        ],
+        "id": [
+          "120 g dada ayam",
+          "3 cangkir air",
+          "Kunyit, jahe, bawang putih, serai",
+          "50 g soun matang",
+          "Tauge, 1 telur rebus, seledri"
+        ],
+        "hi": [
+          "120 ग्राम चिकन ब्रेस्ट",
+          "3 कप पानी",
+          "हल्दी, अदरक, लहसुन, लेमनग्रास",
+          "50 ग्राम उबली चावल सेवइयाँ",
+          "बीन स्प्राउट्स, 1 उबला अंडा, अजवाइन"
+        ],
+        "ja": [
+          "鶏むね肉120g",
+          "水3カップ",
+          "ターメリック、しょうが、にんにく、レモングラス",
+          "茹でビーフン50g",
+          "もやし、ゆで卵1個、セロリ"
+        ],
+        "zh": [
+          "鸡胸肉120克",
+          "水3杯",
+          "姜黄、姜、蒜、香茅",
+          "熟米粉50克",
+          "豆芽、水煮蛋1个、芹菜"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اهرس الكركم والزنجبيل والثوم واقلِها قليلًا",
+          "أضف الماء والليمون الحامض والدجاج واسلقه ٢٠ دقيقة",
+          "أخرج الدجاج وفتّته وأعده للمرق",
+          "ضع الشعيرية والبراعم في الطبق واسكب المرق فوقها"
+        ],
+        "en": [
+          "Pound the turmeric, ginger and garlic and fry briefly",
+          "Add the water, lemongrass and chicken, simmer 20 minutes",
+          "Take out the chicken, shred it and return it to the broth",
+          "Put the vermicelli and sprouts in a bowl and ladle the broth over"
+        ],
+        "ru": [
+          "Разотрите куркуму, имбирь и чеснок и слегка обжарьте",
+          "Добавьте воду, лемонграсс и курицу, варите 20 минут",
+          "Достаньте курицу, разберите и верните в бульон",
+          "Выложите вермишель и ростки, залейте бульоном"
+        ],
+        "ur": [
+          "ہلدی، ادرک اور لہسن پیس کر ہلکا بھونیں",
+          "پانی، لیمن گراس اور چکن ڈال کر 20 منٹ پکائیں",
+          "چکن نکال کر ریشے کر کے شوربے میں واپس ڈالیں",
+          "پیالے میں سویاں اور انکرت رکھ کر شوربہ ڈالیں"
+        ],
+        "fr": [
+          "Pilez curcuma, gingembre et ail et faites revenir brièvement",
+          "Ajoutez l'eau, la citronnelle et le poulet, mijotez 20 minutes",
+          "Retirez le poulet, effilochez-le et remettez-le dans le bouillon",
+          "Mettez vermicelles et pousses dans un bol et versez le bouillon"
+        ],
+        "es": [
+          "Machaca la cúrcuma, el jengibre y el ajo y sofríe brevemente",
+          "Añade el agua, la hierba limón y el pollo, cuece 20 minutos",
+          "Saca el pollo, desmenúzalo y devuélvelo al caldo",
+          "Pon los fideos y los brotes en un bol y vierte el caldo"
+        ],
+        "pt": [
+          "Pise o açafrão, o gengibre e o alho e refogue brevemente",
+          "Junte a água, o capim-limão e o frango, cozinhe 20 minutos",
+          "Retire o frango, desfie e devolva ao caldo",
+          "Ponha a aletria e os rebentos numa tigela e deite o caldo"
+        ],
+        "de": [
+          "Kurkuma, Ingwer und Knoblauch zerstoßen und kurz anbraten",
+          "Wasser, Zitronengras und Hähnchen zugeben, 20 Minuten köcheln",
+          "Hähnchen herausnehmen, zerpflücken und zurückgeben",
+          "Nudeln und Sprossen in eine Schale geben und Brühe angießen"
+        ],
+        "id": [
+          "Ulek kunyit, jahe, dan bawang putih lalu tumis sebentar",
+          "Tambahkan air, serai, dan ayam, rebus 20 menit",
+          "Angkat ayam, suwir, lalu kembalikan ke kuah",
+          "Taruh soun dan tauge di mangkuk, siram kuahnya"
+        ],
+        "hi": [
+          "हल्दी, अदरक और लहसुन पीसकर हल्का भूनें",
+          "पानी, लेमनग्रास और चिकन डालकर 20 मिनट पकाएँ",
+          "चिकन निकालकर रेशे करें और शोरबे में वापस डालें",
+          "कटोरे में सेवइयाँ और स्प्राउट्स रखकर शोरबा डालें"
+        ],
+        "ja": [
+          "ターメリック、しょうが、にんにくをすりつぶし軽く炒める",
+          "水、レモングラス、鶏肉を加え20分煮る",
+          "鶏肉を取り出してほぐし、スープに戻す",
+          "器にビーフンともやしを入れ、スープを注ぐ"
+        ],
+        "zh": [
+          "姜黄、姜和蒜舂碎，略炒出香",
+          "加水、香茅和鸡肉，煮20分钟",
+          "取出鸡肉撕丝后放回汤中",
+          "碗中放米粉和豆芽，浇上热汤"
+        ]
+      }
+    }
+  ],
+  "dinner": [
+    {
+      "id": "id_dn_ikan_bakar",
+      "cuisine": "indonesian",
+      "kcal": 320,
+      "protein": 36,
+      "carbs": 8,
+      "fat": 16,
+      "serving": {
+        "ar": "١٧٠ جم سمك",
+        "en": "170 g fish",
+        "ru": "170 г рыбы",
+        "ur": "170 گرام مچھلی",
+        "fr": "170 g de poisson",
+        "es": "170 g de pescado",
+        "pt": "170 g de peixe",
+        "de": "170 g Fisch",
+        "id": "170 g ikan",
+        "hi": "170 ग्राम मछली",
+        "ja": "魚170g",
+        "zh": "鱼170克"
+      },
+      "name": {
+        "ar": "إيكان باكار (سمك مشوي بالتوابل)",
+        "en": "Ikan bakar grilled fish",
+        "ru": "Икан бакар (рыба на гриле)",
+        "ur": "اِکن باکار (مصالحہ گرل مچھلی)",
+        "fr": "Ikan bakar (poisson grillé épicé)",
+        "es": "Ikan bakar (pescado asado especiado)",
+        "pt": "Ikan bakar (peixe grelhado especiado)",
+        "de": "Ikan Bakar (gegrillter Fisch)",
+        "id": "Ikan bakar",
+        "hi": "इकान बाकार (ग्रिल्ड मछली)",
+        "ja": "イカン・バカール（香辛料焼き魚）",
+        "zh": "印尼香料烤鱼"
+      },
+      "ingredients": {
+        "ar": [
+          "١٧٠ جم سمك كامل أو شريحة",
+          "فصان ثوم وبصلة صغيرة",
+          "كركم وزنجبيل وفلفل أحمر",
+          "ملعقة كبيرة زيت وصويا حلو",
+          "عصير ليمونة وملح"
+        ],
+        "en": [
+          "170 g whole fish or fillet",
+          "2 garlic cloves, 1 shallot",
+          "Turmeric, ginger, red chilli",
+          "1 tbsp oil, sweet soy sauce",
+          "Juice of 1 lime, salt"
+        ],
+        "ru": [
+          "170 г рыбы целиком или филе",
+          "2 зубчика чеснока, 1 шалот",
+          "Куркума, имбирь, красный чили",
+          "1 ст. л. масла, сладкий соевый соус",
+          "Сок 1 лайма, соль"
+        ],
+        "ur": [
+          "170 گرام ثابت مچھلی یا فلے",
+          "2 لہسن کے جوے، 1 چھوٹی پیاز",
+          "ہلدی، ادرک، لال مرچ",
+          "1 چمچ تیل، میٹھی سویا ساس",
+          "1 لیموں کا رس، نمک"
+        ],
+        "fr": [
+          "170 g de poisson entier ou en filet",
+          "2 gousses d'ail, 1 échalote",
+          "Curcuma, gingembre, piment rouge",
+          "1 c. à s. d'huile, sauce soja sucrée",
+          "Le jus d'1 citron vert, sel"
+        ],
+        "es": [
+          "170 g de pescado entero o en filete",
+          "2 dientes de ajo, 1 chalota",
+          "Cúrcuma, jengibre, chile rojo",
+          "1 cda de aceite, salsa de soja dulce",
+          "El zumo de 1 lima, sal"
+        ],
+        "pt": [
+          "170 g de peixe inteiro ou em filete",
+          "2 dentes de alho, 1 chalota",
+          "Açafrão-da-terra, gengibre, pimenta vermelha",
+          "1 colher de sopa de óleo, molho de soja doce",
+          "Sumo de 1 lima, sal"
+        ],
+        "de": [
+          "170 g ganzer Fisch oder Filet",
+          "2 Knoblauchzehen, 1 Schalotte",
+          "Kurkuma, Ingwer, rote Chili",
+          "1 EL Öl, süße Sojasauce",
+          "Saft von 1 Limette, Salz"
+        ],
+        "id": [
+          "170 g ikan utuh atau fillet",
+          "2 siung bawang putih, 1 bawang merah",
+          "Kunyit, jahe, cabai merah",
+          "1 sdm minyak, kecap manis",
+          "Perasan 1 jeruk nipis, garam"
+        ],
+        "hi": [
+          "170 ग्राम साबुत मछली या फ़िले",
+          "2 लहसुन कलियाँ, 1 प्याज़",
+          "हल्दी, अदरक, लाल मिर्च",
+          "1 बड़ा चम्मच तेल, मीठी सोया सॉस",
+          "1 नींबू का रस, नमक"
+        ],
+        "ja": [
+          "魚170g（一尾または切り身）",
+          "にんにく2片、エシャロット1個",
+          "ターメリック、しょうが、赤唐辛子",
+          "油大さじ1、甘口しょうゆ",
+          "ライム1個の絞り汁、塩"
+        ],
+        "zh": [
+          "整鱼或鱼柳170克",
+          "蒜2瓣、小洋葱1个",
+          "姜黄、姜、红辣椒",
+          "油1大匙、甜酱油",
+          "青柠1个的汁、盐"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اهرس الثوم والبصل والتوابل مع الزيت",
+          "افرك السمك بالمعجون والليمون واتركه ٢٠ دقيقة",
+          "اشوِه ٧ دقائق لكل جانب على شواية ساخنة",
+          "ادهنه بالصويا الحلو في آخر دقيقتين"
+        ],
+        "en": [
+          "Pound the garlic, shallot and spices with the oil",
+          "Rub the fish with the paste and lime, rest 20 minutes",
+          "Grill 7 minutes per side on a hot grill",
+          "Brush with sweet soy sauce in the last 2 minutes"
+        ],
+        "ru": [
+          "Разотрите чеснок, шалот и специи с маслом",
+          "Натрите рыбу пастой и лаймом, оставьте на 20 минут",
+          "Жарьте по 7 минут с каждой стороны на горячем гриле",
+          "Смажьте сладким соусом в последние 2 минуты"
+        ],
+        "ur": [
+          "لہسن، پیاز اور مصالحوں کو تیل کے ساتھ پیس لیں",
+          "مچھلی پر پیسٹ اور لیموں لگا کر 20 منٹ رکھیں",
+          "گرم گرل پر ہر طرف 7 منٹ پکائیں",
+          "آخری 2 منٹ میں میٹھی سویا ساس لگائیں"
+        ],
+        "fr": [
+          "Pilez ail, échalote et épices avec l'huile",
+          "Frottez le poisson avec la pâte et le citron, 20 minutes",
+          "Grillez 7 minutes par face sur un gril chaud",
+          "Badigeonnez de sauce soja sucrée les 2 dernières minutes"
+        ],
+        "es": [
+          "Machaca el ajo, la chalota y las especias con el aceite",
+          "Unta el pescado con la pasta y la lima, deja 20 minutos",
+          "Asa 7 minutos por lado en parrilla caliente",
+          "Pincela con salsa de soja dulce los últimos 2 minutos"
+        ],
+        "pt": [
+          "Pise o alho, a chalota e as especiarias com o óleo",
+          "Esfregue o peixe com a pasta e a lima, deixe 20 minutos",
+          "Grelhe 7 minutos de cada lado em grelha quente",
+          "Pincele com molho de soja doce nos últimos 2 minutos"
+        ],
+        "de": [
+          "Knoblauch, Schalotte und Gewürze mit dem Öl zerstoßen",
+          "Fisch mit der Paste und Limette einreiben, 20 Minuten ziehen lassen",
+          "Auf heißem Grill je Seite 7 Minuten grillen",
+          "In den letzten 2 Minuten mit süßer Sojasauce bestreichen"
+        ],
+        "id": [
+          "Ulek bawang putih, bawang merah, dan bumbu dengan minyak",
+          "Lumuri ikan dengan bumbu dan jeruk nipis, diamkan 20 menit",
+          "Bakar 7 menit tiap sisi di atas bara panas",
+          "Olesi kecap manis pada 2 menit terakhir"
+        ],
+        "hi": [
+          "लहसुन, प्याज़ और मसालों को तेल के साथ पीसें",
+          "मछली पर पेस्ट और नींबू लगाकर 20 मिनट रखें",
+          "गरम ग्रिल पर हर तरफ़ 7 मिनट पकाएँ",
+          "आख़िरी 2 मिनट में मीठी सोया सॉस लगाएँ"
+        ],
+        "ja": [
+          "にんにく、エシャロット、香辛料を油とすりつぶす",
+          "魚にペーストとライムをすり込み20分おく",
+          "熱したグリルで片面7分ずつ焼く",
+          "最後の2分で甘口しょうゆを塗る"
+        ],
+        "zh": [
+          "蒜、小洋葱和香料加油舂成酱",
+          "鱼身抹上酱料和青柠汁，腌20分钟",
+          "热烤架上每面烤7分钟",
+          "最后2分钟刷上甜酱油"
+        ]
+      }
+    },
+    {
+      "id": "id_dn_gado_gado",
+      "cuisine": "indonesian",
+      "kcal": 380,
+      "protein": 18,
+      "carbs": 34,
+      "fat": 20,
+      "serving": {
+        "ar": "طبق كبير",
+        "en": "One large plate",
+        "ru": "Большая тарелка",
+        "ur": "ایک بڑی پلیٹ",
+        "fr": "Une grande assiette",
+        "es": "Un plato grande",
+        "pt": "Um prato grande",
+        "de": "Ein großer Teller",
+        "id": "Satu piring besar",
+        "hi": "एक बड़ी प्लेट",
+        "ja": "大皿1",
+        "zh": "一大盘"
+      },
+      "name": {
+        "ar": "غادو غادو (سلطة بصلصة الفول السوداني)",
+        "en": "Gado-gado",
+        "ru": "Гадо-гадо (салат с арахисовым соусом)",
+        "ur": "گادو گادو",
+        "fr": "Gado-gado (salade sauce cacahuète)",
+        "es": "Gado-gado (ensalada con salsa de cacahuete)",
+        "pt": "Gado-gado (salada com molho de amendoim)",
+        "de": "Gado-Gado (Salat mit Erdnusssauce)",
+        "id": "Gado-gado",
+        "hi": "गादो-गादो",
+        "ja": "ガドガド（ピーナッツソースサラダ）",
+        "zh": "加多加多花生酱沙拉"
+      },
+      "ingredients": {
+        "ar": [
+          "بيضة مسلوقة و٧٠ جم توفو",
+          "فاصولياء خضراء وملفوف وبراعم مسلوقة",
+          "خيار وبطاطس مسلوقة",
+          "٢ ملعقة زبدة فول سوداني",
+          "ثوم وليمون وصويا حلو وماء"
+        ],
+        "en": [
+          "1 boiled egg and 70 g tofu",
+          "Blanched green beans, cabbage, bean sprouts",
+          "Cucumber and boiled potato",
+          "2 tbsp peanut butter",
+          "Garlic, lime, sweet soy sauce, water"
+        ],
+        "ru": [
+          "1 варёное яйцо и 70 г тофу",
+          "Бланшированная стручковая фасоль, капуста, ростки",
+          "Огурец и варёный картофель",
+          "2 ст. л. арахисовой пасты",
+          "Чеснок, лайм, сладкий соевый соус, вода"
+        ],
+        "ur": [
+          "1 اُبلا انڈا اور 70 گرام توفو",
+          "اُبلی ہری پھلیاں، بند گوبھی، انکرت",
+          "کھیرا اور اُبلا آلو",
+          "2 چمچ مونگ پھلی کا مکھن",
+          "لہسن، لیموں، میٹھی سویا ساس، پانی"
+        ],
+        "fr": [
+          "1 œuf dur et 70 g de tofu",
+          "Haricots verts, chou et pousses blanchis",
+          "Concombre et pomme de terre cuite",
+          "2 c. à s. de beurre de cacahuète",
+          "Ail, citron vert, sauce soja sucrée, eau"
+        ],
+        "es": [
+          "1 huevo cocido y 70 g de tofu",
+          "Judías verdes, col y brotes escaldados",
+          "Pepino y patata cocida",
+          "2 cdas de mantequilla de cacahuete",
+          "Ajo, lima, salsa de soja dulce, agua"
+        ],
+        "pt": [
+          "1 ovo cozido e 70 g de tofu",
+          "Feijão-verde, couve e rebentos escaldados",
+          "Pepino e batata cozida",
+          "2 colheres de manteiga de amendoim",
+          "Alho, lima, molho de soja doce, água"
+        ],
+        "de": [
+          "1 gekochtes Ei und 70 g Tofu",
+          "Blanchierte grüne Bohnen, Kohl, Sprossen",
+          "Gurke und gekochte Kartoffel",
+          "2 EL Erdnussbutter",
+          "Knoblauch, Limette, süße Sojasauce, Wasser"
+        ],
+        "id": [
+          "1 telur rebus dan 70 g tahu",
+          "Buncis, kol, dan tauge rebus",
+          "Timun dan kentang rebus",
+          "2 sdm selai kacang",
+          "Bawang putih, jeruk nipis, kecap manis, air"
+        ],
+        "hi": [
+          "1 उबला अंडा और 70 ग्राम टोफू",
+          "उबली हरी फलियाँ, पत्तागोभी, स्प्राउट्स",
+          "खीरा और उबला आलू",
+          "2 बड़े चम्मच पीनट बटर",
+          "लहसुन, नींबू, मीठी सोया सॉस, पानी"
+        ],
+        "ja": [
+          "ゆで卵1個と豆腐70g",
+          "さっと茹でたいんげん、キャベツ、もやし",
+          "きゅうりと茹でじゃがいも",
+          "ピーナッツバター大さじ2",
+          "にんにく、ライム、甘口しょうゆ、水"
+        ],
+        "zh": [
+          "水煮蛋1个、豆腐70克",
+          "焯过的四季豆、圆白菜、豆芽",
+          "黄瓜和煮土豆",
+          "花生酱2大匙",
+          "蒜、青柠、甜酱油、清水"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اخلط زبدة الفول السوداني بالثوم والليمون والصويا",
+          "أضف ماء دافئًا تدريجيًا حتى تصير صلصة سائلة",
+          "اقلِ التوفو قليلًا حتى يذهب لونه",
+          "رتّب الخضار والبيض والتوفو واسكب الصلصة فوقها"
+        ],
+        "en": [
+          "Mix the peanut butter with garlic, lime and sweet soy sauce",
+          "Add warm water gradually until it becomes a pourable sauce",
+          "Pan-fry the tofu lightly until golden",
+          "Arrange vegetables, egg and tofu, pour the sauce over"
+        ],
+        "ru": [
+          "Смешайте арахисовую пасту с чесноком, лаймом и соусом",
+          "Постепенно добавляйте тёплую воду до консистенции соуса",
+          "Слегка обжарьте тофу до золотистого цвета",
+          "Разложите овощи, яйцо и тофу и полейте соусом"
+        ],
+        "ur": [
+          "مونگ پھلی کا مکھن لہسن، لیموں اور سویا ساس سے ملائیں",
+          "نیم گرم پانی آہستہ ڈال کر بہنے والی ساس بنائیں",
+          "توفو کو ہلکا سنہری فرائی کریں",
+          "سبزیاں، انڈا اور توفو سجا کر ساس ڈالیں"
+        ],
+        "fr": [
+          "Mélangez le beurre de cacahuète avec ail, citron vert et soja",
+          "Ajoutez de l'eau tiède peu à peu jusqu'à obtenir une sauce nappante",
+          "Faites dorer légèrement le tofu à la poêle",
+          "Disposez légumes, œuf et tofu, nappez de sauce"
+        ],
+        "es": [
+          "Mezcla la mantequilla de cacahuete con ajo, lima y soja dulce",
+          "Añade agua tibia poco a poco hasta lograr una salsa fluida",
+          "Dora ligeramente el tofu en la sartén",
+          "Coloca las verduras, el huevo y el tofu y vierte la salsa"
+        ],
+        "pt": [
+          "Misture a manteiga de amendoim com alho, lima e soja doce",
+          "Junte água morna aos poucos até obter um molho fluido",
+          "Aloure ligeiramente o tofu na frigideira",
+          "Disponha legumes, ovo e tofu e regue com o molho"
+        ],
+        "de": [
+          "Erdnussbutter mit Knoblauch, Limette und süßer Sojasauce mischen",
+          "Nach und nach warmes Wasser zugeben, bis eine gießbare Sauce entsteht",
+          "Tofu in der Pfanne leicht goldbraun braten",
+          "Gemüse, Ei und Tofu anrichten und mit Sauce übergießen"
+        ],
+        "id": [
+          "Campur selai kacang dengan bawang putih, jeruk nipis, kecap manis",
+          "Tambahkan air hangat sedikit demi sedikit sampai jadi saus",
+          "Goreng tahu sebentar sampai kecokelatan",
+          "Tata sayuran, telur, dan tahu, siram sausnya"
+        ],
+        "hi": [
+          "पीनट बटर को लहसुन, नींबू और मीठी सोया सॉस से मिलाएँ",
+          "गुनगुना पानी धीरे-धीरे डालकर बहने वाली सॉस बनाएँ",
+          "टोफू को हल्का सुनहरा तलें",
+          "सब्ज़ियाँ, अंडा और टोफू सजाकर ऊपर सॉस डालें"
+        ],
+        "ja": [
+          "ピーナッツバターににんにく、ライム、甘口しょうゆを混ぜる",
+          "ぬるま湯を少しずつ加え、かけられる濃度にする",
+          "豆腐を軽く焼いて焼き色をつける",
+          "野菜、卵、豆腐を盛り、ソースをかける"
+        ],
+        "zh": [
+          "花生酱与蒜末、青柠汁和甜酱油拌匀",
+          "分次加温水，调成可淋的酱汁",
+          "豆腐略煎至金黄",
+          "摆好蔬菜、鸡蛋和豆腐，浇上花生酱"
+        ]
+      }
+    }
+  ],
+  "snack": [
+    {
+      "id": "id_sn_tempeh_chips",
+      "cuisine": "indonesian",
+      "kcal": 170,
+      "protein": 14,
+      "carbs": 10,
+      "fat": 9,
+      "serving": {
+        "ar": "حفنة (٨٠ جم)",
+        "en": "One handful (80 g)",
+        "ru": "Горсть (80 г)",
+        "ur": "ایک مٹھی (80 گرام)",
+        "fr": "Une poignée (80 g)",
+        "es": "Un puñado (80 g)",
+        "pt": "Um punhado (80 g)",
+        "de": "Eine Handvoll (80 g)",
+        "id": "Segenggam (80 g)",
+        "hi": "एक मुट्ठी (80 ग्राम)",
+        "ja": "ひとつかみ（80g）",
+        "zh": "一把（80克）"
+      },
+      "name": {
+        "ar": "تمبيه مشوي بالتوابل",
+        "en": "Baked spiced tempeh bites",
+        "ru": "Запечённые кусочки темпе со специями",
+        "ur": "مصالحہ دار بیکڈ تیمپے",
+        "fr": "Bouchées de tempeh épicé au four",
+        "es": "Bocados de tempeh especiado al horno",
+        "pt": "Petiscos de tempeh especiado no forno",
+        "de": "Gebackene Tempeh-Häppchen",
+        "id": "Tempe panggang bumbu",
+        "hi": "बेक्ड मसालेदार टेम्पे",
+        "ja": "テンペのスパイス焼き",
+        "zh": "香料烤天贝"
+      },
+      "ingredients": {
+        "ar": [
+          "٨٠ جم تمبيه شرائح رفيعة",
+          "ملعقة صغيرة زيت",
+          "فص ثوم مهروس",
+          "كزبرة مطحونة وكركم",
+          "ملح وعصير ليمون"
+        ],
+        "en": [
+          "80 g tempeh, thinly sliced",
+          "1 tsp oil",
+          "1 garlic clove, crushed",
+          "Ground coriander, turmeric",
+          "Salt, lime juice"
+        ],
+        "ru": [
+          "80 г темпе, тонкими ломтиками",
+          "1 ч. л. масла",
+          "1 зубчик чеснока, раздавленный",
+          "Молотый кориандр, куркума",
+          "Соль, сок лайма"
+        ],
+        "ur": [
+          "80 گرام تیمپے، باریک سلائس",
+          "1 چائے کا چمچ تیل",
+          "1 لہسن کا جوا، کچلا",
+          "پسا دھنیا، ہلدی",
+          "نمک، لیموں کا رس"
+        ],
+        "fr": [
+          "80 g de tempeh en fines tranches",
+          "1 c. à c. d'huile",
+          "1 gousse d'ail écrasée",
+          "Coriandre moulue, curcuma",
+          "Sel, jus de citron vert"
+        ],
+        "es": [
+          "80 g de tempeh en láminas finas",
+          "1 cdta de aceite",
+          "1 diente de ajo machacado",
+          "Cilantro molido, cúrcuma",
+          "Sal, zumo de lima"
+        ],
+        "pt": [
+          "80 g de tempeh em fatias finas",
+          "1 c. de chá de óleo",
+          "1 dente de alho esmagado",
+          "Coentro moído, açafrão-da-terra",
+          "Sal, sumo de lima"
+        ],
+        "de": [
+          "80 g Tempeh, dünn geschnitten",
+          "1 TL Öl",
+          "1 Knoblauchzehe, zerdrückt",
+          "Gemahlener Koriander, Kurkuma",
+          "Salz, Limettensaft"
+        ],
+        "id": [
+          "80 g tempe, iris tipis",
+          "1 sdt minyak",
+          "1 siung bawang putih, dimemarkan",
+          "Ketumbar bubuk, kunyit",
+          "Garam, perasan jeruk nipis"
+        ],
+        "hi": [
+          "80 ग्राम टेम्पे, पतली स्लाइस",
+          "1 छोटा चम्मच तेल",
+          "1 लहसुन कली, कुचली हुई",
+          "पिसा धनिया, हल्दी",
+          "नमक, नींबू रस"
+        ],
+        "ja": [
+          "テンペ80g（薄切り）",
+          "油小さじ1",
+          "にんにく1片（潰す）",
+          "コリアンダーパウダー、ターメリック",
+          "塩、ライム汁"
+        ],
+        "zh": [
+          "天贝80克，切薄片",
+          "油1小匙",
+          "蒜1瓣，压碎",
+          "芫荽粉、姜黄",
+          "盐、青柠汁"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اخلط الزيت والثوم والتوابل والملح",
+          "افرك شرائح التمبيه بالخليط",
+          "اخبزها ٢٠ دقيقة على ٢٠٠ درجة مع القلب في المنتصف",
+          "رشّ عصير الليمون قبل التقديم"
+        ],
+        "en": [
+          "Mix the oil, garlic, spices and salt",
+          "Coat the tempeh slices in the mixture",
+          "Bake 20 minutes at 200°C, turning halfway",
+          "Squeeze the lime juice over before serving"
+        ],
+        "ru": [
+          "Смешайте масло, чеснок, специи и соль",
+          "Обваляйте ломтики темпе в смеси",
+          "Запекайте 20 минут при 200°C, перевернув в середине",
+          "Сбрызните соком лайма перед подачей"
+        ],
+        "ur": [
+          "تیل، لہسن، مصالحے اور نمک ملائیں",
+          "تیمپے کے سلائس اس آمیزے میں لپیٹیں",
+          "200 ڈگری پر 20 منٹ بیک کریں، درمیان میں پلٹیں",
+          "پیش کرنے سے پہلے لیموں کا رس چھڑکیں"
+        ],
+        "fr": [
+          "Mélangez l'huile, l'ail, les épices et le sel",
+          "Enrobez les tranches de tempeh du mélange",
+          "Enfournez 20 minutes à 200°C en retournant à mi-cuisson",
+          "Arrosez de jus de citron vert avant de servir"
+        ],
+        "es": [
+          "Mezcla el aceite, el ajo, las especias y la sal",
+          "Reboza las láminas de tempeh en la mezcla",
+          "Hornea 20 minutos a 200°C dándoles vuelta a mitad",
+          "Exprime el zumo de lima antes de servir"
+        ],
+        "pt": [
+          "Misture o óleo, o alho, as especiarias e o sal",
+          "Envolva as fatias de tempeh na mistura",
+          "Asse 20 minutos a 200°C virando a meio",
+          "Regue com sumo de lima antes de servir"
+        ],
+        "de": [
+          "Öl, Knoblauch, Gewürze und Salz mischen",
+          "Tempehscheiben in der Mischung wenden",
+          "20 Minuten bei 200°C backen, nach der Hälfte wenden",
+          "Vor dem Servieren mit Limettensaft beträufeln"
+        ],
+        "id": [
+          "Campur minyak, bawang putih, bumbu, dan garam",
+          "Lumuri irisan tempe dengan campuran itu",
+          "Panggang 20 menit di 200°C, balik di tengah waktu",
+          "Perciki perasan jeruk nipis sebelum disajikan"
+        ],
+        "hi": [
+          "तेल, लहसुन, मसाले और नमक मिलाएँ",
+          "टेम्पे स्लाइस को इस मिश्रण में लपेटें",
+          "200°C पर 20 मिनट बेक करें, बीच में पलटें",
+          "परोसने से पहले नींबू रस छिड़कें"
+        ],
+        "ja": [
+          "油、にんにく、香辛料、塩を混ぜる",
+          "テンペの薄切りに全体をまぶす",
+          "200℃で20分、途中で返して焼く",
+          "供する直前にライムを絞る"
+        ],
+        "zh": [
+          "油、蒜末、香料和盐调匀",
+          "天贝片均匀裹上料汁",
+          "200度烤20分钟，中途翻面",
+          "上桌前挤上青柠汁"
+        ]
+      }
+    },
+    {
+      "id": "id_sn_rujak",
+      "cuisine": "indonesian",
+      "kcal": 120,
+      "protein": 2,
+      "carbs": 28,
+      "fat": 1,
+      "serving": {
+        "ar": "طبق صغير",
+        "en": "One small plate",
+        "ru": "Небольшая тарелка",
+        "ur": "ایک چھوٹی پلیٹ",
+        "fr": "Une petite assiette",
+        "es": "Un plato pequeño",
+        "pt": "Um prato pequeno",
+        "de": "Ein kleiner Teller",
+        "id": "Satu piring kecil",
+        "hi": "एक छोटी प्लेट",
+        "ja": "小皿1",
+        "zh": "一小碟"
+      },
+      "name": {
+        "ar": "روجاك (سلطة فواكه حارة)",
+        "en": "Rujak spicy fruit salad",
+        "ru": "Руджак (острый фруктовый салат)",
+        "ur": "روجاک (چٹپٹا پھل سلاد)",
+        "fr": "Rujak (salade de fruits épicée)",
+        "es": "Rujak (ensalada de fruta picante)",
+        "pt": "Rujak (salada de fruta picante)",
+        "de": "Rujak (scharfer Obstsalat)",
+        "id": "Rujak buah",
+        "hi": "रुजाक (चटपटा फल सलाद)",
+        "ja": "ルジャク（スパイシーフルーツサラダ）",
+        "zh": "印尼香辣水果沙拉"
+      },
+      "ingredients": {
+        "ar": [
+          "مانجو أخضر وأناناس وخيار",
+          "جوافة أو تفاح أخضر",
+          "ملعقة صغيرة تمر هندي",
+          "ملعقة صغيرة سكر جوز الهند",
+          "رشة فلفل حار وملح"
+        ],
+        "en": [
+          "Green mango, pineapple, cucumber",
+          "Guava or green apple",
+          "1 tsp tamarind paste",
+          "1 tsp coconut sugar",
+          "A pinch of chilli, salt"
+        ],
+        "ru": [
+          "Зелёное манго, ананас, огурец",
+          "Гуава или зелёное яблоко",
+          "1 ч. л. пасты тамаринда",
+          "1 ч. л. кокосового сахара",
+          "Щепотка чили, соль"
+        ],
+        "ur": [
+          "کچا آم، انناس، کھیرا",
+          "امرود یا سبز سیب",
+          "1 چائے کا چمچ املی کا گودا",
+          "1 چائے کا چمچ ناریل کی چینی",
+          "چٹکی مرچ، نمک"
+        ],
+        "fr": [
+          "Mangue verte, ananas, concombre",
+          "Goyave ou pomme verte",
+          "1 c. à c. de pâte de tamarin",
+          "1 c. à c. de sucre de coco",
+          "Une pincée de piment, sel"
+        ],
+        "es": [
+          "Mango verde, piña, pepino",
+          "Guayaba o manzana verde",
+          "1 cdta de pasta de tamarindo",
+          "1 cdta de azúcar de coco",
+          "Una pizca de chile, sal"
+        ],
+        "pt": [
+          "Manga verde, ananás, pepino",
+          "Goiaba ou maçã verde",
+          "1 c. de chá de polpa de tamarindo",
+          "1 c. de chá de açúcar de coco",
+          "Uma pitada de pimenta, sal"
+        ],
+        "de": [
+          "Grüne Mango, Ananas, Gurke",
+          "Guave oder grüner Apfel",
+          "1 TL Tamarindenpaste",
+          "1 TL Kokosblütenzucker",
+          "Eine Prise Chili, Salz"
+        ],
+        "id": [
+          "Mangga muda, nanas, timun",
+          "Jambu biji atau apel hijau",
+          "1 sdt asam jawa",
+          "1 sdt gula kelapa",
+          "Sejumput cabai, garam"
+        ],
+        "hi": [
+          "कच्चा आम, अनानास, खीरा",
+          "अमरूद या हरा सेब",
+          "1 छोटा चम्मच इमली पेस्ट",
+          "1 छोटा चम्मच नारियल चीनी",
+          "चुटकी भर मिर्च, नमक"
+        ],
+        "ja": [
+          "青マンゴー、パイナップル、きゅうり",
+          "グアバまたは青りんご",
+          "タマリンドペースト小さじ1",
+          "ココナッツシュガー小さじ1",
+          "唐辛子少々、塩"
+        ],
+        "zh": [
+          "青芒果、菠萝、黄瓜",
+          "番石榴或青苹果",
+          "罗望子酱1小匙",
+          "椰糖1小匙",
+          "辣椒少许、盐"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "قطّع الفواكه والخيار قطعًا متوسطة",
+          "اخلط التمر هندي والسكر والفلفل والملح",
+          "أضف ملعقة ماء دافئ لتذويب الصلصة",
+          "اسكبها على الفواكه وقلّبها قبل التقديم"
+        ],
+        "en": [
+          "Cut the fruit and cucumber into medium chunks",
+          "Mix the tamarind, sugar, chilli and salt",
+          "Add a spoon of warm water to loosen the dressing",
+          "Pour over the fruit and toss just before serving"
+        ],
+        "ru": [
+          "Нарежьте фрукты и огурец средними кусками",
+          "Смешайте тамаринд, сахар, чили и соль",
+          "Добавьте ложку тёплой воды, чтобы разбавить соус",
+          "Полейте фрукты и перемешайте перед подачей"
+        ],
+        "ur": [
+          "پھل اور کھیرا درمیانے ٹکڑوں میں کاٹیں",
+          "املی، چینی، مرچ اور نمک ملائیں",
+          "ایک چمچ نیم گرم پانی ڈال کر ساس پتلی کریں",
+          "پھلوں پر ڈال کر پیش کرنے سے پہلے ملائیں"
+        ],
+        "fr": [
+          "Coupez les fruits et le concombre en morceaux moyens",
+          "Mélangez le tamarin, le sucre, le piment et le sel",
+          "Ajoutez une cuillère d'eau tiède pour délayer la sauce",
+          "Versez sur les fruits et mélangez juste avant de servir"
+        ],
+        "es": [
+          "Corta la fruta y el pepino en trozos medianos",
+          "Mezcla el tamarindo, el azúcar, el chile y la sal",
+          "Añade una cucharada de agua tibia para aligerar el aliño",
+          "Viértelo sobre la fruta y mezcla justo antes de servir"
+        ],
+        "pt": [
+          "Corte a fruta e o pepino em pedaços médios",
+          "Misture o tamarindo, o açúcar, a pimenta e o sal",
+          "Junte uma colher de água morna para soltar o molho",
+          "Deite sobre a fruta e envolva mesmo antes de servir"
+        ],
+        "de": [
+          "Obst und Gurke in mittelgroße Stücke schneiden",
+          "Tamarinde, Zucker, Chili und Salz mischen",
+          "Einen Löffel warmes Wasser zugeben, um die Sauce zu lösen",
+          "Über das Obst gießen und kurz vor dem Servieren mischen"
+        ],
+        "id": [
+          "Potong buah dan timun ukuran sedang",
+          "Campur asam jawa, gula, cabai, dan garam",
+          "Tambahkan sesendok air hangat agar sausnya encer",
+          "Siram ke buah dan aduk tepat sebelum disajikan"
+        ],
+        "hi": [
+          "फल और खीरे को मध्यम टुकड़ों में काटें",
+          "इमली, चीनी, मिर्च और नमक मिलाएँ",
+          "एक चम्मच गुनगुना पानी डालकर सॉस पतली करें",
+          "फलों पर डालें और परोसने से ठीक पहले मिलाएँ"
+        ],
+        "ja": [
+          "果物ときゅうりを一口大に切る",
+          "タマリンド、砂糖、唐辛子、塩を混ぜる",
+          "ぬるま湯大さじ1を加えてのばす",
+          "果物にかけ、供する直前に和える"
+        ],
+        "zh": [
+          "水果和黄瓜切成中块",
+          "罗望子酱、椰糖、辣椒和盐拌匀",
+          "加一勺温水把酱汁调稀",
+          "淋在水果上，上桌前拌匀"
+        ]
+      }
+    }
+  ],
+  "dessert": [
+    {
+      "id": "id_ds_pisang_bakar",
+      "cuisine": "indonesian",
+      "kcal": 190,
+      "protein": 3,
+      "carbs": 38,
+      "fat": 4,
+      "serving": {
+        "ar": "موزة واحدة",
+        "en": "1 banana",
+        "ru": "1 банан",
+        "ur": "1 کیلا",
+        "fr": "1 banane",
+        "es": "1 plátano",
+        "pt": "1 banana",
+        "de": "1 Banane",
+        "id": "1 pisang",
+        "hi": "1 केला",
+        "ja": "バナナ1本",
+        "zh": "香蕉1根"
+      },
+      "name": {
+        "ar": "موز مشوي بجوز الهند",
+        "en": "Grilled banana with coconut",
+        "ru": "Жареный банан с кокосом",
+        "ur": "ناریل کے ساتھ گرل کیلا",
+        "fr": "Banane grillée à la noix de coco",
+        "es": "Plátano asado con coco",
+        "pt": "Banana grelhada com coco",
+        "de": "Gegrillte Banane mit Kokos",
+        "id": "Pisang bakar kelapa",
+        "hi": "नारियल के साथ ग्रिल्ड केला",
+        "ja": "焼きバナナのココナッツがけ",
+        "zh": "椰香烤香蕉"
+      },
+      "ingredients": {
+        "ar": [
+          "موزة ناضجة",
+          "ملعقة كبيرة جوز هند مبشور",
+          "ملعقة صغيرة عسل",
+          "رشة ملح",
+          "قطرات عصير ليمون"
+        ],
+        "en": [
+          "1 ripe banana",
+          "1 tbsp desiccated coconut",
+          "1 tsp honey",
+          "A pinch of salt",
+          "A few drops of lime juice"
+        ],
+        "ru": [
+          "1 спелый банан",
+          "1 ст. л. кокосовой стружки",
+          "1 ч. л. мёда",
+          "Щепотка соли",
+          "Несколько капель сока лайма"
+        ],
+        "ur": [
+          "1 پکا کیلا",
+          "1 کھانے کا چمچ ناریل کا برادہ",
+          "1 چائے کا چمچ شہد",
+          "چٹکی نمک",
+          "لیموں کے چند قطرے"
+        ],
+        "fr": [
+          "1 banane mûre",
+          "1 c. à s. de noix de coco râpée",
+          "1 c. à c. de miel",
+          "Une pincée de sel",
+          "Quelques gouttes de citron vert"
+        ],
+        "es": [
+          "1 plátano maduro",
+          "1 cda de coco rallado",
+          "1 cdta de miel",
+          "Una pizca de sal",
+          "Unas gotas de zumo de lima"
+        ],
+        "pt": [
+          "1 banana madura",
+          "1 colher de sopa de coco ralado",
+          "1 c. de chá de mel",
+          "Uma pitada de sal",
+          "Umas gotas de sumo de lima"
+        ],
+        "de": [
+          "1 reife Banane",
+          "1 EL Kokosraspeln",
+          "1 TL Honig",
+          "Eine Prise Salz",
+          "Ein paar Tropfen Limettensaft"
+        ],
+        "id": [
+          "1 pisang matang",
+          "1 sdm kelapa parut",
+          "1 sdt madu",
+          "Sejumput garam",
+          "Beberapa tetes jeruk nipis"
+        ],
+        "hi": [
+          "1 पका केला",
+          "1 बड़ा चम्मच नारियल बुरादा",
+          "1 छोटा चम्मच शहद",
+          "चुटकी भर नमक",
+          "नींबू रस की कुछ बूँदें"
+        ],
+        "ja": [
+          "完熟バナナ1本",
+          "ココナッツファイン大さじ1",
+          "はちみつ小さじ1",
+          "塩少々",
+          "ライム汁数滴"
+        ],
+        "zh": [
+          "熟香蕉1根",
+          "椰蓉1大匙",
+          "蜂蜜1小匙",
+          "盐少许",
+          "青柠汁几滴"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اشقّ الموزة بالطول دون فصلها",
+          "اشوِها على مقلاة جافة ٣ دقائق لكل جانب",
+          "حمّص جوز الهند دقيقة حتى يفوح",
+          "رشّه فوق الموزة مع العسل والملح والليمون"
+        ],
+        "en": [
+          "Split the banana lengthwise without separating it",
+          "Grill on a dry pan 3 minutes per side",
+          "Toast the coconut a minute until fragrant",
+          "Scatter it over the banana with honey, salt and lime"
+        ],
+        "ru": [
+          "Надрежьте банан вдоль, не разделяя половинки",
+          "Обжарьте на сухой сковороде по 3 минуты с каждой стороны",
+          "Подсушите кокос минуту до аромата",
+          "Посыпьте им банан, добавьте мёд, соль и лайм"
+        ],
+        "ur": [
+          "کیلے کو لمبائی میں چیریں مگر الگ نہ کریں",
+          "خشک توے پر ہر طرف 3 منٹ سینکیں",
+          "ناریل کو ایک منٹ خوشبو آنے تک بھونیں",
+          "کیلے پر چھڑک کر شہد، نمک اور لیموں ڈالیں"
+        ],
+        "fr": [
+          "Fendez la banane dans la longueur sans la séparer",
+          "Grillez-la à sec 3 minutes par face",
+          "Torréfiez la noix de coco une minute",
+          "Parsemez-en la banane avec miel, sel et citron vert"
+        ],
+        "es": [
+          "Abre el plátano a lo largo sin separarlo",
+          "Ásalo en sartén seca 3 minutos por lado",
+          "Tuesta el coco un minuto hasta que huela",
+          "Espárcelo sobre el plátano con miel, sal y lima"
+        ],
+        "pt": [
+          "Corte a banana ao comprido sem a separar",
+          "Grelhe numa frigideira seca 3 minutos de cada lado",
+          "Toste o coco um minuto até ficar aromático",
+          "Espalhe sobre a banana com mel, sal e lima"
+        ],
+        "de": [
+          "Banane längs einschneiden, ohne sie zu teilen",
+          "In trockener Pfanne je Seite 3 Minuten grillen",
+          "Kokosraspeln eine Minute duftend rösten",
+          "Über die Banane streuen, mit Honig, Salz und Limette"
+        ],
+        "id": [
+          "Belah pisang memanjang tanpa memutusnya",
+          "Bakar di wajan kering 3 menit tiap sisi",
+          "Sangrai kelapa parut semenit sampai harum",
+          "Taburkan di atas pisang dengan madu, garam, jeruk nipis"
+        ],
+        "hi": [
+          "केले को लंबाई में चीरें पर अलग न करें",
+          "सूखे तवे पर हर तरफ़ 3 मिनट सेंकें",
+          "नारियल को एक मिनट खुशबू आने तक भूनें",
+          "केले पर छिड़कें, शहद, नमक और नींबू डालें"
+        ],
+        "ja": [
+          "バナナを切り離さないよう縦に切り込む",
+          "乾いたフライパンで片面3分ずつ焼く",
+          "ココナッツを1分香りが立つまで炒る",
+          "バナナにのせ、はちみつ、塩、ライムをかける"
+        ],
+        "zh": [
+          "香蕉纵向剖开但不切断",
+          "干锅每面烙3分钟",
+          "椰蓉焙香1分钟至出味",
+          "撒在香蕉上，淋蜂蜜、加盐和青柠汁"
+        ]
+      }
+    },
+    {
+      "id": "id_ds_bubur_sumsum",
+      "cuisine": "indonesian",
+      "kcal": 200,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 6,
+      "serving": {
+        "ar": "كوب صغير",
+        "en": "One small bowl",
+        "ru": "Небольшая пиала",
+        "ur": "ایک چھوٹا پیالہ",
+        "fr": "Un petit bol",
+        "es": "Un tazón pequeño",
+        "pt": "Uma tigela pequena",
+        "de": "Eine kleine Schale",
+        "id": "Satu mangkuk kecil",
+        "hi": "एक छोटी कटोरी",
+        "ja": "小さめ1杯",
+        "zh": "一小碗"
+      },
+      "name": {
+        "ar": "بودينغ الأرز بحليب جوز الهند",
+        "en": "Coconut rice pudding",
+        "ru": "Рисовый пудинг на кокосовом молоке",
+        "ur": "ناریل چاول پڈنگ",
+        "fr": "Pudding de riz au lait de coco",
+        "es": "Pudín de arroz con leche de coco",
+        "pt": "Pudim de arroz com leite de coco",
+        "de": "Kokos-Reispudding",
+        "id": "Bubur sumsum",
+        "hi": "नारियल राइस पुडिंग",
+        "ja": "ココナッツライスプディング",
+        "zh": "椰浆米糊布丁"
+      },
+      "ingredients": {
+        "ar": [
+          "٣٠ جم دقيق أرز",
+          "٢٠٠ مل حليب جوز هند خفيف",
+          "ملعقة صغيرة سكر جوز الهند",
+          "ورقة باندان أو فانيليا",
+          "رشة ملح"
+        ],
+        "en": [
+          "30 g rice flour",
+          "200 ml light coconut milk",
+          "1 tsp coconut sugar",
+          "Pandan leaf or vanilla",
+          "A pinch of salt"
+        ],
+        "ru": [
+          "30 г рисовой муки",
+          "200 мл лёгкого кокосового молока",
+          "1 ч. л. кокосового сахара",
+          "Лист пандана или ваниль",
+          "Щепотка соли"
+        ],
+        "ur": [
+          "30 گرام چاول کا آٹا",
+          "200 ملی ہلکا ناریل کا دودھ",
+          "1 چائے کا چمچ ناریل کی چینی",
+          "پانڈان کا پتہ یا ونیلا",
+          "چٹکی نمک"
+        ],
+        "fr": [
+          "30 g de farine de riz",
+          "200 ml de lait de coco léger",
+          "1 c. à c. de sucre de coco",
+          "Feuille de pandan ou vanille",
+          "Une pincée de sel"
+        ],
+        "es": [
+          "30 g de harina de arroz",
+          "200 ml de leche de coco ligera",
+          "1 cdta de azúcar de coco",
+          "Hoja de pandan o vainilla",
+          "Una pizca de sal"
+        ],
+        "pt": [
+          "30 g de farinha de arroz",
+          "200 ml de leite de coco leve",
+          "1 c. de chá de açúcar de coco",
+          "Folha de pandano ou baunilha",
+          "Uma pitada de sal"
+        ],
+        "de": [
+          "30 g Reismehl",
+          "200 ml leichte Kokosmilch",
+          "1 TL Kokosblütenzucker",
+          "Pandanblatt oder Vanille",
+          "Eine Prise Salz"
+        ],
+        "id": [
+          "30 g tepung beras",
+          "200 ml santan encer",
+          "1 sdt gula kelapa",
+          "Daun pandan atau vanila",
+          "Sejumput garam"
+        ],
+        "hi": [
+          "30 ग्राम चावल का आटा",
+          "200 मिली हल्का नारियल दूध",
+          "1 छोटा चम्मच नारियल चीनी",
+          "पांडन पत्ता या वनीला",
+          "चुटकी भर नमक"
+        ],
+        "ja": [
+          "米粉30g",
+          "低脂肪ココナッツミルク200ml",
+          "ココナッツシュガー小さじ1",
+          "パンダンリーフまたはバニラ",
+          "塩少々"
+        ],
+        "zh": [
+          "米粉30克",
+          "淡椰浆200毫升",
+          "椰糖1小匙",
+          "香兰叶或香草",
+          "盐少许"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اخلط دقيق الأرز بالحليب البارد حتى يذوب تمامًا",
+          "سخّنه على نار هادئة مع التقليب المستمر",
+          "اطبخه ٨ دقائق حتى يثخن ويلمع",
+          "أضف السكر والملح واسكبه في كوب ليبرد"
+        ],
+        "en": [
+          "Whisk the rice flour into the cold coconut milk until smooth",
+          "Heat on low, stirring constantly",
+          "Cook 8 minutes until it thickens and turns glossy",
+          "Add the sugar and salt, pour into a cup and let it cool"
+        ],
+        "ru": [
+          "Размешайте рисовую муку в холодном кокосовом молоке до гладкости",
+          "Нагревайте на слабом огне, постоянно помешивая",
+          "Варите 8 минут до загустения и блеска",
+          "Добавьте сахар и соль, вылейте в чашку и остудите"
+        ],
+        "ur": [
+          "چاول کا آٹا ٹھنڈے ناریل کے دودھ میں ہموار گھولیں",
+          "ہلکی آنچ پر مسلسل ہلاتے ہوئے گرم کریں",
+          "8 منٹ پکائیں تاکہ گاڑھا اور چمکدار ہو",
+          "چینی اور نمک ڈال کر کپ میں ڈالیں اور ٹھنڈا کریں"
+        ],
+        "fr": [
+          "Délayez la farine de riz dans le lait de coco froid",
+          "Chauffez à feu doux en remuant sans arrêt",
+          "Cuisez 8 minutes jusqu'à épaississement et brillance",
+          "Ajoutez le sucre et le sel, versez dans une coupe et laissez refroidir"
+        ],
+        "es": [
+          "Disuelve la harina de arroz en la leche de coco fría",
+          "Calienta a fuego bajo removiendo sin parar",
+          "Cocina 8 minutos hasta que espese y brille",
+          "Añade el azúcar y la sal, vierte en una taza y deja enfriar"
+        ],
+        "pt": [
+          "Dissolva a farinha de arroz no leite de coco frio",
+          "Aqueça em lume brando mexendo sem parar",
+          "Cozinhe 8 minutos até engrossar e ficar brilhante",
+          "Junte o açúcar e o sal, deite numa taça e deixe arrefecer"
+        ],
+        "de": [
+          "Reismehl in der kalten Kokosmilch glatt rühren",
+          "Bei niedriger Hitze unter ständigem Rühren erwärmen",
+          "8 Minuten kochen, bis es andickt und glänzt",
+          "Zucker und Salz zugeben, in eine Schale gießen und abkühlen lassen"
+        ],
+        "id": [
+          "Larutkan tepung beras dalam santan dingin sampai halus",
+          "Panaskan dengan api kecil sambil terus diaduk",
+          "Masak 8 menit sampai kental dan mengilap",
+          "Tambahkan gula dan garam, tuang ke mangkuk, dinginkan"
+        ],
+        "hi": [
+          "चावल का आटा ठंडे नारियल दूध में चिकना घोलें",
+          "धीमी आँच पर लगातार चलाते हुए गरम करें",
+          "8 मिनट पकाएँ जब तक गाढ़ा और चमकदार न हो",
+          "चीनी और नमक डालें, कप में डालकर ठंडा करें"
+        ],
+        "ja": [
+          "米粉を冷たいココナッツミルクに溶かしダマをなくす",
+          "弱火で絶えず混ぜながら加熱する",
+          "8分煮て、とろみと艶が出るまで火を通す",
+          "砂糖と塩を加え、器に流して冷ます"
+        ],
+        "zh": [
+          "米粉倒入冷椰浆中搅至无颗粒",
+          "小火加热，全程不停搅拌",
+          "煮8分钟至浓稠发亮",
+          "加椰糖和盐，倒入杯中放凉"
+        ]
+      }
+    }
+  ]
+}

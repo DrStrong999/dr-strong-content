@@ -1,0 +1,1972 @@
+{
+  "breakfast": [
+    {
+      "id": "cn_bf_congee",
+      "cuisine": "chinese",
+      "kcal": 260,
+      "protein": 12,
+      "carbs": 42,
+      "fat": 5,
+      "serving": {
+        "ar": "طبق (٥٠ جم أرز جاف)",
+        "en": "One bowl (50 g dry rice)",
+        "ru": "Одна миска (50 г сухого риса)",
+        "ur": "ایک پیالہ (50 گرام خشک چاول)",
+        "fr": "Un bol (50 g de riz sec)",
+        "es": "Un tazón (50 g de arroz seco)",
+        "pt": "Uma tigela (50 g de arroz seco)",
+        "de": "Eine Schale (50 g Rohreis)",
+        "id": "Satu mangkuk (50 g beras)",
+        "hi": "एक कटोरी (50 ग्राम सूखा चावल)",
+        "ja": "1杯（米50g）",
+        "zh": "一碗（生米50克）"
+      },
+      "name": {
+        "ar": "عصيدة الأرز بالدجاج (كونجي)",
+        "en": "Chicken congee",
+        "ru": "Рисовая каша конджи с курицей",
+        "ur": "چکن کانجی",
+        "fr": "Congee au poulet",
+        "es": "Congee de pollo",
+        "pt": "Congee de frango",
+        "de": "Hühner-Congee",
+        "id": "Bubur ayam congee",
+        "hi": "चिकन कोंजी",
+        "ja": "鶏肉のお粥",
+        "zh": "鸡肉粥"
+      },
+      "ingredients": {
+        "ar": [
+          "٥٠ جم أرز أبيض",
+          "٥٠ جم صدر دجاج مفتّت",
+          "٥ أكواب ماء أو مرق",
+          "شرائح زنجبيل وبصل أخضر",
+          "ملعقة صغيرة صويا صوص وزيت سمسم"
+        ],
+        "en": [
+          "50 g white rice",
+          "50 g shredded chicken breast",
+          "5 cups water or stock",
+          "Ginger slices, spring onion",
+          "1 tsp soy sauce, sesame oil"
+        ],
+        "ru": [
+          "50 г белого риса",
+          "50 г куриной грудки, разобранной",
+          "5 стаканов воды или бульона",
+          "Ломтики имбиря, зелёный лук",
+          "1 ч. л. соевого соуса, кунжутное масло"
+        ],
+        "ur": [
+          "50 گرام سفید چاول",
+          "50 گرام چکن بریسٹ، ریشے",
+          "5 کپ پانی یا شوربہ",
+          "ادرک کے سلائس، ہرا پیاز",
+          "1 چائے کا چمچ سویا ساس، تل کا تیل"
+        ],
+        "fr": [
+          "50 g de riz blanc",
+          "50 g de blanc de poulet effiloché",
+          "5 tasses d'eau ou de bouillon",
+          "Tranches de gingembre, oignon vert",
+          "1 c. à c. de sauce soja, huile de sésame"
+        ],
+        "es": [
+          "50 g de arroz blanco",
+          "50 g de pechuga de pollo desmenuzada",
+          "5 tazas de agua o caldo",
+          "Rodajas de jengibre, cebolleta",
+          "1 cdta de salsa de soja, aceite de sésamo"
+        ],
+        "pt": [
+          "50 g de arroz branco",
+          "50 g de peito de frango desfiado",
+          "5 xícaras de água ou caldo",
+          "Fatias de gengibre, cebolinha",
+          "1 c. de chá de molho de soja, óleo de gergelim"
+        ],
+        "de": [
+          "50 g weißer Reis",
+          "50 g Hähnchenbrust, zerpflückt",
+          "5 Tassen Wasser oder Brühe",
+          "Ingwerscheiben, Frühlingszwiebel",
+          "1 TL Sojasauce, Sesamöl"
+        ],
+        "id": [
+          "50 g beras putih",
+          "50 g dada ayam suwir",
+          "5 cangkir air atau kaldu",
+          "Irisan jahe, daun bawang",
+          "1 sdt kecap asin, minyak wijen"
+        ],
+        "hi": [
+          "50 ग्राम सफ़ेद चावल",
+          "50 ग्राम चिकन ब्रेस्ट, रेशों में",
+          "5 कप पानी या शोरबा",
+          "अदरक स्लाइस, हरा प्याज़",
+          "1 छोटा चम्मच सोया सॉस, तिल तेल"
+        ],
+        "ja": [
+          "白米50g",
+          "鶏むね肉50g（ほぐす）",
+          "水またはスープ5カップ",
+          "しょうがの薄切り、ねぎ",
+          "しょうゆ小さじ1、ごま油"
+        ],
+        "zh": [
+          "白米50克",
+          "鸡胸肉50克，撕丝",
+          "水或高汤5杯",
+          "姜片、葱",
+          "生抽1小匙、香油"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اغسل الأرز وضعه مع الماء والزنجبيل",
+          "اغلِه ثم اخفض النار واتركه ٤٥ دقيقة مع التقليب",
+          "أضف الدجاج في آخر ١٠ دقائق",
+          "تبّله بالصويا وزيت السمسم ورشّ البصل الأخضر"
+        ],
+        "en": [
+          "Rinse the rice and put it in the pot with water and ginger",
+          "Bring to a boil, then simmer 45 minutes, stirring often",
+          "Add the chicken for the last 10 minutes",
+          "Season with soy sauce and sesame oil, top with spring onion"
+        ],
+        "ru": [
+          "Промойте рис и положите в кастрюлю с водой и имбирём",
+          "Доведите до кипения, затем варите 45 минут, помешивая",
+          "Добавьте курицу за последние 10 минут",
+          "Приправьте соевым соусом и кунжутным маслом, посыпьте луком"
+        ],
+        "ur": [
+          "چاول دھو کر پانی اور ادرک کے ساتھ رکھیں",
+          "ابال کر ہلکی آنچ پر 45 منٹ ہلاتے ہوئے پکائیں",
+          "آخری 10 منٹ میں چکن ڈالیں",
+          "سویا ساس اور تل کا تیل ڈال کر ہرا پیاز چھڑکیں"
+        ],
+        "fr": [
+          "Rincez le riz et mettez-le avec l'eau et le gingembre",
+          "Portez à ébullition puis mijotez 45 minutes en remuant",
+          "Ajoutez le poulet dans les 10 dernières minutes",
+          "Assaisonnez de sauce soja et huile de sésame, parsemez d'oignon vert"
+        ],
+        "es": [
+          "Enjuaga el arroz y ponlo con el agua y el jengibre",
+          "Lleva a ebullición y cocina 45 minutos removiendo",
+          "Añade el pollo en los últimos 10 minutos",
+          "Sazona con salsa de soja y aceite de sésamo, corona con cebolleta"
+        ],
+        "pt": [
+          "Lave o arroz e junte-o à água com o gengibre",
+          "Leve a ferver e cozinhe 45 minutos mexendo",
+          "Junte o frango nos últimos 10 minutos",
+          "Tempere com molho de soja e óleo de gergelim, finalize com cebolinha"
+        ],
+        "de": [
+          "Reis waschen und mit Wasser und Ingwer in den Topf geben",
+          "Aufkochen, dann 45 Minuten unter Rühren köcheln",
+          "Hähnchen in den letzten 10 Minuten zugeben",
+          "Mit Sojasauce und Sesamöl würzen, mit Frühlingszwiebel bestreuen"
+        ],
+        "id": [
+          "Cuci beras lalu masukkan bersama air dan jahe",
+          "Didihkan lalu masak 45 menit sambil sesekali diaduk",
+          "Masukkan ayam pada 10 menit terakhir",
+          "Bumbui kecap asin dan minyak wijen, taburi daun bawang"
+        ],
+        "hi": [
+          "चावल धोकर पानी और अदरक के साथ रखें",
+          "उबाल लाकर 45 मिनट हिलाते हुए पकाएँ",
+          "आख़िरी 10 मिनट में चिकन डालें",
+          "सोया सॉस और तिल तेल डालें, हरा प्याज़ छिड़कें"
+        ],
+        "ja": [
+          "米を洗い、水としょうがと一緒に鍋に入れる",
+          "沸騰させてから弱火で45分、時々かき混ぜて煮る",
+          "最後の10分で鶏肉を加える",
+          "しょうゆとごま油で味を調え、ねぎを散らす"
+        ],
+        "zh": [
+          "米洗净，与水和姜片一同下锅",
+          "煮沸后转小火熬45分钟，不时搅动",
+          "最后10分钟加入鸡丝",
+          "以生抽和香油调味，撒上葱花"
+        ]
+      }
+    },
+    {
+      "id": "cn_bf_steamed_egg",
+      "cuisine": "chinese",
+      "kcal": 180,
+      "protein": 15,
+      "carbs": 4,
+      "fat": 11,
+      "serving": {
+        "ar": "طبق (بيضتان)",
+        "en": "One bowl (2 eggs)",
+        "ru": "Одна пиала (2 яйца)",
+        "ur": "ایک پیالہ (2 انڈے)",
+        "fr": "Un bol (2 œufs)",
+        "es": "Un tazón (2 huevos)",
+        "pt": "Uma tigela (2 ovos)",
+        "de": "Eine Schale (2 Eier)",
+        "id": "Satu mangkuk (2 telur)",
+        "hi": "एक कटोरी (2 अंडे)",
+        "ja": "1杯（卵2個）",
+        "zh": "一碗（鸡蛋2个）"
+      },
+      "name": {
+        "ar": "بيض مطهو بالبخار (تشوان دان)",
+        "en": "Chinese steamed egg custard",
+        "ru": "Китайский яичный крем на пару",
+        "ur": "چینی سٹیمڈ انڈا",
+        "fr": "Œufs vapeur à la chinoise",
+        "es": "Huevo al vapor chino",
+        "pt": "Ovo cozido no vapor à chinesa",
+        "de": "Chinesischer Eierstich",
+        "id": "Telur kukus ala Tiongkok",
+        "hi": "चीनी स्टीम्ड एग कस्टर्ड",
+        "ja": "中華風茶碗蒸し",
+        "zh": "蒸蛋羹"
+      },
+      "ingredients": {
+        "ar": [
+          "بيضتان",
+          "١٥٠ مل ماء دافئ أو مرق",
+          "ملعقة صغيرة صويا صوص",
+          "نصف ملعقة صغيرة زيت سمسم",
+          "بصل أخضر مفروم ورشة ملح"
+        ],
+        "en": [
+          "2 eggs",
+          "150 ml warm water or stock",
+          "1 tsp soy sauce",
+          "Half tsp sesame oil",
+          "Chopped spring onion, a pinch of salt"
+        ],
+        "ru": [
+          "2 яйца",
+          "150 мл тёплой воды или бульона",
+          "1 ч. л. соевого соуса",
+          "Половина ч. л. кунжутного масла",
+          "Зелёный лук, щепотка соли"
+        ],
+        "ur": [
+          "2 انڈے",
+          "150 ملی نیم گرم پانی یا شوربہ",
+          "1 چائے کا چمچ سویا ساس",
+          "آدھا چائے کا چمچ تل کا تیل",
+          "کٹا ہرا پیاز، چٹکی نمک"
+        ],
+        "fr": [
+          "2 œufs",
+          "150 ml d'eau tiède ou de bouillon",
+          "1 c. à c. de sauce soja",
+          "Une demi-c. à c. d'huile de sésame",
+          "Oignon vert ciselé, une pincée de sel"
+        ],
+        "es": [
+          "2 huevos",
+          "150 ml de agua tibia o caldo",
+          "1 cdta de salsa de soja",
+          "Media cdta de aceite de sésamo",
+          "Cebolleta picada, una pizca de sal"
+        ],
+        "pt": [
+          "2 ovos",
+          "150 ml de água morna ou caldo",
+          "1 c. de chá de molho de soja",
+          "Meia c. de chá de óleo de gergelim",
+          "Cebolinha picada, uma pitada de sal"
+        ],
+        "de": [
+          "2 Eier",
+          "150 ml warmes Wasser oder Brühe",
+          "1 TL Sojasauce",
+          "Ein halber TL Sesamöl",
+          "Gehackte Frühlingszwiebel, eine Prise Salz"
+        ],
+        "id": [
+          "2 telur",
+          "150 ml air hangat atau kaldu",
+          "1 sdt kecap asin",
+          "Setengah sdt minyak wijen",
+          "Daun bawang cincang, sejumput garam"
+        ],
+        "hi": [
+          "2 अंडे",
+          "150 मिली गुनगुना पानी या शोरबा",
+          "1 छोटा चम्मच सोया सॉस",
+          "आधा छोटा चम्मच तिल तेल",
+          "कटा हरा प्याज़, चुटकी भर नमक"
+        ],
+        "ja": [
+          "卵2個",
+          "ぬるま湯またはだし150ml",
+          "しょうゆ小さじ1",
+          "ごま油小さじ1/2",
+          "刻みねぎ、塩少々"
+        ],
+        "zh": [
+          "鸡蛋2个",
+          "温水或高汤150毫升",
+          "生抽1小匙",
+          "香油半小匙",
+          "葱花、盐少许"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اخفق البيض مع الماء الدافئ والملح",
+          "صفّ الخليط من مصفاة ليصير ناعمًا",
+          "غطِّ الطبق بورق قصدير وبخّره ١٢ دقيقة",
+          "أضف الصويا وزيت السمسم والبصل الأخضر"
+        ],
+        "en": [
+          "Beat the eggs with the warm water and salt",
+          "Strain the mixture through a sieve for a silky texture",
+          "Cover the bowl with foil and steam 12 minutes",
+          "Finish with soy sauce, sesame oil and spring onion"
+        ],
+        "ru": [
+          "Взбейте яйца с тёплой водой и солью",
+          "Процедите смесь через сито для шелковистости",
+          "Накройте пиалу фольгой и готовьте на пару 12 минут",
+          "Полейте соевым соусом и маслом, посыпьте луком"
+        ],
+        "ur": [
+          "انڈوں کو نیم گرم پانی اور نمک کے ساتھ پھینٹیں",
+          "آمیزے کو چھلنی سے چھان لیں تاکہ ہموار ہو",
+          "پیالہ فوائل سے ڈھک کر 12 منٹ بھاپ دیں",
+          "سویا ساس، تل کا تیل اور ہرا پیاز ڈالیں"
+        ],
+        "fr": [
+          "Battez les œufs avec l'eau tiède et le sel",
+          "Passez le mélange au tamis pour une texture soyeuse",
+          "Couvrez le bol de papier alu et cuisez 12 minutes à la vapeur",
+          "Terminez par sauce soja, huile de sésame et oignon vert"
+        ],
+        "es": [
+          "Bate los huevos con el agua tibia y la sal",
+          "Cuela la mezcla por un colador para una textura sedosa",
+          "Cubre el tazón con papel de aluminio y cuece al vapor 12 minutos",
+          "Termina con salsa de soja, aceite de sésamo y cebolleta"
+        ],
+        "pt": [
+          "Bata os ovos com a água morna e o sal",
+          "Passe a mistura por um coador para ficar sedosa",
+          "Tape a tigela com papel de alumínio e coza no vapor 12 minutos",
+          "Finalize com molho de soja, óleo de gergelim e cebolinha"
+        ],
+        "de": [
+          "Eier mit dem warmen Wasser und Salz verquirlen",
+          "Die Masse durch ein Sieb streichen für seidige Textur",
+          "Schale mit Folie abdecken und 12 Minuten dämpfen",
+          "Mit Sojasauce, Sesamöl und Frühlingszwiebel abschließen"
+        ],
+        "id": [
+          "Kocok telur dengan air hangat dan garam",
+          "Saring adonan agar teksturnya halus",
+          "Tutup mangkuk dengan aluminium foil, kukus 12 menit",
+          "Selesaikan dengan kecap asin, minyak wijen, daun bawang"
+        ],
+        "hi": [
+          "अंडों को गुनगुने पानी और नमक के साथ फेंटें",
+          "मिश्रण को छलनी से छानें ताकि रेशमी बने",
+          "कटोरी को फॉयल से ढककर 12 मिनट भाप दें",
+          "सोया सॉस, तिल तेल और हरा प्याज़ डालें"
+        ],
+        "ja": [
+          "卵をぬるま湯と塩でよく溶く",
+          "ざるで漉してなめらかにする",
+          "器にホイルをかぶせ12分蒸す",
+          "しょうゆ、ごま油、ねぎで仕上げる"
+        ],
+        "zh": [
+          "鸡蛋加温水和盐打匀",
+          "蛋液过筛，口感更嫩滑",
+          "碗上盖锡纸，蒸12分钟",
+          "淋生抽、香油，撒葱花"
+        ]
+      }
+    }
+  ],
+  "lunch": [
+    {
+      "id": "cn_ln_chicken_stirfry",
+      "cuisine": "chinese",
+      "kcal": 380,
+      "protein": 35,
+      "carbs": 34,
+      "fat": 12,
+      "serving": {
+        "ar": "طبق (١٥٠ جم دجاج + أرز)",
+        "en": "One plate (150 g chicken + rice)",
+        "ru": "Одна тарелка (150 г курицы + рис)",
+        "ur": "ایک پلیٹ (150 گرام چکن + چاول)",
+        "fr": "Une assiette (150 g de poulet + riz)",
+        "es": "Un plato (150 g de pollo + arroz)",
+        "pt": "Um prato (150 g de frango + arroz)",
+        "de": "Ein Teller (150 g Hähnchen + Reis)",
+        "id": "Satu piring (150 g ayam + nasi)",
+        "hi": "एक प्लेट (150 ग्राम चिकन + चावल)",
+        "ja": "1皿（鶏肉150g＋ご飯）",
+        "zh": "一份（鸡肉150克＋米饭）"
+      },
+      "name": {
+        "ar": "دجاج مقلي بالخضار والأرز",
+        "en": "Chicken vegetable stir-fry",
+        "ru": "Курица с овощами вок",
+        "ur": "چکن سبزی اسٹر فرائی",
+        "fr": "Sauté de poulet aux légumes",
+        "es": "Salteado de pollo con verduras",
+        "pt": "Salteado de frango com legumes",
+        "de": "Hähnchen-Gemüse-Pfanne",
+        "id": "Tumis ayam sayuran",
+        "hi": "चिकन वेजिटेबल स्टर-फ्राई",
+        "ja": "鶏肉と野菜の炒めもの",
+        "zh": "鸡肉炒时蔬"
+      },
+      "ingredients": {
+        "ar": [
+          "١٥٠ جم صدر دجاج شرائح",
+          "١٠٠ جم أرز مطبوخ",
+          "بروكلي وفلفل رومي وجزر",
+          "ملعقتان صويا صوص وفص ثوم وزنجبيل",
+          "ملعقة صغيرة زيت وملعقة صغيرة نشا"
+        ],
+        "en": [
+          "150 g chicken breast, sliced",
+          "100 g cooked rice",
+          "Broccoli, bell pepper, carrot",
+          "2 tbsp soy sauce, garlic, ginger",
+          "1 tsp oil, 1 tsp cornstarch"
+        ],
+        "ru": [
+          "150 г куриной грудки, ломтиками",
+          "100 г варёного риса",
+          "Брокколи, болгарский перец, морковь",
+          "2 ст. л. соевого соуса, чеснок, имбирь",
+          "1 ч. л. масла, 1 ч. л. крахмала"
+        ],
+        "ur": [
+          "150 گرام چکن بریسٹ، سلائس",
+          "100 گرام پکے چاول",
+          "بروکلی، شملہ مرچ، گاجر",
+          "2 چمچ سویا ساس، لہسن، ادرک",
+          "1 چائے کا چمچ تیل، 1 چمچ کارن فلور"
+        ],
+        "fr": [
+          "150 g de blanc de poulet émincé",
+          "100 g de riz cuit",
+          "Brocoli, poivron, carotte",
+          "2 c. à s. de sauce soja, ail, gingembre",
+          "1 c. à c. d'huile, 1 c. à c. de maïzena"
+        ],
+        "es": [
+          "150 g de pechuga de pollo en tiras",
+          "100 g de arroz cocido",
+          "Brócoli, pimiento, zanahoria",
+          "2 cdas de salsa de soja, ajo, jengibre",
+          "1 cdta de aceite, 1 cdta de maicena"
+        ],
+        "pt": [
+          "150 g de peito de frango fatiado",
+          "100 g de arroz cozido",
+          "Brócolos, pimento, cenoura",
+          "2 colheres de molho de soja, alho, gengibre",
+          "1 c. de chá de óleo, 1 de amido de milho"
+        ],
+        "de": [
+          "150 g Hähnchenbrust in Streifen",
+          "100 g gekochter Reis",
+          "Brokkoli, Paprika, Karotte",
+          "2 EL Sojasauce, Knoblauch, Ingwer",
+          "1 TL Öl, 1 TL Speisestärke"
+        ],
+        "id": [
+          "150 g dada ayam, iris",
+          "100 g nasi matang",
+          "Brokoli, paprika, wortel",
+          "2 sdm kecap asin, bawang putih, jahe",
+          "1 sdt minyak, 1 sdt maizena"
+        ],
+        "hi": [
+          "150 ग्राम चिकन ब्रेस्ट, स्लाइस",
+          "100 ग्राम पका चावल",
+          "ब्रोकली, शिमला मिर्च, गाजर",
+          "2 बड़े चम्मच सोया सॉस, लहसुन, अदरक",
+          "1 छोटा चम्मच तेल, 1 छोटा चम्मच कॉर्नस्टार्च"
+        ],
+        "ja": [
+          "鶏むね肉150g（そぎ切り）",
+          "ご飯100g",
+          "ブロッコリー、パプリカ、にんじん",
+          "しょうゆ大さじ2、にんにく、しょうが",
+          "油小さじ1、片栗粉小さじ1"
+        ],
+        "zh": [
+          "鸡胸肉150克，切片",
+          "熟米饭100克",
+          "西兰花、彩椒、胡萝卜",
+          "生抽2大匙、蒜、姜",
+          "油1小匙、玉米淀粉1小匙"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اخلط الدجاج بالنشا وملعقة صويا ١٠ دقائق",
+          "سخّن الزيت على نار عالية وحمّر الدجاج ٤ دقائق",
+          "أضف الثوم والزنجبيل ثم الخضار وقلّب ٣ دقائق",
+          "أضف باقي الصويا وملعقتي ماء وقدّمه مع الأرز"
+        ],
+        "en": [
+          "Toss the chicken with the cornstarch and 1 tbsp soy sauce, 10 minutes",
+          "Heat the oil on high and sear the chicken 4 minutes",
+          "Add garlic and ginger, then the vegetables, stir 3 minutes",
+          "Add the rest of the soy sauce and 2 tbsp water, serve with rice"
+        ],
+        "ru": [
+          "Смешайте курицу с крахмалом и 1 ст. л. соевого соуса на 10 минут",
+          "Разогрейте масло на сильном огне и обжарьте курицу 4 минуты",
+          "Добавьте чеснок и имбирь, затем овощи, жарьте 3 минуты",
+          "Влейте остальной соус и 2 ст. л. воды, подайте с рисом"
+        ],
+        "ur": [
+          "چکن کو کارن فلور اور 1 چمچ سویا ساس میں 10 منٹ رکھیں",
+          "تیز آنچ پر تیل گرم کر کے چکن 4 منٹ بھونیں",
+          "لہسن ادرک پھر سبزیاں ڈال کر 3 منٹ چلائیں",
+          "باقی سویا ساس اور 2 چمچ پانی ڈال کر چاول کے ساتھ پیش کریں"
+        ],
+        "fr": [
+          "Mélangez le poulet avec la maïzena et 1 c. à s. de soja, 10 minutes",
+          "Chauffez l'huile à feu vif et saisissez le poulet 4 minutes",
+          "Ajoutez ail et gingembre puis les légumes, 3 minutes",
+          "Ajoutez le reste de soja et 2 c. à s. d'eau, servez avec le riz"
+        ],
+        "es": [
+          "Mezcla el pollo con la maicena y 1 cda de soja, 10 minutos",
+          "Calienta el aceite a fuego fuerte y sella el pollo 4 minutos",
+          "Añade ajo y jengibre, luego las verduras, saltea 3 minutos",
+          "Agrega el resto de soja y 2 cdas de agua, sirve con arroz"
+        ],
+        "pt": [
+          "Envolva o frango no amido e 1 colher de soja, 10 minutos",
+          "Aqueça o óleo em lume forte e seleee o frango 4 minutos",
+          "Junte alho e gengibre, depois os legumes, salteie 3 minutos",
+          "Junte o resto da soja e 2 colheres de água, sirva com arroz"
+        ],
+        "de": [
+          "Hähnchen mit Stärke und 1 EL Sojasauce 10 Minuten marinieren",
+          "Öl stark erhitzen und Hähnchen 4 Minuten anbraten",
+          "Knoblauch und Ingwer zugeben, dann Gemüse, 3 Minuten rühren",
+          "Restliche Sojasauce und 2 EL Wasser zugeben, mit Reis servieren"
+        ],
+        "id": [
+          "Lumuri ayam dengan maizena dan 1 sdm kecap, 10 menit",
+          "Panaskan minyak api besar, tumis ayam 4 menit",
+          "Masukkan bawang putih, jahe, lalu sayuran, aduk 3 menit",
+          "Tambahkan sisa kecap dan 2 sdm air, sajikan dengan nasi"
+        ],
+        "hi": [
+          "चिकन को कॉर्नस्टार्च और 1 चम्मच सोया सॉस में 10 मिनट रखें",
+          "तेज़ आँच पर तेल गरम कर चिकन 4 मिनट भूनें",
+          "लहसुन-अदरक फिर सब्ज़ियाँ डालकर 3 मिनट चलाएँ",
+          "बाकी सोया सॉस और 2 चम्मच पानी डालें, चावल के साथ परोसें"
+        ],
+        "ja": [
+          "鶏肉に片栗粉としょうゆ大さじ1をもみ込み10分おく",
+          "強火で油を熱し、鶏肉を4分炒める",
+          "にんにく・しょうが、続いて野菜を加え3分炒める",
+          "残りのしょうゆと水大さじ2を回しかけ、ご飯とともに供する"
+        ],
+        "zh": [
+          "鸡肉用淀粉和1大匙生抽抓匀，腌10分钟",
+          "大火热油，鸡肉下锅炒4分钟",
+          "下蒜姜，再放蔬菜翻炒3分钟",
+          "淋剩余生抽和2大匙水，配米饭上桌"
+        ]
+      }
+    },
+    {
+      "id": "cn_ln_beef_noodle_soup",
+      "cuisine": "chinese",
+      "kcal": 420,
+      "protein": 30,
+      "carbs": 52,
+      "fat": 10,
+      "serving": {
+        "ar": "طبق كبير (١٠٠ جم لحم)",
+        "en": "Large bowl (100 g beef)",
+        "ru": "Большая миска (100 г говядины)",
+        "ur": "بڑا پیالہ (100 گرام گوشت)",
+        "fr": "Grand bol (100 g de bœuf)",
+        "es": "Tazón grande (100 g de ternera)",
+        "pt": "Tigela grande (100 g de carne)",
+        "de": "Große Schale (100 g Rind)",
+        "id": "Mangkuk besar (100 g sapi)",
+        "hi": "बड़ा कटोरा (100 ग्राम बीफ़)",
+        "ja": "大きめ1杯（牛肉100g）",
+        "zh": "一大碗（牛肉100克）"
+      },
+      "name": {
+        "ar": "شوربة النودلز باللحم",
+        "en": "Beef noodle soup",
+        "ru": "Суп с говядиной и лапшой",
+        "ur": "بیف نوڈل سوپ",
+        "fr": "Soupe de nouilles au bœuf",
+        "es": "Sopa de fideos con ternera",
+        "pt": "Sopa de macarrão com carne",
+        "de": "Rindfleisch-Nudelsuppe",
+        "id": "Sup mi sapi",
+        "hi": "बीफ़ नूडल सूप",
+        "ja": "牛肉麺スープ",
+        "zh": "牛肉面汤"
+      },
+      "ingredients": {
+        "ar": [
+          "١٠٠ جم لحم بقري قليل الدهن",
+          "٨٠ جم نودلز قمح",
+          "٣ أكواب مرق لحم",
+          "بوك تشوي وبصل أخضر وزنجبيل",
+          "ملعقتان صويا صوص وقرفة ويانسون نجمي"
+        ],
+        "en": [
+          "100 g lean beef",
+          "80 g wheat noodles",
+          "3 cups beef stock",
+          "Pak choi, spring onion, ginger",
+          "2 tbsp soy sauce, cinnamon, star anise"
+        ],
+        "ru": [
+          "100 г нежирной говядины",
+          "80 г пшеничной лапши",
+          "3 стакана говяжьего бульона",
+          "Пак-чой, зелёный лук, имбирь",
+          "2 ст. л. соевого соуса, корица, бадьян"
+        ],
+        "ur": [
+          "100 گرام کم چکنائی بیف",
+          "80 گرام گندم کے نوڈلز",
+          "3 کپ بیف شوربہ",
+          "پاک چوئی، ہرا پیاز، ادرک",
+          "2 چمچ سویا ساس، دار چینی، بادیان"
+        ],
+        "fr": [
+          "100 g de bœuf maigre",
+          "80 g de nouilles de blé",
+          "3 tasses de bouillon de bœuf",
+          "Pak choï, oignon vert, gingembre",
+          "2 c. à s. de sauce soja, cannelle, anis étoilé"
+        ],
+        "es": [
+          "100 g de ternera magra",
+          "80 g de fideos de trigo",
+          "3 tazas de caldo de carne",
+          "Pak choi, cebolleta, jengibre",
+          "2 cdas de salsa de soja, canela, anís estrellado"
+        ],
+        "pt": [
+          "100 g de carne magra",
+          "80 g de massa de trigo",
+          "3 xícaras de caldo de carne",
+          "Pak choi, cebolinha, gengibre",
+          "2 colheres de molho de soja, canela, anis-estrelado"
+        ],
+        "de": [
+          "100 g mageres Rindfleisch",
+          "80 g Weizennudeln",
+          "3 Tassen Rinderbrühe",
+          "Pak Choi, Frühlingszwiebel, Ingwer",
+          "2 EL Sojasauce, Zimt, Sternanis"
+        ],
+        "id": [
+          "100 g daging sapi tanpa lemak",
+          "80 g mi gandum",
+          "3 cangkir kaldu sapi",
+          "Pakcoy, daun bawang, jahe",
+          "2 sdm kecap asin, kayu manis, bunga lawang"
+        ],
+        "hi": [
+          "100 ग्राम लीन बीफ़",
+          "80 ग्राम गेहूँ नूडल्स",
+          "3 कप बीफ़ शोरबा",
+          "पाक चोई, हरा प्याज़, अदरक",
+          "2 बड़े चम्मच सोया सॉस, दालचीनी, चक्र फूल"
+        ],
+        "ja": [
+          "赤身の牛肉100g",
+          "小麦麺80g",
+          "牛だし3カップ",
+          "チンゲン菜、ねぎ、しょうが",
+          "しょうゆ大さじ2、シナモン、八角"
+        ],
+        "zh": [
+          "瘦牛肉100克",
+          "小麦面条80克",
+          "牛肉高汤3杯",
+          "小白菜、葱、姜",
+          "生抽2大匙、桂皮、八角"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اسلق اللحم في المرق مع الزنجبيل والتوابل ٤٠ دقيقة",
+          "أضف الصويا صوص واتركه ١٠ دقائق أخرى",
+          "اسلق النودلز على حدة وصفّها",
+          "ضع النودلز والمرق واللحم وأضف البوك تشوي"
+        ],
+        "en": [
+          "Simmer the beef in the stock with ginger and spices 40 minutes",
+          "Add the soy sauce and simmer 10 minutes more",
+          "Boil the noodles separately and drain",
+          "Assemble noodles, broth and beef, add the pak choi"
+        ],
+        "ru": [
+          "Тушите говядину в бульоне с имбирём и специями 40 минут",
+          "Добавьте соевый соус и варите ещё 10 минут",
+          "Отварите лапшу отдельно и откиньте",
+          "Соберите лапшу, бульон и мясо, добавьте пак-чой"
+        ],
+        "ur": [
+          "گوشت کو شوربے میں ادرک اور مصالحوں کے ساتھ 40 منٹ پکائیں",
+          "سویا ساس ڈال کر مزید 10 منٹ پکائیں",
+          "نوڈلز الگ ابال کر چھان لیں",
+          "نوڈلز، شوربہ اور گوشت رکھ کر پاک چوئی ڈالیں"
+        ],
+        "fr": [
+          "Faites mijoter le bœuf dans le bouillon avec gingembre et épices 40 minutes",
+          "Ajoutez la sauce soja et poursuivez 10 minutes",
+          "Cuisez les nouilles séparément et égouttez",
+          "Dressez nouilles, bouillon et bœuf, ajoutez le pak choï"
+        ],
+        "es": [
+          "Cuece la ternera en el caldo con jengibre y especias 40 minutos",
+          "Añade la salsa de soja y cocina 10 minutos más",
+          "Hierve los fideos aparte y escúrrelos",
+          "Monta fideos, caldo y carne, añade el pak choi"
+        ],
+        "pt": [
+          "Coza a carne no caldo com gengibre e especiarias 40 minutos",
+          "Junte o molho de soja e cozinhe mais 10 minutos",
+          "Coza a massa à parte e escorra",
+          "Monte massa, caldo e carne, junte o pak choi"
+        ],
+        "de": [
+          "Rindfleisch in der Brühe mit Ingwer und Gewürzen 40 Minuten schmoren",
+          "Sojasauce zugeben und weitere 10 Minuten köcheln",
+          "Nudeln separat kochen und abgießen",
+          "Nudeln, Brühe und Fleisch anrichten, Pak Choi zugeben"
+        ],
+        "id": [
+          "Rebus daging dalam kaldu dengan jahe dan rempah 40 menit",
+          "Tambahkan kecap asin, masak 10 menit lagi",
+          "Rebus mi terpisah lalu tiriskan",
+          "Tata mi, kuah, dan daging, tambahkan pakcoy"
+        ],
+        "hi": [
+          "बीफ़ को शोरबे में अदरक और मसालों के साथ 40 मिनट पकाएँ",
+          "सोया सॉस डालकर 10 मिनट और पकाएँ",
+          "नूडल्स अलग उबालकर छान लें",
+          "नूडल्स, शोरबा और मीट सजाएँ, पाक चोई डालें"
+        ],
+        "ja": [
+          "牛肉をだしにしょうがと香辛料とともに40分煮込む",
+          "しょうゆを加えさらに10分煮る",
+          "麺は別ゆでして湯切りする",
+          "麺、スープ、牛肉を盛り、チンゲン菜を添える"
+        ],
+        "zh": [
+          "牛肉与姜、香料入高汤炖40分钟",
+          "加生抽再炖10分钟",
+          "面条另锅煮熟捞出",
+          "碗中放面、浇汤、铺牛肉，放上小白菜"
+        ]
+      }
+    }
+  ],
+  "dinner": [
+    {
+      "id": "cn_dn_mapo_tofu",
+      "cuisine": "chinese",
+      "kcal": 290,
+      "protein": 22,
+      "carbs": 14,
+      "fat": 17,
+      "serving": {
+        "ar": "طبق (٢٠٠ جم توفو)",
+        "en": "One plate (200 g tofu)",
+        "ru": "Одна тарелка (200 г тофу)",
+        "ur": "ایک پلیٹ (200 گرام توفو)",
+        "fr": "Une assiette (200 g de tofu)",
+        "es": "Un plato (200 g de tofu)",
+        "pt": "Um prato (200 g de tofu)",
+        "de": "Ein Teller (200 g Tofu)",
+        "id": "Satu piring (200 g tahu)",
+        "hi": "एक प्लेट (200 ग्राम टोफू)",
+        "ja": "1皿（豆腐200g）",
+        "zh": "一份（豆腐200克）"
+      },
+      "name": {
+        "ar": "توفو مابو",
+        "en": "Mapo tofu",
+        "ru": "Тофу мапо",
+        "ur": "ماپو توفو",
+        "fr": "Mapo tofu",
+        "es": "Mapo tofu",
+        "pt": "Mapo tofu",
+        "de": "Mapo Tofu",
+        "id": "Mapo tahu",
+        "hi": "मापो टोफू",
+        "ja": "麻婆豆腐",
+        "zh": "麻婆豆腐"
+      },
+      "ingredients": {
+        "ar": [
+          "٢٠٠ جم توفو طري مكعبات",
+          "٧٠ جم لحم مفروم قليل الدهن",
+          "ملعقة معجون فول الصويا الحار",
+          "فص ثوم وزنجبيل وبصل أخضر",
+          "ملعقة صغيرة نشا وفلفل سيتشوان"
+        ],
+        "en": [
+          "200 g soft tofu, cubed",
+          "70 g lean minced meat",
+          "1 tbsp spicy bean paste",
+          "Garlic, ginger, spring onion",
+          "1 tsp cornstarch, Sichuan pepper"
+        ],
+        "ru": [
+          "200 г мягкого тофу кубиками",
+          "70 г нежирного фарша",
+          "1 ст. л. острой бобовой пасты",
+          "Чеснок, имбирь, зелёный лук",
+          "1 ч. л. крахмала, сычуаньский перец"
+        ],
+        "ur": [
+          "200 گرام نرم توفو، کیوبز",
+          "70 گرام کم چکنائی قیمہ",
+          "1 چمچ مصالحہ دار بین پیسٹ",
+          "لہسن، ادرک، ہرا پیاز",
+          "1 چائے کا چمچ کارن فلور، سیچوان مرچ"
+        ],
+        "fr": [
+          "200 g de tofu soyeux en cubes",
+          "70 g de viande hachée maigre",
+          "1 c. à s. de pâte de soja pimentée",
+          "Ail, gingembre, oignon vert",
+          "1 c. à c. de maïzena, poivre du Sichuan"
+        ],
+        "es": [
+          "200 g de tofu blando en cubos",
+          "70 g de carne picada magra",
+          "1 cda de pasta de soja picante",
+          "Ajo, jengibre, cebolleta",
+          "1 cdta de maicena, pimienta de Sichuan"
+        ],
+        "pt": [
+          "200 g de tofu macio em cubos",
+          "70 g de carne picada magra",
+          "1 colher de sopa de pasta de feijão picante",
+          "Alho, gengibre, cebolinha",
+          "1 c. de chá de amido, pimenta de Sichuan"
+        ],
+        "de": [
+          "200 g weicher Tofu, gewürfelt",
+          "70 g mageres Hackfleisch",
+          "1 EL scharfe Bohnenpaste",
+          "Knoblauch, Ingwer, Frühlingszwiebel",
+          "1 TL Speisestärke, Sichuanpfeffer"
+        ],
+        "id": [
+          "200 g tahu sutra, potong dadu",
+          "70 g daging cincang tanpa lemak",
+          "1 sdm pasta kacang pedas",
+          "Bawang putih, jahe, daun bawang",
+          "1 sdt maizena, merica Sichuan"
+        ],
+        "hi": [
+          "200 ग्राम सॉफ्ट टोफू, टुकड़ों में",
+          "70 ग्राम लीन कीमा",
+          "1 बड़ा चम्मच स्पाइसी बीन पेस्ट",
+          "लहसुन, अदरक, हरा प्याज़",
+          "1 छोटा चम्मच कॉर्नस्टार्च, सिचुआन काली मिर्च"
+        ],
+        "ja": [
+          "絹ごし豆腐200g（角切り）",
+          "赤身のひき肉70g",
+          "豆板醤大さじ1",
+          "にんにく、しょうが、ねぎ",
+          "片栗粉小さじ1、花椒"
+        ],
+        "zh": [
+          "嫩豆腐200克，切块",
+          "瘦肉末70克",
+          "豆瓣酱1大匙",
+          "蒜、姜、葱",
+          "玉米淀粉1小匙、花椒"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اسلق التوفو دقيقة في ماء مملّح ثم صفّه",
+          "حمّر اللحم ثم أضف الثوم والزنجبيل والمعجون",
+          "أضف نصف كوب ماء وأدخل التوفو برفق",
+          "اسكب النشا المذاب وقلّب حتى تثخن الصلصة"
+        ],
+        "en": [
+          "Blanch the tofu a minute in salted water and drain",
+          "Brown the meat, then add garlic, ginger and the paste",
+          "Add half a cup of water and slide in the tofu gently",
+          "Stir in the dissolved cornstarch until the sauce thickens"
+        ],
+        "ru": [
+          "Бланшируйте тофу минуту в подсоленной воде и откиньте",
+          "Обжарьте фарш, добавьте чеснок, имбирь и пасту",
+          "Влейте полстакана воды и осторожно введите тофу",
+          "Влейте разведённый крахмал и мешайте до загустения"
+        ],
+        "ur": [
+          "توفو کو نمکین پانی میں ایک منٹ ابال کر چھان لیں",
+          "قیمہ بھون کر لہسن، ادرک اور پیسٹ ڈالیں",
+          "آدھا کپ پانی ڈال کر توفو نرمی سے شامل کریں",
+          "گھلا ہوا کارن فلور ڈال کر گاڑھا ہونے تک چلائیں"
+        ],
+        "fr": [
+          "Blanchissez le tofu une minute dans l'eau salée et égouttez",
+          "Faites revenir la viande puis ajoutez ail, gingembre et pâte",
+          "Ajoutez un demi-verre d'eau et glissez le tofu délicatement",
+          "Incorporez la maïzena délayée jusqu'à épaississement"
+        ],
+        "es": [
+          "Escalda el tofu un minuto en agua con sal y escurre",
+          "Dora la carne y añade ajo, jengibre y la pasta",
+          "Añade media taza de agua e incorpora el tofu con cuidado",
+          "Vierte la maicena disuelta y remueve hasta espesar"
+        ],
+        "pt": [
+          "Escalde o tofu um minuto em água salgada e escorra",
+          "Aloure a carne e junte alho, gengibre e a pasta",
+          "Junte meia xícara de água e adicione o tofu com cuidado",
+          "Junte o amido dissolvido e mexa até engrossar"
+        ],
+        "de": [
+          "Tofu eine Minute in Salzwasser blanchieren und abtropfen",
+          "Hackfleisch anbraten, dann Knoblauch, Ingwer und Paste zugeben",
+          "Eine halbe Tasse Wasser zugeben und den Tofu behutsam einlegen",
+          "Angerührte Stärke einrühren, bis die Sauce andickt"
+        ],
+        "id": [
+          "Rebus tahu sebentar di air garam lalu tiriskan",
+          "Tumis daging lalu masukkan bawang putih, jahe, dan pasta",
+          "Tambahkan setengah cangkir air, masukkan tahu perlahan",
+          "Tuang larutan maizena, aduk sampai saus mengental"
+        ],
+        "hi": [
+          "टोफू को नमकीन पानी में एक मिनट उबालकर छान लें",
+          "कीमा भूनें, फिर लहसुन, अदरक और पेस्ट डालें",
+          "आधा कप पानी डालें और टोफू धीरे से मिलाएँ",
+          "घुला कॉर्नस्टार्च डालकर गाढ़ा होने तक चलाएँ"
+        ],
+        "ja": [
+          "豆腐を塩湯で1分ゆで、水気を切る",
+          "ひき肉を炒め、にんにく・しょうが・豆板醤を加える",
+          "水1/2カップを加え、豆腐をそっと入れる",
+          "水溶き片栗粉を回し入れ、とろみをつける"
+        ],
+        "zh": [
+          "豆腐入淡盐水焯1分钟，捞出沥干",
+          "肉末炒香，加蒜姜和豆瓣酱",
+          "倒半杯水，轻轻推入豆腐",
+          "淋入水淀粉，推炒至汤汁浓稠"
+        ]
+      }
+    },
+    {
+      "id": "cn_dn_steamed_fish",
+      "cuisine": "chinese",
+      "kcal": 300,
+      "protein": 36,
+      "carbs": 6,
+      "fat": 14,
+      "serving": {
+        "ar": "١٧٠ جم سمك",
+        "en": "170 g fish",
+        "ru": "170 г рыбы",
+        "ur": "170 گرام مچھلی",
+        "fr": "170 g de poisson",
+        "es": "170 g de pescado",
+        "pt": "170 g de peixe",
+        "de": "170 g Fisch",
+        "id": "170 g ikan",
+        "hi": "170 ग्राम मछली",
+        "ja": "魚170g",
+        "zh": "鱼肉170克"
+      },
+      "name": {
+        "ar": "سمك مطهو بالبخار بالزنجبيل",
+        "en": "Ginger steamed fish",
+        "ru": "Рыба на пару с имбирём",
+        "ur": "ادرک والی سٹیمڈ مچھلی",
+        "fr": "Poisson vapeur au gingembre",
+        "es": "Pescado al vapor con jengibre",
+        "pt": "Peixe no vapor com gengibre",
+        "de": "Gedämpfter Fisch mit Ingwer",
+        "id": "Ikan kukus jahe",
+        "hi": "अदरक स्टीम्ड मछली",
+        "ja": "白身魚の生姜蒸し",
+        "zh": "姜葱蒸鱼"
+      },
+      "ingredients": {
+        "ar": [
+          "١٧٠ جم شريحة سمك أبيض",
+          "قطعة زنجبيل شرائح رفيعة",
+          "٣ عيدان بصل أخضر",
+          "ملعقتان صويا صوص خفيف",
+          "ملعقة صغيرة زيت سمسم وكزبرة"
+        ],
+        "en": [
+          "170 g white fish fillet",
+          "A piece of ginger, finely sliced",
+          "3 spring onions",
+          "2 tbsp light soy sauce",
+          "1 tsp sesame oil, coriander"
+        ],
+        "ru": [
+          "170 г филе белой рыбы",
+          "Кусочек имбиря, тонкими ломтиками",
+          "3 стебля зелёного лука",
+          "2 ст. л. светлого соевого соуса",
+          "1 ч. л. кунжутного масла, кинза"
+        ],
+        "ur": [
+          "170 گرام سفید مچھلی کا فلے",
+          "ادرک کا ٹکڑا، باریک سلائس",
+          "3 ہرے پیاز",
+          "2 چمچ ہلکی سویا ساس",
+          "1 چائے کا چمچ تل کا تیل، دھنیا"
+        ],
+        "fr": [
+          "170 g de filet de poisson blanc",
+          "Un morceau de gingembre finement émincé",
+          "3 oignons verts",
+          "2 c. à s. de sauce soja claire",
+          "1 c. à c. d'huile de sésame, coriandre"
+        ],
+        "es": [
+          "170 g de filete de pescado blanco",
+          "Un trozo de jengibre en láminas finas",
+          "3 cebolletas",
+          "2 cdas de salsa de soja clara",
+          "1 cdta de aceite de sésamo, cilantro"
+        ],
+        "pt": [
+          "170 g de filete de peixe branco",
+          "Um pedaço de gengibre em lâminas finas",
+          "3 cebolinhas",
+          "2 colheres de molho de soja claro",
+          "1 c. de chá de óleo de gergelim, coentro"
+        ],
+        "de": [
+          "170 g weißes Fischfilet",
+          "Ein Stück Ingwer, fein geschnitten",
+          "3 Frühlingszwiebeln",
+          "2 EL helle Sojasauce",
+          "1 TL Sesamöl, Koriander"
+        ],
+        "id": [
+          "170 g fillet ikan putih",
+          "Sepotong jahe, iris tipis",
+          "3 batang daun bawang",
+          "2 sdm kecap asin encer",
+          "1 sdt minyak wijen, ketumbar"
+        ],
+        "hi": [
+          "170 ग्राम सफ़ेद मछली फ़िले",
+          "अदरक का टुकड़ा, पतली स्लाइस",
+          "3 हरे प्याज़",
+          "2 बड़े चम्मच लाइट सोया सॉस",
+          "1 छोटा चम्मच तिल तेल, धनिया"
+        ],
+        "ja": [
+          "白身魚の切り身170g",
+          "しょうが1かけ（細切り）",
+          "ねぎ3本",
+          "薄口しょうゆ大さじ2",
+          "ごま油小さじ1、香菜"
+        ],
+        "zh": [
+          "白身鱼柳170克",
+          "姜1块，切细丝",
+          "葱3根",
+          "生抽2大匙",
+          "香油1小匙、香菜"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "ضع نصف الزنجبيل والبصل تحت السمك في طبق",
+          "بخّره ٨-١٠ دقائق حتى ينفصل لحمه",
+          "تخلّص من الماء المتجمّع وضع الزنجبيل الطازج فوقه",
+          "سخّن الزيت حتى يدخّن واسكبه فوق السمك ثم الصويا"
+        ],
+        "en": [
+          "Lay half the ginger and onion under the fish on a plate",
+          "Steam 8-10 minutes until the flesh flakes",
+          "Discard the pooled liquid and top with fresh ginger",
+          "Heat the oil until smoking, pour it over, then the soy sauce"
+        ],
+        "ru": [
+          "Выложите половину имбиря и лука под рыбу на тарелке",
+          "Готовьте на пару 8-10 минут до расслаивания мякоти",
+          "Слейте скопившуюся жидкость и выложите свежий имбирь",
+          "Раскалите масло до дымка, полейте рыбу, затем соус"
+        ],
+        "ur": [
+          "آدھا ادرک اور پیاز پلیٹ میں مچھلی کے نیچے رکھیں",
+          "8-10 منٹ بھاپ دیں تاکہ گوشت الگ ہونے لگے",
+          "جمع شدہ پانی نکال کر تازہ ادرک اوپر رکھیں",
+          "تیل کو دھواں نکلنے تک گرم کر کے اوپر ڈالیں پھر سویا ساس"
+        ],
+        "fr": [
+          "Disposez la moitié du gingembre et de l'oignon sous le poisson",
+          "Cuisez 8-10 minutes à la vapeur jusqu'à ce que la chair s'effeuille",
+          "Jetez le liquide accumulé et ajoutez du gingembre frais",
+          "Chauffez l'huile jusqu'à fumée, versez-la dessus puis le soja"
+        ],
+        "es": [
+          "Coloca la mitad del jengibre y la cebolleta bajo el pescado",
+          "Cuece al vapor 8-10 minutos hasta que la carne se separe",
+          "Desecha el líquido acumulado y añade jengibre fresco",
+          "Calienta el aceite hasta que humee, viértelo encima y luego la soja"
+        ],
+        "pt": [
+          "Ponha metade do gengibre e da cebolinha sob o peixe",
+          "Coza no vapor 8-10 minutos até a carne lascar",
+          "Deite fora o líquido acumulado e junte gengibre fresco",
+          "Aqueça o óleo até fumegar, deite por cima e depois a soja"
+        ],
+        "de": [
+          "Die Hälfte von Ingwer und Zwiebel unter den Fisch legen",
+          "8-10 Minuten dämpfen, bis das Fleisch blättert",
+          "Angesammelte Flüssigkeit abgießen und frischen Ingwer auflegen",
+          "Öl bis zum Rauchpunkt erhitzen, darübergießen, dann die Sojasauce"
+        ],
+        "id": [
+          "Letakkan separuh jahe dan daun bawang di bawah ikan",
+          "Kukus 8-10 menit sampai dagingnya mudah terpisah",
+          "Buang air yang menggenang, beri jahe segar di atasnya",
+          "Panaskan minyak sampai berasap, siramkan, lalu kecap asin"
+        ],
+        "hi": [
+          "आधा अदरक और हरा प्याज़ मछली के नीचे रखें",
+          "8-10 मिनट भाप दें जब तक मांस अलग न होने लगे",
+          "जमा पानी हटाएँ और ताज़ा अदरक ऊपर रखें",
+          "तेल को धुआँ उठने तक गरम कर ऊपर डालें, फिर सोया सॉस"
+        ],
+        "ja": [
+          "皿にしょうがとねぎの半量を敷き、その上に魚をのせる",
+          "8〜10分蒸し、身がほぐれる状態にする",
+          "たまった水分を捨て、新しいしょうがをのせる",
+          "油を煙が出るまで熱して回しかけ、しょうゆをかける"
+        ],
+        "zh": [
+          "盘底铺一半姜丝葱段，鱼放其上",
+          "蒸8-10分钟至鱼肉能轻松分离",
+          "倒掉盘中积水，铺上新鲜姜葱丝",
+          "油烧至冒烟浇在鱼上，再淋生抽"
+        ]
+      }
+    }
+  ],
+  "snack": [
+    {
+      "id": "cn_sn_edamame_garlic",
+      "cuisine": "chinese",
+      "kcal": 140,
+      "protein": 12,
+      "carbs": 10,
+      "fat": 6,
+      "serving": {
+        "ar": "حفنة (١٠٠ جم)",
+        "en": "One handful (100 g)",
+        "ru": "Горсть (100 г)",
+        "ur": "ایک مٹھی (100 گرام)",
+        "fr": "Une poignée (100 g)",
+        "es": "Un puñado (100 g)",
+        "pt": "Um punhado (100 g)",
+        "de": "Eine Handvoll (100 g)",
+        "id": "Segenggam (100 g)",
+        "hi": "एक मुट्ठी (100 ग्राम)",
+        "ja": "ひとつかみ（100g）",
+        "zh": "一把（100克）"
+      },
+      "name": {
+        "ar": "فول الصويا بالثوم",
+        "en": "Garlic soy beans",
+        "ru": "Соевые бобы с чесноком",
+        "ur": "لہسن والے سویا بین",
+        "fr": "Fèves de soja à l'ail",
+        "es": "Habas de soja al ajo",
+        "pt": "Feijão de soja com alho",
+        "de": "Sojabohnen mit Knoblauch",
+        "id": "Kedelai bawang putih",
+        "hi": "लहसुनी सोयाबीन",
+        "ja": "にんにく枝豆",
+        "zh": "蒜香毛豆"
+      },
+      "ingredients": {
+        "ar": [
+          "١٠٠ جم قرون فول صويا",
+          "فصان ثوم مفرومان",
+          "نصف ملعقة صغيرة زيت سمسم",
+          "ملعقة صغيرة صويا صوص",
+          "رشة فلفل حار وملح"
+        ],
+        "en": [
+          "100 g soy bean pods",
+          "2 garlic cloves, chopped",
+          "Half tsp sesame oil",
+          "1 tsp soy sauce",
+          "A pinch of chilli, salt"
+        ],
+        "ru": [
+          "100 г стручков соевых бобов",
+          "2 зубчика чеснока, нарезанных",
+          "Половина ч. л. кунжутного масла",
+          "1 ч. л. соевого соуса",
+          "Щепотка чили, соль"
+        ],
+        "ur": [
+          "100 گرام سویا بین کی پھلیاں",
+          "2 لہسن کے جوے، کٹے",
+          "آدھا چائے کا چمچ تل کا تیل",
+          "1 چائے کا چمچ سویا ساس",
+          "چٹکی مرچ، نمک"
+        ],
+        "fr": [
+          "100 g de gousses de soja",
+          "2 gousses d'ail hachées",
+          "Une demi-c. à c. d'huile de sésame",
+          "1 c. à c. de sauce soja",
+          "Une pincée de piment, sel"
+        ],
+        "es": [
+          "100 g de vainas de soja",
+          "2 dientes de ajo picados",
+          "Media cdta de aceite de sésamo",
+          "1 cdta de salsa de soja",
+          "Una pizca de chile, sal"
+        ],
+        "pt": [
+          "100 g de vagens de soja",
+          "2 dentes de alho picados",
+          "Meia c. de chá de óleo de gergelim",
+          "1 c. de chá de molho de soja",
+          "Uma pitada de pimenta, sal"
+        ],
+        "de": [
+          "100 g Sojabohnen-Schoten",
+          "2 Knoblauchzehen, gehackt",
+          "Ein halber TL Sesamöl",
+          "1 TL Sojasauce",
+          "Eine Prise Chili, Salz"
+        ],
+        "id": [
+          "100 g polong kedelai",
+          "2 siung bawang putih, cincang",
+          "Setengah sdt minyak wijen",
+          "1 sdt kecap asin",
+          "Sejumput cabai, garam"
+        ],
+        "hi": [
+          "100 ग्राम सोयाबीन फलियाँ",
+          "2 लहसुन कलियाँ, कटी हुई",
+          "आधा छोटा चम्मच तिल तेल",
+          "1 छोटा चम्मच सोया सॉस",
+          "चुटकी भर मिर्च, नमक"
+        ],
+        "ja": [
+          "枝豆（さや付き）100g",
+          "にんにく2片（みじん切り）",
+          "ごま油小さじ1/2",
+          "しょうゆ小さじ1",
+          "唐辛子少々、塩"
+        ],
+        "zh": [
+          "毛豆荚100克",
+          "蒜2瓣，切末",
+          "香油半小匙",
+          "生抽1小匙",
+          "辣椒少许、盐"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اسلق القرون ٥ دقائق في ماء مملّح",
+          "سخّن زيت السمسم وشوّح الثوم دون أن يحترق",
+          "أضف القرون والصويا والفلفل وقلّب دقيقتين",
+          "قدّمها دافئة أو باردة"
+        ],
+        "en": [
+          "Boil the pods 5 minutes in salted water",
+          "Heat the sesame oil and soften the garlic without burning",
+          "Add the pods, soy sauce and chilli, toss 2 minutes",
+          "Serve warm or chilled"
+        ],
+        "ru": [
+          "Отварите стручки 5 минут в подсоленной воде",
+          "Разогрейте кунжутное масло и потомите чеснок, не подрумянивая",
+          "Добавьте стручки, соус и чили, перемешивайте 2 минуты",
+          "Подавайте тёплыми или холодными"
+        ],
+        "ur": [
+          "پھلیاں نمکین پانی میں 5 منٹ ابالیں",
+          "تل کا تیل گرم کر کے لہسن جلائے بغیر بھونیں",
+          "پھلیاں، سویا ساس اور مرچ ڈال کر 2 منٹ چلائیں",
+          "گرم یا ٹھنڈا پیش کریں"
+        ],
+        "fr": [
+          "Cuisez les gousses 5 minutes dans l'eau salée",
+          "Chauffez l'huile de sésame et faites suer l'ail sans le brûler",
+          "Ajoutez les gousses, le soja et le piment, 2 minutes",
+          "Servez tiède ou froid"
+        ],
+        "es": [
+          "Hierve las vainas 5 minutos en agua con sal",
+          "Calienta el aceite de sésamo y pocha el ajo sin quemarlo",
+          "Añade las vainas, la soja y el chile, saltea 2 minutos",
+          "Sirve templado o frío"
+        ],
+        "pt": [
+          "Ferva as vagens 5 minutos em água salgada",
+          "Aqueça o óleo de gergelim e aloure o alho sem queimar",
+          "Junte as vagens, a soja e a pimenta, salteie 2 minutos",
+          "Sirva morno ou frio"
+        ],
+        "de": [
+          "Schoten 5 Minuten in Salzwasser kochen",
+          "Sesamöl erhitzen und Knoblauch andünsten, ohne ihn zu verbrennen",
+          "Schoten, Sojasauce und Chili zugeben, 2 Minuten schwenken",
+          "Warm oder kalt servieren"
+        ],
+        "id": [
+          "Rebus polong 5 menit dalam air garam",
+          "Panaskan minyak wijen, tumis bawang putih tanpa gosong",
+          "Masukkan polong, kecap asin, cabai, aduk 2 menit",
+          "Sajikan hangat atau dingin"
+        ],
+        "hi": [
+          "फलियाँ नमकीन पानी में 5 मिनट उबालें",
+          "तिल तेल गरम कर लहसुन बिना जलाए भूनें",
+          "फलियाँ, सोया सॉस और मिर्च डालकर 2 मिनट चलाएँ",
+          "गुनगुना या ठंडा परोसें"
+        ],
+        "ja": [
+          "さやを塩湯で5分ゆでる",
+          "ごま油を熱し、にんにくを焦がさず香り出しする",
+          "さや、しょうゆ、唐辛子を加え2分あおる",
+          "温かいまま、または冷やして供する"
+        ],
+        "zh": [
+          "毛豆入淡盐水煮5分钟",
+          "香油烧热，蒜末煸香但别焦",
+          "下毛豆、生抽和辣椒翻炒2分钟",
+          "温热或冷藏后食用皆可"
+        ]
+      }
+    },
+    {
+      "id": "cn_sn_cucumber_salad",
+      "cuisine": "chinese",
+      "kcal": 90,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 6,
+      "serving": {
+        "ar": "طبق صغير",
+        "en": "One small plate",
+        "ru": "Небольшая тарелка",
+        "ur": "ایک چھوٹی پلیٹ",
+        "fr": "Une petite assiette",
+        "es": "Un plato pequeño",
+        "pt": "Um prato pequeno",
+        "de": "Ein kleiner Teller",
+        "id": "Satu piring kecil",
+        "hi": "एक छोटी प्लेट",
+        "ja": "小皿1",
+        "zh": "一小碟"
+      },
+      "name": {
+        "ar": "سلطة الخيار المهروس",
+        "en": "Smashed cucumber salad",
+        "ru": "Салат из битых огурцов",
+        "ur": "کچلا کھیرا سلاد",
+        "fr": "Salade de concombres écrasés",
+        "es": "Ensalada de pepino machacado",
+        "pt": "Salada de pepino esmagado",
+        "de": "Zerdrückter Gurkensalat",
+        "id": "Salad timun geprek",
+        "hi": "स्मैश्ड खीरा सलाद",
+        "ja": "たたききゅうりの和えもの",
+        "zh": "拍黄瓜"
+      },
+      "ingredients": {
+        "ar": [
+          "خيارتان",
+          "فصا ثوم مهروسان",
+          "ملعقة صغيرة خل أرز",
+          "ملعقة صغيرة زيت سمسم وصويا صوص",
+          "سمسم محمّص ورشة سكر وملح"
+        ],
+        "en": [
+          "2 cucumbers",
+          "2 garlic cloves, crushed",
+          "1 tsp rice vinegar",
+          "1 tsp sesame oil and soy sauce",
+          "Toasted sesame, a pinch of sugar, salt"
+        ],
+        "ru": [
+          "2 огурца",
+          "2 зубчика чеснока, раздавленных",
+          "1 ч. л. рисового уксуса",
+          "1 ч. л. кунжутного масла и соевого соуса",
+          "Обжаренный кунжут, щепотка сахара, соль"
+        ],
+        "ur": [
+          "2 کھیرے",
+          "2 لہسن کے جوے، کچلے",
+          "1 چائے کا چمچ چاول کا سرکہ",
+          "1 چائے کا چمچ تل کا تیل اور سویا ساس",
+          "بھنے تل، چٹکی چینی، نمک"
+        ],
+        "fr": [
+          "2 concombres",
+          "2 gousses d'ail écrasées",
+          "1 c. à c. de vinaigre de riz",
+          "1 c. à c. d'huile de sésame et de sauce soja",
+          "Sésame grillé, une pincée de sucre, sel"
+        ],
+        "es": [
+          "2 pepinos",
+          "2 dientes de ajo machacados",
+          "1 cdta de vinagre de arroz",
+          "1 cdta de aceite de sésamo y salsa de soja",
+          "Sésamo tostado, una pizca de azúcar, sal"
+        ],
+        "pt": [
+          "2 pepinos",
+          "2 dentes de alho esmagados",
+          "1 c. de chá de vinagre de arroz",
+          "1 c. de chá de óleo de gergelim e molho de soja",
+          "Gergelim torrado, uma pitada de açúcar, sal"
+        ],
+        "de": [
+          "2 Gurken",
+          "2 Knoblauchzehen, zerdrückt",
+          "1 TL Reisessig",
+          "1 TL Sesamöl und Sojasauce",
+          "Gerösteter Sesam, eine Prise Zucker, Salz"
+        ],
+        "id": [
+          "2 timun",
+          "2 siung bawang putih, dimemarkan",
+          "1 sdt cuka beras",
+          "1 sdt minyak wijen dan kecap asin",
+          "Wijen sangrai, sejumput gula, garam"
+        ],
+        "hi": [
+          "2 खीरे",
+          "2 लहसुन कलियाँ, कुचली हुई",
+          "1 छोटा चम्मच चावल सिरका",
+          "1 छोटा चम्मच तिल तेल और सोया सॉस",
+          "भुना तिल, चुटकी भर चीनी, नमक"
+        ],
+        "ja": [
+          "きゅうり2本",
+          "にんにく2片（潰す）",
+          "米酢小さじ1",
+          "ごま油としょうゆ各小さじ1",
+          "炒りごま、砂糖少々、塩"
+        ],
+        "zh": [
+          "黄瓜2根",
+          "蒜2瓣，拍碎",
+          "米醋1小匙",
+          "香油和生抽各1小匙",
+          "熟芝麻、糖少许、盐"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اهرس الخيار بظهر السكين ثم قطّعه قطعًا",
+          "رشّه بالملح واتركه ١٠ دقائق ثم صفّ ماءه",
+          "اخلط الثوم والخل والزيت والصويا والسكر",
+          "اسكب الصلصة ورشّ السمسم وقدّمه باردًا"
+        ],
+        "en": [
+          "Smash the cucumbers with the flat of a knife, then cut into chunks",
+          "Salt them, wait 10 minutes and drain the water",
+          "Mix the garlic, vinegar, oil, soy sauce and sugar",
+          "Pour over the dressing, sprinkle sesame and serve cold"
+        ],
+        "ru": [
+          "Раздавите огурцы плоской стороной ножа и нарежьте кусками",
+          "Посолите, подождите 10 минут и слейте воду",
+          "Смешайте чеснок, уксус, масло, соус и сахар",
+          "Полейте заправкой, посыпьте кунжутом и подавайте холодным"
+        ],
+        "ur": [
+          "کھیرے کو چاقو کی پشت سے کچل کر ٹکڑے کریں",
+          "نمک لگا کر 10 منٹ رکھیں پھر پانی نکال دیں",
+          "لہسن، سرکہ، تیل، سویا ساس اور چینی ملائیں",
+          "ڈریسنگ ڈال کر تل چھڑکیں اور ٹھنڈا پیش کریں"
+        ],
+        "fr": [
+          "Écrasez les concombres avec le plat du couteau puis coupez-les",
+          "Salez, attendez 10 minutes et égouttez l'eau",
+          "Mélangez ail, vinaigre, huile, soja et sucre",
+          "Versez la sauce, parsemez de sésame et servez froid"
+        ],
+        "es": [
+          "Machaca los pepinos con el lado plano del cuchillo y córtalos",
+          "Sálalos, espera 10 minutos y escurre el agua",
+          "Mezcla el ajo, el vinagre, el aceite, la soja y el azúcar",
+          "Vierte el aliño, espolvorea sésamo y sirve frío"
+        ],
+        "pt": [
+          "Esmague os pepinos com a lâmina da faca e corte em pedaços",
+          "Salgue, espere 10 minutos e escorra a água",
+          "Misture alho, vinagre, óleo, soja e açúcar",
+          "Regue com o molho, polvilhe gergelim e sirva frio"
+        ],
+        "de": [
+          "Gurken mit der Messerfläche zerdrücken und in Stücke schneiden",
+          "Salzen, 10 Minuten warten und das Wasser abgießen",
+          "Knoblauch, Essig, Öl, Sojasauce und Zucker mischen",
+          "Dressing angießen, Sesam bestreuen und kalt servieren"
+        ],
+        "id": [
+          "Geprek timun dengan sisi pisau lalu potong-potong",
+          "Beri garam, tunggu 10 menit, buang airnya",
+          "Campur bawang putih, cuka, minyak, kecap, gula",
+          "Siram dressing, taburi wijen, sajikan dingin"
+        ],
+        "hi": [
+          "खीरे को चाकू की चौड़ी तरफ़ से कुचलकर टुकड़े करें",
+          "नमक लगाकर 10 मिनट रखें और पानी निकाल दें",
+          "लहसुन, सिरका, तेल, सोया सॉस और चीनी मिलाएँ",
+          "ड्रेसिंग डालें, तिल छिड़कें और ठंडा परोसें"
+        ],
+        "ja": [
+          "きゅうりを包丁の腹でたたき、食べやすく切る",
+          "塩をふって10分おき、出た水気を捨てる",
+          "にんにく、酢、油、しょうゆ、砂糖を混ぜる",
+          "たれをかけ、ごまをふって冷やして供する"
+        ],
+        "zh": [
+          "用刀面把黄瓜拍裂，再切成段",
+          "撒盐腌10分钟，倒掉渗出的水",
+          "蒜末、醋、油、生抽和糖调成料汁",
+          "浇上料汁，撒芝麻，冷食风味最佳"
+        ]
+      }
+    }
+  ],
+  "dessert": [
+    {
+      "id": "cn_ds_red_bean_soup",
+      "cuisine": "chinese",
+      "kcal": 190,
+      "protein": 8,
+      "carbs": 38,
+      "fat": 1,
+      "serving": {
+        "ar": "كوب صغير",
+        "en": "One small bowl",
+        "ru": "Небольшая пиала",
+        "ur": "ایک چھوٹا پیالہ",
+        "fr": "Un petit bol",
+        "es": "Un tazón pequeño",
+        "pt": "Uma tigela pequena",
+        "de": "Eine kleine Schale",
+        "id": "Satu mangkuk kecil",
+        "hi": "एक छोटी कटोरी",
+        "ja": "小さめ1杯",
+        "zh": "一小碗"
+      },
+      "name": {
+        "ar": "حساء الفاصولياء الحمراء الحلو",
+        "en": "Sweet red bean soup",
+        "ru": "Сладкий суп из красной фасоли",
+        "ur": "میٹھا لال لوبیا سوپ",
+        "fr": "Soupe sucrée de haricots rouges",
+        "es": "Sopa dulce de frijol rojo",
+        "pt": "Sopa doce de feijão vermelho",
+        "de": "Süße Rote-Bohnen-Suppe",
+        "id": "Bubur kacang merah manis",
+        "hi": "मीठा लाल बीन सूप",
+        "ja": "おしるこ（小豆の甘いスープ）",
+        "zh": "红豆汤"
+      },
+      "ingredients": {
+        "ar": [
+          "٥٠ جم فاصولياء حمراء (أدزوكي)",
+          "٣ أكواب ماء",
+          "ملعقة صغيرة سكر أو عسل",
+          "قطعة قشر برتقال مجفف",
+          "رشة ملح"
+        ],
+        "en": [
+          "50 g adzuki red beans",
+          "3 cups water",
+          "1 tsp sugar or honey",
+          "A piece of dried orange peel",
+          "A pinch of salt"
+        ],
+        "ru": [
+          "50 г красной фасоли адзуки",
+          "3 стакана воды",
+          "1 ч. л. сахара или мёда",
+          "Кусочек сушёной апельсиновой цедры",
+          "Щепотка соли"
+        ],
+        "ur": [
+          "50 گرام لال ادزوکی لوبیا",
+          "3 کپ پانی",
+          "1 چائے کا چمچ چینی یا شہد",
+          "خشک نارنگی کے چھلکے کا ٹکڑا",
+          "چٹکی نمک"
+        ],
+        "fr": [
+          "50 g de haricots rouges azuki",
+          "3 tasses d'eau",
+          "1 c. à c. de sucre ou de miel",
+          "Un morceau d'écorce d'orange séchée",
+          "Une pincée de sel"
+        ],
+        "es": [
+          "50 g de frijoles rojos azuki",
+          "3 tazas de agua",
+          "1 cdta de azúcar o miel",
+          "Un trozo de piel de naranja seca",
+          "Una pizca de sal"
+        ],
+        "pt": [
+          "50 g de feijão vermelho azuki",
+          "3 xícaras de água",
+          "1 c. de chá de açúcar ou mel",
+          "Um pedaço de casca de laranja seca",
+          "Uma pitada de sal"
+        ],
+        "de": [
+          "50 g rote Adzukibohnen",
+          "3 Tassen Wasser",
+          "1 TL Zucker oder Honig",
+          "Ein Stück getrocknete Orangenschale",
+          "Eine Prise Salz"
+        ],
+        "id": [
+          "50 g kacang merah azuki",
+          "3 cangkir air",
+          "1 sdt gula atau madu",
+          "Sepotong kulit jeruk kering",
+          "Sejumput garam"
+        ],
+        "hi": [
+          "50 ग्राम लाल अज़ुकी बीन्स",
+          "3 कप पानी",
+          "1 छोटा चम्मच चीनी या शहद",
+          "सूखे संतरे के छिलके का टुकड़ा",
+          "चुटकी भर नमक"
+        ],
+        "ja": [
+          "小豆50g",
+          "水3カップ",
+          "砂糖またははちみつ小さじ1",
+          "干し陳皮少々",
+          "塩少々"
+        ],
+        "zh": [
+          "红豆50克",
+          "水3杯",
+          "糖或蜂蜜1小匙",
+          "陈皮1小块",
+          "盐少许"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "انقع الفاصولياء ليلة كاملة ثم صفّها",
+          "اسلقها في الماء مع قشر البرتقال ساعة",
+          "اهرس ثلثها لتصير الحساء كريميًا",
+          "أضف السكر والملح واتركها ٥ دقائق"
+        ],
+        "en": [
+          "Soak the beans overnight and drain them",
+          "Simmer in the water with the orange peel for an hour",
+          "Mash a third of the beans to make the soup creamy",
+          "Add the sugar and salt, simmer 5 more minutes"
+        ],
+        "ru": [
+          "Замочите фасоль на ночь и слейте воду",
+          "Варите в воде с цедрой апельсина около часа",
+          "Разомните треть фасоли, чтобы суп стал кремовым",
+          "Добавьте сахар и соль, варите ещё 5 минут"
+        ],
+        "ur": [
+          "لوبیا رات بھر بھگو کر چھان لیں",
+          "پانی اور نارنگی کے چھلکے کے ساتھ ایک گھنٹہ پکائیں",
+          "ایک تہائی مسل دیں تاکہ سوپ کریمی ہو",
+          "چینی اور نمک ڈال کر 5 منٹ پکائیں"
+        ],
+        "fr": [
+          "Faites tremper les haricots une nuit puis égouttez",
+          "Faites mijoter dans l'eau avec l'écorce d'orange une heure",
+          "Écrasez un tiers des haricots pour rendre la soupe crémeuse",
+          "Ajoutez le sucre et le sel, poursuivez 5 minutes"
+        ],
+        "es": [
+          "Remoja los frijoles toda la noche y escúrrelos",
+          "Cuécelos en el agua con la piel de naranja una hora",
+          "Machaca un tercio para que la sopa quede cremosa",
+          "Añade el azúcar y la sal, cocina 5 minutos más"
+        ],
+        "pt": [
+          "Demolhe o feijão de um dia para o outro e escorra",
+          "Coza na água com a casca de laranja durante uma hora",
+          "Amasse um terço do feijão para a sopa ficar cremosa",
+          "Junte o açúcar e o sal, cozinhe mais 5 minutos"
+        ],
+        "de": [
+          "Bohnen über Nacht einweichen und abgießen",
+          "Im Wasser mit der Orangenschale eine Stunde köcheln",
+          "Ein Drittel der Bohnen zerdrücken für cremige Konsistenz",
+          "Zucker und Salz zugeben, 5 Minuten weiterköcheln"
+        ],
+        "id": [
+          "Rendam kacang semalaman lalu tiriskan",
+          "Rebus dalam air bersama kulit jeruk selama satu jam",
+          "Lumatkan sepertiga kacang agar bubur creamy",
+          "Tambahkan gula dan garam, masak 5 menit lagi"
+        ],
+        "hi": [
+          "बीन्स को रातभर भिगोकर छान लें",
+          "पानी और संतरे के छिलके के साथ एक घंटा पकाएँ",
+          "एक तिहाई बीन्स मसलें ताकि सूप क्रीमी हो",
+          "चीनी और नमक डालकर 5 मिनट और पकाएँ"
+        ],
+        "ja": [
+          "小豆を一晩浸水させ、水気を切る",
+          "水と陳皮とともに1時間煮る",
+          "1/3量を潰してとろみを出す",
+          "砂糖と塩を加え、さらに5分煮る"
+        ],
+        "zh": [
+          "红豆浸泡一夜后沥干",
+          "加水和陈皮小火煮约1小时",
+          "压碎约三分之一豆子，让汤更浓稠",
+          "加糖和盐，再煮5分钟"
+        ]
+      }
+    },
+    {
+      "id": "cn_ds_almond_jelly",
+      "cuisine": "chinese",
+      "kcal": 130,
+      "protein": 4,
+      "carbs": 18,
+      "fat": 5,
+      "serving": {
+        "ar": "قطعتان",
+        "en": "2 pieces",
+        "ru": "2 порции",
+        "ur": "2 ٹکڑے",
+        "fr": "2 parts",
+        "es": "2 porciones",
+        "pt": "2 porções",
+        "de": "2 Stück",
+        "id": "2 potong",
+        "hi": "2 टुकड़े",
+        "ja": "2切れ",
+        "zh": "2块"
+      },
+      "name": {
+        "ar": "حلوى اللوز الهلامية",
+        "en": "Almond milk jelly",
+        "ru": "Миндальное желе",
+        "ur": "بادام دودھ جیلی",
+        "fr": "Gelée au lait d'amande",
+        "es": "Gelatina de leche de almendra",
+        "pt": "Gelatina de leite de amêndoa",
+        "de": "Mandelmilch-Gelee",
+        "id": "Jeli susu almon",
+        "hi": "बादाम दूध जेली",
+        "ja": "杏仁豆腐",
+        "zh": "杏仁豆腐"
+      },
+      "ingredients": {
+        "ar": [
+          "كوب حليب لوز غير محلّى",
+          "٢ جم مسحوق أجار",
+          "ملعقة صغيرة عسل",
+          "نصف ملعقة صغيرة خلاصة لوز",
+          "فواكه طازجة للتقديم"
+        ],
+        "en": [
+          "1 cup unsweetened almond milk",
+          "2 g agar powder",
+          "1 tsp honey",
+          "Half tsp almond extract",
+          "Fresh fruit to serve"
+        ],
+        "ru": [
+          "1 стакан несладкого миндального молока",
+          "2 г агар-агара",
+          "1 ч. л. мёда",
+          "Половина ч. л. миндального экстракта",
+          "Свежие фрукты для подачи"
+        ],
+        "ur": [
+          "1 کپ بغیر میٹھا بادام کا دودھ",
+          "2 گرام اگر پاؤڈر",
+          "1 چائے کا چمچ شہد",
+          "آدھا چائے کا چمچ بادام ایسنس",
+          "پیش کرنے کے لیے تازہ پھل"
+        ],
+        "fr": [
+          "1 tasse de lait d'amande non sucré",
+          "2 g d'agar-agar en poudre",
+          "1 c. à c. de miel",
+          "Une demi-c. à c. d'extrait d'amande",
+          "Fruits frais pour servir"
+        ],
+        "es": [
+          "1 taza de leche de almendra sin azúcar",
+          "2 g de agar en polvo",
+          "1 cdta de miel",
+          "Media cdta de extracto de almendra",
+          "Fruta fresca para servir"
+        ],
+        "pt": [
+          "1 xícara de leite de amêndoa sem açúcar",
+          "2 g de ágar em pó",
+          "1 c. de chá de mel",
+          "Meia c. de chá de extrato de amêndoa",
+          "Fruta fresca para servir"
+        ],
+        "de": [
+          "1 Tasse ungesüßte Mandelmilch",
+          "2 g Agar-Pulver",
+          "1 TL Honig",
+          "Ein halber TL Mandelaroma",
+          "Frisches Obst zum Servieren"
+        ],
+        "id": [
+          "1 cangkir susu almon tanpa gula",
+          "2 g bubuk agar",
+          "1 sdt madu",
+          "Setengah sdt esens almon",
+          "Buah segar untuk penyajian"
+        ],
+        "hi": [
+          "1 कप बिना चीनी बादाम दूध",
+          "2 ग्राम अगर पाउडर",
+          "1 छोटा चम्मच शहद",
+          "आधा छोटा चम्मच बादाम एसेंस",
+          "परोसने के लिए ताज़े फल"
+        ],
+        "ja": [
+          "無糖アーモンドミルク1カップ",
+          "粉寒天2g",
+          "はちみつ小さじ1",
+          "アーモンドエッセンス小さじ1/2",
+          "季節の果物"
+        ],
+        "zh": [
+          "无糖杏仁奶1杯",
+          "琼脂粉2克",
+          "蜂蜜1小匙",
+          "杏仁精半小匙",
+          "新鲜水果佐食"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "أذب الأجار في نصف كوب ماء واغلِه دقيقتين",
+          "أضف حليب اللوز والعسل وسخّنه دون غليان",
+          "أضف خلاصة اللوز واسكبه في قالب",
+          "برّده ساعتين وقطّعه مكعبات وقدّمه مع الفواكه"
+        ],
+        "en": [
+          "Dissolve the agar in half a cup of water and boil 2 minutes",
+          "Add the almond milk and honey, heat without boiling",
+          "Stir in the almond extract and pour into a mould",
+          "Chill 2 hours, cut into cubes and serve with fruit"
+        ],
+        "ru": [
+          "Растворите агар в половине стакана воды и кипятите 2 минуты",
+          "Добавьте миндальное молоко и мёд, прогрейте без кипения",
+          "Вмешайте миндальный экстракт и вылейте в форму",
+          "Охладите 2 часа, нарежьте кубиками и подайте с фруктами"
+        ],
+        "ur": [
+          "اگر کو آدھے کپ پانی میں گھول کر 2 منٹ ابالیں",
+          "بادام کا دودھ اور شہد ڈال کر بغیر ابالے گرم کریں",
+          "بادام ایسنس ملا کر سانچے میں ڈالیں",
+          "2 گھنٹے ٹھنڈا کر کے کیوبز کاٹ کر پھلوں کے ساتھ پیش کریں"
+        ],
+        "fr": [
+          "Dissolvez l'agar dans un demi-verre d'eau et bouillez 2 minutes",
+          "Ajoutez le lait d'amande et le miel, chauffez sans bouillir",
+          "Incorporez l'extrait d'amande et versez dans un moule",
+          "Réfrigérez 2 heures, coupez en cubes et servez avec les fruits"
+        ],
+        "es": [
+          "Disuelve el agar en media taza de agua y hierve 2 minutos",
+          "Añade la leche de almendra y la miel, calienta sin hervir",
+          "Incorpora el extracto de almendra y vierte en un molde",
+          "Enfría 2 horas, corta en cubos y sirve con fruta"
+        ],
+        "pt": [
+          "Dissolva o ágar em meia xícara de água e ferva 2 minutos",
+          "Junte o leite de amêndoa e o mel, aqueça sem ferver",
+          "Junte o extrato de amêndoa e deite numa forma",
+          "Leve ao frio 2 horas, corte em cubos e sirva com fruta"
+        ],
+        "de": [
+          "Agar in einer halben Tasse Wasser lösen und 2 Minuten kochen",
+          "Mandelmilch und Honig zugeben, erwärmen ohne zu kochen",
+          "Mandelaroma unterrühren und in eine Form gießen",
+          "2 Stunden kühlen, in Würfel schneiden und mit Obst servieren"
+        ],
+        "id": [
+          "Larutkan agar dalam setengah cangkir air, didihkan 2 menit",
+          "Tambahkan susu almon dan madu, panaskan tanpa mendidih",
+          "Masukkan esens almon lalu tuang ke cetakan",
+          "Dinginkan 2 jam, potong dadu, sajikan dengan buah"
+        ],
+        "hi": [
+          "अगर को आधा कप पानी में घोलकर 2 मिनट उबालें",
+          "बादाम दूध और शहद डालें, बिना उबाले गरम करें",
+          "बादाम एसेंस मिलाकर साँचे में डालें",
+          "2 घंटे ठंडा करें, क्यूब काटें और फलों के साथ परोसें"
+        ],
+        "ja": [
+          "粉寒天を水1/2カップに溶かし2分沸かす",
+          "アーモンドミルクとはちみつを加え、沸騰させずに温める",
+          "アーモンドエッセンスを混ぜ、型に流す",
+          "2時間冷やし、角切りにして果物とともに供する"
+        ],
+        "zh": [
+          "琼脂粉用半杯水化开，煮沸2分钟",
+          "加杏仁奶和蜂蜜，加热但不要沸腾",
+          "拌入杏仁精，倒入模具",
+          "冷藏2小时，切块配水果享用"
+        ]
+      }
+    }
+  ]
+}
