@@ -1,0 +1,1972 @@
+{
+  "breakfast": [
+    {
+      "id": "mx_bf_huevos_rancheros",
+      "cuisine": "mexican",
+      "kcal": 340,
+      "protein": 20,
+      "carbs": 34,
+      "fat": 14,
+      "serving": {
+        "ar": "بيضتان + تورتيلا",
+        "en": "2 eggs + 1 tortilla",
+        "ru": "2 яйца + 1 тортилья",
+        "ur": "2 انڈے + 1 ٹورٹیا",
+        "fr": "2 œufs + 1 tortilla",
+        "es": "2 huevos + 1 tortilla",
+        "pt": "2 ovos + 1 tortilha",
+        "de": "2 Eier + 1 Tortilla",
+        "id": "2 telur + 1 tortilla",
+        "hi": "2 अंडे + 1 टॉर्टिला",
+        "ja": "卵2個＋トルティーヤ1枚",
+        "zh": "鸡蛋2个＋玉米饼1张"
+      },
+      "name": {
+        "ar": "ويفوس رانتشيروس",
+        "en": "Huevos rancheros",
+        "ru": "Уэвос ранчерос",
+        "ur": "ویووس رانچیروس",
+        "fr": "Huevos rancheros",
+        "es": "Huevos rancheros",
+        "pt": "Huevos rancheros",
+        "de": "Huevos Rancheros",
+        "id": "Huevos rancheros",
+        "hi": "वेवोस रांचेरोस",
+        "ja": "ウエボス・ランチェロス",
+        "zh": "墨西哥牧场蛋"
+      },
+      "ingredients": {
+        "ar": [
+          "بيضتان",
+          "تورتيلا ذرة واحدة",
+          "حبتا طماطم وفلفل هالابينو",
+          "ربع كوب فاصولياء سوداء",
+          "ملعقة صغيرة زيت وكزبرة وملح"
+        ],
+        "en": [
+          "2 eggs",
+          "1 corn tortilla",
+          "2 tomatoes and 1 jalapeño",
+          "Quarter cup black beans",
+          "1 tsp oil, coriander, salt"
+        ],
+        "ru": [
+          "2 яйца",
+          "1 кукурузная тортилья",
+          "2 помидора и 1 халапеньо",
+          "Четверть стакана чёрной фасоли",
+          "1 ч. л. масла, кинза, соль"
+        ],
+        "ur": [
+          "2 انڈے",
+          "1 مکئی کا ٹورٹیا",
+          "2 ٹماٹر اور 1 ہالاپینو",
+          "چوتھائی کپ کالی پھلیاں",
+          "1 چائے کا چمچ تیل، دھنیا، نمک"
+        ],
+        "fr": [
+          "2 œufs",
+          "1 tortilla de maïs",
+          "2 tomates et 1 jalapeño",
+          "Un quart de tasse de haricots noirs",
+          "1 c. à c. d'huile, coriandre, sel"
+        ],
+        "es": [
+          "2 huevos",
+          "1 tortilla de maíz",
+          "2 tomates y 1 jalapeño",
+          "Un cuarto de taza de frijoles negros",
+          "1 cdta de aceite, cilantro, sal"
+        ],
+        "pt": [
+          "2 ovos",
+          "1 tortilha de milho",
+          "2 tomates e 1 jalapeño",
+          "Um quarto de xícara de feijão preto",
+          "1 c. de chá de óleo, coentro, sal"
+        ],
+        "de": [
+          "2 Eier",
+          "1 Mais-Tortilla",
+          "2 Tomaten und 1 Jalapeño",
+          "Eine viertel Tasse schwarze Bohnen",
+          "1 TL Öl, Koriander, Salz"
+        ],
+        "id": [
+          "2 telur",
+          "1 tortilla jagung",
+          "2 tomat dan 1 jalapeño",
+          "Seperempat cangkir kacang hitam",
+          "1 sdt minyak, ketumbar, garam"
+        ],
+        "hi": [
+          "2 अंडे",
+          "1 कॉर्न टॉर्टिला",
+          "2 टमाटर और 1 हालापेन्यो",
+          "एक चौथाई कप काली बीन्स",
+          "1 छोटा चम्मच तेल, धनिया, नमक"
+        ],
+        "ja": [
+          "卵2個",
+          "コーントルティーヤ1枚",
+          "トマト2個とハラペーニョ1本",
+          "黒豆1/4カップ",
+          "油小さじ1、香菜、塩"
+        ],
+        "zh": [
+          "鸡蛋2个",
+          "玉米饼1张",
+          "番茄2个、墨西哥辣椒1根",
+          "黑豆1/4杯",
+          "油1小匙、香菜、盐"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اهرس الطماطم مع الهالابينو واطبخها ٨ دقائق",
+          "سخّن التورتيلا على مقلاة جافة",
+          "اقلِ البيضتين بالزيت",
+          "ضع التورتيلا ثم الفاصولياء ثم البيض والصلصة"
+        ],
+        "en": [
+          "Blend the tomatoes with the jalapeño and cook 8 minutes",
+          "Warm the tortilla in a dry pan",
+          "Fry the two eggs in the oil",
+          "Layer tortilla, beans, eggs, then the sauce"
+        ],
+        "ru": [
+          "Измельчите помидоры с халапеньо и варите 8 минут",
+          "Разогрейте тортилью на сухой сковороде",
+          "Пожарьте два яйца на масле",
+          "Выложите тортилью, фасоль, яйца и соус"
+        ],
+        "ur": [
+          "ٹماٹر اور ہالاپینو پیس کر 8 منٹ پکائیں",
+          "ٹورٹیا کو خشک توے پر گرم کریں",
+          "دونوں انڈے تیل میں فرائی کریں",
+          "ٹورٹیا، پھلیاں، انڈے پھر ساس رکھیں"
+        ],
+        "fr": [
+          "Mixez les tomates avec le jalapeño et cuisez 8 minutes",
+          "Réchauffez la tortilla à sec",
+          "Faites frire les deux œufs dans l'huile",
+          "Superposez tortilla, haricots, œufs puis la sauce"
+        ],
+        "es": [
+          "Tritura los tomates con el jalapeño y cocina 8 minutos",
+          "Calienta la tortilla en una sartén seca",
+          "Fríe los dos huevos en el aceite",
+          "Monta tortilla, frijoles, huevos y la salsa"
+        ],
+        "pt": [
+          "Triture os tomates com o jalapeño e cozinhe 8 minutos",
+          "Aqueça a tortilha numa frigideira seca",
+          "Frite os dois ovos no óleo",
+          "Monte tortilha, feijão, ovos e o molho"
+        ],
+        "de": [
+          "Tomaten mit Jalapeño pürieren und 8 Minuten kochen",
+          "Tortilla in trockener Pfanne erwärmen",
+          "Beide Eier im Öl braten",
+          "Tortilla, Bohnen, Eier und Sauce schichten"
+        ],
+        "id": [
+          "Haluskan tomat dengan jalapeño, masak 8 menit",
+          "Hangatkan tortilla di wajan kering",
+          "Goreng dua telur dengan minyak",
+          "Susun tortilla, kacang, telur, lalu saus"
+        ],
+        "hi": [
+          "टमाटर और हालापेन्यो पीसकर 8 मिनट पकाएँ",
+          "टॉर्टिला को सूखे तवे पर गरम करें",
+          "दोनों अंडे तेल में फ्राई करें",
+          "टॉर्टिला, बीन्स, अंडे फिर सॉस लगाएँ"
+        ],
+        "ja": [
+          "トマトとハラペーニョをすりつぶし8分煮る",
+          "トルティーヤを乾いたフライパンで温める",
+          "卵2個を油で焼く",
+          "トルティーヤ、豆、卵、ソースの順に重ねる"
+        ],
+        "zh": [
+          "番茄与辣椒打泥，煮8分钟",
+          "玉米饼在干锅上加热",
+          "两个鸡蛋用油煎好",
+          "依次叠上玉米饼、黑豆、煎蛋和酱汁"
+        ]
+      }
+    },
+    {
+      "id": "mx_bf_avocado_bean_toast",
+      "cuisine": "mexican",
+      "kcal": 320,
+      "protein": 12,
+      "carbs": 38,
+      "fat": 14,
+      "serving": {
+        "ar": "شريحتان",
+        "en": "2 slices",
+        "ru": "2 ломтика",
+        "ur": "2 سلائس",
+        "fr": "2 tranches",
+        "es": "2 rebanadas",
+        "pt": "2 fatias",
+        "de": "2 Scheiben",
+        "id": "2 iris",
+        "hi": "2 स्लाइस",
+        "ja": "2枚",
+        "zh": "2片"
+      },
+      "name": {
+        "ar": "توست الأفوكادو والفاصولياء",
+        "en": "Avocado and black bean toast",
+        "ru": "Тост с авокадо и чёрной фасолью",
+        "ur": "ایواکاڈو اور کالی پھلیوں کا ٹوسٹ",
+        "fr": "Tartine avocat et haricots noirs",
+        "es": "Tostada de aguacate y frijoles",
+        "pt": "Torrada de abacate e feijão preto",
+        "de": "Avocado-Bohnen-Toast",
+        "id": "Roti panggang alpukat kacang hitam",
+        "hi": "एवोकाडो ब्लैक बीन टोस्ट",
+        "ja": "アボカドと黒豆のトースト",
+        "zh": "牛油果黑豆吐司"
+      },
+      "ingredients": {
+        "ar": [
+          "شريحتا خبز قمح كامل",
+          "نصف حبة أفوكادو",
+          "ربع كوب فاصولياء سوداء مسلوقة",
+          "عصير نصف ليمونة",
+          "كزبرة وفلفل حار وملح"
+        ],
+        "en": [
+          "2 slices wholegrain bread",
+          "Half an avocado",
+          "Quarter cup cooked black beans",
+          "Juice of half a lime",
+          "Coriander, chilli flakes, salt"
+        ],
+        "ru": [
+          "2 ломтика цельнозернового хлеба",
+          "Половина авокадо",
+          "Четверть стакана варёной чёрной фасоли",
+          "Сок половины лайма",
+          "Кинза, хлопья чили, соль"
+        ],
+        "ur": [
+          "2 سلائس ہول گرین بریڈ",
+          "آدھا ایواکاڈو",
+          "چوتھائی کپ اُبلی کالی پھلیاں",
+          "آدھے لیموں کا رس",
+          "دھنیا، مرچ فلیکس، نمک"
+        ],
+        "fr": [
+          "2 tranches de pain complet",
+          "Un demi-avocat",
+          "Un quart de tasse de haricots noirs cuits",
+          "Le jus d'un demi-citron vert",
+          "Coriandre, piment en flocons, sel"
+        ],
+        "es": [
+          "2 rebanadas de pan integral",
+          "Medio aguacate",
+          "Un cuarto de taza de frijoles negros cocidos",
+          "El zumo de media lima",
+          "Cilantro, chile en hojuelas, sal"
+        ],
+        "pt": [
+          "2 fatias de pão integral",
+          "Meio abacate",
+          "Um quarto de xícara de feijão preto cozido",
+          "Sumo de meia lima",
+          "Coentro, flocos de pimenta, sal"
+        ],
+        "de": [
+          "2 Scheiben Vollkornbrot",
+          "Eine halbe Avocado",
+          "Eine viertel Tasse gekochte schwarze Bohnen",
+          "Saft einer halben Limette",
+          "Koriander, Chiliflocken, Salz"
+        ],
+        "id": [
+          "2 iris roti gandum utuh",
+          "Setengah alpukat",
+          "Seperempat cangkir kacang hitam matang",
+          "Perasan setengah jeruk nipis",
+          "Ketumbar, cabai bubuk, garam"
+        ],
+        "hi": [
+          "2 स्लाइस होल ग्रेन ब्रेड",
+          "आधा एवोकाडो",
+          "एक चौथाई कप उबली काली बीन्स",
+          "आधे नींबू का रस",
+          "धनिया, मिर्च फ्लेक्स, नमक"
+        ],
+        "ja": [
+          "全粒粉パン2枚",
+          "アボカド1/2個",
+          "茹で黒豆1/4カップ",
+          "ライム1/2個の絞り汁",
+          "香菜、チリフレーク、塩"
+        ],
+        "zh": [
+          "全麦面包2片",
+          "牛油果半个",
+          "熟黑豆1/4杯",
+          "半个青柠的汁",
+          "香菜、辣椒片、盐"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اهرس الأفوكادو مع الليمون والملح",
+          "اهرس نصف الفاصولياء واترك النصف حبًّا",
+          "حمّص الخبز وافرد الأفوكادو عليه",
+          "أضف الفاصولياء والكزبرة والفلفل الحار"
+        ],
+        "en": [
+          "Mash the avocado with the lime juice and salt",
+          "Mash half the beans and leave the rest whole",
+          "Toast the bread and spread the avocado",
+          "Top with the beans, coriander and chilli flakes"
+        ],
+        "ru": [
+          "Разомните авокадо с соком лайма и солью",
+          "Половину фасоли разомните, остальное оставьте целым",
+          "Подрумяньте хлеб и намажьте авокадо",
+          "Добавьте фасоль, кинзу и хлопья чили"
+        ],
+        "ur": [
+          "ایواکاڈو کو لیموں اور نمک کے ساتھ مسل لیں",
+          "آدھی پھلیاں مسلیں، باقی ثابت رکھیں",
+          "بریڈ ٹوسٹ کر کے ایواکاڈو پھیلائیں",
+          "پھلیاں، دھنیا اور مرچ ڈالیں"
+        ],
+        "fr": [
+          "Écrasez l'avocat avec le citron vert et le sel",
+          "Écrasez la moitié des haricots, gardez le reste entier",
+          "Grillez le pain et étalez l'avocat",
+          "Ajoutez les haricots, la coriandre et le piment"
+        ],
+        "es": [
+          "Machaca el aguacate con la lima y la sal",
+          "Machaca la mitad de los frijoles y deja el resto entero",
+          "Tuesta el pan y unta el aguacate",
+          "Corona con los frijoles, cilantro y chile"
+        ],
+        "pt": [
+          "Amasse o abacate com a lima e o sal",
+          "Amasse metade do feijão e deixe o resto inteiro",
+          "Torre o pão e espalhe o abacate",
+          "Cubra com o feijão, coentro e pimenta"
+        ],
+        "de": [
+          "Avocado mit Limettensaft und Salz zerdrücken",
+          "Die Hälfte der Bohnen zerdrücken, den Rest ganz lassen",
+          "Brot toasten und die Avocado darauf streichen",
+          "Mit Bohnen, Koriander und Chili belegen"
+        ],
+        "id": [
+          "Lumatkan alpukat dengan jeruk nipis dan garam",
+          "Lumatkan separuh kacang, sisanya biarkan utuh",
+          "Panggang roti dan oleskan alpukat",
+          "Beri kacang, ketumbar, dan cabai bubuk"
+        ],
+        "hi": [
+          "एवोकाडो को नींबू और नमक के साथ मैश करें",
+          "आधी बीन्स मैश करें, बाकी साबुत रखें",
+          "ब्रेड सेंककर एवोकाडो फैलाएँ",
+          "ऊपर बीन्स, धनिया और मिर्च फ्लेक्स डालें"
+        ],
+        "ja": [
+          "アボカドをライム汁と塩で潰す",
+          "黒豆の半量を潰し、残りは粒のまま",
+          "パンを焼きアボカドを塗る",
+          "豆、香菜、チリフレークをのせる"
+        ],
+        "zh": [
+          "牛油果加青柠汁和盐压成泥",
+          "黑豆压碎一半，另一半保持整粒",
+          "面包烤香，抹上牛油果泥",
+          "铺黑豆，撒香菜和辣椒片"
+        ]
+      }
+    }
+  ],
+  "lunch": [
+    {
+      "id": "mx_ln_chicken_fajita_bowl",
+      "cuisine": "mexican",
+      "kcal": 420,
+      "protein": 38,
+      "carbs": 40,
+      "fat": 12,
+      "serving": {
+        "ar": "طبق (١٥٠ جم دجاج + أرز)",
+        "en": "One bowl (150 g chicken + rice)",
+        "ru": "Одна миска (150 г курицы + рис)",
+        "ur": "ایک باؤل (150 گرام چکن + چاول)",
+        "fr": "Un bol (150 g de poulet + riz)",
+        "es": "Un bol (150 g de pollo + arroz)",
+        "pt": "Uma tigela (150 g de frango + arroz)",
+        "de": "Eine Bowl (150 g Hähnchen + Reis)",
+        "id": "Satu bowl (150 g ayam + nasi)",
+        "hi": "एक बाउल (150 ग्राम चिकन + चावल)",
+        "ja": "1ボウル（鶏肉150g＋ご飯）",
+        "zh": "一碗（鸡肉150克＋米饭）"
+      },
+      "name": {
+        "ar": "بول فاهيتا الدجاج",
+        "en": "Chicken fajita bowl",
+        "ru": "Боул с курицей фахита",
+        "ur": "چکن فاہیتا باؤل",
+        "fr": "Bowl fajita au poulet",
+        "es": "Bowl de fajita de pollo",
+        "pt": "Bowl de fajita de frango",
+        "de": "Hähnchen-Fajita-Bowl",
+        "id": "Bowl fajita ayam",
+        "hi": "चिकन फाहिता बाउल",
+        "ja": "チキンファヒータボウル",
+        "zh": "鸡肉法士达碗"
+      },
+      "ingredients": {
+        "ar": [
+          "١٥٠ جم صدر دجاج شرائح",
+          "١٠٠ جم أرز بني مطبوخ",
+          "فلفل رومي وبصلة شرائح",
+          "ملعقة صغيرة زيت وبابريكا وكمون",
+          "ليمون وكزبرة وربع أفوكادو"
+        ],
+        "en": [
+          "150 g chicken breast, sliced",
+          "100 g cooked brown rice",
+          "1 bell pepper and 1 onion, sliced",
+          "1 tsp oil, paprika, cumin",
+          "Lime, coriander, quarter avocado"
+        ],
+        "ru": [
+          "150 г куриной грудки, ломтиками",
+          "100 г варёного бурого риса",
+          "1 болгарский перец и 1 луковица, нарезанные",
+          "1 ч. л. масла, паприка, зира",
+          "Лайм, кинза, четверть авокадо"
+        ],
+        "ur": [
+          "150 گرام چکن بریسٹ، سلائس",
+          "100 گرام پکا براؤن رائس",
+          "1 شملہ مرچ اور 1 پیاز، سلائس",
+          "1 چائے کا چمچ تیل، پیپریکا، زیرہ",
+          "لیموں، دھنیا، چوتھائی ایواکاڈو"
+        ],
+        "fr": [
+          "150 g de blanc de poulet émincé",
+          "100 g de riz complet cuit",
+          "1 poivron et 1 oignon émincés",
+          "1 c. à c. d'huile, paprika, cumin",
+          "Citron vert, coriandre, un quart d'avocat"
+        ],
+        "es": [
+          "150 g de pechuga de pollo en tiras",
+          "100 g de arroz integral cocido",
+          "1 pimiento y 1 cebolla en tiras",
+          "1 cdta de aceite, pimentón, comino",
+          "Lima, cilantro, un cuarto de aguacate"
+        ],
+        "pt": [
+          "150 g de peito de frango às tiras",
+          "100 g de arroz integral cozido",
+          "1 pimento e 1 cebola às tiras",
+          "1 c. de chá de óleo, colorau, cominho",
+          "Lima, coentro, um quarto de abacate"
+        ],
+        "de": [
+          "150 g Hähnchenbrust in Streifen",
+          "100 g gekochter Naturreis",
+          "1 Paprika und 1 Zwiebel in Streifen",
+          "1 TL Öl, Paprikapulver, Kreuzkümmel",
+          "Limette, Koriander, eine viertel Avocado"
+        ],
+        "id": [
+          "150 g dada ayam, iris",
+          "100 g nasi merah matang",
+          "1 paprika dan 1 bawang bombai, iris",
+          "1 sdt minyak, paprika bubuk, jintan",
+          "Jeruk nipis, ketumbar, seperempat alpukat"
+        ],
+        "hi": [
+          "150 ग्राम चिकन ब्रेस्ट, स्लाइस",
+          "100 ग्राम पका ब्राउन राइस",
+          "1 शिमला मिर्च और 1 प्याज़, स्लाइस",
+          "1 छोटा चम्मच तेल, पैपरिका, जीरा",
+          "नींबू, धनिया, एक चौथाई एवोकाडो"
+        ],
+        "ja": [
+          "鶏むね肉150g（細切り）",
+          "炊いた玄米100g",
+          "パプリカ1個と玉ねぎ1個（細切り）",
+          "油小さじ1、パプリカ、クミン",
+          "ライム、香菜、アボカド1/4個"
+        ],
+        "zh": [
+          "鸡胸肉150克，切条",
+          "熟糙米饭100克",
+          "彩椒1个、洋葱1个，切条",
+          "油1小匙、红椒粉、孜然",
+          "青柠、香菜、牛油果1/4个"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "تبّل الدجاج بالبابريكا والكمون والملح",
+          "اقلِه على نار عالية ٦ دقائق ثم ارفعه",
+          "شوّح الفلفل والبصل في نفس المقلاة",
+          "رتّب الأرز والدجاج والخضار وأضف الأفوكادو والليمون"
+        ],
+        "en": [
+          "Season the chicken with paprika, cumin and salt",
+          "Sear it on high heat 6 minutes, then set aside",
+          "Sauté the pepper and onion in the same pan",
+          "Layer rice, chicken and vegetables, add avocado and lime"
+        ],
+        "ru": [
+          "Приправьте курицу паприкой, зирой и солью",
+          "Обжарьте на сильном огне 6 минут и отложите",
+          "В той же сковороде обжарьте перец и лук",
+          "Выложите рис, курицу и овощи, добавьте авокадо и лайм"
+        ],
+        "ur": [
+          "چکن کو پیپریکا، زیرہ اور نمک لگائیں",
+          "تیز آنچ پر 6 منٹ فرائی کر کے نکال لیں",
+          "اسی پین میں شملہ مرچ اور پیاز بھونیں",
+          "چاول، چکن اور سبزیاں رکھ کر ایواکاڈو اور لیموں ڈالیں"
+        ],
+        "fr": [
+          "Assaisonnez le poulet de paprika, cumin et sel",
+          "Saisissez-le 6 minutes à feu vif puis réservez",
+          "Faites revenir le poivron et l'oignon dans la même poêle",
+          "Dressez riz, poulet et légumes, ajoutez avocat et citron vert"
+        ],
+        "es": [
+          "Sazona el pollo con pimentón, comino y sal",
+          "Séllalo a fuego fuerte 6 minutos y resérvalo",
+          "Saltea el pimiento y la cebolla en la misma sartén",
+          "Monta arroz, pollo y verduras, añade aguacate y lima"
+        ],
+        "pt": [
+          "Tempere o frango com colorau, cominho e sal",
+          "Seleee em lume forte 6 minutos e reserve",
+          "Salteie o pimento e a cebola na mesma frigideira",
+          "Monte arroz, frango e legumes, junte abacate e lima"
+        ],
+        "de": [
+          "Hähnchen mit Paprika, Kreuzkümmel und Salz würzen",
+          "Bei starker Hitze 6 Minuten anbraten, beiseitestellen",
+          "Paprika und Zwiebel in derselben Pfanne anbraten",
+          "Reis, Hähnchen und Gemüse schichten, Avocado und Limette dazu"
+        ],
+        "id": [
+          "Bumbui ayam dengan paprika bubuk, jintan, garam",
+          "Tumis api besar 6 menit lalu angkat",
+          "Tumis paprika dan bawang di wajan yang sama",
+          "Tata nasi, ayam, sayuran, tambah alpukat dan jeruk nipis"
+        ],
+        "hi": [
+          "चिकन पर पैपरिका, जीरा और नमक लगाएँ",
+          "तेज़ आँच पर 6 मिनट भूनकर निकाल लें",
+          "उसी पैन में शिमला मिर्च और प्याज़ भूनें",
+          "चावल, चिकन और सब्ज़ियाँ लगाएँ, एवोकाडो और नींबू डालें"
+        ],
+        "ja": [
+          "鶏肉にパプリカ、クミン、塩をまぶす",
+          "強火で6分焼いて取り出す",
+          "同じフライパンでパプリカと玉ねぎを炒める",
+          "ご飯、鶏肉、野菜を盛り、アボカドとライムを添える"
+        ],
+        "zh": [
+          "鸡肉用红椒粉、孜然和盐腌匀",
+          "大火煎6分钟后盛出",
+          "同锅炒香彩椒和洋葱",
+          "盛入米饭、鸡肉和蔬菜，配牛油果和青柠"
+        ]
+      }
+    },
+    {
+      "id": "mx_ln_sopa_azteca",
+      "cuisine": "mexican",
+      "kcal": 260,
+      "protein": 14,
+      "carbs": 32,
+      "fat": 9,
+      "serving": {
+        "ar": "طبق كبير",
+        "en": "One large bowl",
+        "ru": "Большая тарелка",
+        "ur": "ایک بڑا پیالہ",
+        "fr": "Un grand bol",
+        "es": "Un tazón grande",
+        "pt": "Uma tigela grande",
+        "de": "Eine große Schale",
+        "id": "Satu mangkuk besar",
+        "hi": "एक बड़ा कटोरा",
+        "ja": "大きめ1杯",
+        "zh": "一大碗"
+      },
+      "name": {
+        "ar": "شوربة أزتيكا بالطماطم",
+        "en": "Aztec tortilla soup",
+        "ru": "Ацтекский суп с тортильей",
+        "ur": "ازٹیک ٹورٹیا سوپ",
+        "fr": "Soupe aztèque à la tortilla",
+        "es": "Sopa azteca",
+        "pt": "Sopa asteca de tortilha",
+        "de": "Aztekische Tortillasuppe",
+        "id": "Sup tortilla Aztec",
+        "hi": "एज़्टेक टॉर्टिला सूप",
+        "ja": "アステカ風トルティーヤスープ",
+        "zh": "阿兹特克玉米饼汤"
+      },
+      "ingredients": {
+        "ar": [
+          "٣ حبات طماطم وبصلة وفص ثوم",
+          "٢ كوب مرق دجاج",
+          "٥٠ جم دجاج مسلوق مفتّت",
+          "تورتيلا ذرة مقطعة شرائط",
+          "أفوكادو وكزبرة وليمون وفلفل حار"
+        ],
+        "en": [
+          "3 tomatoes, 1 onion, 1 garlic clove",
+          "2 cups chicken stock",
+          "50 g shredded cooked chicken",
+          "1 corn tortilla, cut into strips",
+          "Avocado, coriander, lime, chilli"
+        ],
+        "ru": [
+          "3 помидора, 1 луковица, 1 зубчик чеснока",
+          "2 стакана куриного бульона",
+          "50 г отварной курицы, разобранной",
+          "1 кукурузная тортилья, полосками",
+          "Авокадо, кинза, лайм, чили"
+        ],
+        "ur": [
+          "3 ٹماٹر، 1 پیاز، 1 لہسن کا جوا",
+          "2 کپ چکن شوربہ",
+          "50 گرام اُبلا چکن، ریشے",
+          "1 مکئی کا ٹورٹیا، پٹیوں میں",
+          "ایواکاڈو، دھنیا، لیموں، مرچ"
+        ],
+        "fr": [
+          "3 tomates, 1 oignon, 1 gousse d'ail",
+          "2 tasses de bouillon de volaille",
+          "50 g de poulet cuit effiloché",
+          "1 tortilla de maïs en lanières",
+          "Avocat, coriandre, citron vert, piment"
+        ],
+        "es": [
+          "3 tomates, 1 cebolla, 1 diente de ajo",
+          "2 tazas de caldo de pollo",
+          "50 g de pollo cocido desmenuzado",
+          "1 tortilla de maíz en tiras",
+          "Aguacate, cilantro, lima, chile"
+        ],
+        "pt": [
+          "3 tomates, 1 cebola, 1 dente de alho",
+          "2 xícaras de caldo de galinha",
+          "50 g de frango cozido desfiado",
+          "1 tortilha de milho em tiras",
+          "Abacate, coentro, lima, pimenta"
+        ],
+        "de": [
+          "3 Tomaten, 1 Zwiebel, 1 Knoblauchzehe",
+          "2 Tassen Hühnerbrühe",
+          "50 g gekochtes Hähnchen, zerpflückt",
+          "1 Mais-Tortilla in Streifen",
+          "Avocado, Koriander, Limette, Chili"
+        ],
+        "id": [
+          "3 tomat, 1 bawang bombai, 1 siung bawang putih",
+          "2 cangkir kaldu ayam",
+          "50 g ayam rebus suwir",
+          "1 tortilla jagung, potong memanjang",
+          "Alpukat, ketumbar, jeruk nipis, cabai"
+        ],
+        "hi": [
+          "3 टमाटर, 1 प्याज़, 1 लहसुन कली",
+          "2 कप चिकन शोरबा",
+          "50 ग्राम उबला चिकन, रेशों में",
+          "1 कॉर्न टॉर्टिला, पट्टियों में",
+          "एवोकाडो, धनिया, नींबू, मिर्च"
+        ],
+        "ja": [
+          "トマト3個、玉ねぎ1個、にんにく1片",
+          "チキンスープ2カップ",
+          "茹で鶏50g（ほぐす）",
+          "コーントルティーヤ1枚（細切り）",
+          "アボカド、香菜、ライム、チリ"
+        ],
+        "zh": [
+          "番茄3个、洋葱1个、蒜1瓣",
+          "鸡高汤2杯",
+          "熟鸡肉50克，撕丝",
+          "玉米饼1张，切条",
+          "牛油果、香菜、青柠、辣椒"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اشوِ الطماطم والبصل والثوم ثم اهرسها",
+          "اطبخ الهريس ٥ دقائق وأضف المرق",
+          "اخبز شرائط التورتيلا حتى تقرمش",
+          "أضف الدجاج وقدّم الشوربة بالتورتيلا والأفوكادو"
+        ],
+        "en": [
+          "Char the tomatoes, onion and garlic, then blend them",
+          "Cook the purée 5 minutes and add the stock",
+          "Bake the tortilla strips until crisp",
+          "Add the chicken and serve topped with tortilla and avocado"
+        ],
+        "ru": [
+          "Обжарьте помидоры, лук и чеснок до подпалин, пробейте в пюре",
+          "Готовьте пюре 5 минут и влейте бульон",
+          "Подсушите полоски тортильи в духовке до хруста",
+          "Добавьте курицу и подайте с тортильей и авокадо"
+        ],
+        "ur": [
+          "ٹماٹر، پیاز اور لہسن بھون کر پیس لیں",
+          "پیوری 5 منٹ پکا کر شوربہ ڈالیں",
+          "ٹورٹیا کی پٹیاں کرارا ہونے تک بیک کریں",
+          "چکن ڈال کر ٹورٹیا اور ایواکاڈو کے ساتھ پیش کریں"
+        ],
+        "fr": [
+          "Faites griller tomates, oignon et ail puis mixez",
+          "Cuisez la purée 5 minutes et versez le bouillon",
+          "Passez les lanières de tortilla au four jusqu'à croustillant",
+          "Ajoutez le poulet et servez garni de tortilla et d'avocat"
+        ],
+        "es": [
+          "Asa los tomates, la cebolla y el ajo y tritúralos",
+          "Cocina el puré 5 minutos y añade el caldo",
+          "Hornea las tiras de tortilla hasta que estén crujientes",
+          "Añade el pollo y sirve con la tortilla y el aguacate"
+        ],
+        "pt": [
+          "Grelhe os tomates, a cebola e o alho e triture",
+          "Cozinhe o purê 5 minutos e junte o caldo",
+          "Leve as tiras de tortilha ao forno até ficarem crocantes",
+          "Junte o frango e sirva com tortilha e abacate"
+        ],
+        "de": [
+          "Tomaten, Zwiebel und Knoblauch rösten und pürieren",
+          "Püree 5 Minuten kochen und die Brühe zugeben",
+          "Tortillastreifen im Ofen knusprig backen",
+          "Hähnchen zugeben und mit Tortilla und Avocado servieren"
+        ],
+        "id": [
+          "Bakar tomat, bawang bombai, bawang putih lalu haluskan",
+          "Masak pure 5 menit lalu tuang kaldu",
+          "Panggang potongan tortilla sampai renyah",
+          "Masukkan ayam, sajikan dengan tortilla dan alpukat"
+        ],
+        "hi": [
+          "टमाटर, प्याज़ और लहसुन भूनकर पीस लें",
+          "प्यूरी 5 मिनट पकाएँ और शोरबा डालें",
+          "टॉर्टिला पट्टियाँ कुरकुरी होने तक बेक करें",
+          "चिकन डालें और टॉर्टिला व एवोकाडो के साथ परोसें"
+        ],
+        "ja": [
+          "トマト・玉ねぎ・にんにくを焼いてからすりつぶす",
+          "ピュレを5分煮てスープを注ぐ",
+          "トルティーヤの細切りをカリッと焼く",
+          "鶏肉を加え、トルティーヤとアボカドをのせて供する"
+        ],
+        "zh": [
+          "番茄、洋葱、蒜烤香后打成泥",
+          "泥料煮5分钟，再加入高汤",
+          "玉米饼条烤至酥脆",
+          "加入鸡丝，配饼条和牛油果上桌"
+        ]
+      }
+    }
+  ],
+  "dinner": [
+    {
+      "id": "mx_dn_fish_tacos",
+      "cuisine": "mexican",
+      "kcal": 380,
+      "protein": 32,
+      "carbs": 36,
+      "fat": 12,
+      "serving": {
+        "ar": "تاكوان (١٥٠ جم سمك)",
+        "en": "2 tacos (150 g fish)",
+        "ru": "2 тако (150 г рыбы)",
+        "ur": "2 ٹاکو (150 گرام مچھلی)",
+        "fr": "2 tacos (150 g de poisson)",
+        "es": "2 tacos (150 g de pescado)",
+        "pt": "2 tacos (150 g de peixe)",
+        "de": "2 Tacos (150 g Fisch)",
+        "id": "2 taco (150 g ikan)",
+        "hi": "2 टाको (150 ग्राम मछली)",
+        "ja": "2個（魚150g）",
+        "zh": "2个（鱼肉150克）"
+      },
+      "name": {
+        "ar": "تاكو السمك المشوي",
+        "en": "Grilled fish tacos",
+        "ru": "Тако с жареной рыбой",
+        "ur": "گرل مچھلی ٹاکو",
+        "fr": "Tacos de poisson grillé",
+        "es": "Tacos de pescado a la plancha",
+        "pt": "Tacos de peixe grelhado",
+        "de": "Gegrillte Fisch-Tacos",
+        "id": "Taco ikan panggang",
+        "hi": "ग्रिल्ड फिश टाको",
+        "ja": "焼き魚のタコス",
+        "zh": "香煎鱼肉塔可"
+      },
+      "ingredients": {
+        "ar": [
+          "١٥٠ جم سمك أبيض",
+          "تورتيلتا ذرة",
+          "كوب ملفوف أحمر مبشور",
+          "٣ ملاعق زبادي يوناني وعصير ليمون",
+          "بابريكا وكمون وكزبرة وملح"
+        ],
+        "en": [
+          "150 g white fish",
+          "2 corn tortillas",
+          "1 cup shredded red cabbage",
+          "3 tbsp Greek yogurt, lime juice",
+          "Paprika, cumin, coriander, salt"
+        ],
+        "ru": [
+          "150 г белой рыбы",
+          "2 кукурузные тортильи",
+          "1 стакан тёртой краснокочанной капусты",
+          "3 ст. л. греческого йогурта, сок лайма",
+          "Паприка, зира, кинза, соль"
+        ],
+        "ur": [
+          "150 گرام سفید مچھلی",
+          "2 مکئی کے ٹورٹیا",
+          "1 کپ کدوکش لال بند گوبھی",
+          "3 چمچ یونانی دہی، لیموں کا رس",
+          "پیپریکا، زیرہ، دھنیا، نمک"
+        ],
+        "fr": [
+          "150 g de poisson blanc",
+          "2 tortillas de maïs",
+          "1 tasse de chou rouge râpé",
+          "3 c. à s. de yaourt grec, jus de citron vert",
+          "Paprika, cumin, coriandre, sel"
+        ],
+        "es": [
+          "150 g de pescado blanco",
+          "2 tortillas de maíz",
+          "1 taza de col morada rallada",
+          "3 cdas de yogur griego, zumo de lima",
+          "Pimentón, comino, cilantro, sal"
+        ],
+        "pt": [
+          "150 g de peixe branco",
+          "2 tortilhas de milho",
+          "1 xícara de couve-roxa ralada",
+          "3 colheres de iogurte grego, sumo de lima",
+          "Colorau, cominho, coentro, sal"
+        ],
+        "de": [
+          "150 g weißer Fisch",
+          "2 Mais-Tortillas",
+          "1 Tasse geraspelter Rotkohl",
+          "3 EL griechischer Joghurt, Limettensaft",
+          "Paprikapulver, Kreuzkümmel, Koriander, Salz"
+        ],
+        "id": [
+          "150 g ikan putih",
+          "2 tortilla jagung",
+          "1 cangkir kol ungu iris halus",
+          "3 sdm yogurt Yunani, perasan jeruk nipis",
+          "Paprika bubuk, jintan, ketumbar, garam"
+        ],
+        "hi": [
+          "150 ग्राम सफ़ेद मछली",
+          "2 कॉर्न टॉर्टिला",
+          "1 कप कद्दूकस लाल पत्तागोभी",
+          "3 बड़े चम्मच ग्रीक दही, नींबू रस",
+          "पैपरिका, जीरा, धनिया, नमक"
+        ],
+        "ja": [
+          "白身魚150g",
+          "コーントルティーヤ2枚",
+          "紫キャベツの千切り1カップ",
+          "ギリシャヨーグルト大さじ3、ライム汁",
+          "パプリカ、クミン、香菜、塩"
+        ],
+        "zh": [
+          "白身鱼150克",
+          "玉米饼2张",
+          "紫甘蓝丝1杯",
+          "希腊酸奶3大匙、青柠汁",
+          "红椒粉、孜然、香菜、盐"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "تبّل السمك بالبهارات واتركه ١٠ دقائق",
+          "اشوِه ٣-٤ دقائق لكل جانب ثم فتّته",
+          "اخلط الزبادي بالليمون والملح لصلصة بيضاء",
+          "سخّن التورتيلا وضع الملفوف والسمك والصلصة"
+        ],
+        "en": [
+          "Season the fish with the spices and rest 10 minutes",
+          "Grill 3-4 minutes per side, then flake it",
+          "Mix the yogurt with lime and salt for a white sauce",
+          "Warm the tortillas, layer cabbage, fish and sauce"
+        ],
+        "ru": [
+          "Приправьте рыбу специями и оставьте на 10 минут",
+          "Обжарьте по 3-4 минуты с каждой стороны и разберите",
+          "Смешайте йогурт с лаймом и солью для белого соуса",
+          "Разогрейте тортильи, выложите капусту, рыбу и соус"
+        ],
+        "ur": [
+          "مچھلی پر مصالحے لگا کر 10 منٹ رکھیں",
+          "ہر طرف 3-4 منٹ گرل کر کے ریزے کر لیں",
+          "دہی، لیموں اور نمک ملا کر سفید ساس بنائیں",
+          "ٹورٹیا گرم کر کے گوبھی، مچھلی اور ساس رکھیں"
+        ],
+        "fr": [
+          "Assaisonnez le poisson et laissez reposer 10 minutes",
+          "Grillez 3-4 minutes par face puis émiettez",
+          "Mélangez yaourt, citron vert et sel pour la sauce blanche",
+          "Réchauffez les tortillas, garnissez de chou, poisson et sauce"
+        ],
+        "es": [
+          "Sazona el pescado y déjalo reposar 10 minutos",
+          "Ásalo 3-4 minutos por lado y desmenúzalo",
+          "Mezcla el yogur con lima y sal para la salsa blanca",
+          "Calienta las tortillas y monta col, pescado y salsa"
+        ],
+        "pt": [
+          "Tempere o peixe e deixe repousar 10 minutos",
+          "Grelhe 3-4 minutos de cada lado e desfie",
+          "Misture o iogurte com lima e sal para o molho branco",
+          "Aqueça as tortilhas e monte couve, peixe e molho"
+        ],
+        "de": [
+          "Fisch würzen und 10 Minuten ruhen lassen",
+          "Pro Seite 3-4 Minuten grillen, dann zerpflücken",
+          "Joghurt mit Limette und Salz zur weißen Sauce rühren",
+          "Tortillas erwärmen, Kohl, Fisch und Sauce schichten"
+        ],
+        "id": [
+          "Bumbui ikan lalu diamkan 10 menit",
+          "Panggang 3-4 menit tiap sisi lalu suwir",
+          "Campur yogurt, jeruk nipis, garam jadi saus putih",
+          "Hangatkan tortilla, tata kol, ikan, dan saus"
+        ],
+        "hi": [
+          "मछली पर मसाले लगाकर 10 मिनट रखें",
+          "हर तरफ़ 3-4 मिनट ग्रिल करें और टुकड़े कर लें",
+          "दही, नींबू और नमक मिलाकर सफ़ेद सॉस बनाएँ",
+          "टॉर्टिला गरम करें, पत्तागोभी, मछली और सॉस लगाएँ"
+        ],
+        "ja": [
+          "魚に香辛料をまぶし10分おく",
+          "片面3〜4分ずつ焼き、ほぐす",
+          "ヨーグルトにライムと塩を混ぜ白いソースを作る",
+          "トルティーヤを温め、キャベツ、魚、ソースを重ねる"
+        ],
+        "zh": [
+          "鱼肉用香料腌10分钟",
+          "两面各煎3-4分钟，拨散成块",
+          "酸奶加青柠汁和盐调成白酱",
+          "玉米饼加热，铺紫甘蓝、鱼肉和白酱"
+        ]
+      }
+    },
+    {
+      "id": "mx_dn_stuffed_peppers",
+      "cuisine": "mexican",
+      "kcal": 310,
+      "protein": 20,
+      "carbs": 34,
+      "fat": 11,
+      "serving": {
+        "ar": "فلفلتان محشيتان",
+        "en": "2 stuffed peppers",
+        "ru": "2 фаршированных перца",
+        "ur": "2 بھری شملہ مرچیں",
+        "fr": "2 poivrons farcis",
+        "es": "2 pimientos rellenos",
+        "pt": "2 pimentos recheados",
+        "de": "2 gefüllte Paprika",
+        "id": "2 paprika isi",
+        "hi": "2 भरी शिमला मिर्च",
+        "ja": "ピーマン2個分",
+        "zh": "2个酿彩椒"
+      },
+      "name": {
+        "ar": "فلفل محشي بالفاصولياء والذرة",
+        "en": "Bean and corn stuffed peppers",
+        "ru": "Перцы, фаршированные фасолью и кукурузой",
+        "ur": "پھلیاں اور مکئی بھری شملہ مرچ",
+        "fr": "Poivrons farcis haricots-maïs",
+        "es": "Pimientos rellenos de frijol y maíz",
+        "pt": "Pimentos recheados com feijão e milho",
+        "de": "Mit Bohnen und Mais gefüllte Paprika",
+        "id": "Paprika isi kacang dan jagung",
+        "hi": "बीन-कॉर्न भरी शिमला मिर्च",
+        "ja": "豆とコーンのピーマン詰め",
+        "zh": "豆玉米酿彩椒"
+      },
+      "ingredients": {
+        "ar": [
+          "فلفلتان روميتان كبيرتان",
+          "نصف كوب فاصولياء سوداء",
+          "نصف كوب ذرة حلوة",
+          "٥٠ جم أرز بني مطبوخ",
+          "٣٠ جم جبن قليل الدسم وكمون وكزبرة"
+        ],
+        "en": [
+          "2 large bell peppers",
+          "Half cup black beans",
+          "Half cup sweetcorn",
+          "50 g cooked brown rice",
+          "30 g low-fat cheese, cumin, coriander"
+        ],
+        "ru": [
+          "2 крупных болгарских перца",
+          "Полстакана чёрной фасоли",
+          "Полстакана сладкой кукурузы",
+          "50 г варёного бурого риса",
+          "30 г нежирного сыра, зира, кинза"
+        ],
+        "ur": [
+          "2 بڑی شملہ مرچیں",
+          "آدھا کپ کالی پھلیاں",
+          "آدھا کپ میٹھی مکئی",
+          "50 گرام پکا براؤن رائس",
+          "30 گرام کم چکنائی پنیر، زیرہ، دھنیا"
+        ],
+        "fr": [
+          "2 gros poivrons",
+          "Une demi-tasse de haricots noirs",
+          "Une demi-tasse de maïs doux",
+          "50 g de riz complet cuit",
+          "30 g de fromage allégé, cumin, coriandre"
+        ],
+        "es": [
+          "2 pimientos grandes",
+          "Media taza de frijoles negros",
+          "Media taza de maíz dulce",
+          "50 g de arroz integral cocido",
+          "30 g de queso bajo en grasa, comino, cilantro"
+        ],
+        "pt": [
+          "2 pimentos grandes",
+          "Meia xícara de feijão preto",
+          "Meia xícara de milho doce",
+          "50 g de arroz integral cozido",
+          "30 g de queijo magro, cominho, coentro"
+        ],
+        "de": [
+          "2 große Paprika",
+          "Eine halbe Tasse schwarze Bohnen",
+          "Eine halbe Tasse Zuckermais",
+          "50 g gekochter Naturreis",
+          "30 g fettarmer Käse, Kreuzkümmel, Koriander"
+        ],
+        "id": [
+          "2 paprika besar",
+          "Setengah cangkir kacang hitam",
+          "Setengah cangkir jagung manis",
+          "50 g nasi merah matang",
+          "30 g keju rendah lemak, jintan, ketumbar"
+        ],
+        "hi": [
+          "2 बड़ी शिमला मिर्च",
+          "आधा कप काली बीन्स",
+          "आधा कप स्वीट कॉर्न",
+          "50 ग्राम पका ब्राउन राइस",
+          "30 ग्राम कम वसा चीज़, जीरा, धनिया"
+        ],
+        "ja": [
+          "大きめのピーマン2個",
+          "黒豆1/2カップ",
+          "スイートコーン1/2カップ",
+          "炊いた玄米50g",
+          "低脂肪チーズ30g、クミン、香菜"
+        ],
+        "zh": [
+          "大彩椒2个",
+          "黑豆半杯",
+          "甜玉米粒半杯",
+          "熟糙米饭50克",
+          "低脂芝士30克、孜然、香菜"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اقطع رأس الفلفل وانزع البذور",
+          "اخلط الفاصولياء والذرة والأرز والبهارات",
+          "احشُ الفلفل بالخليط وغطِّه بالجبن",
+          "اخبزه ٢٥ دقيقة على ١٩٠ درجة"
+        ],
+        "en": [
+          "Cut the tops off the peppers and remove the seeds",
+          "Mix the beans, corn, rice and spices",
+          "Stuff the peppers and top with the cheese",
+          "Bake at 190°C for 25 minutes"
+        ],
+        "ru": [
+          "Срежьте верхушки перцев и удалите семена",
+          "Смешайте фасоль, кукурузу, рис и специи",
+          "Нафаршируйте перцы и посыпьте сыром",
+          "Запекайте при 190°C 25 минут"
+        ],
+        "ur": [
+          "شملہ مرچ کے سر کاٹ کر بیج نکالیں",
+          "پھلیاں، مکئی، چاول اور مصالحے ملائیں",
+          "مرچوں میں بھر کر اوپر پنیر ڈالیں",
+          "190 ڈگری پر 25 منٹ بیک کریں"
+        ],
+        "fr": [
+          "Coupez le chapeau des poivrons et retirez les graines",
+          "Mélangez haricots, maïs, riz et épices",
+          "Farcissez les poivrons et couvrez de fromage",
+          "Enfournez à 190°C pendant 25 minutes"
+        ],
+        "es": [
+          "Corta la parte superior de los pimientos y retira las semillas",
+          "Mezcla los frijoles, el maíz, el arroz y las especias",
+          "Rellena los pimientos y cúbrelos con el queso",
+          "Hornea a 190°C durante 25 minutos"
+        ],
+        "pt": [
+          "Corte a tampa dos pimentos e retire as sementes",
+          "Misture o feijão, o milho, o arroz e as especiarias",
+          "Recheie os pimentos e cubra com o queijo",
+          "Asse a 190°C durante 25 minutos"
+        ],
+        "de": [
+          "Deckel der Paprika abschneiden und Kerne entfernen",
+          "Bohnen, Mais, Reis und Gewürze mischen",
+          "Paprika füllen und mit Käse bedecken",
+          "Bei 190°C 25 Minuten backen"
+        ],
+        "id": [
+          "Potong bagian atas paprika dan buang bijinya",
+          "Campur kacang, jagung, nasi, dan bumbu",
+          "Isikan ke paprika, taburi keju di atasnya",
+          "Panggang 190°C selama 25 menit"
+        ],
+        "hi": [
+          "शिमला मिर्च के ऊपरी हिस्से काटकर बीज निकालें",
+          "बीन्स, कॉर्न, चावल और मसाले मिलाएँ",
+          "मिर्च में भरें और ऊपर चीज़ डालें",
+          "190°C पर 25 मिनट बेक करें"
+        ],
+        "ja": [
+          "ピーマンの上部を切り、種を取り除く",
+          "豆、コーン、ご飯、香辛料を混ぜる",
+          "ピーマンに詰め、チーズをのせる",
+          "190℃で25分焼く"
+        ],
+        "zh": [
+          "彩椒切顶去籽",
+          "黑豆、玉米、米饭和香料拌匀",
+          "填入彩椒，表面铺芝士",
+          "190度烤25分钟"
+        ]
+      }
+    }
+  ],
+  "snack": [
+    {
+      "id": "mx_sn_guacamole",
+      "cuisine": "mexican",
+      "kcal": 180,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 15,
+      "serving": {
+        "ar": "نصف أفوكادو + خضار",
+        "en": "Half avocado + vegetables",
+        "ru": "Половина авокадо + овощи",
+        "ur": "آدھا ایواکاڈو + سبزیاں",
+        "fr": "Un demi-avocat + légumes",
+        "es": "Medio aguacate + verduras",
+        "pt": "Meio abacate + legumes",
+        "de": "Eine halbe Avocado + Gemüse",
+        "id": "Setengah alpukat + sayuran",
+        "hi": "आधा एवोकाडो + सब्ज़ियाँ",
+        "ja": "アボカド1/2個＋野菜",
+        "zh": "牛油果半个＋蔬菜"
+      },
+      "name": {
+        "ar": "غواكامولي بالخضار",
+        "en": "Guacamole with veggies",
+        "ru": "Гуакамоле с овощами",
+        "ur": "گواکامولے مع سبزیاں",
+        "fr": "Guacamole et crudités",
+        "es": "Guacamole con verduras",
+        "pt": "Guacamole com legumes",
+        "de": "Guacamole mit Gemüse",
+        "id": "Guacamole dengan sayuran",
+        "hi": "गुआकामोले सब्ज़ियों के साथ",
+        "ja": "ワカモレと野菜スティック",
+        "zh": "牛油果酱配蔬菜"
+      },
+      "ingredients": {
+        "ar": [
+          "نصف حبة أفوكادو ناضجة",
+          "ربع بصلة حمراء مفرومة ناعمًا",
+          "حبة طماطم صغيرة مفرومة",
+          "عصير نصف ليمونة وكزبرة",
+          "جزر وخيار وفلفل للتغميس"
+        ],
+        "en": [
+          "Half a ripe avocado",
+          "Quarter red onion, finely chopped",
+          "1 small tomato, chopped",
+          "Juice of half a lime, coriander",
+          "Carrot, cucumber, pepper sticks"
+        ],
+        "ru": [
+          "Половина спелого авокадо",
+          "Четверть красной луковицы, мелко нарезанной",
+          "1 небольшой помидор, нарезанный",
+          "Сок половины лайма, кинза",
+          "Морковь, огурец, перец соломкой"
+        ],
+        "ur": [
+          "آدھا پکا ایواکاڈو",
+          "چوتھائی لال پیاز، باریک کٹی",
+          "1 چھوٹا ٹماٹر، کٹا ہوا",
+          "آدھے لیموں کا رس، دھنیا",
+          "گاجر، کھیرا، شملہ مرچ ڈپ کے لیے"
+        ],
+        "fr": [
+          "Un demi-avocat mûr",
+          "Un quart d'oignon rouge finement haché",
+          "1 petite tomate hachée",
+          "Le jus d'un demi-citron vert, coriandre",
+          "Bâtonnets de carotte, concombre, poivron"
+        ],
+        "es": [
+          "Medio aguacate maduro",
+          "Un cuarto de cebolla morada picada fina",
+          "1 tomate pequeño picado",
+          "El zumo de media lima, cilantro",
+          "Bastones de zanahoria, pepino y pimiento"
+        ],
+        "pt": [
+          "Meio abacate maduro",
+          "Um quarto de cebola roxa bem picada",
+          "1 tomate pequeno picado",
+          "Sumo de meia lima, coentro",
+          "Palitos de cenoura, pepino e pimento"
+        ],
+        "de": [
+          "Eine halbe reife Avocado",
+          "Eine viertel rote Zwiebel, fein gehackt",
+          "1 kleine Tomate, gehackt",
+          "Saft einer halben Limette, Koriander",
+          "Karotten-, Gurken- und Paprikasticks"
+        ],
+        "id": [
+          "Setengah alpukat matang",
+          "Seperempat bawang merah, cincang halus",
+          "1 tomat kecil, cincang",
+          "Perasan setengah jeruk nipis, ketumbar",
+          "Batang wortel, timun, paprika"
+        ],
+        "hi": [
+          "आधा पका एवोकाडो",
+          "एक चौथाई लाल प्याज़, बारीक कटा",
+          "1 छोटा टमाटर, कटा हुआ",
+          "आधे नींबू का रस, धनिया",
+          "गाजर, खीरा, शिमला मिर्च स्टिक"
+        ],
+        "ja": [
+          "熟したアボカド1/2個",
+          "赤玉ねぎ1/4個（みじん切り）",
+          "小さめのトマト1個（角切り）",
+          "ライム1/2個の絞り汁、香菜",
+          "にんじん・きゅうり・パプリカのスティック"
+        ],
+        "zh": [
+          "熟牛油果半个",
+          "紫洋葱1/4个，切细末",
+          "小番茄1个，切碎",
+          "半个青柠的汁、香菜",
+          "胡萝卜、黄瓜、彩椒条"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اهرس الأفوكادو بشوكة واترك قطعًا صغيرة",
+          "أضف البصل والطماطم والكزبرة",
+          "أضف عصير الليمون والملح وقلّب برفق",
+          "قدّمه فورًا مع أعواد الخضار"
+        ],
+        "en": [
+          "Mash the avocado with a fork, leaving some chunks",
+          "Add the onion, tomato and coriander",
+          "Add the lime juice and salt, fold gently",
+          "Serve at once with the vegetable sticks"
+        ],
+        "ru": [
+          "Разомните авокадо вилкой, оставив кусочки",
+          "Добавьте лук, помидор и кинзу",
+          "Добавьте сок лайма и соль, аккуратно перемешайте",
+          "Сразу подавайте с овощными палочками"
+        ],
+        "ur": [
+          "ایواکاڈو کو کانٹے سے مسلیں، کچھ ٹکڑے رہنے دیں",
+          "پیاز، ٹماٹر اور دھنیا ڈالیں",
+          "لیموں کا رس اور نمک ڈال کر ہلکے سے ملائیں",
+          "فوراً سبزیوں کی اسٹکس کے ساتھ پیش کریں"
+        ],
+        "fr": [
+          "Écrasez l'avocat à la fourchette en gardant des morceaux",
+          "Ajoutez l'oignon, la tomate et la coriandre",
+          "Ajoutez le jus de citron vert et le sel, mélangez délicatement",
+          "Servez aussitôt avec les bâtonnets de légumes"
+        ],
+        "es": [
+          "Machaca el aguacate con un tenedor dejando trozos",
+          "Añade la cebolla, el tomate y el cilantro",
+          "Agrega el zumo de lima y la sal, mezcla con suavidad",
+          "Sirve enseguida con los bastones de verdura"
+        ],
+        "pt": [
+          "Amasse o abacate com um garfo, deixando pedaços",
+          "Junte a cebola, o tomate e o coentro",
+          "Junte o sumo de lima e o sal, envolva com cuidado",
+          "Sirva de imediato com os palitos de legumes"
+        ],
+        "de": [
+          "Avocado mit der Gabel zerdrücken, Stücke lassen",
+          "Zwiebel, Tomate und Koriander zugeben",
+          "Limettensaft und Salz zugeben, vorsichtig unterheben",
+          "Sofort mit den Gemüsesticks servieren"
+        ],
+        "id": [
+          "Lumatkan alpukat dengan garpu, sisakan potongan",
+          "Tambahkan bawang, tomat, dan ketumbar",
+          "Beri perasan jeruk nipis dan garam, aduk perlahan",
+          "Sajikan segera dengan batang sayuran"
+        ],
+        "hi": [
+          "एवोकाडो को काँटे से मैश करें, कुछ टुकड़े रहने दें",
+          "प्याज़, टमाटर और धनिया मिलाएँ",
+          "नींबू रस और नमक डालकर हल्के हाथ मिलाएँ",
+          "तुरंत सब्ज़ी स्टिक के साथ परोसें"
+        ],
+        "ja": [
+          "アボカドをフォークで粗く潰す",
+          "玉ねぎ、トマト、香菜を加える",
+          "ライム汁と塩を加えてさっくり混ぜる",
+          "野菜スティックを添えてすぐに供する"
+        ],
+        "zh": [
+          "牛油果用叉子压碎，保留些许颗粒",
+          "加入洋葱末、番茄丁和香菜",
+          "加青柠汁和盐，轻轻拌匀",
+          "立即配蔬菜条享用"
+        ]
+      }
+    },
+    {
+      "id": "mx_sn_elote_cup",
+      "cuisine": "mexican",
+      "kcal": 150,
+      "protein": 5,
+      "carbs": 24,
+      "fat": 5,
+      "serving": {
+        "ar": "كوب (١٥٠ جم ذرة)",
+        "en": "One cup (150 g corn)",
+        "ru": "Один стакан (150 г кукурузы)",
+        "ur": "ایک کپ (150 گرام مکئی)",
+        "fr": "Un gobelet (150 g de maïs)",
+        "es": "Un vaso (150 g de maíz)",
+        "pt": "Um copo (150 g de milho)",
+        "de": "Ein Becher (150 g Mais)",
+        "id": "Satu cup (150 g jagung)",
+        "hi": "एक कप (150 ग्राम कॉर्न)",
+        "ja": "1カップ（コーン150g）",
+        "zh": "一杯（玉米150克）"
+      },
+      "name": {
+        "ar": "كوب الذرة المكسيكي",
+        "en": "Mexican street corn cup",
+        "ru": "Мексиканский кукурузный стаканчик",
+        "ur": "میکسیکن کارن کپ",
+        "fr": "Maïs à la mexicaine en gobelet",
+        "es": "Esquites en vaso",
+        "pt": "Copo de milho mexicano",
+        "de": "Mexikanischer Maisbecher",
+        "id": "Cup jagung ala Meksiko",
+        "hi": "मैक्सिकन कॉर्न कप",
+        "ja": "メキシカンコーンカップ",
+        "zh": "墨西哥街头玉米杯"
+      },
+      "ingredients": {
+        "ar": [
+          "١٥٠ جم حبات ذرة",
+          "ملعقتان زبادي يوناني",
+          "ملعقة كبيرة جبن أبيض مفتّت",
+          "عصير نصف ليمونة",
+          "بابريكا وفلفل تشيلي وكزبرة"
+        ],
+        "en": [
+          "150 g corn kernels",
+          "2 tbsp Greek yogurt",
+          "1 tbsp crumbled white cheese",
+          "Juice of half a lime",
+          "Paprika, chilli powder, coriander"
+        ],
+        "ru": [
+          "150 г кукурузных зёрен",
+          "2 ст. л. греческого йогурта",
+          "1 ст. л. раскрошенного белого сыра",
+          "Сок половины лайма",
+          "Паприка, чили, кинза"
+        ],
+        "ur": [
+          "150 گرام مکئی کے دانے",
+          "2 چمچ یونانی دہی",
+          "1 کھانے کا چمچ سفید پنیر، ریزہ",
+          "آدھے لیموں کا رس",
+          "پیپریکا، چلی پاؤڈر، دھنیا"
+        ],
+        "fr": [
+          "150 g de grains de maïs",
+          "2 c. à s. de yaourt grec",
+          "1 c. à s. de fromage blanc émietté",
+          "Le jus d'un demi-citron vert",
+          "Paprika, piment en poudre, coriandre"
+        ],
+        "es": [
+          "150 g de granos de maíz",
+          "2 cdas de yogur griego",
+          "1 cda de queso fresco desmenuzado",
+          "El zumo de media lima",
+          "Pimentón, chile en polvo, cilantro"
+        ],
+        "pt": [
+          "150 g de grãos de milho",
+          "2 colheres de iogurte grego",
+          "1 colher de sopa de queijo branco esfarelado",
+          "Sumo de meia lima",
+          "Colorau, pimenta em pó, coentro"
+        ],
+        "de": [
+          "150 g Maiskörner",
+          "2 EL griechischer Joghurt",
+          "1 EL zerbröselter Weißkäse",
+          "Saft einer halben Limette",
+          "Paprikapulver, Chilipulver, Koriander"
+        ],
+        "id": [
+          "150 g biji jagung",
+          "2 sdm yogurt Yunani",
+          "1 sdm keju putih remah",
+          "Perasan setengah jeruk nipis",
+          "Paprika bubuk, bubuk cabai, ketumbar"
+        ],
+        "hi": [
+          "150 ग्राम कॉर्न दाने",
+          "2 बड़े चम्मच ग्रीक दही",
+          "1 बड़ा चम्मच सफ़ेद चीज़, टुकड़ों में",
+          "आधे नींबू का रस",
+          "पैपरिका, मिर्च पाउडर, धनिया"
+        ],
+        "ja": [
+          "コーン150g",
+          "ギリシャヨーグルト大さじ2",
+          "白チーズ大さじ1（崩す）",
+          "ライム1/2個の絞り汁",
+          "パプリカ、チリパウダー、香菜"
+        ],
+        "zh": [
+          "玉米粒150克",
+          "希腊酸奶2大匙",
+          "白芝士碎1大匙",
+          "半个青柠的汁",
+          "红椒粉、辣椒粉、香菜"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "حمّص الذرة في مقلاة جافة حتى تتحمّر",
+          "اخلطها بالزبادي وعصير الليمون",
+          "أضف الجبن والبابريكا والتشيلي",
+          "زيّن بالكزبرة وقدّمها دافئة"
+        ],
+        "en": [
+          "Char the corn in a dry pan until spotted brown",
+          "Toss it with the yogurt and lime juice",
+          "Add the cheese, paprika and chilli",
+          "Top with coriander and serve warm"
+        ],
+        "ru": [
+          "Обжарьте кукурузу на сухой сковороде до подпалин",
+          "Смешайте с йогуртом и соком лайма",
+          "Добавьте сыр, паприку и чили",
+          "Посыпьте кинзой и подавайте тёплой"
+        ],
+        "ur": [
+          "مکئی کو خشک کڑاہی میں براؤن ہونے تک بھونیں",
+          "دہی اور لیموں کے رس کے ساتھ ملائیں",
+          "پنیر، پیپریکا اور چلی ڈالیں",
+          "دھنیے سے سجا کر گرم پیش کریں"
+        ],
+        "fr": [
+          "Faites griller le maïs à sec jusqu'à coloration",
+          "Mélangez-le au yaourt et au jus de citron vert",
+          "Ajoutez le fromage, le paprika et le piment",
+          "Parsemez de coriandre et servez tiède"
+        ],
+        "es": [
+          "Tuesta el maíz en una sartén seca hasta que dore",
+          "Mézclalo con el yogur y el zumo de lima",
+          "Añade el queso, el pimentón y el chile",
+          "Corona con cilantro y sirve templado"
+        ],
+        "pt": [
+          "Toste o milho numa frigideira seca até dourar",
+          "Envolva com o iogurte e o sumo de lima",
+          "Junte o queijo, o colorau e a pimenta",
+          "Finalize com coentro e sirva morno"
+        ],
+        "de": [
+          "Mais in trockener Pfanne rösten, bis er Farbe bekommt",
+          "Mit Joghurt und Limettensaft mischen",
+          "Käse, Paprika- und Chilipulver zugeben",
+          "Mit Koriander bestreuen und warm servieren"
+        ],
+        "id": [
+          "Sangrai jagung di wajan kering sampai kecokelatan",
+          "Campur dengan yogurt dan perasan jeruk nipis",
+          "Tambahkan keju, paprika bubuk, dan cabai",
+          "Taburi ketumbar, sajikan hangat"
+        ],
+        "hi": [
+          "कॉर्न को सूखे पैन में भूनकर हल्का ब्राउन करें",
+          "दही और नींबू रस के साथ मिलाएँ",
+          "चीज़, पैपरिका और मिर्च डालें",
+          "धनिया डालकर गुनगुना परोसें"
+        ],
+        "ja": [
+          "コーンを乾いたフライパンで焦げ目がつくまで炒る",
+          "ヨーグルトとライム汁で和える",
+          "チーズ、パプリカ、チリを加える",
+          "香菜を散らし、温かいうちに供する"
+        ],
+        "zh": [
+          "玉米粒在干锅中焙至微焦",
+          "与酸奶和青柠汁拌匀",
+          "加芝士碎、红椒粉和辣椒粉",
+          "撒香菜，温热享用"
+        ]
+      }
+    }
+  ],
+  "dessert": [
+    {
+      "id": "mx_ds_mango_chia",
+      "cuisine": "mexican",
+      "kcal": 190,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 6,
+      "serving": {
+        "ar": "كوب صغير",
+        "en": "One small cup",
+        "ru": "Небольшая чашка",
+        "ur": "ایک چھوٹا کپ",
+        "fr": "Une petite coupe",
+        "es": "Una taza pequeña",
+        "pt": "Uma taça pequena",
+        "de": "Eine kleine Schale",
+        "id": "Satu cangkir kecil",
+        "hi": "एक छोटा कप",
+        "ja": "小カップ1",
+        "zh": "一小杯"
+      },
+      "name": {
+        "ar": "بودينغ الشيا بالمانجو",
+        "en": "Mango chia pudding",
+        "ru": "Чиа-пудинг с манго",
+        "ur": "آم چیا پڈنگ",
+        "fr": "Pudding de chia à la mangue",
+        "es": "Pudín de chía con mango",
+        "pt": "Pudim de chia com manga",
+        "de": "Mango-Chia-Pudding",
+        "id": "Puding chia mangga",
+        "hi": "मैंगो चिया पुडिंग",
+        "ja": "マンゴーチアプディング",
+        "zh": "芒果奇亚籽布丁"
+      },
+      "ingredients": {
+        "ar": [
+          "ملعقتان كبيرتان بذور شيا",
+          "نصف كوب حليب (أو حليب لوز)",
+          "نصف حبة مانجو مهروسة",
+          "ملعقة صغيرة عسل",
+          "رشة قرفة أو ليمون"
+        ],
+        "en": [
+          "2 tbsp chia seeds",
+          "Half cup milk (or almond milk)",
+          "Half a mango, puréed",
+          "1 tsp honey",
+          "A pinch of cinnamon or lime zest"
+        ],
+        "ru": [
+          "2 ст. л. семян чиа",
+          "Полстакана молока (или миндального)",
+          "Половина манго, пюре",
+          "1 ч. л. мёда",
+          "Щепотка корицы или цедры лайма"
+        ],
+        "ur": [
+          "2 کھانے کے چمچ چیا بیج",
+          "آدھا کپ دودھ (یا بادام کا دودھ)",
+          "آدھا آم، پیسٹ",
+          "1 چائے کا چمچ شہد",
+          "چٹکی دار چینی یا لیموں کا چھلکا"
+        ],
+        "fr": [
+          "2 c. à s. de graines de chia",
+          "Une demi-tasse de lait (ou lait d'amande)",
+          "Une demi-mangue en purée",
+          "1 c. à c. de miel",
+          "Une pincée de cannelle ou zeste de citron vert"
+        ],
+        "es": [
+          "2 cdas de semillas de chía",
+          "Media taza de leche (o leche de almendras)",
+          "Medio mango triturado",
+          "1 cdta de miel",
+          "Una pizca de canela o ralladura de lima"
+        ],
+        "pt": [
+          "2 colheres de sopa de sementes de chia",
+          "Meia xícara de leite (ou leite de amêndoa)",
+          "Meia manga em purê",
+          "1 c. de chá de mel",
+          "Uma pitada de canela ou raspas de lima"
+        ],
+        "de": [
+          "2 EL Chiasamen",
+          "Eine halbe Tasse Milch (oder Mandelmilch)",
+          "Eine halbe Mango, püriert",
+          "1 TL Honig",
+          "Eine Prise Zimt oder Limettenschale"
+        ],
+        "id": [
+          "2 sdm biji chia",
+          "Setengah cangkir susu (atau susu almon)",
+          "Setengah mangga, dihaluskan",
+          "1 sdt madu",
+          "Sejumput kayu manis atau kulit jeruk nipis"
+        ],
+        "hi": [
+          "2 बड़े चम्मच चिया बीज",
+          "आधा कप दूध (या बादाम दूध)",
+          "आधा आम, प्यूरी",
+          "1 छोटा चम्मच शहद",
+          "चुटकी भर दालचीनी या नींबू छिलका"
+        ],
+        "ja": [
+          "チアシード大さじ2",
+          "牛乳（またはアーモンドミルク）1/2カップ",
+          "マンゴー1/2個（ピュレ）",
+          "はちみつ小さじ1",
+          "シナモンまたはライムの皮少々"
+        ],
+        "zh": [
+          "奇亚籽2大匙",
+          "牛奶（或杏仁奶）半杯",
+          "芒果半个，打成泥",
+          "蜂蜜1小匙",
+          "肉桂粉或青柠皮少许"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اخلط الشيا بالحليب والعسل جيدًا",
+          "اتركه ١٠ دقائق ثم قلّبه مرة أخرى",
+          "برّده في الثلاجة ٤ ساعات أو ليلة كاملة",
+          "ضع هريس المانجو فوقه ورشّ القرفة"
+        ],
+        "en": [
+          "Mix the chia with the milk and honey thoroughly",
+          "Wait 10 minutes, then stir again",
+          "Chill 4 hours or overnight",
+          "Top with the mango purée and dust with cinnamon"
+        ],
+        "ru": [
+          "Тщательно смешайте чиа с молоком и мёдом",
+          "Подождите 10 минут и снова перемешайте",
+          "Охладите 4 часа или на ночь",
+          "Выложите пюре манго и присыпьте корицей"
+        ],
+        "ur": [
+          "چیا کو دودھ اور شہد کے ساتھ اچھی طرح ملائیں",
+          "10 منٹ بعد دوبارہ ہلائیں",
+          "4 گھنٹے یا رات بھر فرج میں رکھیں",
+          "اوپر آم کا پیسٹ ڈال کر دار چینی چھڑکیں"
+        ],
+        "fr": [
+          "Mélangez bien le chia avec le lait et le miel",
+          "Attendez 10 minutes puis remuez à nouveau",
+          "Réfrigérez 4 heures ou toute la nuit",
+          "Nappez de purée de mangue et saupoudrez de cannelle"
+        ],
+        "es": [
+          "Mezcla bien la chía con la leche y la miel",
+          "Espera 10 minutos y vuelve a remover",
+          "Refrigera 4 horas o toda la noche",
+          "Cubre con el puré de mango y espolvorea canela"
+        ],
+        "pt": [
+          "Misture bem a chia com o leite e o mel",
+          "Espere 10 minutos e mexa de novo",
+          "Leve ao frio 4 horas ou de um dia para o outro",
+          "Cubra com o purê de manga e polvilhe canela"
+        ],
+        "de": [
+          "Chia gründlich mit Milch und Honig verrühren",
+          "10 Minuten warten, dann erneut rühren",
+          "4 Stunden oder über Nacht kühlen",
+          "Mit Mangopüree belegen und mit Zimt bestäuben"
+        ],
+        "id": [
+          "Campur chia dengan susu dan madu sampai rata",
+          "Tunggu 10 menit lalu aduk lagi",
+          "Dinginkan 4 jam atau semalam",
+          "Beri pure mangga di atasnya, taburi kayu manis"
+        ],
+        "hi": [
+          "चिया को दूध और शहद के साथ अच्छे से मिलाएँ",
+          "10 मिनट बाद फिर से चलाएँ",
+          "4 घंटे या रातभर फ्रिज में रखें",
+          "ऊपर आम की प्यूरी डालें और दालचीनी छिड़कें"
+        ],
+        "ja": [
+          "チアシードを牛乳とはちみつでよく混ぜる",
+          "10分おいてもう一度混ぜる",
+          "冷蔵庫で4時間、または一晩冷やす",
+          "マンゴーピュレをのせ、シナモンをふる"
+        ],
+        "zh": [
+          "奇亚籽与牛奶、蜂蜜充分拌匀",
+          "静置10分钟后再搅拌一次",
+          "冷藏4小时或过夜",
+          "铺上芒果泥，撒少许肉桂粉"
+        ]
+      }
+    },
+    {
+      "id": "mx_ds_baked_banana",
+      "cuisine": "mexican",
+      "kcal": 160,
+      "protein": 2,
+      "carbs": 34,
+      "fat": 3,
+      "serving": {
+        "ar": "موزة واحدة",
+        "en": "1 banana",
+        "ru": "1 банан",
+        "ur": "1 کیلا",
+        "fr": "1 banane",
+        "es": "1 plátano",
+        "pt": "1 banana",
+        "de": "1 Banane",
+        "id": "1 pisang",
+        "hi": "1 केला",
+        "ja": "バナナ1本",
+        "zh": "香蕉1根"
+      },
+      "name": {
+        "ar": "موز مشوي بالقرفة والليمون",
+        "en": "Baked cinnamon-lime banana",
+        "ru": "Печёный банан с корицей и лаймом",
+        "ur": "بیکڈ کیلا مع دار چینی اور لیموں",
+        "fr": "Banane rôtie cannelle-citron vert",
+        "es": "Plátano al horno con canela y lima",
+        "pt": "Banana assada com canela e lima",
+        "de": "Gebackene Banane mit Zimt und Limette",
+        "id": "Pisang panggang kayu manis jeruk nipis",
+        "hi": "बेक्ड दालचीनी-नींबू केला",
+        "ja": "焼きバナナ シナモンライム",
+        "zh": "肉桂青柠烤香蕉"
+      },
+      "ingredients": {
+        "ar": [
+          "موزة ناضجة",
+          "رشة قرفة",
+          "عصير ربع ليمونة",
+          "ملعقة صغيرة عسل",
+          "ملعقة كبيرة زبادي يوناني"
+        ],
+        "en": [
+          "1 ripe banana",
+          "A pinch of cinnamon",
+          "Juice of a quarter lime",
+          "1 tsp honey",
+          "1 tbsp Greek yogurt"
+        ],
+        "ru": [
+          "1 спелый банан",
+          "Щепотка корицы",
+          "Сок четверти лайма",
+          "1 ч. л. мёда",
+          "1 ст. л. греческого йогурта"
+        ],
+        "ur": [
+          "1 پکا کیلا",
+          "چٹکی دار چینی",
+          "چوتھائی لیموں کا رس",
+          "1 چائے کا چمچ شہد",
+          "1 کھانے کا چمچ یونانی دہی"
+        ],
+        "fr": [
+          "1 banane mûre",
+          "Une pincée de cannelle",
+          "Le jus d'un quart de citron vert",
+          "1 c. à c. de miel",
+          "1 c. à s. de yaourt grec"
+        ],
+        "es": [
+          "1 plátano maduro",
+          "Una pizca de canela",
+          "El zumo de un cuarto de lima",
+          "1 cdta de miel",
+          "1 cda de yogur griego"
+        ],
+        "pt": [
+          "1 banana madura",
+          "Uma pitada de canela",
+          "Sumo de um quarto de lima",
+          "1 c. de chá de mel",
+          "1 colher de sopa de iogurte grego"
+        ],
+        "de": [
+          "1 reife Banane",
+          "Eine Prise Zimt",
+          "Saft einer viertel Limette",
+          "1 TL Honig",
+          "1 EL griechischer Joghurt"
+        ],
+        "id": [
+          "1 pisang matang",
+          "Sejumput kayu manis",
+          "Perasan seperempat jeruk nipis",
+          "1 sdt madu",
+          "1 sdm yogurt Yunani"
+        ],
+        "hi": [
+          "1 पका केला",
+          "चुटकी भर दालचीनी",
+          "एक चौथाई नींबू का रस",
+          "1 छोटा चम्मच शहद",
+          "1 बड़ा चम्मच ग्रीक दही"
+        ],
+        "ja": [
+          "完熟バナナ1本",
+          "シナモン少々",
+          "ライム1/4個の絞り汁",
+          "はちみつ小さじ1",
+          "ギリシャヨーグルト大さじ1"
+        ],
+        "zh": [
+          "熟香蕉1根",
+          "肉桂粉少许",
+          "1/4个青柠的汁",
+          "蜂蜜1小匙",
+          "希腊酸奶1大匙"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اشقّ الموزة بقشرها بالطول",
+          "رشّ القرفة والعسل وعصير الليمون داخلها",
+          "اخبزها ١٥ دقيقة على ١٨٠ درجة",
+          "قدّمها ساخنة مع ملعقة الزبادي"
+        ],
+        "en": [
+          "Split the banana lengthwise in its skin",
+          "Drizzle the cinnamon, honey and lime juice inside",
+          "Bake at 180°C for 15 minutes",
+          "Serve hot with a spoon of yogurt"
+        ],
+        "ru": [
+          "Надрежьте банан вдоль прямо в кожуре",
+          "Влейте внутрь корицу, мёд и сок лайма",
+          "Запекайте при 180°C 15 минут",
+          "Подавайте горячим с ложкой йогурта"
+        ],
+        "ur": [
+          "کیلے کو چھلکے سمیت لمبائی میں چیر دیں",
+          "اندر دار چینی، شہد اور لیموں کا رس ڈالیں",
+          "180 ڈگری پر 15 منٹ بیک کریں",
+          "گرم گرم دہی کے ساتھ پیش کریں"
+        ],
+        "fr": [
+          "Fendez la banane dans la longueur avec sa peau",
+          "Versez à l'intérieur cannelle, miel et jus de citron vert",
+          "Enfournez à 180°C pendant 15 minutes",
+          "Servez chaud avec une cuillère de yaourt"
+        ],
+        "es": [
+          "Abre el plátano a lo largo con su piel",
+          "Vierte dentro la canela, la miel y el zumo de lima",
+          "Hornea a 180°C durante 15 minutos",
+          "Sirve caliente con una cucharada de yogur"
+        ],
+        "pt": [
+          "Corte a banana ao comprido com a casca",
+          "Deite lá dentro a canela, o mel e o sumo de lima",
+          "Asse a 180°C durante 15 minutos",
+          "Sirva quente com uma colher de iogurte"
+        ],
+        "de": [
+          "Banane in der Schale längs einschneiden",
+          "Zimt, Honig und Limettensaft hineinträufeln",
+          "Bei 180°C 15 Minuten backen",
+          "Heiß mit einem Löffel Joghurt servieren"
+        ],
+        "id": [
+          "Belah pisang memanjang beserta kulitnya",
+          "Tuang kayu manis, madu, dan perasan jeruk ke dalamnya",
+          "Panggang 180°C selama 15 menit",
+          "Sajikan panas dengan sesendok yogurt"
+        ],
+        "hi": [
+          "केले को छिलके सहित लंबाई में चीरें",
+          "अंदर दालचीनी, शहद और नींबू रस डालें",
+          "180°C पर 15 मिनट बेक करें",
+          "गरमागरम दही के साथ परोसें"
+        ],
+        "ja": [
+          "バナナを皮ごと縦に切り込む",
+          "中にシナモン、はちみつ、ライム汁を回しかける",
+          "180℃で15分焼く",
+          "熱いうちにヨーグルトを添えて供する"
+        ],
+        "zh": [
+          "香蕉带皮纵向剖开",
+          "内侧撒肉桂粉、淋蜂蜜和青柠汁",
+          "180度烤15分钟",
+          "趁热配一勺酸奶享用"
+        ]
+      }
+    }
+  ]
+}
