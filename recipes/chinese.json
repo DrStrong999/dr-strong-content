@@ -391,6 +391,202 @@
           "淋生抽、香油，撒葱花"
         ]
       }
+    },
+    {
+      "id": "cn_bf_soy_milk_youtiao",
+      "cuisine": "chinese",
+      "kcal": 310,
+      "protein": 13,
+      "carbs": 44,
+      "fat": 9,
+      "serving": {
+        "ar": "كوب + شريحتان",
+        "en": "One glass + 2 strips",
+        "ru": "Один стакан + 2 полоски",
+        "ur": "ایک گلاس + 2 اسٹرپس",
+        "fr": "Un verre + 2 lanières",
+        "es": "Un vaso + 2 tiras",
+        "pt": "Um copo + 2 tiras",
+        "de": "Ein Glas + 2 Streifen",
+        "id": "Satu gelas + 2 potong",
+        "hi": "एक गिलास + 2 स्ट्रिप्स",
+        "ja": "1杯＋2本",
+        "zh": "一杯＋2条"
+      },
+      "name": {
+        "ar": "حليب الصويا مع خبز مقرمش",
+        "en": "Soy milk with crisp bread strips",
+        "ru": "Соевое молоко с хрустящими полосками теста",
+        "ur": "سویا دودھ اور کرارے بریڈ اسٹرپس",
+        "fr": "Lait de soja et lanières croustillantes",
+        "es": "Leche de soja con tiras crujientes",
+        "pt": "Leite de soja com tiras crocantes",
+        "de": "Sojamilch mit knusprigen Brotstreifen",
+        "id": "Susu kedelai dengan roti renyah",
+        "hi": "सोया मिल्क क्रिस्पी ब्रेड स्ट्रिप्स के साथ",
+        "ja": "豆乳と揚げパン風スティック",
+        "zh": "豆浆配脆油条风味条"
+      },
+      "ingredients": {
+        "ar": [
+          "كوب حليب صويا غير محلّى",
+          "شريحتا خبز قمح كامل مقطّعتان أعوادًا",
+          "نصف ملعقة صغيرة زيت",
+          "رشة سكر أو عسل (اختياري)",
+          "بذور سمسم للتزيين"
+        ],
+        "en": [
+          "1 cup unsweetened soy milk",
+          "2 slices wholegrain bread, cut into strips",
+          "Half tsp oil",
+          "A pinch of sugar or honey (optional)",
+          "Sesame seeds to garnish"
+        ],
+        "ru": [
+          "1 стакан несладкого соевого молока",
+          "2 ломтика цельнозернового хлеба, полосками",
+          "Половина ч. л. масла",
+          "Щепотка сахара или мёда (по желанию)",
+          "Кунжут для украшения"
+        ],
+        "ur": [
+          "1 کپ بغیر میٹھا سویا دودھ",
+          "2 سلائس ہول گرین بریڈ، اسٹرپس میں کٹی",
+          "آدھا چائے کا چمچ تیل",
+          "چٹکی چینی یا شہد (اختیاری)",
+          "سجاوٹ کو تل"
+        ],
+        "fr": [
+          "1 tasse de lait de soja non sucré",
+          "2 tranches de pain complet en lanières",
+          "Une demi-c. à c. d'huile",
+          "Une pincée de sucre ou de miel (facultatif)",
+          "Graines de sésame pour décorer"
+        ],
+        "es": [
+          "1 taza de leche de soja sin azúcar",
+          "2 rebanadas de pan integral en tiras",
+          "Media cdta de aceite",
+          "Una pizca de azúcar o miel (opcional)",
+          "Semillas de sésamo para decorar"
+        ],
+        "pt": [
+          "1 xícara de leite de soja sem açúcar",
+          "2 fatias de pão integral em tiras",
+          "Meia c. de chá de óleo",
+          "Uma pitada de açúcar ou mel (opcional)",
+          "Sementes de gergelim para decorar"
+        ],
+        "de": [
+          "1 Tasse ungesüßte Sojamilch",
+          "2 Scheiben Vollkornbrot in Streifen",
+          "Ein halber TL Öl",
+          "Eine Prise Zucker oder Honig (optional)",
+          "Sesamsamen zum Garnieren"
+        ],
+        "id": [
+          "1 cangkir susu kedelai tanpa gula",
+          "2 iris roti gandum utuh, potong stik",
+          "Setengah sdt minyak",
+          "Sejumput gula atau madu (opsional)",
+          "Wijen untuk hiasan"
+        ],
+        "hi": [
+          "1 कप बिना चीनी सोया दूध",
+          "2 स्लाइस होल ग्रेन ब्रेड, स्ट्रिप्स में कटी",
+          "आधा छोटा चम्मच तेल",
+          "चुटकी भर चीनी या शहद (वैकल्पिक)",
+          "सजावट के लिए तिल"
+        ],
+        "ja": [
+          "無糖豆乳1カップ",
+          "全粒粉パン2枚（棒状に切る）",
+          "油小さじ1/2",
+          "砂糖またははちみつ少々（お好みで）",
+          "飾り用ごま"
+        ],
+        "zh": [
+          "无糖豆浆1杯",
+          "全麦面包2片，切条",
+          "油半小匙",
+          "糖或蜂蜜少许（可选）",
+          "芝麻装饰"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "سخّن حليب الصويا على نار هادئة دون غليان",
+          "ادهن أعواد الخبز بالزيت ورشّ السمسم",
+          "حمّصها في الفرن أو مقلاة جافة حتى تقرمش",
+          "قدّم حليب الصويا الدافئ مع أعواد الخبز للغمس"
+        ],
+        "en": [
+          "Warm the soy milk on low heat without boiling",
+          "Brush the bread strips with oil and sprinkle sesame",
+          "Toast them in the oven or a dry pan until crisp",
+          "Serve the warm soy milk with the strips for dipping"
+        ],
+        "ru": [
+          "Подогрейте соевое молоко на слабом огне, не доводя до кипения",
+          "Смажьте полоски хлеба маслом и посыпьте кунжутом",
+          "Подсушите в духовке или на сухой сковороде до хруста",
+          "Подайте тёплое соевое молоко с полосками для макания"
+        ],
+        "ur": [
+          "سویا دودھ کو ہلکی آنچ پر بغیر ابالے گرم کریں",
+          "بریڈ اسٹرپس پر تیل لگا کر تل چھڑکیں",
+          "اوون یا خشک کڑاہی میں کرارا ہونے تک بھونیں",
+          "گرم سویا دودھ ڈپ کے لیے اسٹرپس کے ساتھ پیش کریں"
+        ],
+        "fr": [
+          "Réchauffez le lait de soja à feu doux sans bouillir",
+          "Badigeonnez les lanières de pain d'huile et de sésame",
+          "Grillez-les au four ou à sec jusqu'à croustillant",
+          "Servez le lait de soja tiède avec les lanières à tremper"
+        ],
+        "es": [
+          "Calienta la leche de soja a fuego bajo sin que hierva",
+          "Unta las tiras de pan con aceite y espolvorea sésamo",
+          "Tuéstalas en el horno o en sartén seca hasta crujientes",
+          "Sirve la leche de soja tibia con las tiras para mojar"
+        ],
+        "pt": [
+          "Aqueça o leite de soja em lume brando sem ferver",
+          "Pincele as tiras de pão com óleo e polvilhe gergelim",
+          "Toste-as no forno ou em frigideira seca até crocantes",
+          "Sirva o leite de soja morno com as tiras para molhar"
+        ],
+        "de": [
+          "Sojamilch bei niedriger Hitze erwärmen, ohne zu kochen",
+          "Brotstreifen mit Öl bestreichen und mit Sesam bestreuen",
+          "Im Ofen oder in trockener Pfanne knusprig rösten",
+          "Warme Sojamilch mit den Streifen zum Dippen servieren"
+        ],
+        "id": [
+          "Hangatkan susu kedelai api kecil tanpa mendidih",
+          "Olesi stik roti dengan minyak dan taburi wijen",
+          "Panggang di oven atau wajan kering sampai renyah",
+          "Sajikan susu kedelai hangat dengan stik untuk cocolan"
+        ],
+        "hi": [
+          "सोया दूध को धीमी आँच पर बिना उबाले गरम करें",
+          "ब्रेड स्ट्रिप्स पर तेल लगाकर तिल छिड़कें",
+          "ओवन या सूखे पैन में कुरकुरा होने तक सेंकें",
+          "गरम सोया दूध डिप के लिए स्ट्रिप्स के साथ परोसें"
+        ],
+        "ja": [
+          "豆乳を沸騰させずに弱火で温める",
+          "パンのスティックに油を塗りごまをふる",
+          "オーブンか乾いたフライパンでカリッと焼く",
+          "温かい豆乳にスティックを添えて浸しながら供する"
+        ],
+        "zh": [
+          "豆浆小火加热但不要煮沸",
+          "面包条刷油撒芝麻",
+          "烤箱或干锅烤至酥脆",
+          "温豆浆配面包条蘸食"
+        ]
+      }
     }
   ],
   "lunch": [
@@ -783,6 +979,202 @@
           "加生抽再炖10分钟",
           "面条另锅煮熟捞出",
           "碗中放面、浇汤、铺牛肉，放上小白菜"
+        ]
+      }
+    },
+    {
+      "id": "cn_ln_kung_pao_chicken",
+      "cuisine": "chinese",
+      "kcal": 380,
+      "protein": 34,
+      "carbs": 20,
+      "fat": 18,
+      "serving": {
+        "ar": "طبق (١٥٠ جم دجاج)",
+        "en": "One plate (150 g chicken)",
+        "ru": "Одна тарелка (150 г курицы)",
+        "ur": "ایک پلیٹ (150 گرام چکن)",
+        "fr": "Une assiette (150 g de poulet)",
+        "es": "Un plato (150 g de pollo)",
+        "pt": "Um prato (150 g de frango)",
+        "de": "Ein Teller (150 g Hähnchen)",
+        "id": "Satu piring (150 g ayam)",
+        "hi": "एक प्लेट (150 ग्राम चिकन)",
+        "ja": "1皿（鶏肉150g）",
+        "zh": "一份（鸡肉150克）"
+      },
+      "name": {
+        "ar": "دجاج كونغ باو خفيف",
+        "en": "Light kung pao chicken",
+        "ru": "Лёгкая курица гунбао",
+        "ur": "ہلکا کنگ پاؤ چکن",
+        "fr": "Poulet kung pao léger",
+        "es": "Pollo kung pao ligero",
+        "pt": "Frango kung pao leve",
+        "de": "Leichtes Kung-Pao-Hähnchen",
+        "id": "Ayam kung pao ringan",
+        "hi": "लाइट कुंग पाओ चिकन",
+        "ja": "軽やかカンパオチキン",
+        "zh": "轻盈宫保鸡丁"
+      },
+      "ingredients": {
+        "ar": [
+          "١٥٠ جم صدر دجاج مكعبات",
+          "فلفل رومي أحمر وأخضر",
+          "١٠ جم فول سوداني محمّص",
+          "ملعقتان صويا صوص وملعقة خل أرز",
+          "ثوم وزنجبيل وفلفل تشيلي جاف"
+        ],
+        "en": [
+          "150 g chicken breast, cubed",
+          "Red and green bell pepper",
+          "10 g roasted peanuts",
+          "2 tbsp soy sauce, 1 tbsp rice vinegar",
+          "Garlic, ginger, dried chilli"
+        ],
+        "ru": [
+          "150 г куриной грудки кубиками",
+          "Красный и зелёный болгарский перец",
+          "10 г обжаренного арахиса",
+          "2 ст. л. соевого соуса, 1 ст. л. рисового уксуса",
+          "Чеснок, имбирь, сушёный чили"
+        ],
+        "ur": [
+          "150 گرام چکن بریسٹ، کیوبز",
+          "لال اور ہری شملہ مرچ",
+          "10 گرام بھنی مونگ پھلی",
+          "2 چمچ سویا ساس، 1 چمچ چاول کا سرکہ",
+          "لہسن، ادرک، خشک لال مرچ"
+        ],
+        "fr": [
+          "150 g de blanc de poulet en cubes",
+          "Poivron rouge et vert",
+          "10 g de cacahuètes grillées",
+          "2 c. à s. de sauce soja, 1 c. à s. de vinaigre de riz",
+          "Ail, gingembre, piment séché"
+        ],
+        "es": [
+          "150 g de pechuga de pollo en cubos",
+          "Pimiento rojo y verde",
+          "10 g de cacahuetes tostados",
+          "2 cdas de salsa de soja, 1 cda de vinagre de arroz",
+          "Ajo, jengibre, chile seco"
+        ],
+        "pt": [
+          "150 g de peito de frango em cubos",
+          "Pimento vermelho e verde",
+          "10 g de amendoins torrados",
+          "2 colheres de molho de soja, 1 de vinagre de arroz",
+          "Alho, gengibre, pimenta seca"
+        ],
+        "de": [
+          "150 g Hähnchenbrust, gewürfelt",
+          "Rote und grüne Paprika",
+          "10 g geröstete Erdnüsse",
+          "2 EL Sojasauce, 1 EL Reisessig",
+          "Knoblauch, Ingwer, getrocknete Chili"
+        ],
+        "id": [
+          "150 g dada ayam, potong dadu",
+          "Paprika merah dan hijau",
+          "10 g kacang tanah panggang",
+          "2 sdm kecap asin, 1 sdm cuka beras",
+          "Bawang putih, jahe, cabai kering"
+        ],
+        "hi": [
+          "150 ग्राम चिकन ब्रेस्ट, टुकड़ों में",
+          "लाल और हरी शिमला मिर्च",
+          "10 ग्राम भुनी मूँगफली",
+          "2 बड़े चम्मच सोया सॉस, 1 चावल सिरका",
+          "लहसुन, अदरक, सूखी लाल मिर्च"
+        ],
+        "ja": [
+          "鶏むね肉150g（角切り）",
+          "赤・緑パプリカ",
+          "ローストピーナッツ10g",
+          "しょうゆ大さじ2、米酢大さじ1",
+          "にんにく、しょうが、乾燥唐辛子"
+        ],
+        "zh": [
+          "鸡胸肉150克，切丁",
+          "红绿彩椒",
+          "熟花生10克",
+          "生抽2大匙、米醋1大匙",
+          "蒜、姜、干辣椒"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "حمّر الدجاج في مقلاة ساخنة ٥ دقائق وارفعه",
+          "شوّح الثوم والزنجبيل والفلفل الجاف",
+          "أضف الفلفل الرومي والدجاج والصويا والخل",
+          "قلّب على نار عالية دقيقتين وأضف الفول السوداني"
+        ],
+        "en": [
+          "Sear the chicken in a hot pan 5 minutes and set aside",
+          "Sauté the garlic, ginger and dried chilli",
+          "Add the bell pepper, chicken, soy sauce and vinegar",
+          "Toss on high heat 2 minutes and add the peanuts"
+        ],
+        "ru": [
+          "Обжарьте курицу на сильном огне 5 минут и отложите",
+          "Обжарьте чеснок, имбирь и сушёный чили",
+          "Добавьте перец, курицу, соевый соус и уксус",
+          "Жарьте на сильном огне 2 минуты, добавьте арахис"
+        ],
+        "ur": [
+          "گرم پین میں چکن 5 منٹ سیئر کر کے نکال لیں",
+          "لہسن، ادرک اور خشک مرچ بھونیں",
+          "شملہ مرچ، چکن، سویا ساس اور سرکہ ڈالیں",
+          "تیز آنچ پر 2 منٹ چلا کر مونگ پھلی ڈالیں"
+        ],
+        "fr": [
+          "Saisissez le poulet dans une poêle chaude 5 minutes et réservez",
+          "Faites revenir ail, gingembre et piment séché",
+          "Ajoutez le poivron, le poulet, la sauce soja et le vinaigre",
+          "Sautez à feu vif 2 minutes et ajoutez les cacahuètes"
+        ],
+        "es": [
+          "Sella el pollo en sartén caliente 5 minutos y resérvalo",
+          "Sofríe el ajo, el jengibre y el chile seco",
+          "Añade el pimiento, el pollo, la soja y el vinagre",
+          "Saltea a fuego fuerte 2 minutos y añade los cacahuetes"
+        ],
+        "pt": [
+          "Seleee o frango numa frigideira quente 5 minutos e reserve",
+          "Refogue o alho, o gengibre e a pimenta seca",
+          "Junte o pimento, o frango, a soja e o vinagre",
+          "Salteie em lume forte 2 minutos e junte os amendoins"
+        ],
+        "de": [
+          "Hähnchen in heißer Pfanne 5 Minuten anbraten und beiseitestellen",
+          "Knoblauch, Ingwer und getrocknete Chili anbraten",
+          "Paprika, Hähnchen, Sojasauce und Essig zugeben",
+          "Bei starker Hitze 2 Minuten schwenken, Erdnüsse zugeben"
+        ],
+        "id": [
+          "Panggang ayam di wajan panas 5 menit lalu angkat",
+          "Tumis bawang putih, jahe, dan cabai kering",
+          "Masukkan paprika, ayam, kecap asin, dan cuka",
+          "Aduk api besar 2 menit, masukkan kacang tanah"
+        ],
+        "hi": [
+          "गरम पैन में चिकन 5 मिनट सीयर कर निकाल लें",
+          "लहसुन, अदरक और सूखी मिर्च भूनें",
+          "शिमला मिर्च, चिकन, सोया सॉस और सिरका डालें",
+          "तेज़ आँच पर 2 मिनट चलाकर मूँगफली डालें"
+        ],
+        "ja": [
+          "熱したフライパンで鶏肉を5分焼き取り出す",
+          "にんにく、しょうが、乾燥唐辛子を炒める",
+          "パプリカ、鶏肉、しょうゆ、酢を加える",
+          "強火で2分あおり、ピーナッツを加える"
+        ],
+        "zh": [
+          "鸡肉热锅煎5分钟盛出",
+          "爆香蒜、姜和干辣椒",
+          "加彩椒、鸡肉、生抽和醋",
+          "大火翻炒2分钟，加花生米"
         ]
       }
     }
@@ -1179,6 +1571,202 @@
           "油烧至冒烟浇在鱼上，再淋生抽"
         ]
       }
+    },
+    {
+      "id": "cn_dn_black_bean_beef",
+      "cuisine": "chinese",
+      "kcal": 340,
+      "protein": 32,
+      "carbs": 16,
+      "fat": 15,
+      "serving": {
+        "ar": "طبق (١٥٠ جم لحم)",
+        "en": "One plate (150 g beef)",
+        "ru": "Одна тарелка (150 г говядины)",
+        "ur": "ایک پلیٹ (150 گرام بیف)",
+        "fr": "Une assiette (150 g de bœuf)",
+        "es": "Un plato (150 g de ternera)",
+        "pt": "Um prato (150 g de carne)",
+        "de": "Ein Teller (150 g Rind)",
+        "id": "Satu piring (150 g sapi)",
+        "hi": "एक प्लेट (150 ग्राम बीफ़)",
+        "ja": "1皿（牛肉150g）",
+        "zh": "一份（牛肉150克）"
+      },
+      "name": {
+        "ar": "لحم بقر بفول الصويا الأسود",
+        "en": "Beef with black bean sauce",
+        "ru": "Говядина с соусом из чёрных бобов",
+        "ur": "بلیک بین ساس بیف",
+        "fr": "Bœuf sauce fèves noires",
+        "es": "Ternera con salsa de frijol negro",
+        "pt": "Carne com molho de feijão preto",
+        "de": "Rindfleisch mit schwarzer Bohnensauce",
+        "id": "Sapi saus kacang hitam",
+        "hi": "ब्लैक बीन सॉस बीफ़",
+        "ja": "牛肉の豆豉炒め",
+        "zh": "豆豉牛肉"
+      },
+      "ingredients": {
+        "ar": [
+          "١٥٠ جم لحم بقري قليل الدهن شرائح",
+          "ملعقة كبيرة فول صويا أسود مخمّر",
+          "بروكلي وفلفل رومي",
+          "فص ثوم وزنجبيل",
+          "ملعقة صغيرة نشا وصويا صوص"
+        ],
+        "en": [
+          "150 g lean beef, sliced",
+          "1 tbsp fermented black beans",
+          "Broccoli and bell pepper",
+          "1 garlic clove, ginger",
+          "1 tsp cornstarch, soy sauce"
+        ],
+        "ru": [
+          "150 г нежирной говядины ломтиками",
+          "1 ст. л. ферментированных чёрных бобов",
+          "Брокколи и болгарский перец",
+          "1 зубчик чеснока, имбирь",
+          "1 ч. л. крахмала, соевый соус"
+        ],
+        "ur": [
+          "150 گرام کم چکنائی بیف، سلائس",
+          "1 چمچ خمیر شدہ کالے سویا بین",
+          "بروکلی اور شملہ مرچ",
+          "1 لہسن کا جوا، ادرک",
+          "1 چائے کا چمچ کارن فلور، سویا ساس"
+        ],
+        "fr": [
+          "150 g de bœuf maigre émincé",
+          "1 c. à s. de fèves noires fermentées",
+          "Brocoli et poivron",
+          "1 gousse d'ail, gingembre",
+          "1 c. à c. de maïzena, sauce soja"
+        ],
+        "es": [
+          "150 g de ternera magra en tiras",
+          "1 cda de frijol negro fermentado",
+          "Brócoli y pimiento",
+          "1 diente de ajo, jengibre",
+          "1 cdta de maicena, salsa de soja"
+        ],
+        "pt": [
+          "150 g de carne magra em tiras",
+          "1 colher de sopa de feijão preto fermentado",
+          "Brócolos e pimento",
+          "1 dente de alho, gengibre",
+          "1 c. de chá de amido de milho, molho de soja"
+        ],
+        "de": [
+          "150 g mageres Rindfleisch in Streifen",
+          "1 EL fermentierte schwarze Bohnen",
+          "Brokkoli und Paprika",
+          "1 Knoblauchzehe, Ingwer",
+          "1 TL Speisestärke, Sojasauce"
+        ],
+        "id": [
+          "150 g daging sapi tanpa lemak, iris",
+          "1 sdm tauco hitam fermentasi",
+          "Brokoli dan paprika",
+          "1 siung bawang putih, jahe",
+          "1 sdt maizena, kecap asin"
+        ],
+        "hi": [
+          "150 ग्राम लीन बीफ़, स्लाइस",
+          "1 बड़ा चम्मच किण्वित काली सोया बीन",
+          "ब्रोकली और शिमला मिर्च",
+          "1 लहसुन कली, अदरक",
+          "1 छोटा चम्मच कॉर्नस्टार्च, सोया सॉस"
+        ],
+        "ja": [
+          "赤身の牛肉150g（薄切り）",
+          "豆豉大さじ1",
+          "ブロッコリーとパプリカ",
+          "にんにく1片、しょうが",
+          "片栗粉小さじ1、しょうゆ"
+        ],
+        "zh": [
+          "瘦牛肉150克，切片",
+          "豆豉1大匙",
+          "西兰花和彩椒",
+          "蒜1瓣、姜",
+          "玉米淀粉1小匙、生抽"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اخلط اللحم بالنشا وملعقة صويا ١٠ دقائق",
+          "اهرس الفول الأسود مع الثوم والزنجبيل",
+          "حمّر اللحم على نار عالية ٣ دقائق وارفعه",
+          "شوّح الخضار والفول الأسود ثم أعد اللحم دقيقتين"
+        ],
+        "en": [
+          "Toss the beef with the cornstarch and 1 tbsp soy sauce, 10 minutes",
+          "Mash the black beans with the garlic and ginger",
+          "Sear the beef on high heat 3 minutes and set aside",
+          "Sauté the vegetables and black beans, return the beef for 2 minutes"
+        ],
+        "ru": [
+          "Смешайте говядину с крахмалом и 1 ст. л. соевого соуса на 10 минут",
+          "Разомните чёрные бобы с чесноком и имбирём",
+          "Обжарьте говядину на сильном огне 3 минуты и отложите",
+          "Обжарьте овощи и бобы, верните говядину на 2 минуты"
+        ],
+        "ur": [
+          "بیف کو کارن فلور اور 1 چمچ سویا ساس میں 10 منٹ رکھیں",
+          "کالے سویا بین کو لہسن اور ادرک کے ساتھ مسل لیں",
+          "تیز آنچ پر بیف 3 منٹ سیئر کر کے نکال لیں",
+          "سبزیاں اور بین بھون کر بیف 2 منٹ واپس ڈالیں"
+        ],
+        "fr": [
+          "Mélangez le bœuf avec la maïzena et 1 c. à s. de soja, 10 minutes",
+          "Écrasez les fèves noires avec l'ail et le gingembre",
+          "Saisissez le bœuf à feu vif 3 minutes et réservez",
+          "Faites revenir légumes et fèves, remettez le bœuf 2 minutes"
+        ],
+        "es": [
+          "Mezcla la ternera con la maicena y 1 cda de soja, 10 minutos",
+          "Machaca el frijol negro con el ajo y el jengibre",
+          "Sella la ternera a fuego fuerte 3 minutos y resérvala",
+          "Sofríe las verduras y el frijol, devuelve la carne 2 minutos"
+        ],
+        "pt": [
+          "Envolva a carne no amido e 1 colher de soja, 10 minutos",
+          "Amasse o feijão preto com o alho e o gengibre",
+          "Seleee a carne em lume forte 3 minutos e reserve",
+          "Salteie os legumes e o feijão, volte com a carne 2 minutos"
+        ],
+        "de": [
+          "Rindfleisch mit Stärke und 1 EL Sojasauce 10 Minuten marinieren",
+          "Schwarze Bohnen mit Knoblauch und Ingwer zerdrücken",
+          "Rindfleisch bei starker Hitze 3 Minuten anbraten, beiseitestellen",
+          "Gemüse und Bohnen anbraten, Fleisch für 2 Minuten zurückgeben"
+        ],
+        "id": [
+          "Lumuri sapi dengan maizena dan 1 sdm kecap, 10 menit",
+          "Haluskan tauco hitam dengan bawang putih dan jahe",
+          "Panggang sapi api besar 3 menit lalu angkat",
+          "Tumis sayuran dan tauco, kembalikan sapi 2 menit"
+        ],
+        "hi": [
+          "बीफ़ को कॉर्नस्टार्च और 1 चम्मच सोया सॉस में 10 मिनट रखें",
+          "काली सोया बीन को लहसुन और अदरक के साथ मैश करें",
+          "तेज़ आँच पर बीफ़ 3 मिनट सीयर कर निकालें",
+          "सब्ज़ियाँ और बीन भूनकर बीफ़ 2 मिनट वापस डालें"
+        ],
+        "ja": [
+          "牛肉に片栗粉としょうゆ大さじ1をもみ込み10分おく",
+          "豆豉をにんにく、しょうがと潰す",
+          "強火で牛肉を3分焼き付け取り出す",
+          "野菜と豆豉を炒め、牛肉を戻し2分炒める"
+        ],
+        "zh": [
+          "牛肉用淀粉和1大匙生抽腌10分钟",
+          "豆豉与蒜姜一起压碎",
+          "大火煎牛肉3分钟盛出",
+          "炒香蔬菜和豆豉，牛肉回锅炒2分钟"
+        ]
+      }
     }
   ],
   "snack": [
@@ -1573,6 +2161,202 @@
           "浇上料汁，撒芝麻，冷食风味最佳"
         ]
       }
+    },
+    {
+      "id": "cn_sn_five_spice_tofu",
+      "cuisine": "chinese",
+      "kcal": 150,
+      "protein": 14,
+      "carbs": 6,
+      "fat": 9,
+      "serving": {
+        "ar": "طبق صغير (١٠٠ جم توفو)",
+        "en": "Small plate (100 g tofu)",
+        "ru": "Небольшая тарелка (100 г тофу)",
+        "ur": "چھوٹی پلیٹ (100 گرام توفو)",
+        "fr": "Petite assiette (100 g de tofu)",
+        "es": "Plato pequeño (100 g de tofu)",
+        "pt": "Prato pequeno (100 g de tofu)",
+        "de": "Kleiner Teller (100 g Tofu)",
+        "id": "Piring kecil (100 g tahu)",
+        "hi": "छोटी प्लेट (100 ग्राम टोफू)",
+        "ja": "小皿1（豆腐100g）",
+        "zh": "小份（豆腐100克）"
+      },
+      "name": {
+        "ar": "توفو مقرمش بالبهارات الخمس",
+        "en": "Five-spice crispy tofu",
+        "ru": "Хрустящий тофу с пятью специями",
+        "ur": "فائیو اسپائس کرارا توفو",
+        "fr": "Tofu croustillant cinq épices",
+        "es": "Tofu crujiente de cinco especias",
+        "pt": "Tofu crocante cinco especiarias",
+        "de": "Knuspriger Fünf-Gewürze-Tofu",
+        "id": "Tahu renyah lima rempah",
+        "hi": "फ़ाइव स्पाइस क्रिस्पी टोफू",
+        "ja": "五香粉のカリカリ豆腐",
+        "zh": "五香脆豆腐"
+      },
+      "ingredients": {
+        "ar": [
+          "١٠٠ جم توفو صلب مكعبات",
+          "نصف ملعقة صغيرة بهار خمس توابل",
+          "ملعقة صغيرة نشا ذرة",
+          "ملعقة صغيرة زيت",
+          "صويا صوص للتقديم"
+        ],
+        "en": [
+          "100 g firm tofu, cubed",
+          "Half tsp five-spice powder",
+          "1 tsp cornstarch",
+          "1 tsp oil",
+          "Soy sauce to serve"
+        ],
+        "ru": [
+          "100 г плотного тофу кубиками",
+          "Половина ч. л. смеси пяти специй",
+          "1 ч. л. кукурузного крахмала",
+          "1 ч. л. масла",
+          "Соевый соус для подачи"
+        ],
+        "ur": [
+          "100 گرام سخت توفو، کیوبز",
+          "آدھا چائے کا چمچ فائیو اسپائس پاؤڈر",
+          "1 چائے کا چمچ کارن فلور",
+          "1 چائے کا چمچ تیل",
+          "پیش کرنے کو سویا ساس"
+        ],
+        "fr": [
+          "100 g de tofu ferme en cubes",
+          "Une demi-c. à c. de cinq épices",
+          "1 c. à c. de maïzena",
+          "1 c. à c. d'huile",
+          "Sauce soja pour servir"
+        ],
+        "es": [
+          "100 g de tofu firme en cubos",
+          "Media cdta de cinco especias",
+          "1 cdta de maicena",
+          "1 cdta de aceite",
+          "Salsa de soja para servir"
+        ],
+        "pt": [
+          "100 g de tofu firme em cubos",
+          "Meia c. de chá de cinco especiarias",
+          "1 c. de chá de amido de milho",
+          "1 c. de chá de óleo",
+          "Molho de soja para servir"
+        ],
+        "de": [
+          "100 g fester Tofu, gewürfelt",
+          "Ein halber TL Fünf-Gewürze-Pulver",
+          "1 TL Speisestärke",
+          "1 TL Öl",
+          "Sojasauce zum Servieren"
+        ],
+        "id": [
+          "100 g tahu keras, potong dadu",
+          "Setengah sdt bubuk lima rempah",
+          "1 sdt maizena",
+          "1 sdt minyak",
+          "Kecap asin untuk penyajian"
+        ],
+        "hi": [
+          "100 ग्राम फ़र्म टोफू, टुकड़ों में",
+          "आधा छोटा चम्मच फ़ाइव स्पाइस पाउडर",
+          "1 छोटा चम्मच कॉर्नस्टार्च",
+          "1 छोटा चम्मच तेल",
+          "परोसने के लिए सोया सॉस"
+        ],
+        "ja": [
+          "木綿豆腐100g（角切り）",
+          "五香粉小さじ1/2",
+          "コーンスターチ小さじ1",
+          "油小さじ1",
+          "添え用しょうゆ"
+        ],
+        "zh": [
+          "老豆腐100克，切块",
+          "五香粉半小匙",
+          "玉米淀粉1小匙",
+          "油1小匙",
+          "佐食生抽"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "جفّف مكعبات التوفو جيدًا بمنشفة",
+          "رشّها بالنشا والبهار وقلّبها برفق",
+          "اقلِها في مقلاة بالزيت ٨ دقائق مع القلب حتى تقرمش",
+          "قدّمها ساخنة مع صويا صوص للغمس"
+        ],
+        "en": [
+          "Pat the tofu cubes dry with a towel",
+          "Toss with the cornstarch and spice, gently",
+          "Pan-fry in the oil 8 minutes, turning, until crisp",
+          "Serve hot with soy sauce for dipping"
+        ],
+        "ru": [
+          "Тщательно обсушите кубики тофу полотенцем",
+          "Аккуратно обваляйте в крахмале и специях",
+          "Обжарьте на сковороде в масле 8 минут до хруста",
+          "Подавайте горячим с соевым соусом для макания"
+        ],
+        "ur": [
+          "توفو کیوبز کو تولیے سے اچھی طرح خشک کریں",
+          "کارن فلور اور مصالحہ نرمی سے لپیٹیں",
+          "تیل میں 8 منٹ پلٹتے ہوئے کرارا ہونے تک فرائی کریں",
+          "سویا ساس کے ساتھ گرم ڈپ کے لیے پیش کریں"
+        ],
+        "fr": [
+          "Épongez bien les cubes de tofu avec un torchon",
+          "Enrobez délicatement de maïzena et d'épice",
+          "Faites frire à la poêle 8 minutes en tournant jusqu'à croustillant",
+          "Servez chaud avec la sauce soja pour tremper"
+        ],
+        "es": [
+          "Seca bien los cubos de tofu con un paño",
+          "Reboza con suavidad en la maicena y la especia",
+          "Fríe en la sartén con el aceite 8 minutos hasta crujiente",
+          "Sirve caliente con salsa de soja para mojar"
+        ],
+        "pt": [
+          "Seque bem os cubos de tofu com um pano",
+          "Envolva com cuidado no amido e na especiaria",
+          "Frite na frigideira com o óleo 8 minutos até crocante",
+          "Sirva quente com molho de soja para molhar"
+        ],
+        "de": [
+          "Tofuwürfel mit einem Tuch gut trocken tupfen",
+          "Vorsichtig mit Stärke und Gewürz bestäuben",
+          "In der Pfanne im Öl 8 Minuten knusprig braten, wenden",
+          "Heiß mit Sojasauce zum Dippen servieren"
+        ],
+        "id": [
+          "Keringkan dadu tahu dengan lap",
+          "Lumuri perlahan dengan maizena dan bumbu",
+          "Goreng di wajan dengan minyak 8 menit sampai renyah",
+          "Sajikan panas dengan kecap asin untuk cocolan"
+        ],
+        "hi": [
+          "टोफू क्यूब्स को तौलिये से अच्छे से सुखाएँ",
+          "कॉर्नस्टार्च और मसाला हल्के हाथ लपेटें",
+          "तेल में 8 मिनट पलटते हुए कुरकुरा होने तक तलें",
+          "सोया सॉस के साथ गरम डिप के लिए परोसें"
+        ],
+        "ja": [
+          "豆腐の角切りをタオルでしっかり水気を拭く",
+          "片栗粉とスパイスを優しくまぶす",
+          "油でフライパンで8分、返しながらカリッと焼く",
+          "しょうゆを添えて熱いうちに供する"
+        ],
+        "zh": [
+          "豆腐块用布擦干水分",
+          "轻轻裹上淀粉和五香粉",
+          "油煎8分钟，翻动至酥脆",
+          "趁热配生抽蘸食"
+        ]
+      }
     }
   ],
   "dessert": [
@@ -1965,6 +2749,202 @@
           "加杏仁奶和蜂蜜，加热但不要沸腾",
           "拌入杏仁精，倒入模具",
           "冷藏2小时，切块配水果享用"
+        ]
+      }
+    },
+    {
+      "id": "cn_ds_ginger_soup",
+      "cuisine": "chinese",
+      "kcal": 140,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 1,
+      "serving": {
+        "ar": "كوب صغير",
+        "en": "One small cup",
+        "ru": "Небольшая чашка",
+        "ur": "ایک چھوٹا کپ",
+        "fr": "Une petite tasse",
+        "es": "Una taza pequeña",
+        "pt": "Uma taça pequena",
+        "de": "Eine kleine Tasse",
+        "id": "Satu cangkir kecil",
+        "hi": "एक छोटा कप",
+        "ja": "小カップ1",
+        "zh": "一小碗"
+      },
+      "name": {
+        "ar": "شوربة الزنجبيل الحلوة",
+        "en": "Sweet ginger soup",
+        "ru": "Сладкий имбирный суп",
+        "ur": "میٹھا ادرک سوپ",
+        "fr": "Soupe sucrée au gingembre",
+        "es": "Sopa dulce de jengibre",
+        "pt": "Sopa doce de gengibre",
+        "de": "Süße Ingwersuppe",
+        "id": "Sup jahe manis",
+        "hi": "मीठा अदरक सूप",
+        "ja": "生姜の甘いスープ",
+        "zh": "姜汁糖水"
+      },
+      "ingredients": {
+        "ar": [
+          "قطعة زنجبيل طازج مقشّرة",
+          "كوبان ماء",
+          "ملعقتان سكر بني خفيف أو عسل",
+          "قطعة قشر برتقال (اختياري)",
+          "توفو حريري مكعبات (اختياري)"
+        ],
+        "en": [
+          "1 piece fresh ginger, peeled",
+          "2 cups water",
+          "2 tbsp light brown sugar or honey",
+          "A piece of orange peel (optional)",
+          "Cubed silken tofu (optional)"
+        ],
+        "ru": [
+          "Кусочек свежего имбиря, очищенный",
+          "2 стакана воды",
+          "2 ст. л. лёгкого коричневого сахара или мёда",
+          "Кусочек апельсиновой цедры (по желанию)",
+          "Кубики шёлкового тофу (по желанию)"
+        ],
+        "ur": [
+          "تازہ ادرک کا ٹکڑا، چھلا ہوا",
+          "2 کپ پانی",
+          "2 چمچ ہلکی براؤن شوگر یا شہد",
+          "نارنجی کا چھلکا (اختیاری)",
+          "ریشمی توفو کیوبز (اختیاری)"
+        ],
+        "fr": [
+          "Un morceau de gingembre frais pelé",
+          "2 tasses d'eau",
+          "2 c. à s. de cassonade claire ou de miel",
+          "Un morceau de zeste d'orange (facultatif)",
+          "Tofu soyeux en cubes (facultatif)"
+        ],
+        "es": [
+          "Un trozo de jengibre fresco pelado",
+          "2 tazas de agua",
+          "2 cdas de azúcar moreno claro o miel",
+          "Un trozo de piel de naranja (opcional)",
+          "Tofu sedoso en cubos (opcional)"
+        ],
+        "pt": [
+          "Um pedaço de gengibre fresco descascado",
+          "2 xícaras de água",
+          "2 colheres de açúcar mascavo claro ou mel",
+          "Um pedaço de casca de laranja (opcional)",
+          "Tofu sedoso em cubos (opcional)"
+        ],
+        "de": [
+          "Ein Stück frischer Ingwer, geschält",
+          "2 Tassen Wasser",
+          "2 EL heller brauner Zucker oder Honig",
+          "Ein Stück Orangenschale (optional)",
+          "Gewürfelter Seidentofu (optional)"
+        ],
+        "id": [
+          "Sepotong jahe segar, dikupas",
+          "2 cangkir air",
+          "2 sdm gula merah muda atau madu",
+          "Sepotong kulit jeruk (opsional)",
+          "Tahu sutra potong dadu (opsional)"
+        ],
+        "hi": [
+          "ताज़ा अदरक का टुकड़ा, छिला हुआ",
+          "2 कप पानी",
+          "2 बड़े चम्मच हल्की ब्राउन शुगर या शहद",
+          "संतरे का छिलका (वैकल्पिक)",
+          "सिल्कन टोफू क्यूब्स (वैकल्पिक)"
+        ],
+        "ja": [
+          "生姜1かけ（皮をむく）",
+          "水2カップ",
+          "きび砂糖またははちみつ大さじ2",
+          "オレンジの皮（お好みで）",
+          "絹ごし豆腐の角切り（お好みで）"
+        ],
+        "zh": [
+          "新鲜姜一块，去皮",
+          "水2杯",
+          "淡红糖或蜂蜜2大匙",
+          "橙皮一块（可选）",
+          "嫩豆腐丁（可选）"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اهرس الزنجبيل أو قطّعه شرائح رفيعة",
+          "اغلِه في الماء مع قشر البرتقال ١٥ دقيقة",
+          "أضف السكر أو العسل وقلّب حتى يذوب",
+          "أضف التوفو إن رغبت وقدّمه دافئًا"
+        ],
+        "en": [
+          "Crush or thinly slice the ginger",
+          "Boil it in the water with the orange peel for 15 minutes",
+          "Add the sugar or honey and stir until dissolved",
+          "Add the tofu if you like and serve warm"
+        ],
+        "ru": [
+          "Раздавите или тонко нарежьте имбирь",
+          "Прокипятите в воде с цедрой апельсина 15 минут",
+          "Добавьте сахар или мёд, размешайте до растворения",
+          "При желании добавьте тофу и подавайте тёплым"
+        ],
+        "ur": [
+          "ادرک کو کچلیں یا باریک سلائس کریں",
+          "پانی میں نارنجی کے چھلکے کے ساتھ 15 منٹ ابالیں",
+          "چینی یا شہد ڈال کر گھلنے تک ہلائیں",
+          "چاہیں تو توفو ڈال کر گرم پیش کریں"
+        ],
+        "fr": [
+          "Écrasez ou émincez finement le gingembre",
+          "Faites-le bouillir dans l'eau avec le zeste d'orange 15 minutes",
+          "Ajoutez le sucre ou le miel et remuez jusqu'à dissolution",
+          "Ajoutez le tofu si désiré et servez tiède"
+        ],
+        "es": [
+          "Machaca o corta el jengibre en láminas finas",
+          "Hiérvelo en el agua con la piel de naranja 15 minutos",
+          "Añade el azúcar o la miel y remueve hasta disolver",
+          "Añade el tofu si quieres y sirve templado"
+        ],
+        "pt": [
+          "Esmague ou corte o gengibre em fatias finas",
+          "Ferva-o na água com a casca de laranja 15 minutos",
+          "Junte o açúcar ou o mel e mexa até dissolver",
+          "Junte o tofu se quiser e sirva morno"
+        ],
+        "de": [
+          "Ingwer zerdrücken oder dünn schneiden",
+          "Im Wasser mit der Orangenschale 15 Minuten kochen",
+          "Zucker oder Honig zugeben und rühren, bis er sich auflöst",
+          "Nach Belieben Tofu zugeben und warm servieren"
+        ],
+        "id": [
+          "Memarkan atau iris tipis jahe",
+          "Rebus dalam air dengan kulit jeruk selama 15 menit",
+          "Tambahkan gula atau madu, aduk sampai larut",
+          "Tambah tahu jika suka, sajikan hangat"
+        ],
+        "hi": [
+          "अदरक को कुचलें या पतला काटें",
+          "पानी में संतरे के छिलके के साथ 15 मिनट उबालें",
+          "चीनी या शहद डालकर घुलने तक चलाएँ",
+          "चाहें तो टोफू डालकर गुनगुना परोसें"
+        ],
+        "ja": [
+          "生姜を潰すか薄切りにする",
+          "オレンジの皮とともに水で15分煮る",
+          "砂糖かはちみつを加え溶けるまで混ぜる",
+          "お好みで豆腐を加え、温かいうちに供する"
+        ],
+        "zh": [
+          "姜拍碎或切薄片",
+          "加水和橙皮煮15分钟",
+          "加红糖或蜂蜜搅至溶化",
+          "喜欢可加豆腐丁，温热享用"
         ]
       }
     }
