@@ -1,0 +1,1972 @@
+{
+  "breakfast": [
+    {
+      "id": "le_bf_manakish_zaatar",
+      "cuisine": "levant",
+      "kcal": 310,
+      "protein": 11,
+      "carbs": 42,
+      "fat": 12,
+      "serving": {
+        "ar": "قرص صغير",
+        "en": "1 small round",
+        "ru": "1 небольшая лепёшка",
+        "ur": "1 چھوٹا قرص",
+        "fr": "1 petit disque",
+        "es": "1 disco pequeño",
+        "pt": "1 disco pequeno",
+        "de": "1 kleiner Fladen",
+        "id": "1 bulatan kecil",
+        "hi": "1 छोटा गोल",
+        "ja": "小1枚",
+        "zh": "小圆饼1个"
+      },
+      "name": {
+        "ar": "مناقيش الزعتر الصغيرة",
+        "en": "Mini zaatar manakish",
+        "ru": "Мини-манакиш с заатаром",
+        "ur": "چھوٹا زعتر مناقیش",
+        "fr": "Mini manakish au zaatar",
+        "es": "Mini manakish de zaatar",
+        "pt": "Mini manakish de zaatar",
+        "de": "Mini-Manakish mit Zaatar",
+        "id": "Mini manakish zaatar",
+        "hi": "मिनी ज़ातर मनाकीश",
+        "ja": "ミニ・マナキーシュ（ザアタル）",
+        "zh": "迷你扎塔香草饼"
+      },
+      "ingredients": {
+        "ar": [
+          "نصف كوب دقيق قمح كامل",
+          "نصف ملعقة صغيرة خميرة فورية",
+          "ملعقتان زعتر أخضر جاف",
+          "ملعقة صغيرة زيت زيتون",
+          "ماء دافئ وقليل ملح"
+        ],
+        "en": [
+          "Half cup wholewheat flour",
+          "Half tsp instant yeast",
+          "2 tbsp dried zaatar mix",
+          "1 tsp olive oil",
+          "Warm water, a little salt"
+        ],
+        "ru": [
+          "Полстакана цельнозерновой муки",
+          "Половина ч. л. быстродействующих дрожжей",
+          "2 ст. л. сухой смеси заатар",
+          "1 ч. л. оливкового масла",
+          "Тёплая вода, немного соли"
+        ],
+        "ur": [
+          "آدھا کپ ہول ویٹ آٹا",
+          "آدھا چائے کا چمچ فوری خمیر",
+          "2 چمچ خشک زعتر مکس",
+          "1 چائے کا چمچ زیتون کا تیل",
+          "نیم گرم پانی، تھوڑا نمک"
+        ],
+        "fr": [
+          "Une demi-tasse de farine complète",
+          "Une demi-c. à c. de levure instantanée",
+          "2 c. à s. de mélange zaatar séché",
+          "1 c. à c. d'huile d'olive",
+          "Eau tiède, un peu de sel"
+        ],
+        "es": [
+          "Media taza de harina integral",
+          "Media cdta de levadura instantánea",
+          "2 cdas de mezcla de zaatar seco",
+          "1 cdta de aceite de oliva",
+          "Agua tibia, un poco de sal"
+        ],
+        "pt": [
+          "Meia xícara de farinha integral",
+          "Meia c. de chá de fermento instantâneo",
+          "2 colheres de sopa de mistura de zaatar seco",
+          "1 c. de chá de azeite",
+          "Água morna, um pouco de sal"
+        ],
+        "de": [
+          "Eine halbe Tasse Vollkornmehl",
+          "Ein halber TL Instanthefe",
+          "2 EL trockene Zaatar-Mischung",
+          "1 TL Olivenöl",
+          "Warmes Wasser, etwas Salz"
+        ],
+        "id": [
+          "Setengah cangkir tepung gandum utuh",
+          "Setengah sdt ragi instan",
+          "2 sdm campuran zaatar kering",
+          "1 sdt minyak zaitun",
+          "Air hangat, sedikit garam"
+        ],
+        "hi": [
+          "आधा कप होल व्हीट आटा",
+          "आधा छोटा चम्मच इंस्टेंट यीस्ट",
+          "2 बड़े चम्मच सूखा ज़ातर मिश्रण",
+          "1 छोटा चम्मच जैतून तेल",
+          "गुनगुना पानी, थोड़ा नमक"
+        ],
+        "ja": [
+          "全粒粉1/2カップ",
+          "インスタントドライイースト小さじ1/2",
+          "ザアタルミックス大さじ2",
+          "オリーブオイル小さじ1",
+          "ぬるま湯、塩少々"
+        ],
+        "zh": [
+          "全麦面粉半杯",
+          "速溶酵母半小匙",
+          "干扎塔混合香料2大匙",
+          "橄榄油1小匙",
+          "温水、少许盐"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اعجن الدقيق والخميرة والملح بماء دافئ",
+          "اتركه يرتاح ٤٥ دقيقة",
+          "افرده قرصًا وادهنه بالزيت والزعتر",
+          "اخبزه ١٢ دقيقة على ٢٢٠ درجة"
+        ],
+        "en": [
+          "Knead the flour, yeast and salt with warm water",
+          "Let it rest 45 minutes",
+          "Roll into a round and brush with oil and zaatar",
+          "Bake 12 minutes at 220°C"
+        ],
+        "ru": [
+          "Замесите муку, дрожжи и соль с тёплой водой",
+          "Дайте отдохнуть 45 минут",
+          "Раскатайте в лепёшку и смажьте маслом и заатаром",
+          "Запекайте 12 минут при 220°C"
+        ],
+        "ur": [
+          "آٹا، خمیر اور نمک نیم گرم پانی سے گوندھیں",
+          "45 منٹ رکھیں",
+          "قرص بنا کر تیل اور زعتر لگائیں",
+          "220 ڈگری پر 12 منٹ بیک کریں"
+        ],
+        "fr": [
+          "Pétrissez la farine, la levure et le sel avec de l'eau tiède",
+          "Laissez reposer 45 minutes",
+          "Étalez en disque et badigeonnez d'huile et de zaatar",
+          "Enfournez 12 minutes à 220°C"
+        ],
+        "es": [
+          "Amasa la harina, la levadura y la sal con agua tibia",
+          "Deja reposar 45 minutos",
+          "Extiende en disco y unta con aceite y zaatar",
+          "Hornea 12 minutos a 220°C"
+        ],
+        "pt": [
+          "Amasse a farinha, o fermento e o sal com água morna",
+          "Deixe repousar 45 minutos",
+          "Estenda em disco e pincele com azeite e zaatar",
+          "Asse 12 minutos a 220°C"
+        ],
+        "de": [
+          "Mehl, Hefe und Salz mit warmem Wasser kneten",
+          "45 Minuten ruhen lassen",
+          "Zu einem Fladen ausrollen und mit Öl und Zaatar bestreichen",
+          "12 Minuten bei 220°C backen"
+        ],
+        "id": [
+          "Uleni tepung, ragi, dan garam dengan air hangat",
+          "Diamkan 45 menit",
+          "Gilas bulat, olesi minyak dan zaatar",
+          "Panggang 12 menit di 220°C"
+        ],
+        "hi": [
+          "आटा, यीस्ट और नमक गुनगुने पानी से गूँधें",
+          "45 मिनट रखें",
+          "गोल बेलकर तेल और ज़ातर लगाएँ",
+          "220°C पर 12 मिनट बेक करें"
+        ],
+        "ja": [
+          "粉、イースト、塩をぬるま湯でこねる",
+          "45分休ませる",
+          "丸くのばし、オイルとザアタルを塗る",
+          "220℃で12分焼く"
+        ],
+        "zh": [
+          "面粉、酵母和盐加温水揉匀",
+          "醒发45分钟",
+          "擀成圆形，刷油撒扎塔香料",
+          "220度烤12分钟"
+        ]
+      }
+    },
+    {
+      "id": "le_bf_ful_egg_wrap",
+      "cuisine": "levant",
+      "kcal": 340,
+      "protein": 18,
+      "carbs": 38,
+      "fat": 12,
+      "serving": {
+        "ar": "لفة واحدة",
+        "en": "1 wrap",
+        "ru": "1 ролл",
+        "ur": "1 رول",
+        "fr": "1 galette roulée",
+        "es": "1 rollo",
+        "pt": "1 embrulho",
+        "de": "1 Wrap",
+        "id": "1 gulungan",
+        "hi": "1 रैप",
+        "ja": "1個",
+        "zh": "1个"
+      },
+      "name": {
+        "ar": "لفافة فول بالبيض",
+        "en": "Foul and egg wrap",
+        "ru": "Роллы с фулем и яйцом",
+        "ur": "فول اور انڈے کا رول",
+        "fr": "Wrap fèves et œuf",
+        "es": "Wrap de habas y huevo",
+        "pt": "Wrap de fava com ovo",
+        "de": "Fava-Bohnen-Ei-Wrap",
+        "id": "Wrap ful telur",
+        "hi": "फूल एग रैप",
+        "ja": "フール豆と卵のラップ",
+        "zh": "蚕豆鸡蛋卷饼"
+      },
+      "ingredients": {
+        "ar": [
+          "خبز صاج أو تورتيلا قمح كامل",
+          "نصف كوب فول مسلوق مهروس",
+          "بيضة واحدة",
+          "طماطم وخيار مفروم",
+          "عصير ليمون وكمون وملح"
+        ],
+        "en": [
+          "1 saj bread or wholewheat tortilla",
+          "Half cup mashed cooked fava beans",
+          "1 egg",
+          "Chopped tomato and cucumber",
+          "Lemon juice, cumin, salt"
+        ],
+        "ru": [
+          "1 лепёшка садж или цельнозерновая тортилья",
+          "Полстакана размятых варёных бобов фул",
+          "1 яйцо",
+          "Помидор и огурец, нарезанные",
+          "Лимонный сок, зира, соль"
+        ],
+        "ur": [
+          "1 صاج روٹی یا ہول ویٹ ٹورٹیا",
+          "آدھا کپ مسلی اُبلی فول",
+          "1 انڈا",
+          "کٹا ٹماٹر اور کھیرا",
+          "لیموں کا رس، زیرہ، نمک"
+        ],
+        "fr": [
+          "1 pain saj ou tortilla complète",
+          "Une demi-tasse de fèves cuites écrasées",
+          "1 œuf",
+          "Tomate et concombre hachés",
+          "Jus de citron, cumin, sel"
+        ],
+        "es": [
+          "1 pan saj o tortilla integral",
+          "Media taza de habas cocidas machacadas",
+          "1 huevo",
+          "Tomate y pepino picados",
+          "Zumo de limón, comino, sal"
+        ],
+        "pt": [
+          "1 pão saj ou tortilha integral",
+          "Meia xícara de favas cozidas amassadas",
+          "1 ovo",
+          "Tomate e pepino picados",
+          "Sumo de limão, cominho, sal"
+        ],
+        "de": [
+          "1 Saj-Brot oder Vollkorn-Tortilla",
+          "Eine halbe Tasse zerdrückte gekochte Favabohnen",
+          "1 Ei",
+          "Tomate und Gurke, gehackt",
+          "Zitronensaft, Kreuzkümmel, Salz"
+        ],
+        "id": [
+          "1 roti saj atau tortilla gandum utuh",
+          "Setengah cangkir kacang fava rebus, dihaluskan",
+          "1 telur",
+          "Tomat dan timun cincang",
+          "Perasan lemon, jintan, garam"
+        ],
+        "hi": [
+          "1 साज ब्रेड या होल व्हीट टॉर्टिला",
+          "आधा कप उबली मैश फूल बीन्स",
+          "1 अंडा",
+          "कटा टमाटर और खीरा",
+          "नींबू रस, जीरा, नमक"
+        ],
+        "ja": [
+          "サジパンまたは全粒粉トルティーヤ1枚",
+          "茹でて潰したそら豆1/2カップ",
+          "卵1個",
+          "刻みトマトときゅうり",
+          "レモン汁、クミン、塩"
+        ],
+        "zh": [
+          "萨吉饼或全麦玉米饼1张",
+          "熟蚕豆泥半杯",
+          "鸡蛋1个",
+          "番茄和黄瓜，切碎",
+          "柠檬汁、孜然、盐"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اهرس الفول مع الليمون والكمون والملح",
+          "اقلِ البيضة بشكل عين جرس أو مخفوقة",
+          "افرد الفول على الخبز وضع البيضة فوقه",
+          "أضف الطماطم والخيار ولُفّه"
+        ],
+        "en": [
+          "Mash the beans with the lemon, cumin and salt",
+          "Fry the egg sunny-side up or scrambled",
+          "Spread the beans on the bread and top with the egg",
+          "Add the tomato and cucumber, then roll"
+        ],
+        "ru": [
+          "Разомните бобы с лимоном, зирой и солью",
+          "Пожарьте яйцо глазуньей или болтуньей",
+          "Намажьте бобы на хлеб и выложите яйцо",
+          "Добавьте помидор и огурец, затем сверните"
+        ],
+        "ur": [
+          "فول کو لیموں، زیرہ اور نمک کے ساتھ مسل لیں",
+          "انڈا فرائی یا اسکرمبل کریں",
+          "روٹی پر فول پھیلا کر انڈا رکھیں",
+          "ٹماٹر اور کھیرا ڈال کر لپیٹیں"
+        ],
+        "fr": [
+          "Écrasez les fèves avec le citron, le cumin et le sel",
+          "Faites frire l'œuf au plat ou brouillé",
+          "Étalez les fèves sur le pain et posez l'œuf dessus",
+          "Ajoutez tomate et concombre, puis roulez"
+        ],
+        "es": [
+          "Machaca las habas con el limón, el comino y la sal",
+          "Fríe el huevo al gusto o revuelto",
+          "Unta las habas en el pan y coloca el huevo encima",
+          "Añade el tomate y el pepino y enrolla"
+        ],
+        "pt": [
+          "Amasse as favas com o limão, o cominho e o sal",
+          "Frite o ovo estrelado ou mexido",
+          "Espalhe as favas no pão e coloque o ovo por cima",
+          "Junte o tomate e o pepino e enrole"
+        ],
+        "de": [
+          "Bohnen mit Zitrone, Kreuzkümmel und Salz zerdrücken",
+          "Ei als Spiegelei oder Rührei braten",
+          "Bohnen auf das Brot streichen und das Ei darauflegen",
+          "Tomate und Gurke zugeben, dann rollen"
+        ],
+        "id": [
+          "Lumatkan kacang fava dengan lemon, jintan, dan garam",
+          "Goreng telur mata sapi atau orak-arik",
+          "Oleskan kacang di roti, letakkan telur di atasnya",
+          "Tambahkan tomat dan timun, lalu gulung"
+        ],
+        "hi": [
+          "फूल को नींबू, जीरा और नमक के साथ मैश करें",
+          "अंडा सनी साइड अप या स्क्रैम्बल तलें",
+          "ब्रेड पर फूल फैलाकर ऊपर अंडा रखें",
+          "टमाटर और खीरा डालकर लपेटें"
+        ],
+        "ja": [
+          "そら豆をレモン、クミン、塩と潰す",
+          "卵を目玉焼きかスクランブルにする",
+          "パンに豆を塗り、卵をのせる",
+          "トマトときゅうりを加え、巻く"
+        ],
+        "zh": [
+          "蚕豆与柠檬汁、孜然和盐压成泥",
+          "煎一个太阳蛋或炒蛋",
+          "饼上抹豆泥，放鸡蛋",
+          "加番茄和黄瓜，卷起即可"
+        ]
+      }
+    }
+  ],
+  "lunch": [
+    {
+      "id": "le_ln_freekeh_chicken",
+      "cuisine": "levant",
+      "kcal": 400,
+      "protein": 32,
+      "carbs": 48,
+      "fat": 10,
+      "serving": {
+        "ar": "طبق (١٥٠ جم دجاج + فريكة)",
+        "en": "One plate (150 g chicken + freekeh)",
+        "ru": "Одна тарелка (150 г курицы + фрике)",
+        "ur": "ایک پلیٹ (150 گرام چکن + فریکہ)",
+        "fr": "Une assiette (150 g de poulet + freekeh)",
+        "es": "Un plato (150 g de pollo + freekeh)",
+        "pt": "Um prato (150 g de frango + freekeh)",
+        "de": "Ein Teller (150 g Hähnchen + Freekeh)",
+        "id": "Satu piring (150 g ayam + freekeh)",
+        "hi": "एक प्लेट (150 ग्राम चिकन + फ़्रीका)",
+        "ja": "1皿（鶏肉150g＋フリーカ）",
+        "zh": "一份（鸡肉150克＋青麦仁）"
+      },
+      "name": {
+        "ar": "فريكة بالدجاج",
+        "en": "Freekeh with chicken",
+        "ru": "Фрике с курицей",
+        "ur": "فریکہ مع چکن",
+        "fr": "Freekeh au poulet",
+        "es": "Freekeh con pollo",
+        "pt": "Freekeh com frango",
+        "de": "Freekeh mit Hähnchen",
+        "id": "Freekeh dengan ayam",
+        "hi": "फ़्रीका चिकन के साथ",
+        "ja": "フリーカと鶏肉",
+        "zh": "青麦仁鸡肉饭"
+      },
+      "ingredients": {
+        "ar": [
+          "١٥٠ جم صدر دجاج مقطّع",
+          "١٠٠ جم فريكة مطبوخة",
+          "بصلة وفصان ثوم",
+          "بهار سبع بهارات وقرفة",
+          "ملعقة صغيرة زيت ولوز محمّص للتزيين"
+        ],
+        "en": [
+          "150 g chicken breast, cubed",
+          "100 g cooked freekeh",
+          "1 onion, 2 garlic cloves",
+          "Seven-spice mix, cinnamon",
+          "1 tsp oil, toasted almonds to garnish"
+        ],
+        "ru": [
+          "150 г куриной грудки кубиками",
+          "100 г варёного фрике",
+          "1 луковица, 2 зубчика чеснока",
+          "Смесь семи специй, корица",
+          "1 ч. л. масла, обжаренный миндаль для украшения"
+        ],
+        "ur": [
+          "150 گرام چکن بریسٹ، کیوبز",
+          "100 گرام پکی فریکہ",
+          "1 پیاز، 2 لہسن کے جوے",
+          "سات مصالحہ مکس، دار چینی",
+          "1 چائے کا چمچ تیل، بھنے بادام سجاوٹ کے لیے"
+        ],
+        "fr": [
+          "150 g de blanc de poulet en cubes",
+          "100 g de freekeh cuit",
+          "1 oignon, 2 gousses d'ail",
+          "Mélange sept épices, cannelle",
+          "1 c. à c. d'huile, amandes grillées pour décorer"
+        ],
+        "es": [
+          "150 g de pechuga de pollo en cubos",
+          "100 g de freekeh cocido",
+          "1 cebolla, 2 dientes de ajo",
+          "Mezcla de siete especias, canela",
+          "1 cdta de aceite, almendras tostadas para decorar"
+        ],
+        "pt": [
+          "150 g de peito de frango em cubos",
+          "100 g de freekeh cozido",
+          "1 cebola, 2 dentes de alho",
+          "Mistura de sete especiarias, canela",
+          "1 c. de chá de óleo, amêndoas torradas para decorar"
+        ],
+        "de": [
+          "150 g Hähnchenbrust, gewürfelt",
+          "100 g gekochtes Freekeh",
+          "1 Zwiebel, 2 Knoblauchzehen",
+          "Sieben-Gewürze-Mischung, Zimt",
+          "1 TL Öl, geröstete Mandeln zum Garnieren"
+        ],
+        "id": [
+          "150 g dada ayam, potong dadu",
+          "100 g freekeh matang",
+          "1 bawang bombai, 2 siung bawang putih",
+          "Bumbu tujuh rempah, kayu manis",
+          "1 sdt minyak, almon panggang untuk hiasan"
+        ],
+        "hi": [
+          "150 ग्राम चिकन ब्रेस्ट, टुकड़ों में",
+          "100 ग्राम पका फ़्रीका",
+          "1 प्याज़, 2 लहसुन कलियाँ",
+          "सात मसाला मिश्रण, दालचीनी",
+          "1 छोटा चम्मच तेल, सजावट के लिए भुने बादाम"
+        ],
+        "ja": [
+          "鶏むね肉150g（角切り）",
+          "調理済みフリーカ100g",
+          "玉ねぎ1個、にんにく2片",
+          "セブンスパイスミックス、シナモン",
+          "油小さじ1、飾り用ローストアーモンド"
+        ],
+        "zh": [
+          "鸡胸肉150克，切丁",
+          "熟青麦仁100克",
+          "洋葱1个、蒜2瓣",
+          "七味香料、桂皮",
+          "油1小匙、烤杏仁装饰"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "حمّر الدجاج مع البصل والثوم ٦ دقائق",
+          "أضف البهار وكوب ماء واطبخه ١٠ دقائق",
+          "أضف الفريكة المطبوخة وقلّبها معه",
+          "قدّمه ساخنًا مرشوشًا باللوز المحمّص"
+        ],
+        "en": [
+          "Brown the chicken with onion and garlic 6 minutes",
+          "Add the spice and a cup of water, cook 10 minutes",
+          "Add the cooked freekeh and stir through",
+          "Serve hot, scattered with toasted almonds"
+        ],
+        "ru": [
+          "Обжарьте курицу с луком и чесноком 6 минут",
+          "Добавьте специи и стакан воды, готовьте 10 минут",
+          "Добавьте варёное фрике и перемешайте",
+          "Подавайте горячим, посыпав миндалём"
+        ],
+        "ur": [
+          "چکن کو پیاز اور لہسن کے ساتھ 6 منٹ براؤن کریں",
+          "مصالحہ اور ایک کپ پانی ڈال کر 10 منٹ پکائیں",
+          "پکی فریکہ ڈال کر ملائیں",
+          "بادام چھڑک کر گرم پیش کریں"
+        ],
+        "fr": [
+          "Faites dorer le poulet avec l'oignon et l'ail 6 minutes",
+          "Ajoutez l'épice et une tasse d'eau, 10 minutes",
+          "Ajoutez le freekeh cuit et mélangez",
+          "Servez chaud, parsemé d'amandes grillées"
+        ],
+        "es": [
+          "Dora el pollo con la cebolla y el ajo 6 minutos",
+          "Añade la especia y una taza de agua, cocina 10 minutos",
+          "Añade el freekeh cocido y mezcla",
+          "Sirve caliente con las almendras tostadas"
+        ],
+        "pt": [
+          "Aloure o frango com a cebola e o alho 6 minutos",
+          "Junte a especiaria e uma xícara de água, cozinhe 10 minutos",
+          "Junte o freekeh cozido e envolva",
+          "Sirva quente, salpicado com as amêndoas"
+        ],
+        "de": [
+          "Hähnchen mit Zwiebel und Knoblauch 6 Minuten anbraten",
+          "Gewürz und eine Tasse Wasser zugeben, 10 Minuten kochen",
+          "Gekochtes Freekeh zugeben und unterrühren",
+          "Heiß servieren, mit gerösteten Mandeln bestreut"
+        ],
+        "id": [
+          "Cokelatkan ayam dengan bawang dan bawang putih 6 menit",
+          "Tambahkan bumbu dan secangkir air, masak 10 menit",
+          "Masukkan freekeh matang, aduk rata",
+          "Sajikan panas, taburi almon panggang"
+        ],
+        "hi": [
+          "चिकन को प्याज़ और लहसुन के साथ 6 मिनट भूनें",
+          "मसाला और एक कप पानी डालकर 10 मिनट पकाएँ",
+          "पका फ़्रीका डालकर मिलाएँ",
+          "बादाम छिड़ककर गरम परोसें"
+        ],
+        "ja": [
+          "鶏肉を玉ねぎとにんにくとともに6分炒める",
+          "スパイスと水1カップを加え10分煮る",
+          "調理済みフリーカを加えて混ぜる",
+          "アーモンドを散らし、熱いうちに供する"
+        ],
+        "zh": [
+          "鸡肉与洋葱、蒜同炒6分钟",
+          "加香料和一杯水，煮10分钟",
+          "放入熟青麦仁拌匀",
+          "撒烤杏仁，趁热享用"
+        ]
+      }
+    },
+    {
+      "id": "le_ln_fattoush",
+      "cuisine": "levant",
+      "kcal": 260,
+      "protein": 8,
+      "carbs": 32,
+      "fat": 12,
+      "serving": {
+        "ar": "طبق كبير",
+        "en": "One large plate",
+        "ru": "Большая тарелка",
+        "ur": "ایک بڑی پلیٹ",
+        "fr": "Une grande assiette",
+        "es": "Un plato grande",
+        "pt": "Um prato grande",
+        "de": "Ein großer Teller",
+        "id": "Satu piring besar",
+        "hi": "एक बड़ी प्लेट",
+        "ja": "大皿1",
+        "zh": "一大盘"
+      },
+      "name": {
+        "ar": "فتوش بالخبز المحمص",
+        "en": "Fattoush with toasted bread",
+        "ru": "Фаттуш с обжаренным хлебом",
+        "ur": "فتوش مع ٹوسٹ بریڈ",
+        "fr": "Fattouche au pain grillé",
+        "es": "Fattoush con pan tostado",
+        "pt": "Fattoush com pão torrado",
+        "de": "Fattoush mit geröstetem Brot",
+        "id": "Fattoush roti panggang",
+        "hi": "फत्तूश टोस्टेड ब्रेड के साथ",
+        "ja": "ファットゥーシュ（焼きパン入り）",
+        "zh": "烤面包蔬菜沙拉"
+      },
+      "ingredients": {
+        "ar": [
+          "نصف رغيف خبز مقطّع مربعات",
+          "خس وطماطم وخيار وفجل",
+          "بصل أخضر وبقدونس ونعناع",
+          "عصير ليمون ودبس رمان",
+          "ملعقة صغيرة زيت زيتون وسماق"
+        ],
+        "en": [
+          "Half a loaf of bread, cubed",
+          "Lettuce, tomato, cucumber, radish",
+          "Spring onion, parsley, mint",
+          "Lemon juice, pomegranate molasses",
+          "1 tsp olive oil, sumac"
+        ],
+        "ru": [
+          "Половина буханки хлеба кубиками",
+          "Салат, помидор, огурец, редис",
+          "Зелёный лук, петрушка, мята",
+          "Лимонный сок, гранатовая патока",
+          "1 ч. л. оливкового масла, сумах"
+        ],
+        "ur": [
+          "آدھی روٹی، کیوبز میں کٹی",
+          "سلاد پتہ، ٹماٹر، کھیرا، مولی",
+          "ہرا پیاز، دھنیا، پودینہ",
+          "لیموں کا رس، انار کا شیرہ",
+          "1 چائے کا چمچ زیتون کا تیل، سماق"
+        ],
+        "fr": [
+          "Un demi-pain coupé en cubes",
+          "Laitue, tomate, concombre, radis",
+          "Oignon vert, persil, menthe",
+          "Jus de citron, mélasse de grenade",
+          "1 c. à c. d'huile d'olive, sumac"
+        ],
+        "es": [
+          "Media hogaza de pan en cubos",
+          "Lechuga, tomate, pepino, rábano",
+          "Cebolleta, perejil, menta",
+          "Zumo de limón, melaza de granada",
+          "1 cdta de aceite de oliva, zumaque"
+        ],
+        "pt": [
+          "Meio pão em cubos",
+          "Alface, tomate, pepino, rabanete",
+          "Cebolinha, salsa, hortelã",
+          "Sumo de limão, melaço de romã",
+          "1 c. de chá de azeite, sumagre"
+        ],
+        "de": [
+          "Ein halber Laib Brot, gewürfelt",
+          "Salat, Tomate, Gurke, Radieschen",
+          "Frühlingszwiebel, Petersilie, Minze",
+          "Zitronensaft, Granatapfelmelasse",
+          "1 TL Olivenöl, Sumach"
+        ],
+        "id": [
+          "Setengah roti, potong dadu",
+          "Selada, tomat, timun, lobak",
+          "Daun bawang, peterseli, mint",
+          "Perasan lemon, molase delima",
+          "1 sdt minyak zaitun, sumac"
+        ],
+        "hi": [
+          "आधी रोटी, टुकड़ों में",
+          "सलाद पत्ता, टमाटर, खीरा, मूली",
+          "हरा प्याज़, अजमोद, पुदीना",
+          "नींबू रस, अनार का शीरा",
+          "1 छोटा चम्मच जैतून तेल, सुमाक"
+        ],
+        "ja": [
+          "パン半分（角切り）",
+          "レタス、トマト、きゅうり、大根",
+          "ねぎ、パセリ、ミント",
+          "レモン汁、ザクロ蜜",
+          "オリーブオイル小さじ1、スマック"
+        ],
+        "zh": [
+          "面包半个，切丁",
+          "生菜、番茄、黄瓜、萝卜",
+          "葱、欧芹、薄荷",
+          "柠檬汁、石榴糖蜜",
+          "橄榄油1小匙、漆树粉"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "حمّص مكعبات الخبز في الفرن حتى تقرمش",
+          "قطّع كل الخضار قطعًا صغيرة",
+          "اخلط عصير الليمون والدبس والزيت والسماق",
+          "اخلط الخضار مع الخبز والصلصة قبل التقديم مباشرة"
+        ],
+        "en": [
+          "Toast the bread cubes in the oven until crisp",
+          "Chop all the vegetables small",
+          "Mix the lemon juice, molasses, oil and sumac",
+          "Toss the vegetables with the bread and dressing just before serving"
+        ],
+        "ru": [
+          "Подрумяньте кубики хлеба в духовке до хруста",
+          "Мелко нарежьте все овощи",
+          "Смешайте лимонный сок, патоку, масло и сумах",
+          "Смешайте овощи с хлебом и заправкой прямо перед подачей"
+        ],
+        "ur": [
+          "روٹی کے کیوبز اوون میں کرارے ہونے تک ٹوسٹ کریں",
+          "تمام سبزیاں باریک کاٹیں",
+          "لیموں کا رس، شیرہ، تیل اور سماق ملائیں",
+          "پیش کرنے سے فوراً پہلے سبزیاں، روٹی اور ڈریسنگ ملائیں"
+        ],
+        "fr": [
+          "Faites griller les cubes de pain au four jusqu'à croustillant",
+          "Coupez tous les légumes finement",
+          "Mélangez le jus de citron, la mélasse, l'huile et le sumac",
+          "Mélangez légumes, pain et vinaigrette juste avant de servir"
+        ],
+        "es": [
+          "Tuesta los cubos de pan en el horno hasta que estén crujientes",
+          "Corta todas las verduras pequeñas",
+          "Mezcla el zumo de limón, la melaza, el aceite y el zumaque",
+          "Mezcla las verduras con el pan y el aliño justo antes de servir"
+        ],
+        "pt": [
+          "Torre os cubos de pão no forno até ficarem crocantes",
+          "Corte todos os legumes miudinhos",
+          "Misture o sumo de limão, o melaço, o azeite e o sumagre",
+          "Envolva os legumes com o pão e o molho mesmo antes de servir"
+        ],
+        "de": [
+          "Brotwürfel im Ofen knusprig rösten",
+          "Alles Gemüse klein schneiden",
+          "Zitronensaft, Melasse, Öl und Sumach mischen",
+          "Gemüse mit Brot und Dressing erst kurz vor dem Servieren mischen"
+        ],
+        "id": [
+          "Panggang dadu roti di oven sampai renyah",
+          "Potong halus semua sayuran",
+          "Campur perasan lemon, molase, minyak, dan sumac",
+          "Aduk sayuran dengan roti dan dressing tepat sebelum disajikan"
+        ],
+        "hi": [
+          "ब्रेड क्यूब्स को ओवन में कुरकुरा होने तक सेंकें",
+          "सभी सब्ज़ियाँ बारीक काटें",
+          "नींबू रस, शीरा, तेल और सुमाक मिलाएँ",
+          "परोसने से ठीक पहले सब्ज़ियाँ, ब्रेड और ड्रेसिंग मिलाएँ"
+        ],
+        "ja": [
+          "パンの角切りをオーブンでカリッと焼く",
+          "野菜をすべて細かく切る",
+          "レモン汁、蜜、オイル、スマックを混ぜる",
+          "供する直前に野菜とパン、ドレッシングを和える"
+        ],
+        "zh": [
+          "面包丁烤箱烤至酥脆",
+          "所有蔬菜切小丁",
+          "柠檬汁、石榴糖蜜、橄榄油和漆树粉调匀",
+          "上桌前才把蔬菜、面包和酱汁拌合"
+        ]
+      }
+    }
+  ],
+  "dinner": [
+    {
+      "id": "le_dn_moussaka",
+      "cuisine": "levant",
+      "kcal": 320,
+      "protein": 20,
+      "carbs": 22,
+      "fat": 17,
+      "serving": {
+        "ar": "طبق (١٢٠ جم لحم)",
+        "en": "One plate (120 g meat)",
+        "ru": "Одна тарелка (120 г мяса)",
+        "ur": "ایک پلیٹ (120 گرام گوشت)",
+        "fr": "Une assiette (120 g de viande)",
+        "es": "Un plato (120 g de carne)",
+        "pt": "Um prato (120 g de carne)",
+        "de": "Ein Teller (120 g Fleisch)",
+        "id": "Satu piring (120 g daging)",
+        "hi": "एक प्लेट (120 ग्राम मीट)",
+        "ja": "1皿（肉120g）",
+        "zh": "一份（肉120克）"
+      },
+      "name": {
+        "ar": "مسقعة الباذنجان باللحم",
+        "en": "Aubergine moussaka",
+        "ru": "Мусака с баклажаном",
+        "ur": "بینگن مسقعہ",
+        "fr": "Moussaka à l'aubergine",
+        "es": "Musaka de berenjena",
+        "pt": "Mussaca de beringela",
+        "de": "Auberginen-Moussaka",
+        "id": "Moussaka terung",
+        "hi": "बैंगन मुसाका",
+        "ja": "なすのムサカ",
+        "zh": "茄子肉末焗菜"
+      },
+      "ingredients": {
+        "ar": [
+          "باذنجانة كبيرة شرائح",
+          "١٢٠ جم لحم مفروم قليل الدهن",
+          "بصلة وحبتا طماطم",
+          "فص ثوم وقرفة",
+          "ملعقة كبيرة زيت وملح"
+        ],
+        "en": [
+          "1 large aubergine, sliced",
+          "120 g lean minced meat",
+          "1 onion and 2 tomatoes",
+          "1 garlic clove, cinnamon",
+          "1 tbsp oil, salt"
+        ],
+        "ru": [
+          "1 крупный баклажан, ломтиками",
+          "120 г нежирного фарша",
+          "1 луковица и 2 помидора",
+          "1 зубчик чеснока, корица",
+          "1 ст. л. масла, соль"
+        ],
+        "ur": [
+          "1 بڑا بینگن، سلائس",
+          "120 گرام کم چکنائی قیمہ",
+          "1 پیاز اور 2 ٹماٹر",
+          "1 لہسن کا جوا، دار چینی",
+          "1 چمچ تیل، نمک"
+        ],
+        "fr": [
+          "1 grosse aubergine en tranches",
+          "120 g de viande hachée maigre",
+          "1 oignon et 2 tomates",
+          "1 gousse d'ail, cannelle",
+          "1 c. à s. d'huile, sel"
+        ],
+        "es": [
+          "1 berenjena grande en rodajas",
+          "120 g de carne picada magra",
+          "1 cebolla y 2 tomates",
+          "1 diente de ajo, canela",
+          "1 cda de aceite, sal"
+        ],
+        "pt": [
+          "1 beringela grande em rodelas",
+          "120 g de carne picada magra",
+          "1 cebola e 2 tomates",
+          "1 dente de alho, canela",
+          "1 colher de sopa de óleo, sal"
+        ],
+        "de": [
+          "1 große Aubergine in Scheiben",
+          "120 g mageres Hackfleisch",
+          "1 Zwiebel und 2 Tomaten",
+          "1 Knoblauchzehe, Zimt",
+          "1 EL Öl, Salz"
+        ],
+        "id": [
+          "1 terung besar, iris",
+          "120 g daging cincang tanpa lemak",
+          "1 bawang bombai dan 2 tomat",
+          "1 siung bawang putih, kayu manis",
+          "1 sdm minyak, garam"
+        ],
+        "hi": [
+          "1 बड़ा बैंगन, स्लाइस",
+          "120 ग्राम लीन कीमा",
+          "1 प्याज़ और 2 टमाटर",
+          "1 लहसुन कली, दालचीनी",
+          "1 बड़ा चम्मच तेल, नमक"
+        ],
+        "ja": [
+          "大きめのなす1本（スライス）",
+          "赤身のひき肉120g",
+          "玉ねぎ1個とトマト2個",
+          "にんにく1片、シナモン",
+          "油大さじ1、塩"
+        ],
+        "zh": [
+          "大茄子1个，切片",
+          "瘦肉末120克",
+          "洋葱1个、番茄2个",
+          "蒜1瓣、桂皮",
+          "油1大匙、盐"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اشوِ شرائح الباذنجان في الفرن ١٥ دقيقة",
+          "حمّر اللحم مع البصل والثوم",
+          "أضف الطماطم والقرفة واطبخه ١٠ دقائق",
+          "رتّب الطبقات في طبق فرن واخبزه ٢٠ دقيقة"
+        ],
+        "en": [
+          "Roast the aubergine slices in the oven 15 minutes",
+          "Brown the meat with the onion and garlic",
+          "Add the tomato and cinnamon, cook 10 minutes",
+          "Layer in a baking dish and bake 20 minutes"
+        ],
+        "ru": [
+          "Запекайте ломтики баклажана в духовке 15 минут",
+          "Обжарьте фарш с луком и чесноком",
+          "Добавьте помидор и корицу, готовьте 10 минут",
+          "Выложите слоями в форму и запекайте 20 минут"
+        ],
+        "ur": [
+          "بینگن کے سلائس اوون میں 15 منٹ بھونیں",
+          "قیمے کو پیاز اور لہسن کے ساتھ براؤن کریں",
+          "ٹماٹر اور دار چینی ڈال کر 10 منٹ پکائیں",
+          "بیکنگ ڈش میں تہیں بنا کر 20 منٹ بیک کریں"
+        ],
+        "fr": [
+          "Rôtissez les tranches d'aubergine au four 15 minutes",
+          "Faites dorer la viande avec l'oignon et l'ail",
+          "Ajoutez la tomate et la cannelle, 10 minutes",
+          "Superposez dans un plat à gratin et enfournez 20 minutes"
+        ],
+        "es": [
+          "Asa las rodajas de berenjena al horno 15 minutos",
+          "Dora la carne con la cebolla y el ajo",
+          "Añade el tomate y la canela, cocina 10 minutos",
+          "Monta las capas en una fuente y hornea 20 minutos"
+        ],
+        "pt": [
+          "Asse as rodelas de beringela no forno 15 minutos",
+          "Aloure a carne com a cebola e o alho",
+          "Junte o tomate e a canela, cozinhe 10 minutos",
+          "Monte as camadas num tabuleiro e asse 20 minutos"
+        ],
+        "de": [
+          "Auberginenscheiben im Ofen 15 Minuten rösten",
+          "Hackfleisch mit Zwiebel und Knoblauch anbraten",
+          "Tomate und Zimt zugeben, 10 Minuten kochen",
+          "In einer Auflaufform schichten und 20 Minuten backen"
+        ],
+        "id": [
+          "Panggang irisan terung di oven 15 menit",
+          "Cokelatkan daging dengan bawang dan bawang putih",
+          "Masukkan tomat dan kayu manis, masak 10 menit",
+          "Susun berlapis di loyang, panggang 20 menit"
+        ],
+        "hi": [
+          "बैंगन के स्लाइस ओवन में 15 मिनट भूनें",
+          "कीमे को प्याज़ और लहसुन के साथ भूनें",
+          "टमाटर और दालचीनी डालकर 10 मिनट पकाएँ",
+          "बेकिंग डिश में परतें बनाकर 20 मिनट बेक करें"
+        ],
+        "ja": [
+          "なすのスライスをオーブンで15分焼く",
+          "ひき肉を玉ねぎとにんにくとともに炒める",
+          "トマトとシナモンを加え10分煮る",
+          "耐熱皿に層状に重ね20分焼く"
+        ],
+        "zh": [
+          "茄子片入烤箱烤15分钟",
+          "肉末与洋葱、蒜同炒上色",
+          "加番茄和桂皮，煮10分钟",
+          "烤盘中分层码放，烤20分钟"
+        ]
+      }
+    },
+    {
+      "id": "le_dn_maqluba_light",
+      "cuisine": "levant",
+      "kcal": 380,
+      "protein": 26,
+      "carbs": 48,
+      "fat": 10,
+      "serving": {
+        "ar": "طبق (١٥٠ جم دجاج)",
+        "en": "One plate (150 g chicken)",
+        "ru": "Одна тарелка (150 г курицы)",
+        "ur": "ایک پلیٹ (150 گرام چکن)",
+        "fr": "Une assiette (150 g de poulet)",
+        "es": "Un plato (150 g de pollo)",
+        "pt": "Um prato (150 g de frango)",
+        "de": "Ein Teller (150 g Hähnchen)",
+        "id": "Satu piring (150 g ayam)",
+        "hi": "एक प्लेट (150 ग्राम चिकन)",
+        "ja": "1皿（鶏肉150g）",
+        "zh": "一份（鸡肉150克）"
+      },
+      "name": {
+        "ar": "مقلوبة خفيفة بالدجاج والباذنجان",
+        "en": "Light chicken and aubergine maqluba",
+        "ru": "Лёгкая маклюба с курицей и баклажаном",
+        "ur": "ہلکی چکن بینگن مقلوبہ",
+        "fr": "Maqlouba légère au poulet et aubergine",
+        "es": "Maqluba ligera de pollo y berenjena",
+        "pt": "Maqluba leve de frango e beringela",
+        "de": "Leichte Maqluba mit Hähnchen und Aubergine",
+        "id": "Maqluba ringan ayam terung",
+        "hi": "लाइट चिकन बैंगन मक़्लूबा",
+        "ja": "軽やか鶏肉となすのマクルーバ",
+        "zh": "轻盈鸡肉茄子倒扣饭"
+      },
+      "ingredients": {
+        "ar": [
+          "١٥٠ جم صدر دجاج مقطّع",
+          "١٠٠ جم أرز بسمتي",
+          "باذنجانة مشوية شرائح",
+          "جزرة وقرنبيط قليل",
+          "بهار مقلوبة (كركم وقرفة وهيل)"
+        ],
+        "en": [
+          "150 g chicken breast, cubed",
+          "100 g basmati rice",
+          "1 roasted aubergine, sliced",
+          "1 carrot, a little cauliflower",
+          "Maqluba spice (turmeric, cinnamon, cardamom)"
+        ],
+        "ru": [
+          "150 г куриной грудки кубиками",
+          "100 г риса басмати",
+          "1 запечённый баклажан, ломтиками",
+          "1 морковь, немного цветной капусты",
+          "Специи маклюба (куркума, корица, кардамон)"
+        ],
+        "ur": [
+          "150 گرام چکن بریسٹ، کیوبز",
+          "100 گرام باسمتی چاول",
+          "1 بھنا بینگن، سلائس",
+          "1 گاجر، تھوڑی گوبھی",
+          "مقلوبہ مصالحہ (ہلدی، دار چینی، الائچی)"
+        ],
+        "fr": [
+          "150 g de blanc de poulet en cubes",
+          "100 g de riz basmati",
+          "1 aubergine rôtie en tranches",
+          "1 carotte, un peu de chou-fleur",
+          "Épices maqlouba (curcuma, cannelle, cardamome)"
+        ],
+        "es": [
+          "150 g de pechuga de pollo en cubos",
+          "100 g de arroz basmati",
+          "1 berenjena asada en rodajas",
+          "1 zanahoria, un poco de coliflor",
+          "Especias maqluba (cúrcuma, canela, cardamomo)"
+        ],
+        "pt": [
+          "150 g de peito de frango em cubos",
+          "100 g de arroz basmati",
+          "1 beringela assada em rodelas",
+          "1 cenoura, um pouco de couve-flor",
+          "Especiarias maqluba (açafrão, canela, cardamomo)"
+        ],
+        "de": [
+          "150 g Hähnchenbrust, gewürfelt",
+          "100 g Basmatireis",
+          "1 gerösteter Aubergine in Scheiben",
+          "1 Karotte, etwas Blumenkohl",
+          "Maqluba-Gewürz (Kurkuma, Zimt, Kardamom)"
+        ],
+        "id": [
+          "150 g dada ayam, potong dadu",
+          "100 g beras basmati",
+          "1 terung panggang, iris",
+          "1 wortel, sedikit kembang kol",
+          "Bumbu maqluba (kunyit, kayu manis, kapulaga)"
+        ],
+        "hi": [
+          "150 ग्राम चिकन ब्रेस्ट, टुकड़ों में",
+          "100 ग्राम बासमती चावल",
+          "1 भुना बैंगन, स्लाइस",
+          "1 गाजर, थोड़ी फूलगोभी",
+          "मक़्लूबा मसाला (हल्दी, दालचीनी, इलायची)"
+        ],
+        "ja": [
+          "鶏むね肉150g（角切り）",
+          "バスマティ米100g",
+          "焼きなす1本（スライス）",
+          "にんじん1本、カリフラワー少々",
+          "マクルーバスパイス（ターメリック、シナモン、カルダモン）"
+        ],
+        "zh": [
+          "鸡胸肉150克，切丁",
+          "巴斯马蒂米100克",
+          "烤茄子1个，切片",
+          "胡萝卜1根、少许菜花",
+          "马克鲁巴香料（姜黄、桂皮、豆蔻）"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "حمّر الدجاج مع البهار ٥ دقائق",
+          "رتّب الباذنجان ثم الدجاج ثم الخضار في قِدر",
+          "أضف الأرز فوقها وماء يغطيها بقليل",
+          "اطبخه ٢٥ دقيقة ثم اقلبه في طبق التقديم"
+        ],
+        "en": [
+          "Brown the chicken with the spice 5 minutes",
+          "Layer aubergine, then chicken, then vegetables in a pot",
+          "Add the rice on top with water just covering it",
+          "Cook 25 minutes, then flip onto a serving plate"
+        ],
+        "ru": [
+          "Обжарьте курицу со специями 5 минут",
+          "Выложите слоями баклажан, курицу и овощи в кастрюле",
+          "Добавьте рис сверху с водой, едва покрывающей",
+          "Варите 25 минут, затем переверните на блюдо"
+        ],
+        "ur": [
+          "چکن کو مصالحے کے ساتھ 5 منٹ براؤن کریں",
+          "برتن میں بینگن پھر چکن پھر سبزیاں رکھیں",
+          "اوپر چاول اور تھوڑا ڈھانپتا پانی ڈالیں",
+          "25 منٹ پکا کر پلیٹ میں الٹ دیں"
+        ],
+        "fr": [
+          "Faites dorer le poulet avec l'épice 5 minutes",
+          "Superposez aubergine, poulet puis légumes dans une cocotte",
+          "Ajoutez le riz dessus avec de l'eau à peine couvrante",
+          "Cuisez 25 minutes puis renversez sur un plat"
+        ],
+        "es": [
+          "Dora el pollo con la especia 5 minutos",
+          "Coloca en capas berenjena, pollo y verduras en una olla",
+          "Añade el arroz encima con agua que apenas lo cubra",
+          "Cocina 25 minutos y vuelca sobre una fuente"
+        ],
+        "pt": [
+          "Aloure o frango com a especiaria 5 minutos",
+          "Disponha em camadas beringela, frango e legumes numa panela",
+          "Junte o arroz por cima com água que o cubra ligeiramente",
+          "Cozinhe 25 minutos e vire para um prato"
+        ],
+        "de": [
+          "Hähnchen mit dem Gewürz 5 Minuten anbraten",
+          "Aubergine, dann Hähnchen, dann Gemüse im Topf schichten",
+          "Reis obenauf geben mit knapp bedeckendem Wasser",
+          "25 Minuten garen, dann auf eine Platte stürzen"
+        ],
+        "id": [
+          "Cokelatkan ayam dengan bumbu 5 menit",
+          "Susun terung, lalu ayam, lalu sayuran di panci",
+          "Tambahkan nasi di atas dengan air secukupnya",
+          "Masak 25 menit, lalu balik ke piring saji"
+        ],
+        "hi": [
+          "चिकन को मसाले के साथ 5 मिनट भूनें",
+          "बर्तन में बैंगन फिर चिकन फिर सब्ज़ियाँ रखें",
+          "ऊपर चावल और थोड़ा ढकने लायक पानी डालें",
+          "25 मिनट पकाकर प्लेट में पलटें"
+        ],
+        "ja": [
+          "鶏肉をスパイスとともに5分炒める",
+          "鍋になす、鶏肉、野菜の順に重ねる",
+          "上にご飯をのせ、ひたひたの水を注ぐ",
+          "25分炊き、皿にひっくり返して盛る"
+        ],
+        "zh": [
+          "鸡肉与香料同炒5分钟",
+          "锅中依次铺茄子、鸡肉、蔬菜",
+          "上面铺米，加刚没过的水",
+          "焖25分钟，扣入盘中"
+        ]
+      }
+    }
+  ],
+  "snack": [
+    {
+      "id": "le_sn_moutabbal",
+      "cuisine": "levant",
+      "kcal": 130,
+      "protein": 5,
+      "carbs": 10,
+      "fat": 9,
+      "serving": {
+        "ar": "طبق صغير",
+        "en": "One small plate",
+        "ru": "Небольшая тарелка",
+        "ur": "ایک چھوٹی پلیٹ",
+        "fr": "Une petite assiette",
+        "es": "Un plato pequeño",
+        "pt": "Um prato pequeno",
+        "de": "Ein kleiner Teller",
+        "id": "Satu piring kecil",
+        "hi": "एक छोटी प्लेट",
+        "ja": "小皿1",
+        "zh": "一小碟"
+      },
+      "name": {
+        "ar": "متبل الباذنجان بالطحينة",
+        "en": "Moutabbal aubergine dip",
+        "ru": "Мутаббаль (баклажанный дип с тахини)",
+        "ur": "متبل بینگن ڈپ",
+        "fr": "Moutabbal d'aubergine au tahini",
+        "es": "Moutabbal de berenjena con tahini",
+        "pt": "Moutabbal de beringela com tahine",
+        "de": "Moutabbal-Auberginendip",
+        "id": "Moutabbal terung tahini",
+        "hi": "मुतब्बल बैंगन तहीनी डिप",
+        "ja": "ムタッバル（なすのタヒニディップ）",
+        "zh": "芝麻茄子泥"
+      },
+      "ingredients": {
+        "ar": [
+          "باذنجانة كبيرة",
+          "ملعقتان طحينة",
+          "عصير ليمون وفص ثوم مهروس",
+          "ملعقة صغيرة زيت زيتون",
+          "رمان وبقدونس للتزيين"
+        ],
+        "en": [
+          "1 large aubergine",
+          "2 tbsp tahini",
+          "Lemon juice, 1 crushed garlic clove",
+          "1 tsp olive oil",
+          "Pomegranate and parsley to garnish"
+        ],
+        "ru": [
+          "1 крупный баклажан",
+          "2 ст. л. тахини",
+          "Лимонный сок, 1 раздавленный зубчик чеснока",
+          "1 ч. л. оливкового масла",
+          "Гранат и петрушка для украшения"
+        ],
+        "ur": [
+          "1 بڑا بینگن",
+          "2 چمچ طحینہ",
+          "لیموں کا رس، 1 کچلا لہسن",
+          "1 چائے کا چمچ زیتون کا تیل",
+          "انار اور دھنیا سجاوٹ کے لیے"
+        ],
+        "fr": [
+          "1 grosse aubergine",
+          "2 c. à s. de tahini",
+          "Jus de citron, 1 gousse d'ail écrasée",
+          "1 c. à c. d'huile d'olive",
+          "Grenade et persil pour décorer"
+        ],
+        "es": [
+          "1 berenjena grande",
+          "2 cdas de tahini",
+          "Zumo de limón, 1 diente de ajo machacado",
+          "1 cdta de aceite de oliva",
+          "Granada y perejil para decorar"
+        ],
+        "pt": [
+          "1 beringela grande",
+          "2 colheres de sopa de tahine",
+          "Sumo de limão, 1 dente de alho esmagado",
+          "1 c. de chá de azeite",
+          "Romã e salsa para decorar"
+        ],
+        "de": [
+          "1 große Aubergine",
+          "2 EL Tahini",
+          "Zitronensaft, 1 zerdrückte Knoblauchzehe",
+          "1 TL Olivenöl",
+          "Granatapfel und Petersilie zum Garnieren"
+        ],
+        "id": [
+          "1 terung besar",
+          "2 sdm tahini",
+          "Perasan lemon, 1 siung bawang putih dimemarkan",
+          "1 sdt minyak zaitun",
+          "Delima dan peterseli untuk hiasan"
+        ],
+        "hi": [
+          "1 बड़ा बैंगन",
+          "2 बड़े चम्मच ताहिनी",
+          "नींबू रस, 1 कुचली लहसुन कली",
+          "1 छोटा चम्मच जैतून तेल",
+          "सजावट के लिए अनार और अजमोद"
+        ],
+        "ja": [
+          "大きめのなす1本",
+          "タヒニ大さじ2",
+          "レモン汁、にんにく1片（潰す）",
+          "オリーブオイル小さじ1",
+          "飾り用ザクロとパセリ"
+        ],
+        "zh": [
+          "大茄子1个",
+          "芝麻酱2大匙",
+          "柠檬汁、蒜1瓣压碎",
+          "橄榄油1小匙",
+          "石榴籽和欧芹装饰"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اشوِ الباذنجانة كاملة على نار مباشرة أو في الفرن حتى يطرى لبّها",
+          "أزل القشر واهرس اللب",
+          "اخلطه بالطحينة والليمون والثوم",
+          "زيّنه بالزيت والرمان والبقدونس"
+        ],
+        "en": [
+          "Roast the whole aubergine over a flame or in the oven until soft inside",
+          "Peel and mash the flesh",
+          "Mix it with the tahini, lemon and garlic",
+          "Garnish with oil, pomegranate and parsley"
+        ],
+        "ru": [
+          "Запеките целый баклажан на огне или в духовке до мягкости",
+          "Очистите и разомните мякоть",
+          "Смешайте с тахини, лимоном и чесноком",
+          "Украсьте маслом, гранатом и петрушкой"
+        ],
+        "ur": [
+          "پورا بینگن آنچ یا اوون میں نرم ہونے تک بھونیں",
+          "چھلکا اتار کر گودا مسل لیں",
+          "طحینہ، لیموں اور لہسن سے ملائیں",
+          "تیل، انار اور دھنیے سے سجائیں"
+        ],
+        "fr": [
+          "Grillez l'aubergine entière au feu ou au four jusqu'à ce que la chair soit tendre",
+          "Épluchez et écrasez la chair",
+          "Mélangez-la avec le tahini, le citron et l'ail",
+          "Garnissez d'huile, de grenade et de persil"
+        ],
+        "es": [
+          "Asa la berenjena entera al fuego o en el horno hasta que esté tierna",
+          "Pela y machaca la pulpa",
+          "Mézclala con el tahini, el limón y el ajo",
+          "Decora con aceite, granada y perejil"
+        ],
+        "pt": [
+          "Asse a beringela inteira na chama ou no forno até ficar macia",
+          "Descasque e amasse a polpa",
+          "Misture-a com o tahine, o limão e o alho",
+          "Decore com azeite, romã e salsa"
+        ],
+        "de": [
+          "Ganze Aubergine über Flamme oder im Ofen weich rösten",
+          "Schälen und das Fruchtfleisch zerdrücken",
+          "Mit Tahini, Zitrone und Knoblauch mischen",
+          "Mit Öl, Granatapfel und Petersilie garnieren"
+        ],
+        "id": [
+          "Panggang terung utuh di atas api atau oven sampai dagingnya lunak",
+          "Kupas dan haluskan dagingnya",
+          "Campur dengan tahini, lemon, dan bawang putih",
+          "Hias dengan minyak, delima, dan peterseli"
+        ],
+        "hi": [
+          "पूरे बैंगन को आँच या ओवन में नरम होने तक भूनें",
+          "छिलका उतारकर गूदा मैश करें",
+          "ताहिनी, नींबू और लहसुन के साथ मिलाएँ",
+          "तेल, अनार और अजमोद से सजाएँ"
+        ],
+        "ja": [
+          "なすを丸ごと直火かオーブンで中が柔らかくなるまで焼く",
+          "皮をむき、実を潰す",
+          "タヒニ、レモン、にんにくと混ぜる",
+          "オイル、ザクロ、パセリを飾る"
+        ],
+        "zh": [
+          "整个茄子直火或烤箱烤至内部软烂",
+          "去皮，压成泥",
+          "与芝麻酱、柠檬汁和蒜泥拌匀",
+          "淋橄榄油，撒石榴籽和欧芹装饰"
+        ]
+      }
+    },
+    {
+      "id": "le_sn_labneh_balls",
+      "cuisine": "levant",
+      "kcal": 150,
+      "protein": 8,
+      "carbs": 6,
+      "fat": 10,
+      "serving": {
+        "ar": "٣ كرات صغيرة",
+        "en": "3 small balls",
+        "ru": "3 небольших шарика",
+        "ur": "3 چھوٹی گولیاں",
+        "fr": "3 petites boules",
+        "es": "3 bolitas pequeñas",
+        "pt": "3 bolinhas pequenas",
+        "de": "3 kleine Kugeln",
+        "id": "3 bola kecil",
+        "hi": "3 छोटी गोलियाँ",
+        "ja": "小3個",
+        "zh": "3颗小球"
+      },
+      "name": {
+        "ar": "كرات اللبنة بالزعتر",
+        "en": "Zaatar labneh balls",
+        "ru": "Шарики лабне с заатаром",
+        "ur": "زعتر لبنہ بالز",
+        "fr": "Boules de labné au zaatar",
+        "es": "Bolitas de labneh con zaatar",
+        "pt": "Bolinhas de labneh com zaatar",
+        "de": "Labneh-Kugeln mit Zaatar",
+        "id": "Bola labneh zaatar",
+        "hi": "ज़ातर लबनेह बॉल्स",
+        "ja": "ザアタルのラブネボール",
+        "zh": "扎塔香料拉本奶酪球"
+      },
+      "ingredients": {
+        "ar": [
+          "١٠٠ جم لبنة مصفّاة قليلة الدسم",
+          "ملعقة صغيرة زعتر أخضر",
+          "ملعقة صغيرة زيت زيتون",
+          "رشة سماق",
+          "أعواد خضار للتقديم"
+        ],
+        "en": [
+          "100 g strained low-fat labneh",
+          "1 tsp dried thyme mix",
+          "1 tsp olive oil",
+          "A pinch of sumac",
+          "Vegetable sticks to serve"
+        ],
+        "ru": [
+          "100 г процеженного нежирного лабне",
+          "1 ч. л. сухой смеси заатар",
+          "1 ч. л. оливкового масла",
+          "Щепотка сумаха",
+          "Овощные палочки для подачи"
+        ],
+        "ur": [
+          "100 گرام کم چکنائی چھنی لبنہ",
+          "1 چائے کا چمچ خشک زعتر",
+          "1 چائے کا چمچ زیتون کا تیل",
+          "چٹکی سماق",
+          "پیش کرنے کو سبزیوں کی اسٹکس"
+        ],
+        "fr": [
+          "100 g de labné égoutté allégé",
+          "1 c. à c. de mélange thym séché",
+          "1 c. à c. d'huile d'olive",
+          "Une pincée de sumac",
+          "Bâtonnets de légumes pour servir"
+        ],
+        "es": [
+          "100 g de labneh colado bajo en grasa",
+          "1 cdta de mezcla de tomillo seco",
+          "1 cdta de aceite de oliva",
+          "Una pizca de zumaque",
+          "Bastones de verdura para servir"
+        ],
+        "pt": [
+          "100 g de labneh coado magro",
+          "1 c. de chá de mistura de tomilho seco",
+          "1 c. de chá de azeite",
+          "Uma pitada de sumagre",
+          "Palitos de legumes para servir"
+        ],
+        "de": [
+          "100 g abgetropfter fettarmer Labneh",
+          "1 TL trockene Thymianmischung",
+          "1 TL Olivenöl",
+          "Eine Prise Sumach",
+          "Gemüsesticks zum Servieren"
+        ],
+        "id": [
+          "100 g labneh saring rendah lemak",
+          "1 sdt campuran timi kering",
+          "1 sdt minyak zaitun",
+          "Sejumput sumac",
+          "Batang sayuran untuk penyajian"
+        ],
+        "hi": [
+          "100 ग्राम छना कम वसा लबनेह",
+          "1 छोटा चम्मच सूखा थाइम मिश्रण",
+          "1 छोटा चम्मच जैतून तेल",
+          "चुटकी भर सुमाक",
+          "परोसने के लिए सब्ज़ी स्टिक"
+        ],
+        "ja": [
+          "水切りした低脂肪ラブネ100g",
+          "ドライタイムミックス小さじ1",
+          "オリーブオイル小さじ1",
+          "スマック少々",
+          "添え用野菜スティック"
+        ],
+        "zh": [
+          "沥干低脂拉本奶酪100克",
+          "干百里香混合香料1小匙",
+          "橄榄油1小匙",
+          "漆树粉少许",
+          "佐食蔬菜条"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "شكّل اللبنة كرات صغيرة بيدين مبللتين",
+          "دحرجها في الزعتر",
+          "رتّبها في طبق ورشّ الزيت والسماق",
+          "قدّمها مع أعواد الخضار"
+        ],
+        "en": [
+          "Shape the labneh into small balls with wet hands",
+          "Roll them in the thyme mix",
+          "Arrange on a plate and drizzle with oil and sumac",
+          "Serve with the vegetable sticks"
+        ],
+        "ru": [
+          "Скатайте лабне в шарики мокрыми руками",
+          "Обваляйте в смеси заатар",
+          "Разложите на тарелке, полейте маслом и посыпьте сумахом",
+          "Подайте с овощными палочками"
+        ],
+        "ur": [
+          "گیلے ہاتھوں سے لبنہ کی چھوٹی گولیاں بنائیں",
+          "زعتر میں لپیٹیں",
+          "پلیٹ میں سجا کر تیل اور سماق چھڑکیں",
+          "سبزیوں کی اسٹکس کے ساتھ پیش کریں"
+        ],
+        "fr": [
+          "Façonnez le labné en petites boules avec les mains mouillées",
+          "Roulez-les dans le mélange de thym",
+          "Disposez sur une assiette et arrosez d'huile et de sumac",
+          "Servez avec les bâtonnets de légumes"
+        ],
+        "es": [
+          "Forma bolitas de labneh con las manos mojadas",
+          "Rebózalas en la mezcla de tomillo",
+          "Colócalas en un plato y riega con aceite y zumaque",
+          "Sirve con los bastones de verdura"
+        ],
+        "pt": [
+          "Molde o labneh em bolinhas com as mãos molhadas",
+          "Passe-as na mistura de tomilho",
+          "Disponha num prato e regue com azeite e sumagre",
+          "Sirva com os palitos de legumes"
+        ],
+        "de": [
+          "Labneh mit nassen Händen zu kleinen Kugeln formen",
+          "In der Thymianmischung wälzen",
+          "Auf einem Teller anrichten und mit Öl und Sumach beträufeln",
+          "Mit den Gemüsesticks servieren"
+        ],
+        "id": [
+          "Bentuk labneh jadi bola kecil dengan tangan basah",
+          "Gulingkan di campuran timi",
+          "Tata di piring, siram minyak dan sumac",
+          "Sajikan dengan batang sayuran"
+        ],
+        "hi": [
+          "गीले हाथों से लबनेह की छोटी गोलियाँ बनाएँ",
+          "थाइम मिश्रण में लपेटें",
+          "प्लेट में सजाकर तेल और सुमाक छिड़कें",
+          "सब्ज़ी स्टिक के साथ परोसें"
+        ],
+        "ja": [
+          "濡らした手でラブネを小さく丸める",
+          "タイムミックスをまぶす",
+          "皿に並べ、オイルとスマックをかける",
+          "野菜スティックを添えて供する"
+        ],
+        "zh": [
+          "手蘸水，把拉本奶酪捏成小球",
+          "裹上百里香混合料",
+          "摆盘，淋橄榄油撒漆树粉",
+          "配蔬菜条享用"
+        ]
+      }
+    }
+  ],
+  "dessert": [
+    {
+      "id": "le_ds_ashta_fruit",
+      "cuisine": "levant",
+      "kcal": 170,
+      "protein": 7,
+      "carbs": 24,
+      "fat": 5,
+      "serving": {
+        "ar": "كوب صغير",
+        "en": "One small cup",
+        "ru": "Небольшая чашка",
+        "ur": "ایک چھوٹا کپ",
+        "fr": "Une petite coupe",
+        "es": "Una taza pequeña",
+        "pt": "Uma taça pequena",
+        "de": "Eine kleine Schale",
+        "id": "Satu cangkir kecil",
+        "hi": "एक छोटा कप",
+        "ja": "小カップ1",
+        "zh": "一小杯"
+      },
+      "name": {
+        "ar": "أشطة خفيفة بالفواكه",
+        "en": "Light ashta with fruit",
+        "ru": "Лёгкая ашта с фруктами",
+        "ur": "پھلوں کے ساتھ ہلکی اشطہ",
+        "fr": "Achta légère aux fruits",
+        "es": "Ashta ligera con fruta",
+        "pt": "Ashta leve com fruta",
+        "de": "Leichte Ashta mit Obst",
+        "id": "Ashta ringan dengan buah",
+        "hi": "फल के साथ लाइट अश्ता",
+        "ja": "軽やかアシュタ（フルーツ添え）",
+        "zh": "轻盈鲜奶油配水果"
+      },
+      "ingredients": {
+        "ar": [
+          "كوب حليب قليل الدسم",
+          "ملعقتان نشا ذرة",
+          "ملعقة صغيرة ماء زهر وعسل",
+          "فواكه موسمية مقطعة",
+          "قليل فستق مجروش"
+        ],
+        "en": [
+          "1 cup low-fat milk",
+          "2 tbsp cornstarch",
+          "1 tsp orange blossom water and honey",
+          "Chopped seasonal fruit",
+          "A few crushed pistachios"
+        ],
+        "ru": [
+          "1 стакан нежирного молока",
+          "2 ст. л. кукурузного крахмала",
+          "1 ч. л. воды из цветков апельсина и мёда",
+          "Нарезанные сезонные фрукты",
+          "Немного дроблёных фисташек"
+        ],
+        "ur": [
+          "1 کپ کم چکنائی دودھ",
+          "2 چمچ کارن فلور",
+          "1 چائے کا چمچ عرق نارنج، شہد",
+          "موسمی پھل، کٹے ہوئے",
+          "تھوڑے کٹے پستے"
+        ],
+        "fr": [
+          "1 tasse de lait demi-écrémé",
+          "2 c. à s. de maïzena",
+          "1 c. à c. d'eau de fleur d'oranger et de miel",
+          "Fruits de saison coupés",
+          "Quelques pistaches concassées"
+        ],
+        "es": [
+          "1 taza de leche desnatada",
+          "2 cdas de maicena",
+          "1 cdta de agua de azahar y miel",
+          "Fruta de temporada troceada",
+          "Unos pistachos picados"
+        ],
+        "pt": [
+          "1 xícara de leite magro",
+          "2 colheres de sopa de amido de milho",
+          "1 c. de chá de água de flor de laranjeira e mel",
+          "Fruta da época picada",
+          "Uns pistácios picados"
+        ],
+        "de": [
+          "1 Tasse fettarme Milch",
+          "2 EL Speisestärke",
+          "1 TL Orangenblütenwasser und Honig",
+          "Geschnittenes Saisonobst",
+          "Ein paar gehackte Pistazien"
+        ],
+        "id": [
+          "1 cangkir susu rendah lemak",
+          "2 sdm maizena",
+          "1 sdt air bunga jeruk dan madu",
+          "Buah musiman potong",
+          "Sedikit pistachio cincang"
+        ],
+        "hi": [
+          "1 कप लो-फैट दूध",
+          "2 बड़े चम्मच कॉर्नस्टार्च",
+          "1 छोटा चम्मच ऑरेंज ब्लॉसम वॉटर और शहद",
+          "मौसमी फल, कटे हुए",
+          "थोड़े कुटे पिस्ता"
+        ],
+        "ja": [
+          "低脂肪牛乳1カップ",
+          "コーンスターチ大さじ2",
+          "オレンジフラワーウォーターとはちみつ小さじ1",
+          "旬の果物（カット）",
+          "砕いたピスタチオ少々"
+        ],
+        "zh": [
+          "低脂牛奶1杯",
+          "玉米淀粉2大匙",
+          "橙花水和蜂蜜各1小匙",
+          "时令水果丁",
+          "少许碎开心果"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "أذب النشا في ربع كوب حليب بارد",
+          "سخّن باقي الحليب وأضف خليط النشا",
+          "قلّب على نار هادئة حتى يثخن ثم أضف ماء الزهر والعسل",
+          "برّده وضع الفواكه فوقه ورشّ الفستق"
+        ],
+        "en": [
+          "Dissolve the cornstarch in a quarter cup of cold milk",
+          "Heat the rest of the milk and add the cornstarch mix",
+          "Stir on low heat until it thickens, then add the blossom water and honey",
+          "Chill, top with fruit and sprinkle the pistachios"
+        ],
+        "ru": [
+          "Растворите крахмал в четверти стакана холодного молока",
+          "Нагрейте остальное молоко и добавьте крахмальную смесь",
+          "Мешайте на слабом огне до загустения, затем добавьте цветочную воду и мёд",
+          "Охладите, выложите фрукты и посыпьте фисташками"
+        ],
+        "ur": [
+          "کارن فلور کو چوتھائی کپ ٹھنڈے دودھ میں گھولیں",
+          "باقی دودھ گرم کر کے کارن فلور آمیزہ ڈالیں",
+          "ہلکی آنچ پر گاڑھا ہونے تک ہلائیں پھر عرق نارنج اور شہد ڈالیں",
+          "ٹھنڈا کر کے پھل رکھیں اور پستے چھڑکیں"
+        ],
+        "fr": [
+          "Dissolvez la maïzena dans un quart de tasse de lait froid",
+          "Chauffez le reste du lait et ajoutez le mélange de maïzena",
+          "Remuez à feu doux jusqu'à épaississement, puis ajoutez l'eau de fleur d'oranger et le miel",
+          "Réfrigérez, garnissez de fruits et parsemez de pistaches"
+        ],
+        "es": [
+          "Disuelve la maicena en un cuarto de taza de leche fría",
+          "Calienta el resto de la leche y añade la mezcla de maicena",
+          "Remueve a fuego bajo hasta espesar, luego añade el agua de azahar y la miel",
+          "Enfría, cubre con fruta y espolvorea los pistachos"
+        ],
+        "pt": [
+          "Dissolva o amido num quarto de xícara de leite frio",
+          "Aqueça o resto do leite e junte a mistura de amido",
+          "Mexa em lume brando até engrossar, depois junte a água de flor de laranjeira e o mel",
+          "Leve ao frio, cubra com fruta e polvilhe os pistácios"
+        ],
+        "de": [
+          "Speisestärke in einer viertel Tasse kalter Milch lösen",
+          "Restliche Milch erhitzen und die Stärkemischung zugeben",
+          "Bei niedriger Hitze rühren, bis es andickt, dann Orangenblütenwasser und Honig zugeben",
+          "Kühlen, mit Obst belegen und Pistazien bestreuen"
+        ],
+        "id": [
+          "Larutkan maizena dalam seperempat cangkir susu dingin",
+          "Panaskan sisa susu, masukkan campuran maizena",
+          "Aduk api kecil sampai mengental, lalu tambah air bunga jeruk dan madu",
+          "Dinginkan, beri buah di atasnya, taburi pistachio"
+        ],
+        "hi": [
+          "कॉर्नस्टार्च को एक चौथाई कप ठंडे दूध में घोलें",
+          "बाकी दूध गरम कर कॉर्नस्टार्च मिश्रण डालें",
+          "धीमी आँच पर गाढ़ा होने तक चलाएँ, फिर ऑरेंज ब्लॉसम वॉटर और शहद डालें",
+          "ठंडा कर फल रखें और पिस्ता छिड़कें"
+        ],
+        "ja": [
+          "コーンスターチを冷たい牛乳1/4カップに溶かす",
+          "残りの牛乳を温め、コーンスターチ液を加える",
+          "弱火でとろみがつくまで混ぜ、オレンジフラワーウォーターとはちみつを加える",
+          "冷やし、果物をのせてピスタチオを散らす"
+        ],
+        "zh": [
+          "玉米淀粉用四分之一杯冷牛奶化开",
+          "剩余牛奶加热，倒入淀粉水",
+          "小火搅拌至浓稠，加橙花水和蜂蜜",
+          "放凉，铺水果，撒开心果碎"
+        ]
+      }
+    },
+    {
+      "id": "le_ds_baked_semolina",
+      "cuisine": "levant",
+      "kcal": 200,
+      "protein": 5,
+      "carbs": 36,
+      "fat": 5,
+      "serving": {
+        "ar": "قطعة واحدة",
+        "en": "1 piece",
+        "ru": "1 кусок",
+        "ur": "1 ٹکڑا",
+        "fr": "1 part",
+        "es": "1 porción",
+        "pt": "1 fatia",
+        "de": "1 Stück",
+        "id": "1 potong",
+        "hi": "1 टुकड़ा",
+        "ja": "1切れ",
+        "zh": "1块"
+      },
+      "name": {
+        "ar": "نمورة مخبوزة خفيفة",
+        "en": "Light baked namoura",
+        "ru": "Лёгкая запечённая намура",
+        "ur": "ہلکی بیکڈ نمورہ",
+        "fr": "Namoura légère au four",
+        "es": "Namoura ligera al horno",
+        "pt": "Namoura leve assada",
+        "de": "Leichte gebackene Namoura",
+        "id": "Namoura panggang ringan",
+        "hi": "लाइट बेक्ड नमूरा",
+        "ja": "軽やか焼きナムーラ（セモリナケーキ）",
+        "zh": "轻盈烤粗麦糕"
+      },
+      "ingredients": {
+        "ar": [
+          "نصف كوب سميد خشن",
+          "ملعقتان زبادي يوناني",
+          "ملعقة صغيرة بيكنغ باودر وهيل",
+          "ملعقة صغيرة عسل للعجينة",
+          "لوزة واحدة للتزيين + شراب سكر خفيف"
+        ],
+        "en": [
+          "Half cup coarse semolina",
+          "2 tbsp Greek yogurt",
+          "1 tsp baking powder, cardamom",
+          "1 tsp honey in the batter",
+          "1 almond to garnish + a light sugar syrup"
+        ],
+        "ru": [
+          "Полстакана крупной манки",
+          "2 ст. л. греческого йогурта",
+          "1 ч. л. разрыхлителя, кардамон",
+          "1 ч. л. мёда в тесто",
+          "1 миндалина для украшения + лёгкий сахарный сироп"
+        ],
+        "ur": [
+          "آدھا کپ موٹا سوجی",
+          "2 چمچ یونانی دہی",
+          "1 چائے کا چمچ بیکنگ پاؤڈر، الائچی",
+          "آٹے میں 1 چائے کا چمچ شہد",
+          "سجاوٹ کو 1 بادام + ہلکا چینی کا شربت"
+        ],
+        "fr": [
+          "Une demi-tasse de semoule grossière",
+          "2 c. à s. de yaourt grec",
+          "1 c. à c. de levure chimique, cardamome",
+          "1 c. à c. de miel dans la pâte",
+          "1 amande pour décorer + sirop de sucre léger"
+        ],
+        "es": [
+          "Media taza de sémola gruesa",
+          "2 cdas de yogur griego",
+          "1 cdta de levadura en polvo, cardamomo",
+          "1 cdta de miel en la masa",
+          "1 almendra para decorar + almíbar ligero"
+        ],
+        "pt": [
+          "Meia xícara de sêmola grossa",
+          "2 colheres de iogurte grego",
+          "1 c. de chá de fermento em pó, cardamomo",
+          "1 c. de chá de mel na massa",
+          "1 amêndoa para decorar + calda de açúcar leve"
+        ],
+        "de": [
+          "Eine halbe Tasse grober Grieß",
+          "2 EL griechischer Joghurt",
+          "1 TL Backpulver, Kardamom",
+          "1 TL Honig im Teig",
+          "1 Mandel zum Garnieren + leichter Zuckersirup"
+        ],
+        "id": [
+          "Setengah cangkir semolina kasar",
+          "2 sdm yogurt Yunani",
+          "1 sdt baking powder, kapulaga",
+          "1 sdt madu di adonan",
+          "1 almon untuk hiasan + sirup gula ringan"
+        ],
+        "hi": [
+          "आधा कप मोटा सूजी",
+          "2 बड़े चम्मच ग्रीक दही",
+          "1 छोटा चम्मच बेकिंग पाउडर, इलायची",
+          "आटे में 1 छोटा चम्मच शहद",
+          "सजावट के लिए 1 बादाम + हल्का चीनी सिरप"
+        ],
+        "ja": [
+          "粗びきセモリナ粉1/2カップ",
+          "ギリシャヨーグルト大さじ2",
+          "ベーキングパウダー小さじ1、カルダモン",
+          "生地に入れるはちみつ小さじ1",
+          "飾り用アーモンド1粒＋軽いシロップ"
+        ],
+        "zh": [
+          "粗粒粗麦粉半杯",
+          "希腊酸奶2大匙",
+          "泡打粉1小匙、豆蔻粉",
+          "面糊中蜂蜜1小匙",
+          "杏仁1颗装饰＋淡糖浆"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اخلط السميد والزبادي والبيكنغ باودر والهيل والعسل",
+          "اسكبه في قالب صغير مدهون",
+          "ضع اللوزة في المنتصف واخبزه ٢٠ دقيقة على ١٨٠ درجة",
+          "اسكب الشراب الخفيف عليه وهو ساخن"
+        ],
+        "en": [
+          "Mix the semolina, yogurt, baking powder, cardamom and honey",
+          "Pour into a small greased tin",
+          "Place the almond in the centre and bake 20 minutes at 180°C",
+          "Pour the light syrup over it while hot"
+        ],
+        "ru": [
+          "Смешайте манку, йогурт, разрыхлитель, кардамон и мёд",
+          "Вылейте в небольшую смазанную форму",
+          "Положите миндалину в центр и запекайте 20 минут при 180°C",
+          "Полейте лёгким сиропом, пока горячий"
+        ],
+        "ur": [
+          "سوجی، دہی، بیکنگ پاؤڈر، الائچی اور شہد ملائیں",
+          "چکنائی لگے چھوٹے سانچے میں ڈالیں",
+          "درمیان میں بادام رکھ کر 180 ڈگری پر 20 منٹ بیک کریں",
+          "گرم حالت میں ہلکا شربت ڈالیں"
+        ],
+        "fr": [
+          "Mélangez semoule, yaourt, levure, cardamome et miel",
+          "Versez dans un petit moule beurré",
+          "Placez l'amande au centre et enfournez 20 minutes à 180°C",
+          "Versez le sirop léger dessus encore chaud"
+        ],
+        "es": [
+          "Mezcla la sémola, el yogur, la levadura, el cardamomo y la miel",
+          "Vierte en un molde pequeño engrasado",
+          "Pon la almendra en el centro y hornea 20 minutos a 180°C",
+          "Vierte el almíbar ligero mientras esté caliente"
+        ],
+        "pt": [
+          "Misture a sêmola, o iogurte, o fermento, o cardamomo e o mel",
+          "Deite numa forma pequena untada",
+          "Ponha a amêndoa no centro e asse 20 minutos a 180°C",
+          "Regue com a calda leve ainda quente"
+        ],
+        "de": [
+          "Grieß, Joghurt, Backpulver, Kardamom und Honig mischen",
+          "In eine kleine gefettete Form gießen",
+          "Mandel in die Mitte legen und 20 Minuten bei 180°C backen",
+          "Den leichten Sirup heiß darübergießen"
+        ],
+        "id": [
+          "Campur semolina, yogurt, baking powder, kapulaga, dan madu",
+          "Tuang ke loyang kecil berminyak",
+          "Taruh almon di tengah, panggang 20 menit di 180°C",
+          "Siram sirup ringan selagi panas"
+        ],
+        "hi": [
+          "सूजी, दही, बेकिंग पाउडर, इलायची और शहद मिलाएँ",
+          "चिकनाई लगे छोटे साँचे में डालें",
+          "बीच में बादाम रखकर 180°C पर 20 मिनट बेक करें",
+          "गरम रहते हुए हल्का सिरप डालें"
+        ],
+        "ja": [
+          "セモリナ、ヨーグルト、ベーキングパウダー、カルダモン、はちみつを混ぜる",
+          "小さな油を塗った型に流す",
+          "中央にアーモンドをのせ180℃で20分焼く",
+          "熱いうちに軽いシロップをかける"
+        ],
+        "zh": [
+          "粗麦粉、酸奶、泡打粉、豆蔻粉和蜂蜜拌匀",
+          "倒入刷油的小模具",
+          "中央放一颗杏仁，180度烤20分钟",
+          "趁热淋上淡糖浆"
+        ]
+      }
+    }
+  ]
+}
