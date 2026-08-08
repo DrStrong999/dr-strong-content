@@ -1,0 +1,1972 @@
+{
+  "breakfast": [
+    {
+      "id": "jp_bf_tamagoyaki",
+      "cuisine": "japanese",
+      "kcal": 300,
+      "protein": 15,
+      "carbs": 38,
+      "fat": 10,
+      "serving": {
+        "ar": "بيضتان + ١٠٠ جم أرز",
+        "en": "2 eggs + 100 g rice",
+        "ru": "2 яйца + 100 г риса",
+        "ur": "2 انڈے + 100 گرام چاول",
+        "fr": "2 œufs + 100 g de riz",
+        "es": "2 huevos + 100 g de arroz",
+        "pt": "2 ovos + 100 g de arroz",
+        "de": "2 Eier + 100 g Reis",
+        "id": "2 telur + 100 g nasi",
+        "hi": "2 अंडे + 100 ग्राम चावल",
+        "ja": "卵2個＋ご飯100g",
+        "zh": "鸡蛋2个＋米饭100克"
+      },
+      "name": {
+        "ar": "تاماغوياكي مع الأرز",
+        "en": "Tamagoyaki with rice",
+        "ru": "Тамагояки с рисом",
+        "ur": "تاماگویاکی مع چاول",
+        "fr": "Tamagoyaki et riz",
+        "es": "Tamagoyaki con arroz",
+        "pt": "Tamagoyaki com arroz",
+        "de": "Tamagoyaki mit Reis",
+        "id": "Tamagoyaki dengan nasi",
+        "hi": "तामागोयाकी चावल के साथ",
+        "ja": "卵焼きとご飯",
+        "zh": "日式厚蛋烧配饭"
+      },
+      "ingredients": {
+        "ar": [
+          "بيضتان",
+          "١٠٠ جم أرز ياباني مطبوخ",
+          "ملعقة صغيرة صويا صوص",
+          "ملعقة صغيرة ميرين",
+          "ملعقة صغيرة زيت"
+        ],
+        "en": [
+          "2 eggs",
+          "100 g cooked Japanese rice",
+          "1 tsp soy sauce",
+          "1 tsp mirin",
+          "1 tsp oil"
+        ],
+        "ru": [
+          "2 яйца",
+          "100 г варёного японского риса",
+          "1 ч. л. соевого соуса",
+          "1 ч. л. мирина",
+          "1 ч. л. масла"
+        ],
+        "ur": [
+          "2 انڈے",
+          "100 گرام پکے جاپانی چاول",
+          "1 چائے کا چمچ سویا ساس",
+          "1 چائے کا چمچ میرین",
+          "1 چائے کا چمچ تیل"
+        ],
+        "fr": [
+          "2 œufs",
+          "100 g de riz japonais cuit",
+          "1 c. à c. de sauce soja",
+          "1 c. à c. de mirin",
+          "1 c. à c. d'huile"
+        ],
+        "es": [
+          "2 huevos",
+          "100 g de arroz japonés cocido",
+          "1 cdta de salsa de soja",
+          "1 cdta de mirin",
+          "1 cdta de aceite"
+        ],
+        "pt": [
+          "2 ovos",
+          "100 g de arroz japonês cozido",
+          "1 c. de chá de molho de soja",
+          "1 c. de chá de mirin",
+          "1 c. de chá de óleo"
+        ],
+        "de": [
+          "2 Eier",
+          "100 g gekochter japanischer Reis",
+          "1 TL Sojasauce",
+          "1 TL Mirin",
+          "1 TL Öl"
+        ],
+        "id": [
+          "2 telur",
+          "100 g nasi Jepang matang",
+          "1 sdt kecap asin",
+          "1 sdt mirin",
+          "1 sdt minyak"
+        ],
+        "hi": [
+          "2 अंडे",
+          "100 ग्राम पका जापानी चावल",
+          "1 छोटा चम्मच सोया सॉस",
+          "1 छोटा चम्मच मिरिन",
+          "1 छोटा चम्मच तेल"
+        ],
+        "ja": [
+          "卵2個",
+          "炊いたご飯100g",
+          "しょうゆ小さじ1",
+          "みりん小さじ1",
+          "油小さじ1"
+        ],
+        "zh": [
+          "鸡蛋2个",
+          "煮好的日本米饭100克",
+          "生抽1小匙",
+          "味醂1小匙",
+          "油1小匙"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اخفق البيض مع الصويا والميرين",
+          "ادهن مقلاة مستطيلة بالزيت وسخّنها",
+          "اسكب طبقة رقيقة ولفّها عند نضجها",
+          "كرّر الطبقات ثم قطّعها وقدّمها مع الأرز"
+        ],
+        "en": [
+          "Beat the eggs with the soy sauce and mirin",
+          "Oil a rectangular pan and heat it",
+          "Pour a thin layer and roll it once set",
+          "Repeat the layers, slice and serve with rice"
+        ],
+        "ru": [
+          "Взбейте яйца с соевым соусом и мирином",
+          "Смажьте прямоугольную сковороду маслом и разогрейте",
+          "Влейте тонкий слой и сверните, когда схватится",
+          "Повторите слои, нарежьте и подайте с рисом"
+        ],
+        "ur": [
+          "انڈوں کو سویا ساس اور میرین کے ساتھ پھینٹیں",
+          "مستطیل توے پر تیل لگا کر گرم کریں",
+          "پتلی تہہ ڈالیں اور جمنے پر لپیٹ دیں",
+          "تہیں دہرائیں، کاٹ کر چاول کے ساتھ پیش کریں"
+        ],
+        "fr": [
+          "Battez les œufs avec la sauce soja et le mirin",
+          "Huilez une poêle rectangulaire et chauffez-la",
+          "Versez une fine couche et roulez-la dès qu'elle prend",
+          "Répétez les couches, tranchez et servez avec le riz"
+        ],
+        "es": [
+          "Bate los huevos con la salsa de soja y el mirin",
+          "Engrasa una sartén rectangular y caliéntala",
+          "Vierte una capa fina y enróllala al cuajar",
+          "Repite las capas, corta y sirve con el arroz"
+        ],
+        "pt": [
+          "Bata os ovos com o molho de soja e o mirin",
+          "Unte uma frigideira retangular e aqueça",
+          "Deite uma camada fina e enrole quando firmar",
+          "Repita as camadas, fatie e sirva com o arroz"
+        ],
+        "de": [
+          "Eier mit Sojasauce und Mirin verquirlen",
+          "Rechteckige Pfanne einölen und erhitzen",
+          "Dünne Schicht eingießen und beim Stocken aufrollen",
+          "Schichten wiederholen, schneiden und mit Reis servieren"
+        ],
+        "id": [
+          "Kocok telur dengan kecap asin dan mirin",
+          "Olesi wajan persegi dengan minyak lalu panaskan",
+          "Tuang lapisan tipis dan gulung saat set",
+          "Ulangi lapisannya, potong, sajikan dengan nasi"
+        ],
+        "hi": [
+          "अंडों को सोया सॉस और मिरिन के साथ फेंटें",
+          "आयताकार पैन में तेल लगाकर गरम करें",
+          "पतली परत डालें और जमते ही लपेटें",
+          "परतें दोहराएँ, काटें और चावल के साथ परोसें"
+        ],
+        "ja": [
+          "卵にしょうゆとみりんを混ぜて溶く",
+          "卵焼き器に油をひいて熱する",
+          "薄く流し入れ、固まったら巻く",
+          "layersを繰り返し、切ってご飯と供する"
+        ],
+        "zh": [
+          "鸡蛋加生抽和味醂打散",
+          "长方煎锅刷油烧热",
+          "倒入薄薄一层，凝固后卷起",
+          "重复叠层，切件配米饭"
+        ]
+      }
+    },
+    {
+      "id": "jp_bf_natto_gohan",
+      "cuisine": "japanese",
+      "kcal": 300,
+      "protein": 13,
+      "carbs": 48,
+      "fat": 6,
+      "serving": {
+        "ar": "طبق (٥٠ جم ناتو + ١٥٠ جم أرز)",
+        "en": "One bowl (50 g natto + 150 g rice)",
+        "ru": "Одна миска (50 г натто + 150 г риса)",
+        "ur": "ایک پیالہ (50 گرام ناتو + 150 گرام چاول)",
+        "fr": "Un bol (50 g de natto + 150 g de riz)",
+        "es": "Un tazón (50 g de natto + 150 g de arroz)",
+        "pt": "Uma tigela (50 g de natto + 150 g de arroz)",
+        "de": "Eine Schale (50 g Natto + 150 g Reis)",
+        "id": "Satu mangkuk (50 g natto + 150 g nasi)",
+        "hi": "एक कटोरी (50 ग्राम नत्तो + 150 ग्राम चावल)",
+        "ja": "1杯（納豆50g＋ご飯150g）",
+        "zh": "一碗（纳豆50克＋米饭150克）"
+      },
+      "name": {
+        "ar": "ناتو غوهان (فول صويا مخمّر بالأرز)",
+        "en": "Natto gohan",
+        "ru": "Натто гохан (ферментированная соя с рисом)",
+        "ur": "ناتو گوہان",
+        "fr": "Natto gohan (soja fermenté et riz)",
+        "es": "Natto gohan (soja fermentada con arroz)",
+        "pt": "Natto gohan (soja fermentada com arroz)",
+        "de": "Natto Gohan (fermentierte Sojabohnen mit Reis)",
+        "id": "Natto gohan (kedelai fermentasi dan nasi)",
+        "hi": "नत्तो गोहन",
+        "ja": "納豆ご飯",
+        "zh": "纳豆拌饭"
+      },
+      "ingredients": {
+        "ar": [
+          "علبة ناتو (٥٠ جم)",
+          "١٥٠ جم أرز ياباني مطبوخ",
+          "ملعقة صغيرة صويا صوص",
+          "بصل أخضر مفروم",
+          "ورقة نوري مقطعة"
+        ],
+        "en": [
+          "1 pack natto (50 g)",
+          "150 g cooked Japanese rice",
+          "1 tsp soy sauce",
+          "Chopped spring onion",
+          "1 sheet nori, shredded"
+        ],
+        "ru": [
+          "1 упаковка натто (50 г)",
+          "150 г варёного японского риса",
+          "1 ч. л. соевого соуса",
+          "Зелёный лук, нарезанный",
+          "1 лист нори, нарезанный"
+        ],
+        "ur": [
+          "ایک پیکٹ ناتو (50 گرام)",
+          "150 گرام پکے جاپانی چاول",
+          "1 چائے کا چمچ سویا ساس",
+          "ہرا پیاز، کٹا ہوا",
+          "1 نوری شیٹ، کٹی ہوئی"
+        ],
+        "fr": [
+          "1 barquette de natto (50 g)",
+          "150 g de riz japonais cuit",
+          "1 c. à c. de sauce soja",
+          "Oignon vert ciselé",
+          "1 feuille de nori émincée"
+        ],
+        "es": [
+          "1 paquete de natto (50 g)",
+          "150 g de arroz japonés cocido",
+          "1 cdta de salsa de soja",
+          "Cebolleta picada",
+          "1 hoja de nori en tiras"
+        ],
+        "pt": [
+          "1 embalagem de natto (50 g)",
+          "150 g de arroz japonês cozido",
+          "1 c. de chá de molho de soja",
+          "Cebolinha picada",
+          "1 folha de nori em tiras"
+        ],
+        "de": [
+          "1 Packung Natto (50 g)",
+          "150 g gekochter japanischer Reis",
+          "1 TL Sojasauce",
+          "Frühlingszwiebel, gehackt",
+          "1 Blatt Nori, in Streifen"
+        ],
+        "id": [
+          "1 bungkus natto (50 g)",
+          "150 g nasi Jepang matang",
+          "1 sdt kecap asin",
+          "Daun bawang cincang",
+          "1 lembar nori, disuwir"
+        ],
+        "hi": [
+          "1 पैक नत्तो (50 ग्राम)",
+          "150 ग्राम पका जापानी चावल",
+          "1 छोटा चम्मच सोया सॉस",
+          "कटा हरा प्याज़",
+          "1 शीट नोरी, कतरी हुई"
+        ],
+        "ja": [
+          "納豆1パック（50g）",
+          "炊いたご飯150g",
+          "しょうゆ小さじ1",
+          "刻みねぎ",
+          "刻みのり1枚分"
+        ],
+        "zh": [
+          "纳豆1盒（50克）",
+          "煮好的日本米饭150克",
+          "生抽1小匙",
+          "葱花",
+          "海苔1片，切丝"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اخلط الناتو بالعيدان ٢٠ مرة حتى يصير كريميًا",
+          "أضف الصويا صوص وامزج مرة أخرى",
+          "ضع الأرز الساخن في طبق وافرد الناتو فوقه",
+          "زيّن بالبصل الأخضر والنوري"
+        ],
+        "en": [
+          "Stir the natto with chopsticks about 20 times until creamy",
+          "Add the soy sauce and stir again",
+          "Put hot rice in a bowl and spoon the natto over",
+          "Top with spring onion and nori"
+        ],
+        "ru": [
+          "Размешайте натто палочками около 20 раз до кремовости",
+          "Добавьте соевый соус и снова перемешайте",
+          "Выложите горячий рис в миску и сверху натто",
+          "Посыпьте зелёным луком и нори"
+        ],
+        "ur": [
+          "ناتو کو چاپ اسٹکس سے 20 بار ہلائیں تاکہ کریمی ہو",
+          "سویا ساس ڈال کر دوبارہ ملائیں",
+          "گرم چاول پیالے میں ڈال کر اوپر ناتو رکھیں",
+          "ہرے پیاز اور نوری سے سجائیں"
+        ],
+        "fr": [
+          "Remuez le natto aux baguettes une vingtaine de fois",
+          "Ajoutez la sauce soja et remuez à nouveau",
+          "Mettez le riz chaud dans un bol et nappez de natto",
+          "Parsemez d'oignon vert et de nori"
+        ],
+        "es": [
+          "Remueve el natto con palillos unas 20 veces hasta que esté cremoso",
+          "Añade la salsa de soja y vuelve a remover",
+          "Pon el arroz caliente en un bol y cúbrelo con el natto",
+          "Corona con cebolleta y nori"
+        ],
+        "pt": [
+          "Mexa o natto com hashis umas 20 vezes até ficar cremoso",
+          "Junte o molho de soja e mexa de novo",
+          "Coloque o arroz quente numa tigela e cubra com o natto",
+          "Finalize com cebolinha e nori"
+        ],
+        "de": [
+          "Natto mit Stäbchen etwa 20-mal cremig rühren",
+          "Sojasauce zugeben und erneut rühren",
+          "Heißen Reis in eine Schale geben und Natto darüber",
+          "Mit Frühlingszwiebel und Nori bestreuen"
+        ],
+        "id": [
+          "Aduk natto dengan sumpit sekitar 20 kali sampai creamy",
+          "Tambahkan kecap asin, aduk lagi",
+          "Taruh nasi panas di mangkuk, tuang natto di atasnya",
+          "Taburi daun bawang dan nori"
+        ],
+        "hi": [
+          "नत्तो को चॉपस्टिक से करीब 20 बार चलाएँ जब तक क्रीमी न हो",
+          "सोया सॉस डालकर फिर मिलाएँ",
+          "गरम चावल कटोरी में रखें और ऊपर नत्तो डालें",
+          "हरा प्याज़ और नोरी डालकर परोसें"
+        ],
+        "ja": [
+          "納豆を箸で20回ほど混ぜて粘りを出す",
+          "しょうゆを加えてさらに混ぜる",
+          "温かいご飯を器に盛り、納豆をのせる",
+          "刻みねぎとのりを散らす"
+        ],
+        "zh": [
+          "纳豆用筷子搅拌约20次至拉丝",
+          "加生抽再拌匀",
+          "热米饭盛碗，铺上纳豆",
+          "撒葱花和海苔丝"
+        ]
+      }
+    }
+  ],
+  "lunch": [
+    {
+      "id": "jp_ln_salmon_teishoku",
+      "cuisine": "japanese",
+      "kcal": 440,
+      "protein": 30,
+      "carbs": 52,
+      "fat": 13,
+      "serving": {
+        "ar": "١٠٠ جم سلمون + ١٥٠ جم أرز + ميسو",
+        "en": "100 g salmon + 150 g rice + miso soup",
+        "ru": "100 г лосося + 150 г риса + мисо",
+        "ur": "100 گرام سالمن + 150 گرام چاول + مسو",
+        "fr": "100 g de saumon + 150 g de riz + soupe miso",
+        "es": "100 g de salmón + 150 g de arroz + sopa miso",
+        "pt": "100 g de salmão + 150 g de arroz + sopa miso",
+        "de": "100 g Lachs + 150 g Reis + Misosuppe",
+        "id": "100 g salmon + 150 g nasi + sup miso",
+        "hi": "100 ग्राम सैल्मन + 150 ग्राम चावल + मिसो सूप",
+        "ja": "鮭100g＋ご飯150g＋味噌汁",
+        "zh": "三文鱼100克＋米饭150克＋味噌汤"
+      },
+      "name": {
+        "ar": "سلمون مشوي بالملح مع الأرز",
+        "en": "Salt-grilled salmon set",
+        "ru": "Лосось сиояки с рисом",
+        "ur": "نمکین گرل سالمن سیٹ",
+        "fr": "Saumon grillé au sel et riz",
+        "es": "Salmón a la sal con arroz",
+        "pt": "Salmão grelhado ao sal com arroz",
+        "de": "Salzgegrillter Lachs mit Reis",
+        "id": "Salmon panggang garam dengan nasi",
+        "hi": "नमक-ग्रिल सैल्मन थाली",
+        "ja": "鮭の塩焼き定食",
+        "zh": "盐烤三文鱼定食"
+      },
+      "ingredients": {
+        "ar": [
+          "١٠٠ جم شريحة سلمون",
+          "نصف ملعقة صغيرة ملح",
+          "١٥٠ جم أرز ياباني مطبوخ",
+          "ملعقة صغيرة معجون ميسو",
+          "توفو وواكامي وبصل أخضر للشوربة"
+        ],
+        "en": [
+          "100 g salmon fillet",
+          "Half tsp salt",
+          "150 g cooked Japanese rice",
+          "1 tsp miso paste",
+          "Tofu, wakame, spring onion for the soup"
+        ],
+        "ru": [
+          "100 г филе лосося",
+          "Половина ч. л. соли",
+          "150 г варёного японского риса",
+          "1 ч. л. пасты мисо",
+          "Тофу, вакаме, зелёный лук для супа"
+        ],
+        "ur": [
+          "100 گرام سالمن فلے",
+          "آدھا چائے کا چمچ نمک",
+          "150 گرام پکے جاپانی چاول",
+          "1 چائے کا چمچ مسو پیسٹ",
+          "توفو، واکامے، ہرا پیاز سوپ کے لیے"
+        ],
+        "fr": [
+          "100 g de filet de saumon",
+          "Une demi-c. à c. de sel",
+          "150 g de riz japonais cuit",
+          "1 c. à c. de pâte miso",
+          "Tofu, wakamé, oignon vert pour la soupe"
+        ],
+        "es": [
+          "100 g de filete de salmón",
+          "Media cdta de sal",
+          "150 g de arroz japonés cocido",
+          "1 cdta de pasta miso",
+          "Tofu, wakame y cebolleta para la sopa"
+        ],
+        "pt": [
+          "100 g de filete de salmão",
+          "Meia c. de chá de sal",
+          "150 g de arroz japonês cozido",
+          "1 c. de chá de pasta miso",
+          "Tofu, wakame e cebolinha para a sopa"
+        ],
+        "de": [
+          "100 g Lachsfilet",
+          "Ein halber TL Salz",
+          "150 g gekochter japanischer Reis",
+          "1 TL Misopaste",
+          "Tofu, Wakame, Frühlingszwiebel für die Suppe"
+        ],
+        "id": [
+          "100 g fillet salmon",
+          "Setengah sdt garam",
+          "150 g nasi Jepang matang",
+          "1 sdt pasta miso",
+          "Tahu, wakame, daun bawang untuk sup"
+        ],
+        "hi": [
+          "100 ग्राम सैल्मन फ़िले",
+          "आधा छोटा चम्मच नमक",
+          "150 ग्राम पका जापानी चावल",
+          "1 छोटा चम्मच मिसो पेस्ट",
+          "सूप के लिए टोफू, वाकामे, हरा प्याज़"
+        ],
+        "ja": [
+          "鮭の切り身100g",
+          "塩小さじ1/2",
+          "炊いたご飯150g",
+          "味噌小さじ1",
+          "味噌汁用の豆腐・わかめ・ねぎ"
+        ],
+        "zh": [
+          "三文鱼柳100克",
+          "盐半小匙",
+          "煮好的日本米饭150克",
+          "味噌1小匙",
+          "汤用豆腐、裙带菜、葱"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "رشّ الملح على السلمون واتركه ١٥ دقيقة ثم جفّفه",
+          "اشوِه ٦ دقائق على كل جانب حتى يتقشّر",
+          "سخّن ماء الشوربة وأذب الميسو خارج الغليان",
+          "أضف التوفو والواكامي وقدّم الطبق مع الأرز"
+        ],
+        "en": [
+          "Salt the salmon, rest 15 minutes, then pat it dry",
+          "Grill 6 minutes per side until the skin crisps",
+          "Heat the soup water and dissolve the miso off the boil",
+          "Add tofu and wakame, serve with the rice"
+        ],
+        "ru": [
+          "Посолите лосось, оставьте на 15 минут и обсушите",
+          "Жарьте по 6 минут с каждой стороны до хрустящей кожи",
+          "Нагрейте воду и растворите мисо без кипения",
+          "Добавьте тофу и вакаме, подайте с рисом"
+        ],
+        "ur": [
+          "سالمن پر نمک لگا کر 15 منٹ رکھیں پھر خشک کریں",
+          "ہر طرف 6 منٹ گرل کریں تاکہ جلد کرکری ہو",
+          "سوپ کا پانی گرم کر کے ابال سے پہلے مسو گھولیں",
+          "توفو اور واکامے ڈال کر چاول کے ساتھ پیش کریں"
+        ],
+        "fr": [
+          "Salez le saumon, laissez 15 minutes puis épongez-le",
+          "Grillez 6 minutes par face jusqu'à ce que la peau croustille",
+          "Chauffez l'eau et délayez le miso hors ébullition",
+          "Ajoutez tofu et wakamé, servez avec le riz"
+        ],
+        "es": [
+          "Sala el salmón, déjalo 15 minutos y sécalo",
+          "Ásalo 6 minutos por lado hasta que la piel quede crujiente",
+          "Calienta el agua y disuelve el miso sin que hierva",
+          "Añade tofu y wakame, sirve con el arroz"
+        ],
+        "pt": [
+          "Salgue o salmão, deixe 15 minutos e seque",
+          "Grelhe 6 minutos de cada lado até a pele ficar crocante",
+          "Aqueça a água e dissolva o miso fora da fervura",
+          "Junte tofu e wakame, sirva com o arroz"
+        ],
+        "de": [
+          "Lachs salzen, 15 Minuten ruhen lassen, trocken tupfen",
+          "Pro Seite 6 Minuten grillen, bis die Haut knusprig ist",
+          "Suppenwasser erhitzen und Miso außerhalb des Kochens auflösen",
+          "Tofu und Wakame zugeben, mit Reis servieren"
+        ],
+        "id": [
+          "Garami salmon, diamkan 15 menit lalu keringkan",
+          "Panggang 6 menit tiap sisi sampai kulitnya renyah",
+          "Panaskan air sup, larutkan miso sebelum mendidih",
+          "Masukkan tahu dan wakame, sajikan dengan nasi"
+        ],
+        "hi": [
+          "सैल्मन पर नमक लगाकर 15 मिनट रखें, फिर पोंछें",
+          "हर तरफ़ 6 मिनट ग्रिल करें जब तक छिलका कुरकुरा न हो",
+          "सूप का पानी गरम कर उबाल से पहले मिसो घोलें",
+          "टोफू और वाकामे डालें, चावल के साथ परोसें"
+        ],
+        "ja": [
+          "鮭に塩をふり15分おいて水気を拭く",
+          "皮がパリッとするまで片面6分ずつ焼く",
+          "だしを温め、沸騰させずに味噌を溶く",
+          "豆腐とわかめを加え、ご飯と一緒に供する"
+        ],
+        "zh": [
+          "三文鱼抹盐静置15分钟后擦干",
+          "两面各烤6分钟至鱼皮焦脆",
+          "汤水加热，离沸化开味噌",
+          "加豆腐和裙带菜，配米饭上桌"
+        ]
+      }
+    },
+    {
+      "id": "jp_ln_zaru_soba",
+      "cuisine": "japanese",
+      "kcal": 380,
+      "protein": 14,
+      "carbs": 70,
+      "fat": 3,
+      "serving": {
+        "ar": "١٠٠ جم سوبا جاف",
+        "en": "100 g dry soba",
+        "ru": "100 г сухой собы",
+        "ur": "100 گرام خشک سوبا",
+        "fr": "100 g de soba sèches",
+        "es": "100 g de soba seca",
+        "pt": "100 g de soba seca",
+        "de": "100 g trockene Soba",
+        "id": "100 g soba kering",
+        "hi": "100 ग्राम सूखी सोबा",
+        "ja": "そば（乾麺）100g",
+        "zh": "干荞麦面100克"
+      },
+      "name": {
+        "ar": "زارو سوبا (نودلز حنطة سوداء باردة)",
+        "en": "Zaru soba",
+        "ru": "Дзару соба (холодная гречневая лапша)",
+        "ur": "زارو سوبا",
+        "fr": "Zaru soba (nouilles de sarrasin froides)",
+        "es": "Zaru soba (fideos de trigo sarraceno fríos)",
+        "pt": "Zaru soba (macarrão de trigo-sarraceno frio)",
+        "de": "Zaru Soba (kalte Buchweizennudeln)",
+        "id": "Zaru soba (mi soba dingin)",
+        "hi": "ज़ारू सोबा",
+        "ja": "ざるそば",
+        "zh": "笊篱荞麦冷面"
+      },
+      "ingredients": {
+        "ar": [
+          "١٠٠ جم نودلز سوبا",
+          "نصف كوب مرق دashi",
+          "ملعقتان صويا صوص",
+          "ملعقة ميرين",
+          "بصل أخضر ووسابي ونوري"
+        ],
+        "en": [
+          "100 g soba noodles",
+          "Half cup dashi stock",
+          "2 tbsp soy sauce",
+          "1 tbsp mirin",
+          "Spring onion, wasabi, nori"
+        ],
+        "ru": [
+          "100 г лапши соба",
+          "Полстакана бульона даси",
+          "2 ст. л. соевого соуса",
+          "1 ст. л. мирина",
+          "Зелёный лук, васаби, нори"
+        ],
+        "ur": [
+          "100 گرام سوبا نوڈلز",
+          "آدھا کپ داشی شوربہ",
+          "2 کھانے کے چمچ سویا ساس",
+          "1 کھانے کا چمچ میرین",
+          "ہرا پیاز، واسابی، نوری"
+        ],
+        "fr": [
+          "100 g de nouilles soba",
+          "Une demi-tasse de bouillon dashi",
+          "2 c. à s. de sauce soja",
+          "1 c. à s. de mirin",
+          "Oignon vert, wasabi, nori"
+        ],
+        "es": [
+          "100 g de fideos soba",
+          "Media taza de caldo dashi",
+          "2 cdas de salsa de soja",
+          "1 cda de mirin",
+          "Cebolleta, wasabi, nori"
+        ],
+        "pt": [
+          "100 g de macarrão soba",
+          "Meia xícara de caldo dashi",
+          "2 colheres de sopa de molho de soja",
+          "1 colher de sopa de mirin",
+          "Cebolinha, wasabi, nori"
+        ],
+        "de": [
+          "100 g Soba-Nudeln",
+          "Eine halbe Tasse Dashi-Brühe",
+          "2 EL Sojasauce",
+          "1 EL Mirin",
+          "Frühlingszwiebel, Wasabi, Nori"
+        ],
+        "id": [
+          "100 g mi soba",
+          "Setengah cangkir kaldu dashi",
+          "2 sdm kecap asin",
+          "1 sdm mirin",
+          "Daun bawang, wasabi, nori"
+        ],
+        "hi": [
+          "100 ग्राम सोबा नूडल्स",
+          "आधा कप दाशी शोरबा",
+          "2 बड़े चम्मच सोया सॉस",
+          "1 बड़ा चम्मच मिरिन",
+          "हरा प्याज़, वसाबी, नोरी"
+        ],
+        "ja": [
+          "そば（乾麺）100g",
+          "だし1/2カップ",
+          "しょうゆ大さじ2",
+          "みりん大さじ1",
+          "ねぎ・わさび・刻みのり"
+        ],
+        "zh": [
+          "荞麦面100克",
+          "高汤半杯",
+          "生抽2大匙",
+          "味醂1大匙",
+          "葱、山葵、海苔丝"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اخلط الدashi والصويا والميرين وبرّدهم",
+          "اسلق السوبا حسب زمن العلبة",
+          "اشطفها بماء بارد جيدًا حتى تتماسك",
+          "قدّمها على مصفاة مع الغموس والإضافات"
+        ],
+        "en": [
+          "Mix the dashi, soy sauce and mirin, then chill",
+          "Boil the soba for the time on the packet",
+          "Rinse under cold water until firm",
+          "Serve on a bamboo tray with the dipping sauce and toppings"
+        ],
+        "ru": [
+          "Смешайте даси, соевый соус и мирин, охладите",
+          "Отварите собу по времени с упаковки",
+          "Промойте холодной водой до упругости",
+          "Подайте на бамбуковом подносе с соусом и добавками"
+        ],
+        "ur": [
+          "داشی، سویا ساس اور میرین ملا کر ٹھنڈا کریں",
+          "سوبا کو پیکٹ کے وقت کے مطابق ابالیں",
+          "ٹھنڈے پانی سے اچھی طرح دھوئیں",
+          "بانس کی ٹرے پر ڈپ اور ٹاپنگ کے ساتھ پیش کریں"
+        ],
+        "fr": [
+          "Mélangez dashi, sauce soja et mirin, puis réfrigérez",
+          "Faites cuire les soba selon le paquet",
+          "Rincez à l'eau froide jusqu'à ce qu'elles raffermissent",
+          "Servez sur un plateau avec la sauce et les garnitures"
+        ],
+        "es": [
+          "Mezcla el dashi, la salsa de soja y el mirin, y enfría",
+          "Cuece la soba según el paquete",
+          "Enjuaga con agua fría hasta que quede firme",
+          "Sirve en una bandeja con la salsa y los acompañamientos"
+        ],
+        "pt": [
+          "Misture dashi, molho de soja e mirin e leve ao frio",
+          "Coza a soba pelo tempo indicado no pacote",
+          "Passe por água fria até ficar firme",
+          "Sirva numa bandeja com o molho e os acompanhamentos"
+        ],
+        "de": [
+          "Dashi, Sojasauce und Mirin mischen und kühlen",
+          "Soba nach Packungsangabe kochen",
+          "Unter kaltem Wasser abspülen, bis sie fest sind",
+          "Auf einem Bambustablett mit Dip und Toppings servieren"
+        ],
+        "id": [
+          "Campur dashi, kecap asin, dan mirin lalu dinginkan",
+          "Rebus soba sesuai waktu di kemasan",
+          "Bilas air dingin sampai kenyal",
+          "Sajikan di nampan bambu dengan saus dan taburan"
+        ],
+        "hi": [
+          "दाशी, सोया सॉस और मिरिन मिलाकर ठंडा करें",
+          "सोबा को पैकेट के समय अनुसार उबालें",
+          "ठंडे पानी से धोएँ जब तक कसाव न आए",
+          "बाँस की ट्रे पर डिप और टॉपिंग के साथ परोसें"
+        ],
+        "ja": [
+          "だし・しょうゆ・みりんを合わせて冷やす",
+          "袋の表示どおりそばを茹でる",
+          "冷水でしっかり洗い、締める",
+          "ざるに盛り、つゆと薬味を添える"
+        ],
+        "zh": [
+          "高汤、生抽、味醂调匀冷藏",
+          "荞麦面按包装时间煮熟",
+          "冷水冲洗至面条爽滑",
+          "盛在竹笊篱上，配蘸汁和佐料"
+        ]
+      }
+    }
+  ],
+  "dinner": [
+    {
+      "id": "jp_dn_chicken_teriyaki",
+      "cuisine": "japanese",
+      "kcal": 330,
+      "protein": 33,
+      "carbs": 12,
+      "fat": 15,
+      "serving": {
+        "ar": "١٥٠ جم فخذ دجاج بلا جلد",
+        "en": "150 g skinless chicken thigh",
+        "ru": "150 г куриного бедра без кожи",
+        "ur": "150 گرام بغیر جلد چکن ران",
+        "fr": "150 g de cuisse de poulet sans peau",
+        "es": "150 g de muslo de pollo sin piel",
+        "pt": "150 g de coxa de frango sem pele",
+        "de": "150 g Hähnchenschenkel ohne Haut",
+        "id": "150 g paha ayam tanpa kulit",
+        "hi": "150 ग्राम बिना छिलके चिकन थाई",
+        "ja": "鶏もも肉（皮なし）150g",
+        "zh": "去皮鸡腿肉150克"
+      },
+      "name": {
+        "ar": "دجاج ترياكي",
+        "en": "Chicken teriyaki",
+        "ru": "Курица терияки",
+        "ur": "چکن تیریاکی",
+        "fr": "Poulet teriyaki",
+        "es": "Pollo teriyaki",
+        "pt": "Frango teriyaki",
+        "de": "Teriyaki-Hähnchen",
+        "id": "Ayam teriyaki",
+        "hi": "चिकन तेरियाकी",
+        "ja": "鶏の照り焼き",
+        "zh": "照烧鸡"
+      },
+      "ingredients": {
+        "ar": [
+          "١٥٠ جم فخذ دجاج بلا جلد",
+          "ملعقتان صويا صوص",
+          "ملعقة ميرين",
+          "ملعقة صغيرة سكر أو عسل",
+          "ملعقة صغيرة زيت وبذور سمسم"
+        ],
+        "en": [
+          "150 g skinless chicken thigh",
+          "2 tbsp soy sauce",
+          "1 tbsp mirin",
+          "1 tsp sugar or honey",
+          "1 tsp oil, sesame seeds"
+        ],
+        "ru": [
+          "150 г куриного бедра без кожи",
+          "2 ст. л. соевого соуса",
+          "1 ст. л. мирина",
+          "1 ч. л. сахара или мёда",
+          "1 ч. л. масла, кунжут"
+        ],
+        "ur": [
+          "150 گرام بغیر جلد چکن ران",
+          "2 کھانے کے چمچ سویا ساس",
+          "1 کھانے کا چمچ میرین",
+          "1 چائے کا چمچ چینی یا شہد",
+          "1 چائے کا چمچ تیل، تل"
+        ],
+        "fr": [
+          "150 g de cuisse de poulet sans peau",
+          "2 c. à s. de sauce soja",
+          "1 c. à s. de mirin",
+          "1 c. à c. de sucre ou de miel",
+          "1 c. à c. d'huile, graines de sésame"
+        ],
+        "es": [
+          "150 g de muslo de pollo sin piel",
+          "2 cdas de salsa de soja",
+          "1 cda de mirin",
+          "1 cdta de azúcar o miel",
+          "1 cdta de aceite, sésamo"
+        ],
+        "pt": [
+          "150 g de coxa de frango sem pele",
+          "2 colheres de sopa de molho de soja",
+          "1 colher de sopa de mirin",
+          "1 c. de chá de açúcar ou mel",
+          "1 c. de chá de óleo, gergelim"
+        ],
+        "de": [
+          "150 g Hähnchenschenkel ohne Haut",
+          "2 EL Sojasauce",
+          "1 EL Mirin",
+          "1 TL Zucker oder Honig",
+          "1 TL Öl, Sesam"
+        ],
+        "id": [
+          "150 g paha ayam tanpa kulit",
+          "2 sdm kecap asin",
+          "1 sdm mirin",
+          "1 sdt gula atau madu",
+          "1 sdt minyak, wijen"
+        ],
+        "hi": [
+          "150 ग्राम बिना छिलके चिकन थाई",
+          "2 बड़े चम्मच सोया सॉस",
+          "1 बड़ा चम्मच मिरिन",
+          "1 छोटा चम्मच चीनी या शहद",
+          "1 छोटा चम्मच तेल, तिल"
+        ],
+        "ja": [
+          "鶏もも肉（皮なし）150g",
+          "しょうゆ大さじ2",
+          "みりん大さじ1",
+          "砂糖またはハチミツ小さじ1",
+          "油小さじ1、白ごま"
+        ],
+        "zh": [
+          "去皮鸡腿肉150克",
+          "生抽2大匙",
+          "味醂1大匙",
+          "糖或蜂蜜1小匙",
+          "油1小匙、白芝麻"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اخلط الصويا والميرين والسكر في كوب",
+          "اقلِ الدجاج في الزيت ٥ دقائق لكل جانب",
+          "أضف الصلصة واتركها تغلي حتى تلمع وتثخن",
+          "قطّعه شرائح ورشّ السمسم"
+        ],
+        "en": [
+          "Mix the soy sauce, mirin and sugar in a cup",
+          "Pan-fry the chicken in the oil 5 minutes per side",
+          "Add the sauce and simmer until glossy and thick",
+          "Slice and sprinkle with sesame seeds"
+        ],
+        "ru": [
+          "Смешайте соевый соус, мирин и сахар",
+          "Обжарьте курицу в масле по 5 минут с каждой стороны",
+          "Влейте соус и уварите до блеска и густоты",
+          "Нарежьте ломтиками и посыпьте кунжутом"
+        ],
+        "ur": [
+          "سویا ساس، میرین اور چینی ایک کپ میں ملائیں",
+          "چکن کو تیل میں ہر طرف 5 منٹ فرائی کریں",
+          "ساس ڈال کر چمکدار اور گاڑھا ہونے تک پکائیں",
+          "سلائس کر کے تل چھڑکیں"
+        ],
+        "fr": [
+          "Mélangez sauce soja, mirin et sucre dans un bol",
+          "Poêlez le poulet 5 minutes par face",
+          "Ajoutez la sauce et laissez réduire jusqu'à ce qu'elle nappe",
+          "Tranchez et parsemez de sésame"
+        ],
+        "es": [
+          "Mezcla la salsa de soja, el mirin y el azúcar",
+          "Dora el pollo en el aceite 5 minutos por lado",
+          "Añade la salsa y reduce hasta que brille y espese",
+          "Corta en lonchas y espolvorea sésamo"
+        ],
+        "pt": [
+          "Misture o molho de soja, o mirin e o açúcar",
+          "Frite o frango no óleo 5 minutos de cada lado",
+          "Junte o molho e reduza até ficar brilhante e espesso",
+          "Fatie e polvilhe com gergelim"
+        ],
+        "de": [
+          "Sojasauce, Mirin und Zucker verrühren",
+          "Hähnchen im Öl je Seite 5 Minuten braten",
+          "Sauce zugeben und glänzend einkochen lassen",
+          "In Scheiben schneiden und mit Sesam bestreuen"
+        ],
+        "id": [
+          "Campur kecap asin, mirin, dan gula",
+          "Goreng ayam dengan minyak 5 menit tiap sisi",
+          "Tuang saus, masak sampai mengkilap dan kental",
+          "Iris dan taburi wijen"
+        ],
+        "hi": [
+          "सोया सॉस, मिरिन और चीनी मिलाएँ",
+          "चिकन को तेल में हर तरफ़ 5 मिनट भूनें",
+          "सॉस डालकर चमकदार और गाढ़ा होने तक पकाएँ",
+          "स्लाइस करें और तिल छिड़कें"
+        ],
+        "ja": [
+          "しょうゆ・みりん・砂糖を合わせておく",
+          "油をひいて鶏肉を片面5分ずつ焼く",
+          "タレを加え、照りが出て煮詰まるまで絡める",
+          "そぎ切りにして白ごまをふる"
+        ],
+        "zh": [
+          "生抽、味醂、糖调成照烧汁",
+          "热油把鸡肉两面各煎5分钟",
+          "倒入照烧汁收至浓稠发亮",
+          "切片，撒上白芝麻"
+        ]
+      }
+    },
+    {
+      "id": "jp_dn_yosenabe",
+      "cuisine": "japanese",
+      "kcal": 280,
+      "protein": 26,
+      "carbs": 14,
+      "fat": 12,
+      "serving": {
+        "ar": "قِدر لشخص واحد",
+        "en": "One-person pot",
+        "ru": "Котелок на одного",
+        "ur": "ایک فرد کا پاٹ",
+        "fr": "Une portion",
+        "es": "Una ración",
+        "pt": "Uma porção",
+        "de": "Eine Portion",
+        "id": "Satu porsi",
+        "hi": "एक व्यक्ति के लिए",
+        "ja": "1人前",
+        "zh": "一人份"
+      },
+      "name": {
+        "ar": "يوسي نابي (قِدر خضار ودجاج)",
+        "en": "Yosenabe hot pot",
+        "ru": "Ёсэнабэ (японский горячий котелок)",
+        "ur": "یوسے نابے ہاٹ پاٹ",
+        "fr": "Yosenabe (fondue japonaise)",
+        "es": "Yosenabe (olla caliente japonesa)",
+        "pt": "Yosenabe (panela quente japonesa)",
+        "de": "Yosenabe (japanischer Eintopf)",
+        "id": "Yosenabe (hot pot Jepang)",
+        "hi": "योसेनाबे हॉट पॉट",
+        "ja": "寄せ鍋",
+        "zh": "什锦火锅（寄世锅）"
+      },
+      "ingredients": {
+        "ar": [
+          "١٠٠ جم صدر دجاج شرائح",
+          "١٠٠ جم توفو",
+          "ملفوف صيني وفطر وجزر",
+          "٢ كوب مرق دashi",
+          "ملعقة صويا صوص وملعقة ساكي"
+        ],
+        "en": [
+          "100 g chicken breast, sliced",
+          "100 g tofu",
+          "Chinese cabbage, mushrooms, carrot",
+          "2 cups dashi stock",
+          "1 tbsp soy sauce, 1 tbsp sake"
+        ],
+        "ru": [
+          "100 г куриной грудки, ломтиками",
+          "100 г тофу",
+          "Пекинская капуста, грибы, морковь",
+          "2 стакана бульона даси",
+          "1 ст. л. соевого соуса, 1 ст. л. саке"
+        ],
+        "ur": [
+          "100 گرام چکن بریسٹ، سلائس",
+          "100 گرام توفو",
+          "چینی بند گوبھی، مشروم، گاجر",
+          "2 کپ داشی شوربہ",
+          "1 چمچ سویا ساس، 1 چمچ ساکے"
+        ],
+        "fr": [
+          "100 g de blanc de poulet émincé",
+          "100 g de tofu",
+          "Chou chinois, champignons, carotte",
+          "2 tasses de bouillon dashi",
+          "1 c. à s. de sauce soja, 1 c. à s. de saké"
+        ],
+        "es": [
+          "100 g de pechuga de pollo en láminas",
+          "100 g de tofu",
+          "Col china, setas, zanahoria",
+          "2 tazas de caldo dashi",
+          "1 cda de salsa de soja, 1 cda de sake"
+        ],
+        "pt": [
+          "100 g de peito de frango fatiado",
+          "100 g de tofu",
+          "Couve chinesa, cogumelos, cenoura",
+          "2 xícaras de caldo dashi",
+          "1 colher de sopa de molho de soja, 1 de saquê"
+        ],
+        "de": [
+          "100 g Hähnchenbrust in Scheiben",
+          "100 g Tofu",
+          "Chinakohl, Pilze, Karotte",
+          "2 Tassen Dashi-Brühe",
+          "1 EL Sojasauce, 1 EL Sake"
+        ],
+        "id": [
+          "100 g dada ayam, iris",
+          "100 g tahu",
+          "Sawi putih, jamur, wortel",
+          "2 cangkir kaldu dashi",
+          "1 sdm kecap asin, 1 sdm sake"
+        ],
+        "hi": [
+          "100 ग्राम चिकन ब्रेस्ट, स्लाइस",
+          "100 ग्राम टोफू",
+          "चीनी पत्तागोभी, मशरूम, गाजर",
+          "2 कप दाशी शोरबा",
+          "1 बड़ा चम्मच सोया सॉस, 1 साके"
+        ],
+        "ja": [
+          "鶏むね肉100g（そぎ切り）",
+          "豆腐100g",
+          "白菜・きのこ・にんじん",
+          "だし2カップ",
+          "しょうゆ大さじ1、酒大さじ1"
+        ],
+        "zh": [
+          "鸡胸肉100克，切片",
+          "豆腐100克",
+          "大白菜、菌菇、胡萝卜",
+          "高汤2杯",
+          "生抽1大匙、清酒1大匙"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "سخّن المرق مع الصويا والساكي في قِدر",
+          "أضف الجزر والفطر واتركها ٥ دقائق",
+          "أضف الدجاج والملفوف واطبخ حتى ينضج",
+          "أضف التوفو في النهاية وسخّنه دقيقتين"
+        ],
+        "en": [
+          "Heat the stock with the soy sauce and sake in a pot",
+          "Add the carrot and mushrooms, simmer 5 minutes",
+          "Add the chicken and cabbage, cook until done",
+          "Add the tofu at the end and warm 2 minutes"
+        ],
+        "ru": [
+          "Нагрейте бульон с соевым соусом и саке",
+          "Добавьте морковь и грибы, варите 5 минут",
+          "Добавьте курицу и капусту, готовьте до готовности",
+          "В конце добавьте тофу и прогрейте 2 минуты"
+        ],
+        "ur": [
+          "شوربے کو سویا ساس اور ساکے کے ساتھ گرم کریں",
+          "گاجر اور مشروم ڈال کر 5 منٹ پکائیں",
+          "چکن اور گوبھی ڈال کر گلنے تک پکائیں",
+          "آخر میں توفو ڈال کر 2 منٹ گرم کریں"
+        ],
+        "fr": [
+          "Chauffez le bouillon avec la sauce soja et le saké",
+          "Ajoutez la carotte et les champignons, 5 minutes",
+          "Ajoutez le poulet et le chou, cuisez à cœur",
+          "Ajoutez le tofu en fin de cuisson, 2 minutes"
+        ],
+        "es": [
+          "Calienta el caldo con la salsa de soja y el sake",
+          "Añade la zanahoria y las setas, cuece 5 minutos",
+          "Agrega el pollo y la col, cocina hasta que esté hecho",
+          "Añade el tofu al final y calienta 2 minutos"
+        ],
+        "pt": [
+          "Aqueça o caldo com o molho de soja e o saquê",
+          "Junte a cenoura e os cogumelos, cozinhe 5 minutos",
+          "Junte o frango e a couve, cozinhe até ficar pronto",
+          "Junte o tofu no fim e aqueça 2 minutos"
+        ],
+        "de": [
+          "Brühe mit Sojasauce und Sake erhitzen",
+          "Karotte und Pilze zugeben, 5 Minuten köcheln",
+          "Hähnchen und Kohl zugeben, gar ziehen lassen",
+          "Tofu zum Schluss zugeben und 2 Minuten erwärmen"
+        ],
+        "id": [
+          "Panaskan kaldu dengan kecap asin dan sake",
+          "Masukkan wortel dan jamur, rebus 5 menit",
+          "Masukkan ayam dan sawi, masak sampai matang",
+          "Terakhir masukkan tahu, hangatkan 2 menit"
+        ],
+        "hi": [
+          "शोरबे को सोया सॉस और साके के साथ गरम करें",
+          "गाजर और मशरूम डालकर 5 मिनट पकाएँ",
+          "चिकन और पत्तागोभी डालकर पकने तक पकाएँ",
+          "अंत में टोफू डालकर 2 मिनट गरम करें"
+        ],
+        "ja": [
+          "鍋にだしを入れ、しょうゆと酒を加えて温める",
+          "にんじんときのこを入れ5分煮る",
+          "鶏肉と白菜を加え、火が通るまで煮る",
+          "最後に豆腐を入れ2分温める"
+        ],
+        "zh": [
+          "锅中高汤加生抽和清酒烧热",
+          "先下胡萝卜和菌菇煮5分钟",
+          "加鸡肉和白菜，煮至熟透",
+          "最后放豆腐，加热2分钟"
+        ]
+      }
+    }
+  ],
+  "snack": [
+    {
+      "id": "jp_sn_onigiri",
+      "cuisine": "japanese",
+      "kcal": 200,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 2,
+      "serving": {
+        "ar": "كرة واحدة (١٠٠ جم أرز)",
+        "en": "1 rice ball (100 g rice)",
+        "ru": "1 шарик (100 г риса)",
+        "ur": "1 بال (100 گرام چاول)",
+        "fr": "1 boule (100 g de riz)",
+        "es": "1 bola (100 g de arroz)",
+        "pt": "1 bolinho (100 g de arroz)",
+        "de": "1 Reisball (100 g Reis)",
+        "id": "1 bola nasi (100 g nasi)",
+        "hi": "1 चावल बॉल (100 ग्राम चावल)",
+        "ja": "1個（ご飯100g）",
+        "zh": "1个（米饭100克）"
+      },
+      "name": {
+        "ar": "أونيغيري بالسلمون",
+        "en": "Salmon onigiri",
+        "ru": "Онигири с лососем",
+        "ur": "سالمن اونیگیری",
+        "fr": "Onigiri au saumon",
+        "es": "Onigiri de salmón",
+        "pt": "Onigiri de salmão",
+        "de": "Lachs-Onigiri",
+        "id": "Onigiri salmon",
+        "hi": "सैल्मन ओनिगिरी",
+        "ja": "鮭のおにぎり",
+        "zh": "三文鱼饭团"
+      },
+      "ingredients": {
+        "ar": [
+          "١٠٠ جم أرز ياباني مطبوخ",
+          "٢٠ جم سلمون مشوي مفتّت",
+          "رشة ملح",
+          "ربع ورقة نوري",
+          "رشة سمسم"
+        ],
+        "en": [
+          "100 g cooked Japanese rice",
+          "20 g grilled salmon, flaked",
+          "A pinch of salt",
+          "A quarter sheet of nori",
+          "A pinch of sesame seeds"
+        ],
+        "ru": [
+          "100 г варёного японского риса",
+          "20 г запечённого лосося, размятого",
+          "Щепотка соли",
+          "Четверть листа нори",
+          "Щепотка кунжута"
+        ],
+        "ur": [
+          "100 گرام پکے جاپانی چاول",
+          "20 گرام گرل سالمن، ریزہ",
+          "چٹکی نمک",
+          "چوتھائی نوری شیٹ",
+          "چٹکی تل"
+        ],
+        "fr": [
+          "100 g de riz japonais cuit",
+          "20 g de saumon grillé émietté",
+          "Une pincée de sel",
+          "Un quart de feuille de nori",
+          "Une pincée de sésame"
+        ],
+        "es": [
+          "100 g de arroz japonés cocido",
+          "20 g de salmón asado desmenuzado",
+          "Una pizca de sal",
+          "Un cuarto de hoja de nori",
+          "Una pizca de sésamo"
+        ],
+        "pt": [
+          "100 g de arroz japonês cozido",
+          "20 g de salmão grelhado desfiado",
+          "Uma pitada de sal",
+          "Um quarto de folha de nori",
+          "Uma pitada de gergelim"
+        ],
+        "de": [
+          "100 g gekochter japanischer Reis",
+          "20 g gegrillter Lachs, zerpflückt",
+          "Eine Prise Salz",
+          "Ein Viertel Blatt Nori",
+          "Eine Prise Sesam"
+        ],
+        "id": [
+          "100 g nasi Jepang matang",
+          "20 g salmon panggang, disuwir",
+          "Sejumput garam",
+          "Seperempat lembar nori",
+          "Sejumput wijen"
+        ],
+        "hi": [
+          "100 ग्राम पका जापानी चावल",
+          "20 ग्राम ग्रिल्ड सैल्मन, टुकड़ों में",
+          "चुटकी भर नमक",
+          "एक चौथाई नोरी शीट",
+          "चुटकी भर तिल"
+        ],
+        "ja": [
+          "炊いたご飯100g",
+          "焼き鮭20g（ほぐす）",
+          "塩少々",
+          "のり1/4枚",
+          "白ごま少々"
+        ],
+        "zh": [
+          "煮好的日本米饭100克",
+          "烤三文鱼20克，撕碎",
+          "盐少许",
+          "海苔1/4片",
+          "白芝麻少许"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "بلّل يديك بالماء ورشّهما بالملح",
+          "ضع نصف الأرز في راحتك واحفر حفرة",
+          "ضع السلمون في الوسط وغطّه بباقي الأرز",
+          "شكّله مثلثًا ولفّ النوري حوله"
+        ],
+        "en": [
+          "Wet your hands with water and rub with salt",
+          "Put half the rice on your palm and make a hollow",
+          "Place the salmon in the middle and cover with the rest",
+          "Shape into a triangle and wrap with nori"
+        ],
+        "ru": [
+          "Смочите руки водой и натрите солью",
+          "Положите половину риса на ладонь и сделайте углубление",
+          "Поместите лосось в центр и накройте остальным рисом",
+          "Сформируйте треугольник и оберните нори"
+        ],
+        "ur": [
+          "ہاتھ پانی سے گیلے کر کے نمک لگائیں",
+          "آدھے چاول ہتھیلی پر رکھ کر گڑھا بنائیں",
+          "درمیان میں سالمن رکھ کر باقی چاول سے ڈھانپیں",
+          "تکون بنائیں اور نوری لپیٹیں"
+        ],
+        "fr": [
+          "Mouillez vos mains et frottez-les de sel",
+          "Posez la moitié du riz dans la paume et creusez",
+          "Mettez le saumon au centre et recouvrez du reste",
+          "Formez un triangle et entourez de nori"
+        ],
+        "es": [
+          "Mójate las manos y frótalas con sal",
+          "Pon la mitad del arroz en la palma y haz un hueco",
+          "Coloca el salmón en el centro y cubre con el resto",
+          "Dale forma triangular y envuelve con nori"
+        ],
+        "pt": [
+          "Molhe as mãos e esfregue com sal",
+          "Ponha metade do arroz na palma e faça uma cova",
+          "Coloque o salmão no meio e cubra com o resto",
+          "Molde um triângulo e envolva com nori"
+        ],
+        "de": [
+          "Hände anfeuchten und mit Salz einreiben",
+          "Die Hälfte des Reises in die Hand geben und eine Mulde formen",
+          "Lachs in die Mitte geben und mit dem Rest bedecken",
+          "Zum Dreieck formen und mit Nori umwickeln"
+        ],
+        "id": [
+          "Basahi tangan dengan air lalu gosok garam",
+          "Taruh separuh nasi di telapak, buat cekungan",
+          "Isi salmon di tengah, tutup dengan sisa nasi",
+          "Bentuk segitiga dan balut dengan nori"
+        ],
+        "hi": [
+          "हाथ पानी से गीले कर नमक मलें",
+          "आधा चावल हथेली पर रखकर गड्ढा बनाएँ",
+          "बीच में सैल्मन रखें और बाकी चावल से ढकें",
+          "त्रिकोण आकार दें और नोरी लपेटें"
+        ],
+        "ja": [
+          "手を水で濡らし、塩をなじませる",
+          "ご飯の半量を手にのせ、中央をくぼませる",
+          "鮭を入れ、残りのご飯でふたをする",
+          "三角に握り、のりを巻く"
+        ],
+        "zh": [
+          "双手蘸水，抹上少许盐",
+          "取一半米饭放掌心，中间压出凹槽",
+          "放入三文鱼，用剩余米饭盖住",
+          "捏成三角形，包上海苔"
+        ]
+      }
+    },
+    {
+      "id": "jp_sn_edamame",
+      "cuisine": "japanese",
+      "kcal": 120,
+      "protein": 11,
+      "carbs": 9,
+      "fat": 5,
+      "serving": {
+        "ar": "حفنة (١٠٠ جم قرون)",
+        "en": "One handful (100 g pods)",
+        "ru": "Горсть (100 г стручков)",
+        "ur": "ایک مٹھی (100 گرام پھلیاں)",
+        "fr": "Une poignée (100 g de gousses)",
+        "es": "Un puñado (100 g de vainas)",
+        "pt": "Um punhado (100 g de vagens)",
+        "de": "Eine Handvoll (100 g Schoten)",
+        "id": "Segenggam (100 g polong)",
+        "hi": "एक मुट्ठी (100 ग्राम फलियाँ)",
+        "ja": "ひとつかみ（さや100g）",
+        "zh": "一把（豆荚100克）"
+      },
+      "name": {
+        "ar": "إدامامي مسلوق",
+        "en": "Steamed edamame",
+        "ru": "Эдамамэ на пару",
+        "ur": "اُبلا ایدامامے",
+        "fr": "Edamame vapeur",
+        "es": "Edamame al vapor",
+        "pt": "Edamame no vapor",
+        "de": "Gedämpfte Edamame",
+        "id": "Edamame kukus",
+        "hi": "उबले एडामामे",
+        "ja": "枝豆",
+        "zh": "水煮毛豆"
+      },
+      "ingredients": {
+        "ar": [
+          "١٠٠ جم قرون إدامامي مجمدة",
+          "ملعقة صغيرة ملح خشن",
+          "ماء للسلق",
+          "رشة فلفل (اختياري)",
+          "قشر ليمون (اختياري)"
+        ],
+        "en": [
+          "100 g frozen edamame pods",
+          "1 tsp coarse salt",
+          "Water for boiling",
+          "A pinch of pepper (optional)",
+          "Lemon zest (optional)"
+        ],
+        "ru": [
+          "100 г замороженных стручков эдамамэ",
+          "1 ч. л. крупной соли",
+          "Вода для варки",
+          "Щепотка перца (по желанию)",
+          "Цедра лимона (по желанию)"
+        ],
+        "ur": [
+          "100 گرام منجمد ایدامامے پھلیاں",
+          "1 چائے کا چمچ کھرا نمک",
+          "ابالنے کے لیے پانی",
+          "چٹکی مرچ (اختیاری)",
+          "لیموں کا چھلکا (اختیاری)"
+        ],
+        "fr": [
+          "100 g de gousses d'edamame surgelées",
+          "1 c. à c. de gros sel",
+          "De l'eau pour la cuisson",
+          "Une pincée de poivre (facultatif)",
+          "Zeste de citron (facultatif)"
+        ],
+        "es": [
+          "100 g de vainas de edamame congeladas",
+          "1 cdta de sal gruesa",
+          "Agua para hervir",
+          "Una pizca de pimienta (opcional)",
+          "Ralladura de limón (opcional)"
+        ],
+        "pt": [
+          "100 g de vagens de edamame congeladas",
+          "1 c. de chá de sal grosso",
+          "Água para ferver",
+          "Uma pitada de pimenta (opcional)",
+          "Raspas de limão (opcional)"
+        ],
+        "de": [
+          "100 g gefrorene Edamame-Schoten",
+          "1 TL grobes Salz",
+          "Wasser zum Kochen",
+          "Eine Prise Pfeffer (optional)",
+          "Zitronenschale (optional)"
+        ],
+        "id": [
+          "100 g polong edamame beku",
+          "1 sdt garam kasar",
+          "Air untuk merebus",
+          "Sejumput lada (opsional)",
+          "Kulit lemon parut (opsional)"
+        ],
+        "hi": [
+          "100 ग्राम जमी एडामामे फलियाँ",
+          "1 छोटा चम्मच मोटा नमक",
+          "उबालने के लिए पानी",
+          "चुटकी भर काली मिर्च (वैकल्पिक)",
+          "नींबू का छिलका (वैकल्पिक)"
+        ],
+        "ja": [
+          "冷凍枝豆（さや付き）100g",
+          "粗塩小さじ1",
+          "ゆで用の水",
+          "こしょう少々（お好みで）",
+          "レモンの皮（お好みで）"
+        ],
+        "zh": [
+          "冷冻毛豆荚100克",
+          "粗盐1小匙",
+          "煮用清水",
+          "胡椒少许（可选）",
+          "柠檬皮屑（可选）"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اغلِ الماء مع نصف الملح",
+          "أضف القرون واسلقها ٤-٥ دقائق",
+          "صفّها وهي ما زالت خضراء ومقرمشة",
+          "رشّ باقي الملح وقدّمها دافئة أو باردة"
+        ],
+        "en": [
+          "Bring water to a boil with half the salt",
+          "Add the pods and boil 4-5 minutes",
+          "Drain while they are still bright green and firm",
+          "Sprinkle the rest of the salt, serve warm or cold"
+        ],
+        "ru": [
+          "Доведите воду до кипения с половиной соли",
+          "Добавьте стручки и варите 4-5 минут",
+          "Откиньте, пока они ярко-зелёные и упругие",
+          "Посыпьте оставшейся солью, подавайте тёплыми или холодными"
+        ],
+        "ur": [
+          "پانی کو آدھے نمک کے ساتھ ابالیں",
+          "پھلیاں ڈال کر 4-5 منٹ ابالیں",
+          "سبز اور کرارے رہتے ہوئے چھان لیں",
+          "باقی نمک چھڑک کر گرم یا ٹھنڈا پیش کریں"
+        ],
+        "fr": [
+          "Portez l'eau à ébullition avec la moitié du sel",
+          "Ajoutez les gousses et cuisez 4-5 minutes",
+          "Égouttez tant qu'elles sont vert vif et fermes",
+          "Salez avec le reste, servez tiède ou froid"
+        ],
+        "es": [
+          "Lleva el agua a ebullición con la mitad de la sal",
+          "Añade las vainas y hierve 4-5 minutos",
+          "Escurre cuando aún estén verdes y firmes",
+          "Espolvorea el resto de sal y sirve tibio o frío"
+        ],
+        "pt": [
+          "Leve a água a ferver com metade do sal",
+          "Junte as vagens e ferva 4-5 minutos",
+          "Escorra enquanto ainda estão verdes e firmes",
+          "Polvilhe o resto do sal e sirva morno ou frio"
+        ],
+        "de": [
+          "Wasser mit der Hälfte des Salzes aufkochen",
+          "Schoten zugeben und 4-5 Minuten kochen",
+          "Abgießen, solange sie leuchtend grün und fest sind",
+          "Mit restlichem Salz bestreuen, warm oder kalt servieren"
+        ],
+        "id": [
+          "Didihkan air dengan separuh garam",
+          "Masukkan polong, rebus 4-5 menit",
+          "Tiriskan selagi masih hijau dan kenyal",
+          "Taburi sisa garam, sajikan hangat atau dingin"
+        ],
+        "hi": [
+          "आधे नमक के साथ पानी उबालें",
+          "फलियाँ डालकर 4-5 मिनट उबालें",
+          "हरी और कसी हुई अवस्था में ही छान लें",
+          "बाकी नमक छिड़कें, गरम या ठंडा परोसें"
+        ],
+        "ja": [
+          "塩の半量を入れた湯を沸かす",
+          "枝豆を入れて4〜5分ゆでる",
+          "鮮やかな緑と歯ごたえが残るうちにザルに上げる",
+          "残りの塩をふり、温かいまま、または冷やして供する"
+        ],
+        "zh": [
+          "水中加一半盐烧开",
+          "下毛豆煮4-5分钟",
+          "趁翠绿脆嫩时捞出沥干",
+          "撒上剩余的盐，温热或冷食皆可"
+        ]
+      }
+    }
+  ],
+  "dessert": [
+    {
+      "id": "jp_ds_kanten_jelly",
+      "cuisine": "japanese",
+      "kcal": 90,
+      "protein": 1,
+      "carbs": 22,
+      "fat": 0,
+      "serving": {
+        "ar": "كوب صغير",
+        "en": "One small cup",
+        "ru": "Небольшая чашка",
+        "ur": "ایک چھوٹا کپ",
+        "fr": "Une petite coupe",
+        "es": "Una taza pequeña",
+        "pt": "Uma taça pequena",
+        "de": "Eine kleine Schale",
+        "id": "Satu cangkir kecil",
+        "hi": "एक छोटा कप",
+        "ja": "小カップ1個",
+        "zh": "一小杯"
+      },
+      "name": {
+        "ar": "جيلي كانتن بالفواكه",
+        "en": "Fruit kanten jelly",
+        "ru": "Фруктовое желе кантэн",
+        "ur": "پھلوں کی کانتن جیلی",
+        "fr": "Gelée kanten aux fruits",
+        "es": "Gelatina kanten de fruta",
+        "pt": "Gelatina kanten de fruta",
+        "de": "Fruchtiges Kanten-Gelee",
+        "id": "Jeli kanten buah",
+        "hi": "फ्रूट कांतेन जेली",
+        "ja": "フルーツ寒天",
+        "zh": "水果寒天冻"
+      },
+      "ingredients": {
+        "ar": [
+          "كوب عصير فواكه طبيعي",
+          "٢ جم مسحوق كانتن (أجار)",
+          "فواكه مقطعة (كيوي وفراولة)",
+          "ملعقة صغيرة عسل (اختياري)",
+          "ماء"
+        ],
+        "en": [
+          "1 cup natural fruit juice",
+          "2 g kanten (agar) powder",
+          "Chopped fruit (kiwi, strawberry)",
+          "1 tsp honey (optional)",
+          "Water"
+        ],
+        "ru": [
+          "1 стакан натурального сока",
+          "2 г порошка кантэн (агар)",
+          "Нарезанные фрукты (киви, клубника)",
+          "1 ч. л. мёда (по желанию)",
+          "Вода"
+        ],
+        "ur": [
+          "1 کپ قدرتی پھلوں کا رس",
+          "2 گرام کانتن (اگر) پاؤڈر",
+          "کٹے پھل (کیوی، اسٹرابیری)",
+          "1 چائے کا چمچ شہد (اختیاری)",
+          "پانی"
+        ],
+        "fr": [
+          "1 tasse de jus de fruits naturel",
+          "2 g de poudre de kanten (agar)",
+          "Fruits coupés (kiwi, fraise)",
+          "1 c. à c. de miel (facultatif)",
+          "Eau"
+        ],
+        "es": [
+          "1 taza de zumo de fruta natural",
+          "2 g de kanten (agar) en polvo",
+          "Fruta troceada (kiwi, fresa)",
+          "1 cdta de miel (opcional)",
+          "Agua"
+        ],
+        "pt": [
+          "1 xícara de sumo de fruta natural",
+          "2 g de kanten (ágar) em pó",
+          "Fruta cortada (kiwi, morango)",
+          "1 c. de chá de mel (opcional)",
+          "Água"
+        ],
+        "de": [
+          "1 Tasse natürlicher Fruchtsaft",
+          "2 g Kanten-(Agar-)Pulver",
+          "Geschnittenes Obst (Kiwi, Erdbeere)",
+          "1 TL Honig (optional)",
+          "Wasser"
+        ],
+        "id": [
+          "1 cangkir jus buah alami",
+          "2 g bubuk kanten (agar)",
+          "Potongan buah (kiwi, stroberi)",
+          "1 sdt madu (opsional)",
+          "Air"
+        ],
+        "hi": [
+          "1 कप प्राकृतिक फलों का रस",
+          "2 ग्राम कांतेन (अगर) पाउडर",
+          "कटे फल (कीवी, स्ट्रॉबेरी)",
+          "1 छोटा चम्मच शहद (वैकल्पिक)",
+          "पानी"
+        ],
+        "ja": [
+          "果汁100%ジュース1カップ",
+          "粉寒天2g",
+          "カットフルーツ（キウイ・いちご）",
+          "はちみつ小さじ1（お好みで）",
+          "水"
+        ],
+        "zh": [
+          "纯果汁1杯",
+          "寒天粉2克",
+          "水果丁（奇异果、草莓）",
+          "蜂蜜1小匙（可选）",
+          "清水"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "أذب الكانتن في نصف كوب ماء واغلِه دقيقتين",
+          "أضف العصير والعسل وقلّب جيدًا",
+          "وزّع الفواكه في الأكواب واسكب السائل فوقها",
+          "برّده ساعة حتى يتماسك"
+        ],
+        "en": [
+          "Dissolve the kanten in half a cup of water and boil 2 minutes",
+          "Add the juice and honey, stir well",
+          "Divide the fruit into cups and pour the liquid over",
+          "Chill for an hour until set"
+        ],
+        "ru": [
+          "Растворите кантэн в половине стакана воды и кипятите 2 минуты",
+          "Добавьте сок и мёд, хорошо размешайте",
+          "Разложите фрукты по стаканчикам и залейте жидкостью",
+          "Охладите час до застывания"
+        ],
+        "ur": [
+          "کانتن کو آدھے کپ پانی میں گھول کر 2 منٹ ابالیں",
+          "رس اور شہد ڈال کر اچھی طرح ملائیں",
+          "پھل کپوں میں تقسیم کر کے مائع ڈالیں",
+          "ایک گھنٹہ ٹھنڈا کریں تاکہ جم جائے"
+        ],
+        "fr": [
+          "Dissolvez le kanten dans un demi-verre d'eau et bouillez 2 minutes",
+          "Ajoutez le jus et le miel, mélangez bien",
+          "Répartissez les fruits dans des coupes et versez dessus",
+          "Réfrigérez une heure jusqu'à prise"
+        ],
+        "es": [
+          "Disuelve el kanten en media taza de agua y hierve 2 minutos",
+          "Añade el zumo y la miel, remueve bien",
+          "Reparte la fruta en vasos y vierte el líquido encima",
+          "Enfría una hora hasta que cuaje"
+        ],
+        "pt": [
+          "Dissolva o kanten em meia xícara de água e ferva 2 minutos",
+          "Junte o sumo e o mel, misture bem",
+          "Distribua a fruta em taças e deite o líquido por cima",
+          "Leve ao frio uma hora até firmar"
+        ],
+        "de": [
+          "Kanten in einer halben Tasse Wasser lösen und 2 Minuten kochen",
+          "Saft und Honig zugeben, gut verrühren",
+          "Obst auf Gläser verteilen und die Flüssigkeit angießen",
+          "Eine Stunde kalt stellen, bis es fest ist"
+        ],
+        "id": [
+          "Larutkan kanten dalam setengah cangkir air, didihkan 2 menit",
+          "Tambahkan jus dan madu, aduk rata",
+          "Bagi buah ke dalam cangkir, tuang cairannya",
+          "Dinginkan satu jam sampai set"
+        ],
+        "hi": [
+          "कांतेन को आधा कप पानी में घोलकर 2 मिनट उबालें",
+          "रस और शहद डालकर अच्छे से मिलाएँ",
+          "फल कपों में बाँटें और ऊपर से तरल डालें",
+          "एक घंटा ठंडा करें जब तक जम न जाए"
+        ],
+        "ja": [
+          "粉寒天を水1/2カップに溶かし2分沸かす",
+          "ジュースとはちみつを加えてよく混ぜる",
+          "カップに果物を入れ、液を注ぐ",
+          "冷蔵庫で1時間冷やし固める"
+        ],
+        "zh": [
+          "寒天粉用半杯水化开，煮沸2分钟",
+          "加入果汁和蜂蜜，充分搅匀",
+          "水果分装入杯，倒入液体",
+          "冷藏1小时至凝固"
+        ]
+      }
+    },
+    {
+      "id": "jp_ds_satsumaimo",
+      "cuisine": "japanese",
+      "kcal": 180,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 2,
+      "serving": {
+        "ar": "قطعة (١٥٠ جم)",
+        "en": "One piece (150 g)",
+        "ru": "Один кусок (150 г)",
+        "ur": "ایک ٹکڑا (150 گرام)",
+        "fr": "Une portion (150 g)",
+        "es": "Una porción (150 g)",
+        "pt": "Uma porção (150 g)",
+        "de": "Ein Stück (150 g)",
+        "id": "Satu potong (150 g)",
+        "hi": "एक टुकड़ा (150 ग्राम)",
+        "ja": "1個（150g）",
+        "zh": "一块（150克）"
+      },
+      "name": {
+        "ar": "بطاطا حلوة مشوية بالكيناكو",
+        "en": "Baked satsumaimo with kinako",
+        "ru": "Печёный батат с кинако",
+        "ur": "بیکڈ میٹھا آلو مع کیناکو",
+        "fr": "Patate douce rôtie au kinako",
+        "es": "Boniato asado con kinako",
+        "pt": "Batata-doce assada com kinako",
+        "de": "Gebackene Süßkartoffel mit Kinako",
+        "id": "Ubi panggang dengan kinako",
+        "hi": "बेक्ड शकरकंद किनाको के साथ",
+        "ja": "焼き芋のきなこがけ",
+        "zh": "烤红薯撒黄豆粉"
+      },
+      "ingredients": {
+        "ar": [
+          "١٥٠ جم بطاطا حلوة يابانية",
+          "ملعقة كبيرة كيناكو (فول صويا مطحون)",
+          "ملعقة صغيرة عسل",
+          "رشة ملح",
+          "رشة قرفة (اختياري)"
+        ],
+        "en": [
+          "150 g Japanese sweet potato",
+          "1 tbsp kinako (roasted soybean flour)",
+          "1 tsp honey",
+          "A pinch of salt",
+          "A pinch of cinnamon (optional)"
+        ],
+        "ru": [
+          "150 г японского батата",
+          "1 ст. л. кинако (мука из обжаренной сои)",
+          "1 ч. л. мёда",
+          "Щепотка соли",
+          "Щепотка корицы (по желанию)"
+        ],
+        "ur": [
+          "150 گرام جاپانی میٹھا آلو",
+          "1 کھانے کا چمچ کیناکو (بھنا سویا آٹا)",
+          "1 چائے کا چمچ شہد",
+          "چٹکی نمک",
+          "چٹکی دار چینی (اختیاری)"
+        ],
+        "fr": [
+          "150 g de patate douce japonaise",
+          "1 c. à s. de kinako (farine de soja grillé)",
+          "1 c. à c. de miel",
+          "Une pincée de sel",
+          "Une pincée de cannelle (facultatif)"
+        ],
+        "es": [
+          "150 g de boniato japonés",
+          "1 cda de kinako (harina de soja tostada)",
+          "1 cdta de miel",
+          "Una pizca de sal",
+          "Una pizca de canela (opcional)"
+        ],
+        "pt": [
+          "150 g de batata-doce japonesa",
+          "1 colher de sopa de kinako (farinha de soja torrada)",
+          "1 c. de chá de mel",
+          "Uma pitada de sal",
+          "Uma pitada de canela (opcional)"
+        ],
+        "de": [
+          "150 g japanische Süßkartoffel",
+          "1 EL Kinako (geröstetes Sojamehl)",
+          "1 TL Honig",
+          "Eine Prise Salz",
+          "Eine Prise Zimt (optional)"
+        ],
+        "id": [
+          "150 g ubi Jepang",
+          "1 sdm kinako (tepung kedelai sangrai)",
+          "1 sdt madu",
+          "Sejumput garam",
+          "Sejumput kayu manis (opsional)"
+        ],
+        "hi": [
+          "150 ग्राम जापानी शकरकंद",
+          "1 बड़ा चम्मच किनाको (भुना सोया आटा)",
+          "1 छोटा चम्मच शहद",
+          "चुटकी भर नमक",
+          "चुटकी भर दालचीनी (वैकल्पिक)"
+        ],
+        "ja": [
+          "さつまいも150g",
+          "きなこ大さじ1",
+          "はちみつ小さじ1",
+          "塩少々",
+          "シナモン少々（お好みで）"
+        ],
+        "zh": [
+          "日本红薯150克",
+          "黄豆粉1大匙",
+          "蜂蜜1小匙",
+          "盐少许",
+          "肉桂粉少许（可选）"
+        ]
+      },
+      "steps": {
+        "ar": [
+          "اغسل البطاطا ولفّها بورق زبدة",
+          "اشوِها في الفرن ٤٥ دقيقة على ١٨٠ درجة",
+          "افتحها بالطول واهرس لبّها قليلًا",
+          "رشّ الكيناكو والملح وقطّر العسل فوقها"
+        ],
+        "en": [
+          "Wash the sweet potato and wrap it in baking paper",
+          "Bake at 180°C for 45 minutes",
+          "Split it lengthwise and fluff the flesh a little",
+          "Dust with kinako and salt, drizzle the honey"
+        ],
+        "ru": [
+          "Вымойте батат и заверните в пергамент",
+          "Запекайте при 180°C 45 минут",
+          "Разрежьте вдоль и слегка разрыхлите мякоть",
+          "Посыпьте кинако и солью, полейте мёдом"
+        ],
+        "ur": [
+          "میٹھے آلو کو دھو کر بیکنگ پیپر میں لپیٹیں",
+          "180 ڈگری پر 45 منٹ بیک کریں",
+          "لمبائی میں کاٹ کر گودا ہلکا سا مسل لیں",
+          "کیناکو اور نمک چھڑکیں، شہد ڈالیں"
+        ],
+        "fr": [
+          "Lavez la patate douce et enveloppez-la de papier cuisson",
+          "Enfournez à 180°C pendant 45 minutes",
+          "Fendez-la en deux et aérez la chair",
+          "Saupoudrez de kinako et de sel, arrosez de miel"
+        ],
+        "es": [
+          "Lava el boniato y envuélvelo en papel de horno",
+          "Hornea a 180°C durante 45 minutos",
+          "Ábrelo a lo largo y ahueca un poco la pulpa",
+          "Espolvorea kinako y sal, y riega con miel"
+        ],
+        "pt": [
+          "Lave a batata-doce e embrulhe em papel vegetal",
+          "Asse a 180°C durante 45 minutos",
+          "Abra ao meio e solte um pouco a polpa",
+          "Polvilhe kinako e sal, regue com mel"
+        ],
+        "de": [
+          "Süßkartoffel waschen und in Backpapier wickeln",
+          "Bei 180°C 45 Minuten backen",
+          "Längs aufschneiden und das Fruchtfleisch auflockern",
+          "Mit Kinako und Salz bestäuben, Honig darüberträufeln"
+        ],
+        "id": [
+          "Cuci ubi dan bungkus dengan kertas roti",
+          "Panggang 180°C selama 45 menit",
+          "Belah memanjang dan urai sedikit dagingnya",
+          "Taburi kinako dan garam, siram madu"
+        ],
+        "hi": [
+          "शकरकंद धोकर बेकिंग पेपर में लपेटें",
+          "180°C पर 45 मिनट बेक करें",
+          "लंबाई में काटकर गूदा हल्का सा फुलाएँ",
+          "किनाको और नमक छिड़कें, ऊपर शहद डालें"
+        ],
+        "ja": [
+          "さつまいもを洗いクッキングシートで包む",
+          "180℃のオーブンで45分焼く",
+          "縦に割り、中身を軽くほぐす",
+          "きなこと塩をふり、はちみつをかける"
+        ],
+        "zh": [
+          "红薯洗净，用烘焙纸包好",
+          "180度烤45分钟",
+          "纵向剖开，把薯肉稍稍拨松",
+          "撒黄豆粉和盐，淋上蜂蜜"
+        ]
+      }
+    }
+  ]
+}
