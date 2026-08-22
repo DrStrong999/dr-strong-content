@@ -1,0 +1,127 @@
+{
+  "vit_a": {
+    "what": "La vision en dépend — surtout en faible lumière — de même que l'immunité, la reproduction et la santé de la peau et des muqueuses.",
+    "lack": "Le signe le plus connu est la cécité nocturne : la vue se dégrade quand la lumière baisse. La sécheresse oculaire apparaît dans les cas plus avancés.",
+    "food": "Foie, huiles de poisson, œufs et produits laitiers. Carottes, patate douce et épinards fournissent du bêta-carotène, que le corps convertit."
+  },
+  "vit_b1": {
+    "what": "Transforme ce que vous mangez en énergie ; nerfs, cœur et muscles en dépendent tous. Le corps en stocke peu, si bien que les réserves s'épuisent en quelques semaines.",
+    "lack": "Fatigue et perte d'appétit ; en carence sévère, fourmillements dans les membres et troubles cardiaques. L'alcool au long cours en est une cause fréquente.",
+    "food": "Céréales complètes et enrichies, porc, légumineuses, noix et graines de tournesol."
+  },
+  "vit_b2": {
+    "what": "Participe à la production d'énergie et à la croissance cellulaire, et aide le corps à activer les vitamines B6 et B9.",
+    "lack": "Fissures aux commissures des lèvres, langue douloureuse, mal de gorge. La carence est rarement isolée : d'autres vitamines B sont souvent basses aussi.",
+    "food": "Lait, œufs, viande maigre, légumes-feuilles et céréales enrichies. La lumière la détruit, d'où les briques de lait opaques."
+  },
+  "vit_b3": {
+    "what": "Intervient dans des centaines de réactions qui libèrent l'énergie des aliments ; peau, intestin et nerfs en ont besoin.",
+    "lack": "La carence sévère est la pellagre : éruption sur la peau exposée au soleil, diarrhée, et changements de mémoire et d'humeur.",
+    "food": "Poulet, poisson, viande, arachides et céréales enrichies. Le corps la fabrique aussi à partir du tryptophane des protéines."
+  },
+  "vit_b5": {
+    "what": "Élément du coenzyme qui construit et brûle les graisses et fabrique des hormones ; il travaille donc dans presque chaque cellule.",
+    "lack": "Très rare, car elle est présente dans la plupart des aliments. Là où elle a été observée : brûlures aux pieds, fatigue et sautes d'humeur.",
+    "food": "Présente dans la plupart des aliments ; les plus riches sont le foie, les champignons, les graines de tournesol, l'avocat et les œufs."
+  },
+  "vit_b6": {
+    "what": "Plus de cent enzymes qui manipulent les protéines en dépendent, et elle aide à fabriquer les neurotransmetteurs et l'hémoglobine.",
+    "lack": "Éruption squameuse, lèvres gercées et anémie. Une carence sévère peut entraîner confusion ou fourmillements.",
+    "food": "Pois chiches, poisson, poulet, pommes de terre, bananes et céréales enrichies."
+  },
+  "vit_b7": {
+    "what": "Aide à convertir graisses, glucides et protéines en énergie, et participe à la régulation du fonctionnement des gènes.",
+    "lack": "Rare. Les signes comprennent des cheveux clairsemés et une éruption squameuse autour des yeux, du nez et de la bouche. Le blanc d'œuf cru au long cours peut la provoquer.",
+    "food": "Foie, œufs cuits, saumon, porc, graines de tournesol et patate douce."
+  },
+  "vit_b9": {
+    "what": "Construit l'ADN et fabrique de nouvelles cellules, d'où des besoins accrus pendant la grossesse et toute période de croissance rapide.",
+    "lack": "Anémie à grandes cellules, fatigue et langue douloureuse. Un taux bas en début de grossesse est lié aux anomalies du tube neural.",
+    "food": "Légumes-feuilles foncés, légumineuses, asperges, agrumes et céréales enrichies."
+  },
+  "vit_b12": {
+    "what": "La formation des globules rouges, la santé des nerfs et l'ADN en dépendent. Le foie en garde des réserves pour des années.",
+    "lack": "Fatigue et pâleur, fourmillements dans les mains et les pieds, troubles de l'équilibre ou de la mémoire. L'atteinte nerveuse peut précéder l'anémie.",
+    "food": "Viande, poisson, œufs et produits laitiers. Les végétaux n'en contiennent pas : les végétariens ont besoin d'aliments enrichis ou d'un complément."
+  },
+  "vit_c": {
+    "what": "Construit le collagène qui tient ensemble peau, vaisseaux et os, agit comme antioxydant, et augmente l'absorption du fer d'origine végétale.",
+    "lack": "La carence sévère est le scorbut : gencives qui saignent, cicatrisation lente, douleurs articulaires et fatigue.",
+    "food": "Poivrons, agrumes, kiwi, fraises et brocoli. Une cuisson longue la détruit : le cru en garde davantage."
+  },
+  "vit_d": {
+    "what": "Aide votre corps à absorber le calcium ; os, muscles et immunité en dépendent. La peau la fabrique à partir du soleil, si bien que le taux varie avec la saison et le temps passé dehors.",
+    "lack": "Une carence sévère ramollit l'os et peut causer douleurs osseuses et faiblesse musculaire. Les signes légers ne sont pas spécifiques.",
+    "food": "Poissons gras comme le saumon et la sardine, huile de foie de morue, jaune d'œuf, lait et céréales enrichis."
+  },
+  "vit_e": {
+    "what": "Un antioxydant qui protège les membranes cellulaires ; elle intervient aussi dans l'immunité et dans la prévention d'une coagulation non souhaitée.",
+    "lack": "Rare chez les personnes en bonne santé ; elle suit généralement des maladies qui bloquent l'absorption des graisses. Signes : faiblesse musculaire et instabilité.",
+    "food": "Huiles végétales, amandes, noisettes, graines de tournesol et épinards."
+  },
+  "vit_k": {
+    "what": "Fabrique les protéines qui arrêtent les saignements et participe à la construction de l'os. Les bactéries intestinales en produisent une partie.",
+    "lack": "Rare chez l'adulte. Le signe principal est une tendance aux bleus et des saignements lents à s'arrêter.",
+    "food": "Légumes-feuilles foncés comme le chou kale, les épinards et le brocoli, huiles végétales et aliments fermentés."
+  },
+  "min_calcium": {
+    "what": "Construit l'os et les dents ; la contraction musculaire, la transmission nerveuse et la coagulation en ont toutes besoin.",
+    "lack": "Le corps puise dans l'os pour maintenir le taux sanguin stable : un apport insuffisant fragilise donc l'os avant d'apparaître dans une analyse.",
+    "food": "Lait, yaourt et fromage, sardines avec arêtes, légumes-feuilles et boissons végétales enrichies."
+  },
+  "min_iron": {
+    "what": "Transporte l'oxygène dans l'hémoglobine, et participe à la production d'énergie et à la croissance cellulaire.",
+    "lack": "Fatigue, pâleur et essoufflement à l'effort. Le fer sérique varie d'heure en heure : il se lit avec la ferritine, jamais seul.",
+    "food": "Viande rouge et foie s'absorbent le mieux. Lentilles, épinards et céréales enrichies sont des sources végétales, et la vitamine C en augmente l'absorption."
+  },
+  "min_magnesium": {
+    "what": "Intervient dans plus de trois cents réactions enzymatiques, dont la production d'énergie, le fonctionnement des muscles et des nerfs, et le contrôle de la tension.",
+    "lack": "Crampes musculaires, fatigue et perte d'appétit. Une carence sévère peut entraîner à la baisse le calcium et le potassium.",
+    "food": "Noix, graines, céréales complètes, légumineuses, légumes-feuilles et chocolat noir."
+  },
+  "min_zinc": {
+    "what": "Plus de trois cents enzymes en ont besoin, et il intervient dans l'immunité, la cicatrisation, le goût et l'odorat.",
+    "lack": "Cicatrisation lente, goût altéré, infections fréquentes et chute de cheveux.",
+    "food": "Huîtres, viande rouge et volaille ; légumineuses, noix et céréales complètes."
+  },
+  "min_selenium": {
+    "what": "Un antioxydant qui agit au sein d'enzymes protectrices ; la production d'hormones thyroïdiennes en a besoin.",
+    "lack": "Rare dans la plupart des régions. Les signes comprennent faiblesse musculaire et fatigue, et il peut toucher la thyroïde.",
+    "food": "Noix du Brésil, de loin les plus riches, puis poisson, œufs et céréales — les quantités suivent le sol local."
+  },
+  "min_copper": {
+    "what": "Participe à la production d'énergie et à la formation du tissu conjonctif ; le corps en a besoin pour utiliser le fer et fabriquer les cellules sanguines.",
+    "lack": "Rare. Signes : une anémie qui ne répond pas au fer, des globules blancs bas et un os fragilisé.",
+    "food": "Foie, fruits de mer, noix, graines, chocolat noir et champignons."
+  },
+  "min_phosphorus": {
+    "what": "Construit l'os et les dents avec le calcium, et fait partie de l'ADN et de la molécule d'énergie de chaque cellule.",
+    "lack": "Rare, car il est présent dans la plupart des aliments. Un déficit sévère cause douleurs osseuses, faiblesse musculaire et perte d'appétit.",
+    "food": "Lait, viande, poisson, œufs, noix, légumineuses et céréales complètes."
+  },
+  "min_sodium": {
+    "what": "Un sel qui règle la quantité d'eau retenue par le corps, la tension artérielle et la transmission nerveuse. Les reins le maintiennent dans une fourchette étroite.",
+    "low": "Un sodium bas est le plus souvent un problème d'eau, non de sel : trop de liquide, un diurétique, ou une maladie rénale ou cardiaque. Signes : maux de tête, nausées et confusion.",
+    "high": "Un sodium élevé signifie généralement une déshydratation plutôt qu'une alimentation salée. Le sel alimentaire élève la tension sans élever ce chiffre."
+  },
+  "min_potassium": {
+    "what": "Agit à l'intérieur des cellules face au sodium à l'extérieur ; la contraction musculaire — le cœur compris — et la transmission nerveuse en dépendent.",
+    "low": "Diarrhées, vomissements et certains médicaments de la tension l'abaissent. Signes : faiblesse musculaire, crampes et rythme cardiaque irrégulier.",
+    "high": "Il monte avec une fonction rénale réduite et avec certains médicaments. Un taux élevé touche le rythme cardiaque : il ne se lit jamais seul."
+  },
+  "min_chloride": {
+    "what": "Accompagne le sodium dans la régulation de l'eau et de la tension, et entre dans la composition de l'acide gastrique.",
+    "low": "Il baisse en cas de vomissements prolongés et avec certains diurétiques, généralement en même temps que le sodium.",
+    "high": "Il monte avec la déshydratation et certains troubles acido-basiques. Il se lit avec le sodium et les bicarbonates, non isolément."
+  },
+  "min_bicarbonate": {
+    "what": "Mesure l'équilibre acido-basique du sang — la capacité du corps à neutraliser l'acide que produit son métabolisme.",
+    "low": "Un taux bas signifie que l'acide s'accumule : maladie rénale, diabète mal équilibré, ou diarrhée sévère.",
+    "high": "Un taux élevé signifie de l'acide perdu ou de la base retenue : vomissements prolongés, diurétiques, ou maladie pulmonaire chronique."
+  },
+  "mrk_ferritin": {
+    "what": "Une protéine qui stocke le fer : elle reflète donc vos réserves, non ce qui circule à l'instant. C'est pourquoi elle baisse avant le fer sérique.",
+    "low": "Des réserves de fer épuisées — par pertes de sang répétées, apport insuffisant, ou mauvaise absorption.",
+    "high": "Des réserves plus importantes, mais aussi l'inflammation et les maladies du foie : elle peut être haute alors que les réserves sont normales. Elle ne se lit jamais seule."
+  }
+}

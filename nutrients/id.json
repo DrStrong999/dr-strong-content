@@ -1,0 +1,127 @@
+{
+  "vit_a": {
+    "what": "Penglihatan membutuhkannya — terutama saat cahaya redup — begitu pula kekebalan tubuh, reproduksi, serta kesehatan kulit dan selaput lendir.",
+    "lack": "Tanda paling dikenal adalah rabun senja: sulit melihat ketika cahaya meredup. Mata kering muncul pada kasus yang lebih lanjut.",
+    "food": "Hati, minyak ikan, telur, dan produk susu. Wortel, ubi jalar, dan bayam memberi betakaroten, yang diubah tubuh menjadi vitamin ini."
+  },
+  "vit_b1": {
+    "what": "Mengubah apa yang kamu makan menjadi energi; saraf, jantung, dan otot bergantung padanya. Tubuh menyimpannya sedikit, sehingga cadangan habis dalam hitungan minggu.",
+    "lack": "Lelah dan hilang nafsu makan; pada kekurangan berat, kesemutan di tangan dan kaki serta gangguan jantung. Alkohol jangka panjang adalah penyebab yang umum.",
+    "food": "Biji-bijian utuh dan yang difortifikasi, daging babi, kacang-kacangan, dan biji bunga matahari."
+  },
+  "vit_b2": {
+    "what": "Ikut dalam produksi energi dan pertumbuhan sel, serta membantu tubuh mengaktifkan vitamin B6 dan B9.",
+    "lack": "Pecah-pecah di sudut mulut, lidah perih, dan tenggorokan sakit. Jarang kurang sendirian — biasanya vitamin B lain juga rendah.",
+    "food": "Susu, telur, daging tanpa lemak, sayuran berdaun, dan sereal yang difortifikasi. Cahaya merusaknya, itulah sebabnya susu dikemas buram."
+  },
+  "vit_b3": {
+    "what": "Bekerja dalam ratusan reaksi yang melepaskan energi dari makanan; kulit, usus, dan saraf membutuhkannya.",
+    "lack": "Kekurangan berat disebut pelagra: ruam pada kulit yang terkena matahari, diare, serta perubahan daya ingat dan suasana hati.",
+    "food": "Ayam, ikan, daging, kacang tanah, dan sereal yang difortifikasi. Tubuh juga membuatnya dari triptofan dalam protein."
+  },
+  "vit_b5": {
+    "what": "Bagian dari koenzim yang membangun dan membakar lemak serta membuat hormon, jadi ia bekerja di hampir setiap sel.",
+    "lack": "Sangat jarang, karena ada di sebagian besar makanan. Bila pernah terjadi: kaki terasa panas, lelah, dan suasana hati naik turun.",
+    "food": "Ada di sebagian besar makanan; yang terkaya adalah hati, jamur, biji bunga matahari, alpukat, dan telur."
+  },
+  "vit_b6": {
+    "what": "Lebih dari seratus enzim yang menangani protein bergantung padanya, dan ia membantu membuat zat penghantar saraf serta hemoglobin.",
+    "lack": "Ruam bersisik, bibir pecah-pecah, dan anemia. Kekurangan berat dapat menimbulkan kebingungan atau kesemutan.",
+    "food": "Buncis kacang arab, ikan, ayam, kentang, pisang, dan sereal yang difortifikasi."
+  },
+  "vit_b7": {
+    "what": "Membantu mengubah lemak, karbohidrat, dan protein menjadi energi, serta ikut mengatur cara kerja gen.",
+    "lack": "Jarang. Tandanya termasuk rambut menipis dan ruam bersisik di sekitar mata, hidung, dan mulut. Putih telur mentah dalam waktu lama bisa menyebabkannya.",
+    "food": "Hati, telur matang, salmon, daging babi, biji bunga matahari, dan ubi jalar."
+  },
+  "vit_b9": {
+    "what": "Membangun DNA dan membuat sel baru, itulah sebabnya kebutuhannya naik saat hamil dan pada setiap masa pertumbuhan cepat.",
+    "lack": "Anemia dengan sel besar, lelah, dan lidah perih. Kadar rendah pada awal kehamilan berkaitan dengan cacat tabung saraf.",
+    "food": "Sayuran berdaun hijau tua, kacang-kacangan, asparagus, jeruk, dan sereal yang difortifikasi."
+  },
+  "vit_b12": {
+    "what": "Pembentukan sel darah merah, kesehatan saraf, dan DNA bergantung padanya. Hati menyimpannya bertahun-tahun.",
+    "lack": "Lelah dan pucat, kesemutan di tangan dan kaki, kesulitan keseimbangan atau daya ingat. Kerusakan saraf bisa mendahului anemia.",
+    "food": "Daging, ikan, telur, dan produk susu. Tumbuhan tidak mengandungnya, jadi vegetarian perlu makanan yang difortifikasi atau suplemen."
+  },
+  "vit_c": {
+    "what": "Membangun kolagen yang menyatukan kulit, pembuluh darah, dan tulang, bekerja sebagai antioksidan, dan meningkatkan penyerapan zat besi dari tumbuhan.",
+    "lack": "Kekurangan berat disebut skorbut: gusi berdarah, luka lambat menutup, nyeri sendi, dan lelah.",
+    "food": "Paprika, jeruk, kiwi, stroberi, dan brokoli. Memasak lama merusaknya, sehingga yang mentah menyimpan lebih banyak."
+  },
+  "vit_d": {
+    "what": "Membantu tubuhmu menyerap kalsium; tulang, otot, dan kekebalan bergantung padanya. Kulit membuatnya dari sinar matahari, jadi kadarnya berubah menurut musim dan lama waktu di luar ruangan.",
+    "lack": "Kekurangan berat melunakkan tulang dan bisa menimbulkan nyeri tulang serta kelemahan otot. Tanda yang ringan tidak khas.",
+    "food": "Ikan berlemak seperti salmon dan sarden, minyak hati ikan kod, kuning telur, serta susu dan sereal yang difortifikasi."
+  },
+  "vit_e": {
+    "what": "Antioksidan yang melindungi membran sel dari kerusakan; ia juga berperan dalam kekebalan dan mencegah pembekuan yang tidak diinginkan.",
+    "lack": "Jarang pada orang sehat; biasanya menyusul penyakit yang menghalangi penyerapan lemak. Tandanya kelemahan otot dan langkah yang goyah.",
+    "food": "Minyak nabati, almond, hazelnut, biji bunga matahari, dan bayam."
+  },
+  "vit_k": {
+    "what": "Membuat protein yang menghentikan perdarahan dan ikut membangun tulang. Bakteri usus menghasilkan sebagiannya.",
+    "lack": "Jarang pada orang dewasa. Tanda utamanya adalah mudah memar dan perdarahan yang lambat berhenti.",
+    "food": "Sayuran berdaun hijau tua seperti kale, bayam, dan brokoli, minyak nabati, serta makanan fermentasi."
+  },
+  "min_calcium": {
+    "what": "Membangun tulang dan gigi, dan kontraksi otot, penghantaran saraf, serta pembekuan darah membutuhkannya.",
+    "lack": "Tubuh mengambil dari tulang agar kadar dalam darah tetap stabil, jadi asupan yang kurang melemahkan tulang sebelum terlihat pada pemeriksaan.",
+    "food": "Susu, yoghurt dan keju, sarden beserta durinya, sayuran berdaun, dan minuman nabati yang difortifikasi."
+  },
+  "min_iron": {
+    "what": "Mengangkut oksigen di dalam hemoglobin, dan ikut dalam produksi energi serta pertumbuhan sel.",
+    "lack": "Lelah, pucat, dan sesak napas saat beraktivitas. Zat besi dalam darah berubah tiap jam, jadi dibaca bersama feritin, bukan sendirian.",
+    "food": "Daging merah dan hati paling baik diserap. Lentil, bayam, dan sereal yang difortifikasi adalah sumber nabati, dan vitamin C menaikkan penyerapannya."
+  },
+  "min_magnesium": {
+    "what": "Ikut dalam lebih dari tiga ratus reaksi enzim, termasuk produksi energi, kerja otot dan saraf, serta pengaturan tekanan darah.",
+    "lack": "Kram otot, lelah, dan hilang nafsu makan. Kekurangan berat dapat menarik kalsium dan kalium ikut turun.",
+    "food": "Kacang-kacangan, biji-bijian, biji utuh, polong-polongan, sayuran berdaun, dan cokelat hitam."
+  },
+  "min_zinc": {
+    "what": "Lebih dari tiga ratus enzim membutuhkannya, dan ia bekerja pada kekebalan, penyembuhan luka, serta indra pengecap dan penciuman.",
+    "lack": "Luka lambat menutup, rasa berubah, sering terkena infeksi, dan rambut rontok.",
+    "food": "Tiram, daging merah, dan unggas; polong-polongan, kacang-kacangan, dan biji utuh."
+  },
+  "min_selenium": {
+    "what": "Antioksidan yang bekerja di dalam enzim pelindung, dan produksi hormon tiroid membutuhkannya.",
+    "lack": "Jarang di sebagian besar wilayah. Tandanya kelemahan otot dan lelah, dan bisa memengaruhi tiroid.",
+    "food": "Kacang brazil jauh paling kaya, selain ikan, telur, dan biji-bijian — jumlahnya mengikuti tanah setempat."
+  },
+  "min_copper": {
+    "what": "Ikut dalam produksi energi dan pembentukan jaringan ikat, dan tubuh membutuhkannya untuk memakai zat besi serta membuat sel darah.",
+    "lack": "Jarang. Tandanya anemia yang tidak membaik dengan zat besi, sel darah putih rendah, dan tulang melemah.",
+    "food": "Hati, kerang-kerangan, kacang-kacangan, biji-bijian, cokelat hitam, dan jamur."
+  },
+  "min_phosphorus": {
+    "what": "Membangun tulang dan gigi bersama kalsium, dan merupakan bagian dari DNA serta molekul energi di setiap sel.",
+    "lack": "Jarang, karena ada di sebagian besar makanan. Kekurangan berat menimbulkan nyeri tulang, kelemahan otot, dan hilang nafsu makan.",
+    "food": "Susu, daging, ikan, telur, kacang-kacangan, polong-polongan, dan biji utuh."
+  },
+  "min_sodium": {
+    "what": "Garam yang mengatur berapa banyak air yang ditahan tubuh, tekanan darah, dan penghantaran saraf. Ginjal menjaganya dalam rentang yang sempit.",
+    "low": "Natrium rendah biasanya masalah air, bukan garam: cairan berlebih, obat diuretik, atau penyakit ginjal atau jantung. Tandanya sakit kepala, mual, dan kebingungan.",
+    "high": "Natrium tinggi biasanya berarti kekurangan cairan, bukan makanan asin. Garam dalam makanan menaikkan tekanan darah tanpa menaikkan angka ini."
+  },
+  "min_potassium": {
+    "what": "Bekerja di dalam sel berhadapan dengan natrium di luar, dan kontraksi otot — termasuk jantung — serta penghantaran saraf bergantung padanya.",
+    "low": "Diare, muntah, dan sebagian obat tekanan darah menurunkannya. Tandanya kelemahan otot, kram, dan denyut jantung tidak teratur.",
+    "high": "Naik saat fungsi ginjal menurun dan dengan sebagian obat. Kadar tinggi memengaruhi irama jantung, jadi tidak pernah dibaca sendirian."
+  },
+  "min_chloride": {
+    "what": "Menyertai natrium dalam mengatur air dan tekanan darah, dan merupakan bagian dari asam lambung.",
+    "low": "Turun saat muntah berkepanjangan dan dengan sebagian obat diuretik, biasanya bersamaan dengan natrium.",
+    "high": "Naik saat kekurangan cairan dan pada sebagian gangguan asam-basa. Dibaca bersama natrium dan bikarbonat, bukan sendiri."
+  },
+  "min_bicarbonate": {
+    "what": "Mengukur keseimbangan asam-basa dalam darahmu — kemampuan tubuh menetralkan asam yang dihasilkan metabolismenya.",
+    "low": "Kadar rendah berarti asam menumpuk: dari penyakit ginjal, diabetes yang tidak terkendali, atau diare berat.",
+    "high": "Kadar tinggi berarti asam hilang atau basa tertahan: dari muntah berkepanjangan, obat diuretik, atau penyakit paru menahun."
+  },
+  "mrk_ferritin": {
+    "what": "Protein yang menyimpan zat besi, jadi ia mencerminkan cadanganmu, bukan yang sedang beredar. Itulah sebabnya ia turun sebelum zat besi darah turun.",
+    "low": "Cadangan zat besi yang terkuras — dari kehilangan darah berulang, asupan rendah, atau penyerapan yang buruk.",
+    "high": "Cadangan yang lebih besar, tetapi juga peradangan dan penyakit hati — bisa tinggi padahal cadangan besi normal. Tidak pernah dibaca sendirian."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "vit_a": {
+    "what": "A visão depende dela — sobretudo com pouca luz — junto com a imunidade, a reprodução e a saúde da pele e das mucosas.",
+    "lack": "O sinal mais conhecido é a cegueira noturna: fica difícil enxergar quando a luz diminui. O olho seco aparece em casos mais avançados.",
+    "food": "Fígado, óleos de peixe, ovos e laticínios. Cenoura, batata-doce e espinafre fornecem betacaroteno, que o corpo converte."
+  },
+  "vit_b1": {
+    "what": "Transforma o que você come em energia; nervos, coração e músculo dependem dela. O corpo estoca pouco, então as reservas acabam em semanas.",
+    "lack": "Cansaço e falta de apetite; na carência grave, formigamento nos membros e problemas no coração. O álcool crônico é uma causa comum.",
+    "food": "Grãos integrais e enriquecidos, carne suína, leguminosas, castanhas e sementes de girassol."
+  },
+  "vit_b2": {
+    "what": "Participa da produção de energia e do crescimento das células, e ajuda o corpo a ativar as vitaminas B6 e B9.",
+    "lack": "Rachaduras nos cantos da boca, língua dolorida, garganta irritada. Raramente falta sozinha: outras vitaminas B costumam estar baixas junto.",
+    "food": "Leite, ovos, carne magra, folhas verdes e grãos enriquecidos. A luz a destrói, por isso o leite vem em embalagem opaca."
+  },
+  "vit_b3": {
+    "what": "Atua em centenas de reações que liberam a energia dos alimentos; pele, intestino e nervos precisam dela.",
+    "lack": "A carência grave é a pelagra: erupção na pele exposta ao sol, diarreia, e mudanças de memória e humor.",
+    "food": "Frango, peixe, carne, amendoim e grãos enriquecidos. O corpo também a produz a partir do triptofano das proteínas."
+  },
+  "vit_b5": {
+    "what": "Faz parte da coenzima que constrói e queima gordura e fabrica hormônios, por isso trabalha em quase toda célula.",
+    "lack": "Muito rara, porque está na maioria dos alimentos. Onde foi observada: ardor nos pés, cansaço e oscilações de humor.",
+    "food": "Presente na maioria dos alimentos; os mais ricos são fígado, cogumelos, sementes de girassol, abacate e ovos."
+  },
+  "vit_b6": {
+    "what": "Mais de cem enzimas que lidam com proteínas dependem dela, e ela ajuda a produzir neurotransmissores e hemoglobina.",
+    "lack": "Erupção descamativa, lábios rachados e anemia. A carência grave pode trazer confusão ou formigamento.",
+    "food": "Grão-de-bico, peixe, frango, batata, banana e grãos enriquecidos."
+  },
+  "vit_b7": {
+    "what": "Ajuda a converter gordura, carboidrato e proteína em energia, e participa da regulação de como os genes funcionam.",
+    "lack": "Rara. Entre os sinais: cabelo ralo e erupção descamativa ao redor dos olhos, nariz e boca. Clara de ovo crua por longo tempo pode causá-la.",
+    "food": "Fígado, ovos cozidos, salmão, carne suína, sementes de girassol e batata-doce."
+  },
+  "vit_b9": {
+    "what": "Constrói o DNA e produz células novas, por isso a necessidade sobe na gravidez e em toda fase de crescimento rápido.",
+    "lack": "Anemia de células grandes, cansaço e língua dolorida. Nível baixo no início da gravidez está ligado a defeitos do tubo neural.",
+    "food": "Folhas verde-escuras, leguminosas, aspargo, frutas cítricas e grãos enriquecidos."
+  },
+  "vit_b12": {
+    "what": "A formação de glóbulos vermelhos, a saúde dos nervos e o DNA dependem dela. O fígado a armazena por anos.",
+    "lack": "Cansaço e palidez, formigamento nas mãos e nos pés, dificuldade de equilíbrio ou memória. O dano nos nervos pode vir antes da anemia.",
+    "food": "Carne, peixe, ovos e laticínios. As plantas não contêm nenhuma, então quem não come animal precisa de alimentos enriquecidos ou suplemento."
+  },
+  "vit_c": {
+    "what": "Constrói o colágeno que sustenta pele, vasos e osso, age como antioxidante e aumenta a absorção do ferro de origem vegetal.",
+    "lack": "A carência grave é o escorbuto: gengivas que sangram, feridas que demoram a fechar, dor nas articulações e cansaço.",
+    "food": "Pimentão, frutas cítricas, kiwi, morango e brócolis. O cozimento longo a destrói, então cru preserva mais."
+  },
+  "vit_d": {
+    "what": "Ajuda seu corpo a absorver cálcio; osso, músculo e imunidade dependem dela. A pele a produz com a luz do sol, então o nível muda com a estação e o tempo ao ar livre.",
+    "lack": "A carência grave amolece o osso e pode causar dor óssea e fraqueza muscular. Os sinais leves não são específicos.",
+    "food": "Peixes gordos como salmão e sardinha, óleo de fígado de bacalhau, gema de ovo, e leite e cereais enriquecidos."
+  },
+  "vit_e": {
+    "what": "Um antioxidante que protege as membranas das células; também participa da imunidade e de evitar coagulação indesejada.",
+    "lack": "Rara em pessoas saudáveis; costuma seguir doenças que impedem a absorção de gordura. Entre os sinais: fraqueza muscular e desequilíbrio.",
+    "food": "Óleos vegetais, amêndoas, avelãs, sementes de girassol e espinafre."
+  },
+  "vit_k": {
+    "what": "Produz as proteínas que estancam sangramentos e participa da construção do osso. As bactérias do intestino produzem parte dela.",
+    "lack": "Rara em adultos. O sinal principal é a facilidade para roxos e o sangramento que demora a parar.",
+    "food": "Folhas verde-escuras como couve, espinafre e brócolis, óleos vegetais e alimentos fermentados."
+  },
+  "min_calcium": {
+    "what": "Constrói osso e dentes, e a contração muscular, o sinal nervoso e a coagulação precisam dele.",
+    "lack": "O corpo puxa do osso para manter o nível no sangue estável, então a ingestão baixa enfraquece o osso antes de aparecer no exame.",
+    "food": "Leite, iogurte e queijo, sardinha com espinha, folhas verdes e bebidas vegetais enriquecidas."
+  },
+  "min_iron": {
+    "what": "Carrega o oxigênio na hemoglobina, e participa da produção de energia e do crescimento das células.",
+    "lack": "Cansaço, palidez e falta de ar ao esforço. O ferro no sangue varia de hora em hora, por isso é lido junto com a ferritina, nunca sozinho.",
+    "food": "Carne vermelha e fígado são mais bem absorvidos. Lentilha, espinafre e grãos enriquecidos são fontes vegetais, e a vitamina C melhora a absorção."
+  },
+  "min_magnesium": {
+    "what": "Atua em mais de trezentas reações enzimáticas, entre elas a produção de energia, o trabalho de músculo e nervo, e o controle da pressão.",
+    "lack": "Cãibras, cansaço e falta de apetite. A carência grave pode puxar cálcio e potássio para baixo junto.",
+    "food": "Castanhas, sementes, grãos integrais, leguminosas, folhas verdes e chocolate amargo."
+  },
+  "min_zinc": {
+    "what": "Mais de trezentas enzimas precisam dele, e ele atua na imunidade, na cicatrização, e no paladar e olfato.",
+    "lack": "Feridas que demoram a fechar, paladar alterado, infecções frequentes e queda de cabelo.",
+    "food": "Ostras, carne vermelha e aves; leguminosas, castanhas e grãos integrais."
+  },
+  "min_selenium": {
+    "what": "Um antioxidante que atua dentro de enzimas protetoras, e a produção do hormônio da tireoide precisa dele.",
+    "lack": "Rara na maioria das regiões. Entre os sinais: fraqueza muscular e cansaço, e pode afetar a tireoide.",
+    "food": "Castanha-do-pará de longe a mais rica, além de peixe, ovos e grãos — as quantidades seguem o solo local."
+  },
+  "min_copper": {
+    "what": "Participa da produção de energia e da formação do tecido conjuntivo, e o corpo precisa dele para usar o ferro e formar células do sangue.",
+    "lack": "Raro. Entre os sinais: uma anemia que não responde ao ferro, glóbulos brancos baixos e osso enfraquecido.",
+    "food": "Fígado, frutos do mar, castanhas, sementes, chocolate amargo e cogumelos."
+  },
+  "min_phosphorus": {
+    "what": "Constrói osso e dentes junto com o cálcio, e faz parte do DNA e da molécula de energia de cada célula.",
+    "lack": "Raro, porque está na maioria dos alimentos. Um déficit grave causa dor óssea, fraqueza muscular e falta de apetite.",
+    "food": "Leite, carne, peixe, ovos, castanhas, leguminosas e grãos integrais."
+  },
+  "min_sodium": {
+    "what": "Um sal que regula quanta água seu corpo retém, a pressão arterial e o sinal nervoso. Os rins o mantêm numa faixa estreita.",
+    "low": "Sódio baixo costuma ser um problema de água, não de sal: líquido demais, um diurético, ou doença renal ou cardíaca. Entre os sinais: dor de cabeça, náusea e confusão.",
+    "high": "Sódio alto geralmente significa desidratação, e não dieta salgada. O sal da comida eleva a pressão sem elevar este número."
+  },
+  "min_potassium": {
+    "what": "Trabalha dentro das células diante do sódio que fica fora, e a contração muscular — inclusive o coração — e o sinal nervoso dependem dele.",
+    "low": "Diarreia, vômito e alguns remédios de pressão o reduzem. Entre os sinais: fraqueza muscular, cãibra e batimento irregular.",
+    "high": "Sobe com a função renal reduzida e com alguns medicamentos. Um nível alto afeta o ritmo do coração, por isso nunca é lido sozinho."
+  },
+  "min_chloride": {
+    "what": "Acompanha o sódio na regulação da água e da pressão, e faz parte do ácido do estômago.",
+    "low": "Cai com vômito prolongado e com alguns diuréticos, normalmente junto com o sódio.",
+    "high": "Sobe com a desidratação e com alguns distúrbios do equilíbrio ácido-base. É lido junto com o sódio e o bicarbonato, não isolado."
+  },
+  "min_bicarbonate": {
+    "what": "Mede o equilíbrio ácido-base do seu sangue — a capacidade do corpo de neutralizar o ácido que seu metabolismo produz.",
+    "low": "Um nível baixo significa que o ácido está se acumulando: doença renal, diabetes descontrolada, ou diarreia grave.",
+    "high": "Um nível alto significa ácido perdido ou base retida: vômito prolongado, diuréticos, ou doença pulmonar crônica."
+  },
+  "mrk_ferritin": {
+    "what": "Uma proteína que armazena ferro, então reflete suas reservas e não o que circula agora. Por isso ela cai antes do ferro no sangue.",
+    "low": "Reservas de ferro esgotadas — por perdas de sangue repetidas, ingestão baixa, ou má absorção.",
+    "high": "Reservas maiores, mas também inflamação e doença do fígado: pode estar alta com as reservas normais. Nunca é lida sozinha."
+  }
+}

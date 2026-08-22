@@ -1,0 +1,127 @@
+{
+  "vit_a": {
+    "what": "Das Sehen braucht es — besonders bei schwachem Licht — ebenso wie Immunsystem, Fortpflanzung und gesunde Haut und Schleimhäute.",
+    "lack": "Das bekannteste Zeichen ist Nachtblindheit: Sehen fällt schwer, sobald das Licht nachlässt. Trockene Augen treten in fortgeschrittenen Fällen auf.",
+    "food": "Leber, Fischöle, Eier und Milchprodukte. Karotten, Süßkartoffel und Spinat liefern Betacarotin, das der Körper umwandelt."
+  },
+  "vit_b1": {
+    "what": "Wandelt Gegessenes in Energie um; Nerven, Herz und Muskeln hängen davon ab. Der Körper speichert wenig, die Vorräte sind in Wochen aufgebraucht.",
+    "lack": "Müdigkeit und Appetitlosigkeit; bei schwerem Mangel Kribbeln in Armen und Beinen und Herzprobleme. Dauerhafter Alkoholkonsum ist eine häufige Ursache.",
+    "food": "Vollkorn und angereichertes Getreide, Schweinefleisch, Hülsenfrüchte, Nüsse und Sonnenblumenkerne."
+  },
+  "vit_b2": {
+    "what": "Wirkt bei der Energiegewinnung und beim Zellwachstum mit und hilft dem Körper, die Vitamine B6 und B9 zu aktivieren.",
+    "lack": "Eingerissene Mundwinkel, wunde Zunge, Halsschmerzen. Es fehlt selten allein — meist sind weitere B-Vitamine ebenfalls niedrig.",
+    "food": "Milch, Eier, mageres Fleisch, Blattgemüse und angereichertes Getreide. Licht zerstört es, deshalb kommt Milch in undurchsichtiger Verpackung."
+  },
+  "vit_b3": {
+    "what": "Arbeitet in Hunderten von Reaktionen, die Energie aus der Nahrung freisetzen; Haut, Darm und Nerven brauchen es.",
+    "lack": "Schwerer Mangel heißt Pellagra: Ausschlag auf sonnenbelichteter Haut, Durchfall und Veränderungen von Gedächtnis und Stimmung.",
+    "food": "Hähnchen, Fisch, Fleisch, Erdnüsse und angereichertes Getreide. Der Körper bildet es auch aus Tryptophan aus Eiweiß."
+  },
+  "vit_b5": {
+    "what": "Teil des Coenzyms, das Fett aufbaut und verbrennt und Hormone herstellt — es arbeitet also in fast jeder Zelle.",
+    "lack": "Sehr selten, da es in den meisten Lebensmitteln steckt. Wo es beobachtet wurde: brennende Füße, Müdigkeit und Stimmungsschwankungen.",
+    "food": "In den meisten Lebensmitteln enthalten; am reichsten sind Leber, Pilze, Sonnenblumenkerne, Avocado und Eier."
+  },
+  "vit_b6": {
+    "what": "Über hundert Enzyme, die mit Eiweiß umgehen, hängen davon ab, und es hilft beim Bilden von Botenstoffen und Hämoglobin.",
+    "lack": "Schuppiger Ausschlag, rissige Lippen und Blutarmut. Schwerer Mangel kann Verwirrtheit oder Kribbeln auslösen.",
+    "food": "Kichererbsen, Fisch, Hähnchen, Kartoffeln, Bananen und angereichertes Getreide."
+  },
+  "vit_b7": {
+    "what": "Hilft, Fett, Kohlenhydrate und Eiweiß in Energie umzuwandeln, und wirkt daran mit, wie Gene arbeiten.",
+    "lack": "Selten. Zu den Zeichen gehören dünner werdendes Haar und ein schuppiger Ausschlag um Augen, Nase und Mund. Rohes Eiklar über lange Zeit kann ihn auslösen.",
+    "food": "Leber, gekochte Eier, Lachs, Schweinefleisch, Sonnenblumenkerne und Süßkartoffel."
+  },
+  "vit_b9": {
+    "what": "Baut DNA auf und bildet neue Zellen — deshalb steigt der Bedarf in der Schwangerschaft und in jeder Phase schnellen Wachstums.",
+    "lack": "Blutarmut mit großen Zellen, Müdigkeit und wunde Zunge. Ein niedriger Wert in der Frühschwangerschaft ist mit Neuralrohrdefekten verbunden.",
+    "food": "Dunkelgrünes Blattgemüse, Hülsenfrüchte, Spargel, Zitrusfrüchte und angereichertes Getreide."
+  },
+  "vit_b12": {
+    "what": "Bildung roter Blutkörperchen, gesunde Nerven und DNA hängen davon ab. Die Leber speichert es über Jahre.",
+    "lack": "Müdigkeit und Blässe, Kribbeln in Händen und Füßen, Schwierigkeiten mit Gleichgewicht oder Gedächtnis. Nervenschäden können der Blutarmut vorausgehen.",
+    "food": "Fleisch, Fisch, Eier und Milchprodukte. Pflanzen enthalten keines, daher brauchen Vegetarier angereicherte Lebensmittel oder ein Präparat."
+  },
+  "vit_c": {
+    "what": "Baut das Kollagen, das Haut, Gefäße und Knochen zusammenhält, wirkt als Antioxidans und erhöht die Eisenaufnahme aus Pflanzen.",
+    "lack": "Schwerer Mangel heißt Skorbut: blutendes Zahnfleisch, langsam heilende Wunden, Gelenkschmerzen und Müdigkeit.",
+    "food": "Paprika, Zitrusfrüchte, Kiwi, Erdbeeren und Brokkoli. Langes Kochen zerstört es, roh bleibt mehr erhalten."
+  },
+  "vit_d": {
+    "what": "Hilft deinem Körper, Kalzium aufzunehmen; Knochen, Muskeln und Immunsystem hängen davon ab. Die Haut bildet es aus Sonnenlicht, der Wert schwankt also mit Jahreszeit und Zeit im Freien.",
+    "lack": "Schwerer Mangel macht den Knochen weich und kann Knochenschmerzen und Muskelschwäche bringen. Leichtere Zeichen sind unspezifisch.",
+    "food": "Fetter Fisch wie Lachs und Sardine, Lebertran, Eigelb sowie angereicherte Milch und Cerealien."
+  },
+  "vit_e": {
+    "what": "Ein Antioxidans, das Zellmembranen vor Schäden schützt; es wirkt auch bei der Immunabwehr und verhindert unerwünschte Gerinnung.",
+    "lack": "Bei Gesunden selten; er folgt meist Erkrankungen, die die Fettaufnahme blockieren. Zeichen sind Muskelschwäche und Unsicherheit beim Gehen.",
+    "food": "Pflanzenöle, Mandeln, Haselnüsse, Sonnenblumenkerne und Spinat."
+  },
+  "vit_k": {
+    "what": "Bildet die Eiweiße, die Blutungen stillen, und wirkt beim Knochenaufbau mit. Darmbakterien stellen einen Teil selbst her.",
+    "lack": "Bei Erwachsenen selten. Das Hauptzeichen sind leichte blaue Flecken und Blutungen, die langsam zum Stillstand kommen.",
+    "food": "Dunkelgrünes Blattgemüse wie Grünkohl, Spinat und Brokkoli, Pflanzenöle und fermentierte Lebensmittel."
+  },
+  "min_calcium": {
+    "what": "Baut Knochen und Zähne, und Muskelkontraktion, Nervenreizleitung und Blutgerinnung brauchen es.",
+    "lack": "Der Körper holt es aus dem Knochen, um den Blutwert stabil zu halten — zu wenig in der Nahrung schwächt also den Knochen, bevor es im Test auffällt.",
+    "food": "Milch, Joghurt und Käse, Sardinen mit Gräten, Blattgemüse und angereicherte Pflanzendrinks."
+  },
+  "min_iron": {
+    "what": "Trägt den Sauerstoff im Hämoglobin und wirkt bei Energiegewinnung und Zellwachstum mit.",
+    "lack": "Müdigkeit, Blässe und Atemnot bei Anstrengung. Das Serumeisen schwankt von Stunde zu Stunde, deshalb wird es mit dem Ferritin gelesen, nie allein.",
+    "food": "Rotes Fleisch und Leber werden am besten aufgenommen. Linsen, Spinat und angereichertes Getreide sind pflanzliche Quellen, Vitamin C verbessert deren Aufnahme."
+  },
+  "min_magnesium": {
+    "what": "Wirkt in über dreihundert Enzymreaktionen mit, darunter Energiegewinnung, Muskel- und Nervenarbeit und Blutdruckregulation.",
+    "lack": "Muskelkrämpfe, Müdigkeit und Appetitlosigkeit. Schwerer Mangel kann Kalzium und Kalium mit nach unten ziehen.",
+    "food": "Nüsse, Samen, Vollkorn, Hülsenfrüchte, Blattgemüse und dunkle Schokolade."
+  },
+  "min_zinc": {
+    "what": "Über dreihundert Enzyme brauchen es, und es wirkt bei Immunabwehr, Wundheilung sowie Geschmack und Geruch.",
+    "lack": "Langsam heilende Wunden, veränderter Geschmack, häufige Infekte und Haarausfall.",
+    "food": "Austern, rotes Fleisch und Geflügel; Hülsenfrüchte, Nüsse und Vollkorn."
+  },
+  "min_selenium": {
+    "what": "Ein Antioxidans, das in schützenden Enzymen arbeitet; die Bildung von Schilddrüsenhormon braucht es.",
+    "lack": "In den meisten Regionen selten. Zeichen sind Muskelschwäche und Müdigkeit, und es kann die Schilddrüse betreffen.",
+    "food": "Paranüsse mit weitem Abstand am reichsten, dazu Fisch, Eier und Getreide — die Mengen richten sich nach dem Boden vor Ort."
+  },
+  "min_copper": {
+    "what": "Wirkt bei der Energiegewinnung und beim Aufbau von Bindegewebe mit, und der Körper braucht es, um Eisen zu nutzen und Blutzellen zu bilden.",
+    "lack": "Selten. Zeichen sind eine Blutarmut, die auf Eisen nicht anspricht, niedrige weiße Blutkörperchen und geschwächter Knochen.",
+    "food": "Leber, Meeresfrüchte, Nüsse, Samen, dunkle Schokolade und Pilze."
+  },
+  "min_phosphorus": {
+    "what": "Baut zusammen mit Kalzium Knochen und Zähne und ist Teil der DNA und des Energiemoleküls jeder Zelle.",
+    "lack": "Selten, da es in den meisten Lebensmitteln steckt. Ein schwerer Mangel führt zu Knochenschmerzen, Muskelschwäche und Appetitlosigkeit.",
+    "food": "Milch, Fleisch, Fisch, Eier, Nüsse, Hülsenfrüchte und Vollkorn."
+  },
+  "min_sodium": {
+    "what": "Ein Salz, das regelt, wie viel Wasser dein Körper hält, den Blutdruck und die Nervenreizleitung. Die Nieren halten es in engen Grenzen.",
+    "low": "Ein niedriger Wert ist meist ein Wasserproblem, kein Salzproblem: zu viel Flüssigkeit, ein Entwässerungsmittel oder eine Nieren- oder Herzerkrankung. Zeichen sind Kopfschmerzen, Übelkeit und Verwirrtheit.",
+    "high": "Ein hoher Wert bedeutet meist Flüssigkeitsmangel und nicht salziges Essen. Salz in der Nahrung hebt den Blutdruck, ohne diese Zahl zu heben."
+  },
+  "min_potassium": {
+    "what": "Arbeitet in den Zellen gegenüber dem Natrium außerhalb, und Muskelkontraktion — auch die des Herzens — und Nervenreizleitung hängen davon ab.",
+    "low": "Durchfall, Erbrechen und manche Blutdruckmittel senken es. Zeichen sind Muskelschwäche, Krämpfe und unregelmäßiger Herzschlag.",
+    "high": "Es steigt bei nachlassender Nierenfunktion und unter manchen Medikamenten. Ein hoher Wert betrifft den Herzrhythmus, deshalb wird er nie allein gelesen."
+  },
+  "min_chloride": {
+    "what": "Begleitet das Natrium bei der Regulation von Wasser und Blutdruck und ist Bestandteil der Magensäure.",
+    "low": "Es fällt bei anhaltendem Erbrechen und unter manchen Entwässerungsmitteln, meist zusammen mit dem Natrium.",
+    "high": "Es steigt bei Flüssigkeitsmangel und bei manchen Säure-Basen-Störungen. Es wird mit Natrium und Bikarbonat gelesen, nicht für sich."
+  },
+  "min_bicarbonate": {
+    "what": "Misst das Säure-Basen-Gleichgewicht im Blut — die Fähigkeit des Körpers, die Säure zu neutralisieren, die sein Stoffwechsel erzeugt.",
+    "low": "Ein niedriger Wert heißt, dass Säure sich ansammelt: Nierenerkrankung, schlecht eingestellter Diabetes oder schwerer Durchfall.",
+    "high": "Ein hoher Wert heißt verlorene Säure oder zurückgehaltene Base: anhaltendes Erbrechen, Entwässerungsmittel oder chronische Lungenerkrankung."
+  },
+  "mrk_ferritin": {
+    "what": "Ein Eiweiß, das Eisen speichert — es zeigt also deine Vorräte und nicht das, was gerade im Blut kreist. Deshalb fällt es, bevor das Serumeisen fällt.",
+    "low": "Erschöpfte Eisenvorräte — durch wiederholten Blutverlust, zu wenig Zufuhr oder schlechte Aufnahme.",
+    "high": "Größere Vorräte, aber auch Entzündung und Lebererkrankung — es kann hoch sein, während die Eisenvorräte normal sind. Es wird nie allein gelesen."
+  }
+}

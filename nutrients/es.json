@@ -1,0 +1,127 @@
+{
+  "vit_a": {
+    "what": "La visión depende de ella — sobre todo con poca luz — junto con la inmunidad, la reproducción y la salud de la piel y las mucosas.",
+    "lack": "El signo más conocido es la ceguera nocturna: cuesta ver cuando baja la luz. La sequedad ocular aparece en casos más avanzados.",
+    "food": "Hígado, aceites de pescado, huevos y lácteos. Zanahoria, boniato y espinaca aportan betacaroteno, que el cuerpo convierte."
+  },
+  "vit_b1": {
+    "what": "Convierte lo que comes en energía; nervios, corazón y músculo dependen de ella. El cuerpo almacena poca, así que las reservas se agotan en semanas.",
+    "lack": "Cansancio y falta de apetito; en carencia grave, hormigueo en las extremidades y problemas cardíacos. El alcohol crónico es una causa frecuente.",
+    "food": "Cereales integrales y enriquecidos, cerdo, legumbres, frutos secos y pipas de girasol."
+  },
+  "vit_b2": {
+    "what": "Participa en la producción de energía y el crecimiento celular, y ayuda al cuerpo a activar las vitaminas B6 y B9.",
+    "lack": "Grietas en las comisuras de la boca, lengua dolorida, garganta irritada. Rara vez falta sola: suelen faltar otras vitaminas B a la vez.",
+    "food": "Leche, huevos, carne magra, verduras de hoja y cereales enriquecidos. La luz la destruye, por eso la leche viene en envases opacos."
+  },
+  "vit_b3": {
+    "what": "Interviene en cientos de reacciones que liberan la energía de los alimentos; piel, intestino y nervios la necesitan.",
+    "lack": "La carencia grave es la pelagra: erupción en la piel expuesta al sol, diarrea y cambios en la memoria y el ánimo.",
+    "food": "Pollo, pescado, carne, cacahuetes y cereales enriquecidos. El cuerpo también la fabrica a partir del triptófano de las proteínas."
+  },
+  "vit_b5": {
+    "what": "Forma parte de la coenzima que construye y quema grasa y fabrica hormonas, así que trabaja en casi todas las células.",
+    "lack": "Muy rara, porque está en casi todos los alimentos. Donde se ha observado: ardor en los pies, cansancio y cambios de humor.",
+    "food": "Presente en la mayoría de alimentos; los más ricos son hígado, setas, pipas de girasol, aguacate y huevos."
+  },
+  "vit_b6": {
+    "what": "Más de cien enzimas que manejan proteínas dependen de ella, y ayuda a fabricar neurotransmisores y hemoglobina.",
+    "lack": "Erupción descamativa, labios agrietados y anemia. La carencia grave puede traer confusión u hormigueo.",
+    "food": "Garbanzos, pescado, pollo, patata, plátano y cereales enriquecidos."
+  },
+  "vit_b7": {
+    "what": "Ayuda a convertir grasa, hidratos y proteína en energía, y participa en la regulación de cómo funcionan los genes.",
+    "lack": "Rara. Entre los signos: pelo más fino y erupción descamativa alrededor de ojos, nariz y boca. La clara de huevo cruda a largo plazo puede causarla.",
+    "food": "Hígado, huevos cocinados, salmón, cerdo, pipas de girasol y boniato."
+  },
+  "vit_b9": {
+    "what": "Construye el ADN y fabrica células nuevas, por eso la necesidad sube en el embarazo y en toda etapa de crecimiento rápido.",
+    "lack": "Anemia de células grandes, cansancio y lengua dolorida. Un nivel bajo al inicio del embarazo se asocia a defectos del tubo neural.",
+    "food": "Verduras de hoja verde oscura, legumbres, espárragos, cítricos y cereales enriquecidos."
+  },
+  "vit_b12": {
+    "what": "La formación de glóbulos rojos, la salud de los nervios y el ADN dependen de ella. El hígado la almacena durante años.",
+    "lack": "Cansancio y palidez, hormigueo en manos y pies, dificultades de equilibrio o memoria. El daño nervioso puede preceder a la anemia.",
+    "food": "Carne, pescado, huevos y lácteos. Las plantas no la contienen, así que quien no come animal necesita alimentos enriquecidos o un suplemento."
+  },
+  "vit_c": {
+    "what": "Construye el colágeno que sostiene piel, vasos y hueso, actúa como antioxidante y aumenta la absorción del hierro vegetal.",
+    "lack": "La carencia grave es el escorbuto: encías que sangran, heridas que tardan en cerrar, dolor articular y cansancio.",
+    "food": "Pimientos, cítricos, kiwi, fresas y brócoli. La cocción larga la destruye, así que en crudo se conserva más."
+  },
+  "vit_d": {
+    "what": "Ayuda a tu cuerpo a absorber el calcio; hueso, músculo e inmunidad dependen de ella. La piel la fabrica con la luz solar, así que el nivel cambia con la estación y el tiempo al aire libre.",
+    "lack": "La carencia grave ablanda el hueso y puede causar dolor óseo y debilidad muscular. Los signos leves no son específicos.",
+    "food": "Pescado azul como salmón y sardina, aceite de hígado de bacalao, yema de huevo, y leche y cereales enriquecidos."
+  },
+  "vit_e": {
+    "what": "Un antioxidante que protege las membranas celulares; también interviene en la inmunidad y en evitar una coagulación no deseada.",
+    "lack": "Rara en personas sanas; suele seguir a enfermedades que impiden absorber grasa. Entre los signos: debilidad muscular e inestabilidad.",
+    "food": "Aceites vegetales, almendras, avellanas, pipas de girasol y espinaca."
+  },
+  "vit_k": {
+    "what": "Fabrica las proteínas que detienen el sangrado y participa en la construcción del hueso. Las bacterias intestinales producen parte de ella.",
+    "lack": "Rara en adultos. El signo principal son los moratones fáciles y el sangrado que tarda en parar.",
+    "food": "Verduras de hoja verde oscura como col rizada, espinaca y brócoli, aceites vegetales y alimentos fermentados."
+  },
+  "min_calcium": {
+    "what": "Construye hueso y dientes, y la contracción muscular, la señal nerviosa y la coagulación lo necesitan.",
+    "lack": "El cuerpo tira del hueso para mantener estable el nivel en sangre, así que una ingesta baja debilita el hueso antes de verse en un análisis.",
+    "food": "Leche, yogur y queso, sardinas con espina, verduras de hoja y bebidas vegetales enriquecidas."
+  },
+  "min_iron": {
+    "what": "Transporta el oxígeno en la hemoglobina, y participa en la producción de energía y el crecimiento celular.",
+    "lack": "Cansancio, palidez y falta de aire al esforzarse. El hierro en sangre varía de hora en hora, por eso se lee junto a la ferritina y no solo.",
+    "food": "Carne roja e hígado se absorben mejor. Lentejas, espinaca y cereales enriquecidos son fuentes vegetales, y la vitamina C mejora su absorción."
+  },
+  "min_magnesium": {
+    "what": "Interviene en más de trescientas reacciones enzimáticas, entre ellas la producción de energía, el trabajo de músculo y nervio, y el control de la tensión.",
+    "lack": "Calambres, cansancio y falta de apetito. Una carencia grave puede arrastrar hacia abajo el calcio y el potasio.",
+    "food": "Frutos secos, semillas, cereales integrales, legumbres, verduras de hoja y chocolate negro."
+  },
+  "min_zinc": {
+    "what": "Más de trescientas enzimas lo necesitan, y trabaja en la inmunidad, la cicatrización, y el gusto y el olfato.",
+    "lack": "Heridas que tardan en cerrar, sabor alterado, infecciones frecuentes y caída del cabello.",
+    "food": "Ostras, carne roja y aves; legumbres, frutos secos y cereales integrales."
+  },
+  "min_selenium": {
+    "what": "Un antioxidante que actúa dentro de enzimas protectoras, y la producción de hormona tiroidea lo necesita.",
+    "lack": "Rara en la mayoría de regiones. Entre los signos: debilidad muscular y cansancio, y puede afectar a la tiroides.",
+    "food": "Nueces de Brasil con diferencia las más ricas, además de pescado, huevos y cereales — las cantidades siguen al suelo local."
+  },
+  "min_copper": {
+    "what": "Participa en la producción de energía y en la formación del tejido conectivo, y el cuerpo lo necesita para usar el hierro y fabricar células sanguíneas.",
+    "lack": "Raro. Entre los signos: una anemia que no responde al hierro, glóbulos blancos bajos y hueso debilitado.",
+    "food": "Hígado, marisco, frutos secos, semillas, chocolate negro y setas."
+  },
+  "min_phosphorus": {
+    "what": "Construye hueso y dientes junto al calcio, y forma parte del ADN y de la molécula de energía de cada célula.",
+    "lack": "Raro, porque está en casi todos los alimentos. Un déficit grave causa dolor óseo, debilidad muscular y falta de apetito.",
+    "food": "Leche, carne, pescado, huevos, frutos secos, legumbres y cereales integrales."
+  },
+  "min_sodium": {
+    "what": "Una sal que regula cuánta agua retiene tu cuerpo, la tensión arterial y la señal nerviosa. Los riñones lo mantienen en un margen estrecho.",
+    "low": "Un sodio bajo suele ser un problema de agua, no de sal: demasiado líquido, un diurético, o enfermedad renal o cardíaca. Entre los signos: dolor de cabeza, náuseas y confusión.",
+    "high": "Un sodio alto suele significar deshidratación más que una dieta salada. La sal de la comida sube la tensión sin subir este número."
+  },
+  "min_potassium": {
+    "what": "Trabaja dentro de las células frente al sodio de fuera, y la contracción muscular — el corazón incluido — y la señal nerviosa dependen de él.",
+    "low": "La diarrea, los vómitos y algunos fármacos para la tensión lo bajan. Entre los signos: debilidad muscular, calambres y latido irregular.",
+    "high": "Sube con la función renal reducida y con algunos medicamentos. Un nivel alto afecta al ritmo cardíaco, por eso nunca se lee solo."
+  },
+  "min_chloride": {
+    "what": "Acompaña al sodio en la regulación del agua y la tensión, y forma parte del ácido del estómago.",
+    "low": "Baja con vómitos prolongados y con algunos diuréticos, normalmente a la vez que el sodio.",
+    "high": "Sube con la deshidratación y con algunos trastornos del equilibrio ácido-base. Se lee junto al sodio y al bicarbonato, no por separado."
+  },
+  "min_bicarbonate": {
+    "what": "Mide el equilibrio ácido-base de tu sangre: la capacidad del cuerpo para neutralizar el ácido que produce su metabolismo.",
+    "low": "Un nivel bajo significa que se acumula ácido: enfermedad renal, diabetes mal controlada, o diarrea grave.",
+    "high": "Un nivel alto significa ácido perdido o base retenida: vómitos prolongados, diuréticos, o enfermedad pulmonar crónica."
+  },
+  "mrk_ferritin": {
+    "what": "Una proteína que almacena hierro, así que refleja tus reservas y no lo que circula ahora. Por eso baja antes que el hierro en sangre.",
+    "low": "Reservas de hierro agotadas — por pérdidas de sangre repetidas, ingesta baja, o mala absorción.",
+    "high": "Reservas mayores, pero también inflamación y enfermedad hepática: puede estar alta con las reservas normales. Nunca se lee sola."
+  }
+}
