@@ -7,7 +7,7 @@
   "vit_b1": {
     "what": "Convierte lo que comes en energía; nervios, corazón y músculo dependen de ella. El cuerpo almacena poca, así que las reservas se agotan en semanas.",
     "lack": "Cansancio y falta de apetito; en carencia grave, hormigueo en las extremidades y problemas cardíacos. El alcohol crónico es una causa frecuente.",
-    "food": "Cereales integrales y enriquecidos, cerdo, legumbres, frutos secos y pipas de girasol."
+    "food": "Cereales integrales y enriquecidos, legumbres, frutos secos y pipas de girasol."
   },
   "vit_b2": {
     "what": "Participa en la producción de energía y el crecimiento celular, y ayuda al cuerpo a activar las vitaminas B6 y B9.",
@@ -32,7 +32,7 @@
   "vit_b7": {
     "what": "Ayuda a convertir grasa, hidratos y proteína en energía, y participa en la regulación de cómo funcionan los genes.",
     "lack": "Rara. Entre los signos: pelo más fino y erupción descamativa alrededor de ojos, nariz y boca. La clara de huevo cruda a largo plazo puede causarla.",
-    "food": "Hígado, huevos cocinados, salmón, cerdo, pipas de girasol y boniato."
+    "food": "Hígado, huevos cocinados, salmón, pipas de girasol y boniato."
   },
   "vit_b9": {
     "what": "Construye el ADN y fabrica células nuevas, por eso la necesidad sube en el embarazo y en toda etapa de crecimiento rápido.",

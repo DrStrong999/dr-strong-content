@@ -7,7 +7,7 @@
   "vit_b1": {
     "what": "Wandelt Gegessenes in Energie um; Nerven, Herz und Muskeln hängen davon ab. Der Körper speichert wenig, die Vorräte sind in Wochen aufgebraucht.",
     "lack": "Müdigkeit und Appetitlosigkeit; bei schwerem Mangel Kribbeln in Armen und Beinen und Herzprobleme. Dauerhafter Alkoholkonsum ist eine häufige Ursache.",
-    "food": "Vollkorn und angereichertes Getreide, Schweinefleisch, Hülsenfrüchte, Nüsse und Sonnenblumenkerne."
+    "food": "Vollkorn und angereichertes Getreide, Hülsenfrüchte, Nüsse und Sonnenblumenkerne."
   },
   "vit_b2": {
     "what": "Wirkt bei der Energiegewinnung und beim Zellwachstum mit und hilft dem Körper, die Vitamine B6 und B9 zu aktivieren.",
@@ -32,7 +32,7 @@
   "vit_b7": {
     "what": "Hilft, Fett, Kohlenhydrate und Eiweiß in Energie umzuwandeln, und wirkt daran mit, wie Gene arbeiten.",
     "lack": "Selten. Zu den Zeichen gehören dünner werdendes Haar und ein schuppiger Ausschlag um Augen, Nase und Mund. Rohes Eiklar über lange Zeit kann ihn auslösen.",
-    "food": "Leber, gekochte Eier, Lachs, Schweinefleisch, Sonnenblumenkerne und Süßkartoffel."
+    "food": "Leber, gekochte Eier, Lachs, Sonnenblumenkerne und Süßkartoffel."
   },
   "vit_b9": {
     "what": "Baut DNA auf und bildet neue Zellen — deshalb steigt der Bedarf in der Schwangerschaft und in jeder Phase schnellen Wachstums.",

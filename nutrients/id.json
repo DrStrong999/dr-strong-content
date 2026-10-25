@@ -7,7 +7,7 @@
   "vit_b1": {
     "what": "Mengubah apa yang kamu makan menjadi energi; saraf, jantung, dan otot bergantung padanya. Tubuh menyimpannya sedikit, sehingga cadangan habis dalam hitungan minggu.",
     "lack": "Lelah dan hilang nafsu makan; pada kekurangan berat, kesemutan di tangan dan kaki serta gangguan jantung. Alkohol jangka panjang adalah penyebab yang umum.",
-    "food": "Biji-bijian utuh dan yang difortifikasi, daging babi, kacang-kacangan, dan biji bunga matahari."
+    "food": "Biji-bijian utuh dan yang difortifikasi, kacang-kacangan, dan biji bunga matahari."
   },
   "vit_b2": {
     "what": "Ikut dalam produksi energi dan pertumbuhan sel, serta membantu tubuh mengaktifkan vitamin B6 dan B9.",
@@ -32,7 +32,7 @@
   "vit_b7": {
     "what": "Membantu mengubah lemak, karbohidrat, dan protein menjadi energi, serta ikut mengatur cara kerja gen.",
     "lack": "Jarang. Tandanya termasuk rambut menipis dan ruam bersisik di sekitar mata, hidung, dan mulut. Putih telur mentah dalam waktu lama bisa menyebabkannya.",
-    "food": "Hati, telur matang, salmon, daging babi, biji bunga matahari, dan ubi jalar."
+    "food": "Hati, telur matang, salmon, biji bunga matahari, dan ubi jalar."
   },
   "vit_b9": {
     "what": "Membangun DNA dan membuat sel baru, itulah sebabnya kebutuhannya naik saat hamil dan pada setiap masa pertumbuhan cepat.",

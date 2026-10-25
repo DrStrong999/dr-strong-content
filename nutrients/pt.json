@@ -7,7 +7,7 @@
   "vit_b1": {
     "what": "Transforma o que você come em energia; nervos, coração e músculo dependem dela. O corpo estoca pouco, então as reservas acabam em semanas.",
     "lack": "Cansaço e falta de apetite; na carência grave, formigamento nos membros e problemas no coração. O álcool crônico é uma causa comum.",
-    "food": "Grãos integrais e enriquecidos, carne suína, leguminosas, castanhas e sementes de girassol."
+    "food": "Grãos integrais e enriquecidos, leguminosas, castanhas e sementes de girassol."
   },
   "vit_b2": {
     "what": "Participa da produção de energia e do crescimento das células, e ajuda o corpo a ativar as vitaminas B6 e B9.",
@@ -32,7 +32,7 @@
   "vit_b7": {
     "what": "Ajuda a converter gordura, carboidrato e proteína em energia, e participa da regulação de como os genes funcionam.",
     "lack": "Rara. Entre os sinais: cabelo ralo e erupção descamativa ao redor dos olhos, nariz e boca. Clara de ovo crua por longo tempo pode causá-la.",
-    "food": "Fígado, ovos cozidos, salmão, carne suína, sementes de girassol e batata-doce."
+    "food": "Fígado, ovos cozidos, salmão, sementes de girassol e batata-doce."
   },
   "vit_b9": {
     "what": "Constrói o DNA e produz células novas, por isso a necessidade sobe na gravidez e em toda fase de crescimento rápido.",

@@ -7,7 +7,7 @@
   "vit_b1": {
     "what": "Transforme ce que vous mangez en énergie ; nerfs, cœur et muscles en dépendent tous. Le corps en stocke peu, si bien que les réserves s'épuisent en quelques semaines.",
     "lack": "Fatigue et perte d'appétit ; en carence sévère, fourmillements dans les membres et troubles cardiaques. L'alcool au long cours en est une cause fréquente.",
-    "food": "Céréales complètes et enrichies, porc, légumineuses, noix et graines de tournesol."
+    "food": "Céréales complètes et enrichies, légumineuses, noix et graines de tournesol."
   },
   "vit_b2": {
     "what": "Participe à la production d'énergie et à la croissance cellulaire, et aide le corps à activer les vitamines B6 et B9.",
@@ -32,7 +32,7 @@
   "vit_b7": {
     "what": "Aide à convertir graisses, glucides et protéines en énergie, et participe à la régulation du fonctionnement des gènes.",
     "lack": "Rare. Les signes comprennent des cheveux clairsemés et une éruption squameuse autour des yeux, du nez et de la bouche. Le blanc d'œuf cru au long cours peut la provoquer.",
-    "food": "Foie, œufs cuits, saumon, porc, graines de tournesol et patate douce."
+    "food": "Foie, œufs cuits, saumon, graines de tournesol et patate douce."
   },
   "vit_b9": {
     "what": "Construit l'ADN et fabrique de nouvelles cellules, d'où des besoins accrus pendant la grossesse et toute période de croissance rapide.",
